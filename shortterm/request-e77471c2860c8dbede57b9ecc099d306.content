@@ -1,0 +1,75 @@
+ENTRY       11605             CDS       T01002
+NAME        Gla, Ags
+DEFINITION  (RefSeq) galactosidase, alpha
+ORTHOLOGY   K01189  alpha-galactosidase [EC:3.2.1.22]
+ORGANISM    mmu  Mus musculus (mouse)
+PATHWAY     mmu00052  Galactose metabolism
+            mmu00561  Glycerolipid metabolism
+            mmu00600  Sphingolipid metabolism
+            mmu00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            mmu01100  Metabolic pathways
+            mmu04142  Lysosome
+BRITE       KEGG Orthology (KO) [BR:mmu00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                11605 (Gla)
+              09103 Lipid metabolism
+               00561 Glycerolipid metabolism
+                11605 (Gla)
+               00600 Sphingolipid metabolism
+                11605 (Gla)
+              09107 Glycan biosynthesis and metabolism
+               00603 Glycosphingolipid biosynthesis - globo and isoglobo series
+                11605 (Gla)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04142 Lysosome
+                11605 (Gla)
+            Enzymes [BR:mmu01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.22  alpha-galactosidase
+                 11605 (Gla)
+POSITION    X E3; X 56.2 cM
+MOTIF       Pfam: Melibiase_2 Melibiase_2_C Melibiase Melibiase_C Chromo
+DBLINKS     NCBI-GeneID: 11605
+            NCBI-ProteinID: NP_038491
+            MGI: 1347344
+            Ensembl: ENSMUSG00000031266
+            Vega: OTTMUSG00000019384
+            UniProt: Q8BGZ6 Q3UM38
+AASEQ       421
+            MAMKLLSRDTRLVCELALCPLALVFWSILGVRALDNGLARTPTMGWLHWERFMCNLDCQE
+            EPDACISEQLFMQMAELMVSDGWRDAGYDYLCIDDCWMAPERDSKGRLQADPQRFPSGIK
+            HLANYVHSKGLKLGIYADVGNKTCAGFPGSFGSYDIDAQTFADWGVDLLKFDGCHCDSVV
+            SLENGYKYMALALNRTGRSIVYSCEWPLYLRPFHKPNYTDIQYYCNHWRNFDDVYDSWES
+            IKNILSWTVVYQKEIVEVAGPGSWNDPDMLVIGNFGLSWDQQVTQMALWAIMAAPLLMSN
+            DLRQISSQAKALLQNKDVIAINQDPLGKQGYCFRKENHIEVWERPLSNLAWAVAVRNLQE
+            IGGPCPYTIQISSLGRGLACNPGCIITQLLPEKVHLGFYEWTLTLKTRVNPSGTVLFRLE
+            R
+NTSEQ       1266
+            atggccatgaagcttttgagcagagatacgcggctggtctgtgagcttgcgctttgtccc
+            ctggctttagttttctggagcattcttggggtcagagcattggacaatggcttggcgcgg
+            actcctactatgggctggctgcattgggaacgtttcatgtgcaaccttgactgccaagaa
+            gagcctgatgcctgcataagtgagcaactgttcatgcagatggcagagctcatggtctct
+            gatggctggcgggatgcaggttatgactatctctgcatagatgactgttggatggctccc
+            gagagggattcaaagggcaggcttcaggcagatccccaacgctttcctagtgggatcaaa
+            cacctcgcaaattacgtccacagcaaaggattgaagctagggatttatgcagatgttggg
+            aataaaacctgtgcaggtttccccgggagttttggatcctatgacattgatgcgcagaca
+            tttgctgactggggcgtagatctgctaaaatttgatggttgtcactgtgacagtgtagta
+            tccttggagaatggttataagtacatggccttggccttgaacaggacaggccgaagcatt
+            gtatactcctgtgagtggccactttatttgagaccctttcataagcccaattatacagat
+            atccaatattactgcaatcattggagaaattttgatgatgtttatgattcctgggaaagc
+            ataaagaatatcttgtcttggacagtggtttaccagaaggagattgttgaagtcgctgga
+            ccaggcagctggaatgacccagacatgttagtgatcggcaactttggcctcagttgggac
+            cagcaggtgacacagatggccctctgggctatcatggccgctcccctactcatgtccaac
+            gatctgcgacaaatcagctctcaagccaaagctctgcttcagaataaggatgtaattgcc
+            atcaaccaagaccccttgggcaagcagggctactgtttcagaaaggaaaaccacattgag
+            gtttgggaacggccactctccaacctagcctgggctgtggctgtgagaaacctgcaggag
+            attggtggaccttgtccttataccatccagatttcttccctgggtagaggactagcctgc
+            aatcctggctgcatcattactcagcttctccccgagaaagtacacctaggcttctatgaa
+            tggactttgaccttaaaaactcgagtaaacccctcaggcactgttttgtttcggttagaa
+            agataa
+///
