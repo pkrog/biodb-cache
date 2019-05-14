@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:27601</chebiId><chebiAsciiName>pteridine</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>c1cnc2ncncc2n1</smiles><inchi>InChI=1S/C6H4N4/c1-2-9-6-5(8-1)3-7-4-10-6/h1-4H</inchi><inchiKey>CPNGPNLZQNNVQM-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.12292</mass><monoisotopicMass>132.04360</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:26372</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:8626</SecondaryChEBIIds><Synonyms><data>1,3,5,8-tetraazanaphthalene</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>azinepurine</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Pteridine</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>pteridine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H4N4</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>115341</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>364077</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><RegistryNumbers><data>91-18-9</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><RegistryNumbers><data>91-18-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  09260623522D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.7145   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  8  7  1  0  0  0  0
+  1  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  9  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  2  1  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  2  0  0  0  0
+  6  5  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  11160614432D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  4  0  0
+    1.4289   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  3  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+    0.7145    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  1  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  7  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  6  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  8  0  0
+   -0.7145   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  5  0  0
+  8  7  1  0  0  0  0
+  1  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  9  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  2  1  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  2  0  0  0  0
+  6  5  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>C07581</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>azaarene</chebiName><chebiId>CHEBI:50893</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>mancude organic heterobicyclic parent</chebiName><chebiId>CHEBI:35570</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>ortho-fused heteroarene</chebiName><chebiId>CHEBI:52362</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>pteridines</chebiName><chebiId>CHEBI:26373</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

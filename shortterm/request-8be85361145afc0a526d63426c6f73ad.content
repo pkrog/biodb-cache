@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:2624</chebiId><chebiAsciiName>amastatin</chebiAsciiName><definition>A tetrapeptide comprising (2S,3R)-3-amino-2-hydroxy-5-methylhexanoyl, L-valyl, L-valyl and L-aspartic acid units joined in sequence</definition><status>CHECKED</status><smiles>CC(C)C[C@@H](N)[C@H](O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C21H38N4O8/c1-9(2)7-12(22)17(28)20(31)25-16(11(5)6)19(30)24-15(10(3)4)18(29)23-13(21(32)33)8-14(26)27/h9-13,15-17,28H,7-8,22H2,1-6H3,(H,23,29)(H,24,30)(H,25,31)(H,26,27)(H,32,33)/t12-,13+,15+,16+,17+/m1/s1</inchi><inchiKey>QFAADIRHLBXJJS-ZAZJUGBXSA-N</inchiKey><charge>0</charge><mass>474.54840</mass><monoisotopicMass>474.26896</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>Amastatin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Leu[1psi,CHOHCONH]ValValAsp</data><type>SYNONYM</type><source>IUBMB</source></Synonyms><IupacNames><data>N-[(2S,3R)-3-amino-2-hydroxy-5-methylhexanoyl]-L-valyl-L-valyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C21H38N4O8</data><source>ChEBI</source></Formulae><RegistryNumbers><data>24145991</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>4727847</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>67655-94-1</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>18440066</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 02101515042D          
+
+ 33 32  0  0  0  0            999 V2000
+    0.2671   -1.7938    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1618   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8763   -3.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8763   -2.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5908   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4474   -2.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4474   -3.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9816   -2.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9816   -3.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1249   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1249   -0.9687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4105   -2.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8395   -2.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6961   -1.7938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4105   -3.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2684   -2.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2684   -3.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5539   -1.7938    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9829   -1.7938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5539   -0.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4119   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4119   -0.9687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6974   -2.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.1262   -2.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1249   -3.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2684   -0.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6974   -3.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4119   -3.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4119   -4.2689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1264   -3.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2671   -0.9688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6960   -3.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8394   -0.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 14  8  1  0  0  0  0
+  8  1  1  0  0  0  0
+  1  6  1  0  0  0  0
+  6  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  6  0  0  0
+  8  9  2  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 12 14  1  6  0  0  0
+ 15 12  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 18 16  1  0  0  0  0
+ 19 16  1  0  0  0  0
+ 18 13  1  1  0  0  0
+ 20 18  1  0  0  0  0
+ 22 21  2  0  0  0  0
+ 23 21  1  0  0  0  0
+ 24 21  1  0  0  0  0
+ 23 19  1  6  0  0  0
+ 15 25  1  0  0  0  0
+ 20 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 28 27  1  0  0  0  0
+ 29 28  2  0  0  0  0
+ 30 28  1  0  0  0  0
+  1 31  1  6  0  0  0
+ 15 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00018188</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C01552</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>EC 3.4.11.* (aminopeptidase) inhibitor</chebiName><chebiId>CHEBI:76787</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tetrapeptide</chebiName><chebiId>CHEBI:48030</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>protease inhibitor</chebiName><chebiId>CHEBI:37670</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

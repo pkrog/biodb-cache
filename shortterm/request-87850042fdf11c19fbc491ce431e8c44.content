@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:94791</chebiId><chebiAsciiName>(1S,2R)-2-phenyl-1-cyclopropanamine</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1[C@@H]([C@H]1N)C2=CC=CC=C2</smiles><inchi>InChI=1S/C9H11N/c10-9-6-8(9)7-4-2-1-3-5-7/h1-5,8-9H,6,10H2/t8-,9+/m1/s1</inchi><inchiKey>AELCINSCMGFISI-BDAKNGLRSA-N</inchiKey><charge>0</charge><mass>133.191</mass><monoisotopicMass>133.08915</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C9H11N</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162202
+null
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+    1.1270   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020   -1.9520    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -3.1895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270   -3.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414   -3.1895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  1  1  0  0  0  0 
+  3  4  1  1  0  0  0 
+  2  5  1  6  0  0  0 
+  5  6  2  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10  5  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-5943</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>aralkylamine</chebiName><chebiId>CHEBI:18000</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:48094</chebiId><chebiAsciiName>D-aspartic acid residue</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>115.08744</mass><monoisotopicMass>115.02694</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:41764</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:29960</SecondaryChEBIIds><Synonyms><data>-D-Asp-</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D-Asp</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D-ASPARTIC ACID</data><type>SYNONYM</type><source>PDBeChem</source></Synonyms><Synonyms><data>D-aspartic acid residue</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D-aspartic residue</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D-aspartyl</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>DAsp</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Formulae><data>C4H5NO3</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>ChEBI
+  Marvin  10200512332D          
+
+ 10  9  0  0  1  0            999 V2000
+   18.3431  -17.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3431  -16.7614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6286  -17.9989    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   17.6286  -18.8239    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9141  -17.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1997  -17.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4852  -17.5864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1997  -18.8239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9141  -19.2364    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0576  -17.9989    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  6  0  0  0
+  5  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  4  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>DAS</data><type>PDBeChem accession</type></DatabaseLinks><OntologyParents><chebiName>D-aspartic acid</chebiName><chebiId>CHEBI:17364</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>aspartic acid residue</chebiName><chebiId>CHEBI:32470</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid residue</chebiName><chebiId>CHEBI:29958</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-aspartate residue</chebiName><chebiId>CHEBI:29962</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>L-aspartic acid residue</chebiName><chebiId>CHEBI:29958</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-aspartate residue</chebiName><chebiId>CHEBI:29962</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

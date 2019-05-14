@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:51621</chebiId><chebiAsciiName>7-oxindolyl group</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>132.13938</mass><monoisotopicMass>132.04494</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>2-oxo-2,3-dihydro-1H-indol-7-yl</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H6NO</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  01280911312D          
+
+ 11 12  0  0  0  0            999 V2000
+    0.7908    0.5174    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0062    0.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0062   -0.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2757   -0.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7908   -0.8174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7083    0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7083   -0.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4228   -0.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4228    0.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1007   -0.1500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7083    1.5000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  6  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+ 10  4  2  0  0  0  0
+  9  6  2  0  0  0  0
+  8  7  2  0  0  0  0
+  9  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>oxindolyl group</chebiName><chebiId>CHEBI:51618</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

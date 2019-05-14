@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:32400</chebiId><chebiAsciiName>9-crown-3</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>C1COCCOCCO1</smiles><inchi>InChI=1S/C6H12O3/c1-2-8-5-6-9-4-3-7-1/h1-6H2</inchi><inchiKey>RCIDBLLMZGGECJ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.15768</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>1,4,7-trioxonane</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H12O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1421638</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  12080623212D          
+
+  9  9  0  0  0  0            999 V2000
+    0.7915   -0.9460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2218   -0.2421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8006   -0.9569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2152   -0.2503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6696    0.3795    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4203    1.1653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6580    0.3753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4082    1.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  2  1  1  0  0  0  0
+  3  4  1  0  0  0  0
+  8  5  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>crown ether</chebiName><chebiId>CHEBI:37408</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>saturated organic heteromonocyclic parent</chebiName><chebiId>CHEBI:36389</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

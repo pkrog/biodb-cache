@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73446</chebiId><chebiAsciiName>Asp-Asp</chebiAsciiName><definition>A dipeptide formed from two L-aspartic acid units.</definition><status>CHECKED</status><smiles>N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C8H12N2O7/c9-3(1-5(11)12)7(15)10-4(8(16)17)2-6(13)14/h3-4H,1-2,9H2,(H,10,15)(H,11,12)(H,13,14)(H,16,17)/t3-,4-/m0/s1</inchi><inchiKey>FRYULLIZUDQONW-IMJSIDKUSA-N</inchiKey><charge>0</charge><mass>248.19010</mass><monoisotopicMass>248.06445</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>D-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>DD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-Asp-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-alpha-aspartyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H12N2O7</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1729337</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  05011311282D          
+
+ 17 16  0  0  1  0            999 V2000
+    9.4480   -8.3851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4480   -9.2101    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7334   -7.9726    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1625   -7.9726    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0188   -8.3851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7334   -7.1474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0188   -6.7349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3043   -7.1474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0188   -5.9098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5946   -7.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5978   -7.1569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8792   -8.3902    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.3066   -8.3958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5848  -10.4533    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8760   -9.2142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5880   -9.6291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3034   -9.2199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 13 10  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 12  4  1  6  0  0  0
+ 16 14  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028749</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>Mycoplasma genitalium metabolite</chebiName><chebiId>CHEBI:131604</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Mycoplasma genitalium</speciesText><speciesAccession>NCBI:2097</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>22817898</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Trypanosoma brucei</speciesText><speciesAccession>NCBI:5691</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS49</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

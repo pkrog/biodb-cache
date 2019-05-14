@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73804</chebiId><chebiAsciiName>Gly-Asp</chebiAsciiName><definition>A dipeptide formed from glycyl and L-aspartic acid residues.</definition><status>CHECKED</status><smiles>NCC(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C6H10N2O5/c7-2-4(9)8-3(6(12)13)1-5(10)11/h3H,1-2,7H2,(H,8,9)(H,10,11)(H,12,13)/t3-/m0/s1</inchi><inchiKey>SCCPDJAQCXWPTF-VKHMYHEASA-N</inchiKey><charge>0</charge><mass>190.15400</mass><monoisotopicMass>190.05897</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>GD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Gly-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>glycylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-Glycyl-L-aspartic acid</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>glycyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H10N2O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1727387</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>4685-12-5</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>4685-12-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  05281312092D          
+
+ 13 12  0  0  1  0            999 V2000
+   10.6036   -6.2175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0326   -6.2175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0326   -5.3924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3182   -6.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7470   -6.6300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1760   -6.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1760   -7.4549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4615   -6.2175    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.8904   -6.2175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4615   -5.3924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1760   -4.9800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1760   -4.1550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8905   -5.3924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  4  1  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9  6  1  0  0  0  0
+  8  5  1  1  0  0  0
+ 10  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>CPD-13406</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0028837</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

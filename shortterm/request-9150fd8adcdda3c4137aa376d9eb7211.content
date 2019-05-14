@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:131512</chebiId><chebiAsciiName>2-phenylcyclopropan-1-amine</chebiAsciiName><definition>A member of the class of cyclopropanes carrying amino and phenyl substituents at positions 1 and 2 respectively.</definition><status>CHECKED</status><smiles>C1(C2=CC=CC=C2)C(N)C1</smiles><inchi>InChI=1S/C9H11N/c10-9-6-8(9)7-4-2-1-3-5-7/h1-5,8-9H,6,10H2</inchi><inchiKey>AELCINSCMGFISI-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.191</mass><monoisotopicMass>133.08915</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>2-phenylcyclopropan-1-amine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H11N</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Ketcher 03111609572D 1   1.00000     0.00000     0
+
+ 10 11  0     0  0            999 V2000
+   11.1848   -3.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3396   -4.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1791   -3.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6820   -2.6922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4447   -3.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3396   -5.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0243   -4.0842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5996   -4.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4447   -5.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5996   -5.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0     0  0
+  1  3  1  0     0  0
+  1  4  1  0     0  0
+  2  5  2  0     0  0
+  2  6  1  0     0  0
+  3  7  1  0     0  0
+  5  8  1  0     0  0
+  6  9  2  0     0  0
+  8 10  2  0     0  0
+  3  4  1  0     0  0
+  9 10  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>cyclopropanes</chebiName><chebiId>CHEBI:51454</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>primary amine</chebiName><chebiId>CHEBI:32877</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>benzenes</chebiName><chebiId>CHEBI:22712</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(1S,2R)-tranylcypromine</chebiName><chebiId>CHEBI:131511</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>(1R,2S)-tranylcypromine</chebiName><chebiId>CHEBI:131510</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><GeneralComments><text>This is the entry for the compound with unspecified stereochemistry. There are separate entries for the individual enantiomers [(1R,2S)-BW tranylcypromine and (1S,2R)-BW tranylcypromine] and for the racemate.</text><date>2016-03-11</date></GeneralComments></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:70319</chebiId><chebiAsciiName>ipomotaoside B</chebiAsciiName><definition>A resin glycoside that is the tetrasaccharide derivative of jalapinolic acid. It has been isolated from Ipomoea batatas.</definition><status>CHECKED</status><smiles>CCCCCCCCCCCC(=O)O[C@H]1[C@H](C)O[C@@H](O[C@H]2[C@H](C)O[C@@H](O[C@H]3[C@H](C)O[C@H]4O[C@@H]5[C@@H](O)[C@@H](O)[C@@H](C)O[C@H]5O[C@@H](CCCCC)CCCCCCCCCC(=O)O[C@@H]4[C@@H]3O)[C@H](OC(=O)CCCCCCCCCCC)[C@@H]2O)[C@H](OC(=O)\C=C\c2ccccc2)[C@@H]1O</smiles><inchi>InChI=1S/C73H120O21/c1-8-11-14-16-18-20-24-28-36-43-54(74)88-63-49(5)84-71(67(60(63)80)91-57(77)47-46-52-39-33-31-34-40-52)92-64-50(6)85-72(68(61(64)81)89-55(75)44-37-29-25-21-19-17-15-12-9-2)93-65-51(7)86-73-69(62(65)82)90-56(76)45-38-30-26-22-23-27-35-42-53(41-32-13-10-3)87-70-66(94-73)59(79)58(78)48(4)83-70/h31,33-34,39-40,46-51,53,58-73,78-82H,8-30,32,35-38,41-45H2,1-7H3/b47-46+/t48-,49+,50+,51+,53+,58+,59+,60-,61-,62-,63+,64+,65+,66-,67-,68-,69-,70+,71+,72+,73+/m1/s1</inchi><inchiKey>FSDJTONUQZBFFY-QSAXEEFWSA-N</inchiKey><charge>0</charge><mass>1333.72130</mass><monoisotopicMass>1332.83221</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(S)-jalapinolic acid 11-O-(2-O-trans-cinnamoyl)-[(4-O-n-dodecanoyl)]-alpha-L-rhamnopyranosyl-(1-&gt;4)-O-(2-O-n-dodecanoyl)-alpha-L-rhamnopyranosyl-(1-&gt;4)-O-alpha-L-rhamnopyranosyl-(1-&gt;2)-O-beta-D-fucopyranoside 1,2'' ester</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C73H120O21</data><source>ChEBI</source></Formulae><RegistryNumbers><data>21071419</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>20961090</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  10021310012D          
+
+ 97102  0  0  0  0            999 V2000
+   15.3669   -1.2896    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.6478   -3.3499    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.6478   -2.5258    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.0857   -0.8818    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.3626   -2.1137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2224   -3.3499    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.9373   -3.7535    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.6561   -0.8776    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.9373   -2.1052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5119   -3.7618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0900   -0.0620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6604   -0.0493    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.3626   -3.7618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8805   -1.0962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2224   -2.5258    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.3795    0.3585    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.0774   -3.3499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0774   -2.5300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9457   -4.5818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9415   -1.2854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9541    0.3669    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5153   -0.0661    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.5078   -2.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3837    1.1827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7921   -3.7618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1244    0.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9365   -0.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5910    2.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5532    1.3634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1622    2.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5027   -3.3499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2000    3.5119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9365   -0.8818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9322   -2.5300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2132   -3.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6471   -2.1178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6471   -1.2939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9322   -3.3541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9470   -1.8699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5169   -4.5957    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.2406   -5.0070    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.2455   -5.8407    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.9694   -6.2520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5288   -6.2594    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.5338   -7.0931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8050   -5.8481    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.7980   -5.0180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0862   -6.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8232   -8.3334    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.8232   -7.5052    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.1043   -8.7413    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.3893   -8.3250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.1127   -7.0931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3936   -7.5010    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.5338   -8.7455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6747   -8.7329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2485   -8.3376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9634   -8.7496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9641   -8.3166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9592   -9.5738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2485   -7.5136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9683   -7.4926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1001   -9.5654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6739   -9.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6873   -7.0846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2451   -8.7244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6654  -10.8142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3804   -9.5780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5347   -8.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8248   -8.2703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5354   -8.6866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2501   -8.2788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8197   -8.7160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1093   -8.2998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3902   -8.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6797   -8.2914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9649   -8.6951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1143   -8.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0950   -9.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3761  -11.2262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0950  -10.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8147   -6.6768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7054   -4.3770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0433   -5.2178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7673   -4.8071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4852   -5.2288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7736   -3.9746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2093   -4.8180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9271   -5.2398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6512   -4.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3689   -5.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0931   -4.8400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8109   -5.2617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5350   -4.8509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2528   -5.2726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9769   -4.8619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6946   -5.2836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 48  1  6  0  0  0
+ 40 47  1  0  0  0  0
+  6 10  1  1  0  0  0
+ 11  4  1  0  0  0  0
+ 12  8  1  0  0  0  0
+  2 13  1  6  0  0  0
+  4 14  1  1  0  0  0
+ 15  9  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 18 17  2  0  0  0  0
+  7 19  1  6  0  0  0
+  8 20  1  1  0  0  0
+ 12 21  1  1  0  0  0
+ 22 14  1  0  0  0  0
+ 15 23  1  6  0  0  0
+ 16 24  1  1  0  0  0
+ 25 17  1  0  0  0  0
+ 22 26  1  1  0  0  0
+ 27 22  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 29 26  1  0  0  0  0
+ 30 29  1  0  0  0  0
+ 31 25  1  0  0  0  0
+ 32 28  1  0  0  0  0
+ 33 27  1  0  0  0  0
+ 34 36  1  0  0  0  0
+ 35 31  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 37 33  1  0  0  0  0
+ 38 34  1  0  0  0  0
+  1 39  1  1  0  0  0
+ 16 11  1  0  0  0  0
+  7  6  1  0  0  0  0
+ 38 35  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 50 45  1  0  0  0  0
+ 51 49  1  0  0  0  0
+ 52 51  1  0  0  0  0
+ 53 50  1  0  0  0  0
+ 54 53  1  0  0  0  0
+ 49 55  1  6  0  0  0
+ 52 56  1  1  0  0  0
+ 57 55  1  0  0  0  0
+ 58 57  1  0  0  0  0
+ 59 56  1  0  0  0  0
+ 60 58  2  0  0  0  0
+ 61 57  2  0  0  0  0
+ 62 59  2  0  0  0  0
+ 51 63  1  6  0  0  0
+ 64 60  1  0  0  0  0
+ 54 65  1  6  0  0  0
+ 66 59  1  0  0  0  0
+ 67 64  2  0  0  0  0
+ 68 64  1  0  0  0  0
+ 69 66  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 71 72  1  0  0  0  0
+ 72 77  1  0  0  0  0
+ 73 69  1  0  0  0  0
+ 74 73  1  0  0  0  0
+ 75 74  1  0  0  0  0
+ 76 75  1  0  0  0  0
+ 77 76  1  0  0  0  0
+ 78 70  1  0  0  0  0
+ 79 68  2  0  0  0  0
+ 80 67  1  0  0  0  0
+ 81 79  1  0  0  0  0
+ 50 82  1  6  0  0  0
+ 52 54  1  0  0  0  0
+ 81 80  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 40 83  1  6  0  0  0
+  3  5  1  1  0  0  0
+ 41 84  1  6  0  0  0
+  4  1  1  0  0  0  0
+ 84 85  1  0  0  0  0
+  5  1  1  0  0  0  0
+ 85 86  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 85 87  2  0  0  0  0
+  7  2  1  0  0  0  0
+ 86 88  1  0  0  0  0
+  8  1  1  0  0  0  0
+ 88 89  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 89 90  1  0  0  0  0
+ 40 10  1  0  0  0  0
+ 90 91  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 91 92  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 92 93  1  0  0  0  0
+ 42 43  1  6  0  0  0
+ 93 94  1  0  0  0  0
+ 42 44  1  0  0  0  0
+ 94 95  1  0  0  0  0
+ 44 45  1  1  0  0  0
+ 95 96  1  0  0  0  0
+ 44 46  1  0  0  0  0
+ 96 97  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>trans-cinnamic acid</chebiName><chebiId>CHEBI:35697</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>macrocyclic lactone</chebiName><chebiId>CHEBI:63944</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>resin glycoside</chebiName><chebiId>CHEBI:75756</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tetrasaccharide derivative</chebiName><chebiId>CHEBI:63567</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>cinnamate ester</chebiName><chebiId>CHEBI:36087</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>jalapinolic acid</chebiName><chebiId>CHEBI:75785</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dodecanoate ester</chebiName><chebiId>CHEBI:87659</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Ipomoea batatas</speciesText><speciesAccession>NCBI:4120</speciesAccession><componentText>aerial part</componentText><componentAccession>BTO:0001658</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>20961090</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

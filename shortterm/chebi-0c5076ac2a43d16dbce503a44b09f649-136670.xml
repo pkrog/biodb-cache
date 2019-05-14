@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:136670</chebiId><chebiAsciiName>(S)-2,4-dihydroxy-3-oxobutanoate</chebiAsciiName><definition>A hydroxy monocarboxylic acid anion that is the conjugate base of (S)-2,4-dihydroxy-3-oxobutanoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.</definition><status>CHECKED</status><smiles>OCC([C@@H](C([O-])=O)O)=O</smiles><inchi>InChI=1S/C4H6O5/c5-1-2(6)3(7)4(8)9/h3,5,7H,1H2,(H,8,9)/p-1/t3-/m0/s1</inchi><inchiKey>SCSGVVIUUUPOOJ-VKHMYHEASA-M</inchiKey><charge>-1</charge><mass>133.080</mass><monoisotopicMass>133.01425</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>3-dehydro-D-threonate</data><type>SYNONYM</type><source>MetaCyc</source></Synonyms><Synonyms><data>3-dehydro-L-erythronate</data><type>SYNONYM</type><source>MetaCyc</source></Synonyms><Synonyms><data>3-dehydro-L-erythronate</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S)-2,4-dihydroxy-3-oxobutanoate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H5O5</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Ketcher 06221709432D 1   1.00000     0.00000     0
+
+  9  8  0     0  0            999 V2000
+   18.0806  -22.2502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9465  -22.7502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8126  -22.2502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6787  -22.7502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5446  -22.2502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4107  -22.7502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8126  -21.2502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6787  -23.7502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5446  -21.2502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0     0  0
+  2  3  1  0     0  0
+  3  4  1  0     0  0
+  4  5  1  0     0  0
+  5  6  1  0     0  0
+  3  7  2  0     0  0
+  4  8  1  1     0  0
+  5  9  2  0     0  0
+M  CHG  1   6  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>CPD-19884</data><type>MetaCyc accession</type></DatabaseLinks><OntologyParents><chebiName>(S)-2,4-dihydroxy-3-oxobutanoic acid</chebiName><chebiId>CHEBI:137502</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxy monocarboxylic acid anion</chebiName><chebiId>CHEBI:36059</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3-oxo monocarboxylic acid anion</chebiName><chebiId>CHEBI:35973</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>(R)-2,4-dihydroxy-3-oxobutanoate</chebiName><chebiId>CHEBI:57958</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(S)-2,4-dihydroxy-3-oxobutanoic acid</chebiName><chebiId>CHEBI:137502</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>(R)-2,4-dihydroxy-3-oxobutanoate</chebiName><chebiId>CHEBI:57958</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

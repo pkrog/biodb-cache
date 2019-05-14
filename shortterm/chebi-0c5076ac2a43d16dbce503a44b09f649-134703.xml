@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:134703</chebiId><chebiAsciiName>fluciclovine (18F)</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1[C@](C[C@]1(N)C(O)=O)([H])[18F]</smiles><inchi>InChI=1S/C5H8FNO2/c6-3-1-5(7,2-3)4(8)9/h3H,1-2,7H2,(H,8,9)/t3-,5-/i6-1</inchi><inchiKey>NTEDWGYJNHZKQW-DGMDOPGDSA-N</inchiKey><charge>0</charge><mass>132.125</mass><monoisotopicMass>132.05644</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>axumin</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>FACBC</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>GE-148</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>NMK36</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Formulae><data>C5H8[18F]NO2</data><source>DrugCentral</source></Formulae><RegistryNumbers><data>222727-39-1</data><type>CAS Registry Number</type><source>DrugCentral</source></RegistryNumbers><ChemicalStructures><structure>fluciclovine (18F)
+  CDK     0223171731
+null
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -2.3571    1.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9405    1.1491    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3571    0.5657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7738    1.1491    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1904    1.7325    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1904    0.5657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5239    1.7325    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5239    0.5657    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3935    0.7793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039   -0.2311    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  4  1  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  6  0  0  0 
+  4  6  1  1  0  0  0 
+  2  7  1  6  0  0  0 
+  2  8  1  1  0  0  0 
+  6  9  1  0  0  0  0 
+  6 10  2  0  0  0  0 
+M  ISO  1   8  18
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>5153</data><type>Drug Central accession</type></DatabaseLinks><OntologyParents><chebiName>L-alpha-amino acid</chebiName><chebiId>CHEBI:15705</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

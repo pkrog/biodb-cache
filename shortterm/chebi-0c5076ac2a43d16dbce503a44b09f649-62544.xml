@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:62544</chebiId><chebiAsciiName>beta-D-Gal-(1-&gt;3)-[alpha-L-Fuc-(1-&gt;2)]-beta-D-Gal-(1-&gt;4)-beta-D-GlcNAc-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Glc-(1-&gt;1')-Cer</chebiAsciiName><definition>A glycohexaosylceramide having beta-D-Gal-(1-&gt;3)-[alpha-L-Fuc-(1-&gt;2)]-beta-D-Gal-(1-&gt;4)-beta-D-GlcNAc-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Glc as the glycohexaosyl component.</definition><status>CHECKED</status><smiles>CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@H]5O[C@H](CO)[C@H](O)[C@H](O)[C@H]5O)[C@H]4O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H](O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)NC([*])=O</smiles><charge>0</charge><mass>1324.39020</mass><monoisotopicMass>1323.61809</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>beta-D-Gal-(1-&gt;3)-[alpha-L-Fuc-(1-&gt;2)]-beta-D-Gal-(1-&gt;4)-beta-D-GlcNAc-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Glc-Cer</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>beta-D-galactosyl-(1-&gt;3)-[alpha-L-fucosyl-(1-&gt;2)]-beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1-&gt;1')-ceramide</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>beta-D-galactosyl-(1-&gt;3)-[alpha-L-fucosyl-(1-&gt;2)]-beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-glucosylceramide</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>beta-D-Galp-(1-&gt;3)-[alpha-L-Fucp-(1-&gt;2)]-beta-D-Galp-(1-&gt;4)-beta-D-GlcpNAc-(1-&gt;3)-beta-D-Galp-(1-&gt;4)-beta-D-Glcp-(1-&gt;1')-Cer</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>beta-D-Galp-(1-&gt;3)-[alpha-L-Fucp-(1-&gt;2)]-beta-D-Galp-(1-&gt;4)-beta-D-GlcpNAc-(1-&gt;3)-beta-D-Galp-(1-&gt;4)-beta-D-Glcp-Cer</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>blood group antigen B-I</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-[(2S,3R,4E)-1-{[6-deoxy-alpha-L-galactopyranosyl-(1-&gt;2)-[beta-D-galactopyranosyl-(1-&gt;3)]-beta-D-galactopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-&gt;3)-beta-D-galactopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl]oxy}-3-hydroxyoctadec-4-en-2-yl]alkanamide</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><IupacNames><data>N-[(2S,3R,4E)-1-{[alpha-L-fucopyranosyl-(1-&gt;2)-[beta-D-galactopyranosyl-(1-&gt;3)]-beta-D-galactopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-&gt;3)-beta-D-galactopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl]oxy}-3-hydroxyoctadec-4-en-2-yl]alkanamide</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C57H99N2O32R</data><source>ChEBI</source></Formulae><Citations><data>7649187</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  07061113392D          
+
+ 92 97  0  0  1  0            999 V2000
+    6.0248  -13.8540    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0248  -14.6790    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3103  -13.4415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3103  -15.0914    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5958  -13.8540    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5958  -14.6790    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.7392  -13.4415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7392  -15.0914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3102  -15.9164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8814  -15.0914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8814  -13.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1670  -13.8540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4538  -11.3790    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.4538  -12.2040    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7393  -10.9665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7393  -12.6165    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0248  -11.3790    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0248  -12.2040    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.1683  -10.9665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1683  -12.6165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3104  -12.6165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3104  -10.9665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959  -11.3790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5808  -13.3309    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.4057  -13.3309    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.1683  -14.0455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8182  -14.0454    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.5808  -14.7599    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.4058  -14.7599    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.8182  -12.6164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6432  -14.0454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8183  -15.4742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1684  -15.4742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3117   -9.7289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.3117  -10.5540    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.5971   -9.3165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5971  -10.9665    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.8827   -9.7289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.8827  -10.5540    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.0261   -9.3163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0261  -10.9665    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5971  -11.7914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1683   -9.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4538   -9.7289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7407   -7.2538    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.7407   -8.0788    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.0261   -6.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0261   -8.4913    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.3117   -7.2538    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.3117   -8.0788    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.4551   -6.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4551   -8.4915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5972   -8.4913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5972   -6.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8827   -7.2540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5985   -5.6040    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.5985   -6.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.8840   -5.1915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8840   -6.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.1695   -5.6040    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.1695   -6.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.3130   -5.1915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3130   -6.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8840   -7.6663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4551   -5.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7407   -5.6040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0274   -5.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7419   -5.1915    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.4564   -5.6040    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   18.1708   -5.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8853   -5.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5997   -5.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3142   -5.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7419   -4.3665    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4564   -3.9540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4564   -3.1290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1708   -4.3665    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0
+   17.4564   -6.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0287   -5.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7432   -5.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7432   -6.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0287   -6.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0286   -7.6663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3142   -8.0788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3142   -8.9038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5996   -9.3163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5996  -10.1413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8852  -10.5538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8851  -11.3787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7406  -10.5540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7407   -9.7289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4551  -10.9665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  7  1  6  0  0  0
+  2  8  1  6  0  0  0
+  4  9  1  1  0  0  0
+  6 10  1  1  0  0  0
+  5 11  1  1  0  0  0
+ 12 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 13 19  1  1  0  0  0
+ 14 20  1  6  0  0  0
+ 16  7  1  1  0  0  0
+ 18 21  1  1  0  0  0
+ 17 22  1  1  0  0  0
+ 23 22  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 24 20  1  1  0  0  0
+ 25 30  1  1  0  0  0
+ 27 31  1  6  0  0  0
+ 29 32  1  6  0  0  0
+ 28 33  1  6  0  0  0
+ 34 35  1  0  0  0  0
+ 34 36  1  0  0  0  0
+ 35 37  1  0  0  0  0
+ 36 38  1  0  0  0  0
+ 37 39  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 34 40  1  1  0  0  0
+ 35 41  1  6  0  0  0
+ 37 42  1  1  0  0  0
+ 39 19  1  6  0  0  0
+ 38 43  1  1  0  0  0
+ 44 43  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 47  1  0  0  0  0
+ 46 48  1  0  0  0  0
+ 47 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 45 51  1  1  0  0  0
+ 46 52  1  6  0  0  0
+ 48 40  1  1  0  0  0
+ 50 53  1  1  0  0  0
+ 49 54  1  1  0  0  0
+ 55 54  1  0  0  0  0
+ 56 57  1  0  0  0  0
+ 56 58  1  0  0  0  0
+ 57 59  1  0  0  0  0
+ 58 60  1  0  0  0  0
+ 59 61  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 56 62  1  1  0  0  0
+ 57 63  1  6  0  0  0
+ 59 64  1  1  0  0  0
+ 61 51  1  6  0  0  0
+ 60 65  1  1  0  0  0
+ 66 65  1  0  0  0  0
+ 62 67  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 69 70  1  0  0  0  0
+ 70 71  2  0  0  0  0
+ 71 72  1  0  0  0  0
+ 72 73  1  0  0  0  0
+ 68 74  1  6  0  0  0
+ 74 75  1  0  0  0  0
+ 75 76  2  0  0  0  0
+ 75 77  1  0  0  0  0
+ 69 78  1  1  0  0  0
+ 73 79  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 80 81  1  0  0  0  0
+ 81 82  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 83 84  1  0  0  0  0
+ 84 85  1  0  0  0  0
+ 85 86  1  0  0  0  0
+ 86 87  1  0  0  0  0
+ 87 88  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 91 90  2  0  0  0  0
+ 92 90  1  0  0  0  0
+ 41 90  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>fucosyl oligoglycosylceramide</chebiName><chebiId>CHEBI:24121</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>glycohexaosylceramide</chebiName><chebiId>CHEBI:36642</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

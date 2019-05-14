@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:76336</chebiId><chebiAsciiName>trimethyl(1-methylethoxy)silane</chebiAsciiName><definition>A silyl ether that is isopropanol in which the hydroxyl hydrogen is replaced by a trimethylsilyl group.</definition><status>CHECKED</status><smiles>CC(C)O[Si](C)(C)C</smiles><inchi>InChI=1S/C6H16OSi/c1-6(2)7-8(3,4)5/h6H,1-5H3</inchi><inchiKey>NNLPAMPVXAPWKG-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.27610</mass><monoisotopicMass>132.09704</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>i-PrOTMS</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Isopropoxytrimethylsilane</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>isopropyl trimethylsilyl ether</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Me2CH(OTMS)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>O-TMS-isopropanol</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>O-trimethylsilylisopropanol</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>trimethyl(1-methylethoxy)silane</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>trimethyl(propan-2-yloxy)silane</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Trimethylisopropoxysilane</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><IupacNames><data>isopropoxy(trimethyl)silane</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H16OSi</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1732849</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>1825-64-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>1825-64-5</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><ChemicalStructures><structure>
+  Mrv0541 02191415012D          
+
+  8  7  0  0  0  0            999 V2000
+    7.0148   -7.2289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4437   -7.2290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7292   -6.8165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7292   -5.9914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4437   -5.5789    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    8.4437   -4.7539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1582   -5.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1582   -5.1664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>silyl ether</chebiName><chebiId>CHEBI:47988</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>propan-2-ol</chebiName><chebiId>CHEBI:17824</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

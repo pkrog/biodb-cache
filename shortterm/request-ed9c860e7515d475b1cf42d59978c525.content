@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:89722</chebiId><chebiAsciiName>2-Methylcumarone</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1=CC2=CC=CC=C2O1</smiles><inchi>InChI=1S/C9H8O/c1-7-6-8-4-2-3-5-9(8)10-7/h2-6H,1H3</inchi><inchiKey>GBGPVUAOTCNZPT-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.160</mass><monoisotopicMass>132.05751</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>2-methyl-1-benzofuran</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>2-Methyl-1-benzofuran</data><type>SYNONYM</type><source>HMDB</source></Synonyms><IupacNames><data>2-methyl-1-benzofuran</data><type>IUPAC NAME</type><source>HMDB</source></IupacNames><Formulae><data>C9H8O</data><source>HMDB</source></Formulae><Citations><data>19167006</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  CDK     1023151747
+
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+   -0.1712    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0 
+  4  2  1  0  0  0  0 
+  5  3  1  0  0  0  0 
+  7  1  1  0  0  0  0 
+  7  6  2  0  0  0  0 
+  8  4  2  0  0  0  0 
+  8  6  1  0  0  0  0 
+  9  5  2  0  0  0  0 
+  9  8  1  0  0  0  0 
+ 10  7  1  0  0  0  0 
+ 10  9  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0059847</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>benzofurans</chebiName><chebiId>CHEBI:35259</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>faeces</componentText><componentAccession>UBERON:0001988</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>19167006</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:31595</chebiId><chebiAsciiName>iron tricyanide</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>N#C[Fe](C#N)C#N</smiles><inchi>InChI=1S/3CN.Fe/c3*1-2;</inchi><inchiKey>PANJMBIFGCKWBY-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.89732</mass><monoisotopicMass>133.94416</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>Fe(CN)3</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Fe(CN)3</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>Ferric cyanide</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>iron cyanide</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Iron cyanide (Fe(CN)3)</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>iron tricyanide</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>iron(III) cyanide</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C3FeN3</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>2037720</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><RegistryNumbers><data>5683-74-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  09130511382D          
+
+  7  6  0  0  0  0            999 V2000
+    1.6257   -1.8796    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9112   -2.2921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1968   -2.7046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3402   -2.2921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0546   -2.7046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6257   -1.0546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6257   -0.2296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  3  0  0  0  0
+  4  5  3  0  0  0  0
+  6  7  3  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C12217</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>iron coordination entity</chebiName><chebiId>CHEBI:33892</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

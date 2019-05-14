@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:51613</chebiId><chebiAsciiName>N-oxindolyl group</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>*-N1C(=O)Cc2ccccc12</smiles><charge>0</charge><mass>132.13930</mass><monoisotopicMass>132.04494</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>2-oxo-2,3-dihydro-1H-indol-1-yl</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H6NO</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Mrv0541 06041415482D          
+
+ 11 12  0  0  0  0            999 V2000
+    0.6313    0.5354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1163   -0.1320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6313   -0.7994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8677   -0.9570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5822   -0.5445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5822    0.2805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8677    0.6930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1533    0.2805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1533   -0.5445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8863    1.3201    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9413   -0.1320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  8  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  9  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 11  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>oxindolyl group</chebiName><chebiId>CHEBI:51618</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organoheteryl group</chebiName><chebiId>CHEBI:33456</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

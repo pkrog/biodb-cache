@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:15737</chebiId><chebiAsciiName>N-carbamoylsarcosine</chebiAsciiName><definition>The N-carbamoyl derivative of sarcosine.</definition><status>CHECKED</status><smiles>CN(CC(O)=O)C(N)=O</smiles><inchi>InChI=1S/C4H8N2O3/c1-6(4(5)9)2-3(7)8/h2H2,1H3,(H2,5,9)(H,7,8)</inchi><inchiKey>SREKYKXYSQMOIB-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.11800</mass><monoisotopicMass>132.05349</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:12498</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:7259</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:21692</SecondaryChEBIIds><Synonyms><data>N-Carbamoylsarcosine</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>[carbamoyl(methyl)amino]acetic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H8N2O3</data><source>KEGG COMPOUND</source></Formulae><ChemicalStructures><structure>ChEBI
+
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    9.5645   -5.7446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5645   -7.0746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4126   -5.0796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4126   -7.7396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2608   -5.7446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2608   -7.0746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1090   -7.7396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7163   -5.0796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1090   -5.0796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  1  2  0  0  0  0
+  9  5  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C01043</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CMS</data><type>PDBeChem accession</type></DatabaseLinks><OntologyParents><chebiName>N-carbamoylsarcosinate</chebiName><chebiId>CHEBI:57490</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>glycine derivative</chebiName><chebiId>CHEBI:24373</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-methylglycines</chebiName><chebiId>CHEBI:21766</chebiId><type>has functional parent</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>N-carbamoylsarcosinate</chebiName><chebiId>CHEBI:57490</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

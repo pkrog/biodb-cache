@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:904</chebiId><chebiAsciiName>2,4-diaminopentanoic acid</chebiAsciiName><definition>A diamino acid consisting of pentanoic acid having the amino substituents placed in the 2- and 4-positions.</definition><status>CHECKED</status><smiles>CC(N)CC(N)C(O)=O</smiles><inchi>InChI=1S/C5H12N2O2/c1-3(6)2-4(7)5(8)9/h3-4H,2,6-7H2,1H3,(H,8,9)</inchi><inchiKey>PCEJMSIIDXUDSN-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.16106</mass><monoisotopicMass>132.08988</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>2,4-diaminopentanoic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H12N2O2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>2076017</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  06010613392D          
+
+  9  8  0  0  1  0            999 V2000
+   -0.8335    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5954    0.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5954    0.8938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3099   -0.3437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2625    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5480   -0.3438    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.1191   -0.3438    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -1.5480   -1.1688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1191   -1.1688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  7  1  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>non-proteinogenic alpha-amino acid</chebiName><chebiId>CHEBI:83925</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>diamino acid</chebiName><chebiId>CHEBI:35987</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2,4-diazaniumylpentanoate</chebiName><chebiId>CHEBI:58935</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2,4-diaminopentanoate</chebiName><chebiId>CHEBI:16594</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(2R,4S)-2,4-diaminopentanoic acid</chebiName><chebiId>CHEBI:4280</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>2,4-diazaniumylpentanoate</chebiName><chebiId>CHEBI:58935</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>2,4-diaminopentanoate</chebiName><chebiId>CHEBI:16594</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

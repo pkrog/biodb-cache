@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:35601</chebiId><chebiAsciiName>2H-chromene</chebiAsciiName><definition>A simplest member of the class of chromene in which the heterocyclic pyran ring has a double bond between positions 3 and 4.</definition><status>CHECKED</status><smiles>C1Oc2ccccc2C=C1</smiles><inchi>InChI=1S/C9H8O/c1-2-6-9-8(4-1)5-3-7-10-9/h1-6H,7H2</inchi><inchiKey>KYNSBQPICQTCGU-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.15922</mass><monoisotopicMass>132.05751</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1,2-benzopyran</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2H-1-benzopyran</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>3-chromene</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>Delta-3-chromene</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><IupacNames><data>2H-chromene</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H8O</data><source>ChEBI</source></Formulae><RegistryNumbers><data>109871</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>254-04-6</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>254-04-6</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  09260623492D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  09260623492D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  8  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  7  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  6  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  5  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  4  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  3  0  0
+    0.7145    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>organic heterobicyclic compound</chebiName><chebiId>CHEBI:27171</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>chromene</chebiName><chebiId>CHEBI:35602</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>4H-chromene</chebiName><chebiId>CHEBI:35603</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>abyssinone I</chebiName><chebiId>CHEBI:2367</chebiId><type>has parent hydride</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>chromenyliums</chebiName><chebiId>CHEBI:72704</chebiId><type>has parent hydride</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>4H-chromene</chebiName><chebiId>CHEBI:35603</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

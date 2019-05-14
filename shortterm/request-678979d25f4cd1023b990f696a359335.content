@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:78842</chebiId><chebiAsciiName>(5R)-5-hydroxyhexanoic acid</chebiAsciiName><definition>An (omega-1)-hydroxy fatty acid that is caproic acid in which the 5-pro-R hydrogen is replaced by a hydroxy group.</definition><status>CHECKED</status><smiles>C[C@@H](O)CCCC(O)=O</smiles><inchi>InChI=1S/C6H12O3/c1-5(7)3-2-4-6(8)9/h5,7H,2-4H2,1H3,(H,8,9)/t5-/m1/s1</inchi><inchiKey>YDCRNMJQROAWFT-RXMQYKEDSA-N</inchiKey><charge>0</charge><mass>132.15770</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(-)-5-hydroxycaproic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(-)-5-hydroxyhexanoic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(5R)-5-hydroxycaproic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(R)-(-)-5-hydroxyhexanoic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C6H12O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>6130741</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Mrv0541 06241416502D          
+
+  9  8  0  0  1  0            999 V2000
+   17.8063  -24.3926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5196  -25.6350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8051  -25.2225    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.0906  -25.6350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2325  -25.2283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9482  -25.6458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6638  -25.2382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6638  -24.4132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3771  -25.6529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  3  1  1  1  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>medium-chain fatty acid</chebiName><chebiId>CHEBI:59554</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hexanoic acid</chebiName><chebiId>CHEBI:30776</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>(omega-1)-hydroxy fatty acid</chebiName><chebiId>CHEBI:78954</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>ascr#12</chebiName><chebiId>CHEBI:78841</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>icas#12</chebiName><chebiId>CHEBI:79060</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>faeces</componentText><componentAccession>UBERON:0001988</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>24029555</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>urine</componentText><componentAccession>BTO:0001419</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>8087979</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

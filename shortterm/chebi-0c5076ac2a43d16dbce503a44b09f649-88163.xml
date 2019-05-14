@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:88163</chebiId><chebiAsciiName>4-azaleucine</chebiAsciiName><definition>An alanine derivative obtained by replacement of one of the methyl hydrogens of alanine by a dimethylamino group.</definition><status>CHECKED</status><smiles>OC(C(CN(C)C)N)=O</smiles><inchi>InChI=1S/C5H12N2O2/c1-7(2)3-4(6)5(8)9/h4H,3,6H2,1-2H3,(H,8,9)</inchi><inchiKey>KEZRWUUMKVVUPT-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.161</mass><monoisotopicMass>132.08988</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>4-aza-DL-leucine</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Formulae><data>C5H12N2O2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>3932032</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Ketcher 10191514392D 1   1.00000     0.00000     0
+
+  9  8  0     0  0            999 V2000
+   12.2976   -5.3103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9676   -4.8102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6996   -4.8102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4316   -4.8103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4316   -3.8103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5656   -5.3103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5656   -6.3103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8336   -5.3101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8336   -6.3103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0     0  0
+  6  4  1  0     0  0
+  3  6  1  0     0  0
+  8  3  1  0     0  0
+  2  8  1  0     0  0
+  4  5  2  0     0  0
+  6  7  1  0     0  0
+  8  9  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>CPD0-1941</data><type>MetaCyc accession</type></DatabaseLinks><OntologyParents><chebiName>alanine derivative</chebiName><chebiId>CHEBI:22278</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>leucine derivative</chebiName><chebiId>CHEBI:47003</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>non-proteinogenic alpha-amino acid</chebiName><chebiId>CHEBI:83925</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tertiary amino compound</chebiName><chebiId>CHEBI:50996</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:55434</chebiId><chebiAsciiName>(2S,3R)-3-hydroxy-2-methylpentanoic acid</chebiAsciiName><definition>A diketide with a pentanoic acid structure substituted at the alpha and beta positions by methyl and hydroxy groups respectively.</definition><status>CHECKED</status><smiles>CC[C@@H](O)[C@H](C)C(O)=O</smiles><inchi>InChI=1S/C6H12O3/c1-3-5(7)4(2)6(8)9/h4-5,7H,3H2,1-2H3,(H,8,9)/t4-,5+/m0/s1</inchi><inchiKey>NVIHALDXJWGLFD-CRCLSJGQSA-N</inchiKey><charge>0</charge><mass>132.15770</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S,3R)-2-methyl-3-hydroxypentanoic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(2S,3R)-3-hydroxy-2-methylvaleric acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>(2S,3R)-3-hydroxy-2-methylpentanoic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H12O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>5241195</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  01261007592D          
+
+  9  8  0  0  0  0            999 V2000
+   -0.7366    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0221    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6923    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0221    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4511    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1655    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8800    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4511    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7366   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  1  0  0  0
+  1  9  1  1  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>hydroxy fatty acid</chebiName><chebiId>CHEBI:24654</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>diketide</chebiName><chebiId>CHEBI:55385</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3-hydroxy monocarboxylic acid</chebiName><chebiId>CHEBI:35969</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

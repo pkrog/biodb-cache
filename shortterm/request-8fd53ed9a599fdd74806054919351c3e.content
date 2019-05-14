@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73419</chebiId><chebiAsciiName>Asn-Asp</chebiAsciiName><definition>A dipeptide composed of L-asparagine and L-aspartic acid joined by a peptide linkage.</definition><status>CHECKED</status><smiles>N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C8H13N3O6/c9-3(1-5(10)12)7(15)11-4(8(16)17)2-6(13)14/h3-4H,1-2,9H2,(H2,10,12)(H,11,15)(H,13,14)(H,16,17)/t3-,4-/m0/s1</inchi><inchiKey>HZYFHQOWCFUSOV-IMJSIDKUSA-N</inchiKey><charge>0</charge><mass>247.20530</mass><monoisotopicMass>247.08044</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-Asn-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>ND</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-asparaginyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H13N3O6</data><source>ChEBI</source></Formulae><RegistryNumbers><data>14650454</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  04301315222D          
+
+ 17 16  0  0  1  0            999 V2000
+    8.4941   -9.1099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4941   -9.9348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7796   -8.6974    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.2086   -8.6974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0652   -9.1099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7796   -7.8724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6376   -8.6974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6376   -7.8724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9231   -9.1099    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.3520   -9.1099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9231   -9.9349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0652   -7.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0652   -6.6349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3507   -7.8724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6376  -10.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6376  -11.1724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3520   -9.9349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028727</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-asparagine</chebiName><chebiId>CHEBI:17196</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

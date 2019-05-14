@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:74807</chebiId><chebiAsciiName>Ser-Asp</chebiAsciiName><definition>A dipeptide formed from L-serine and L-aspartic acid residues.</definition><status>CHECKED</status><smiles>N[C@@H](CO)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C7H12N2O6/c8-3(2-10)6(13)9-4(7(14)15)1-5(11)12/h3-4,10H,1-2,8H2,(H,9,13)(H,11,12)(H,14,15)/t3-,4-/m0/s1</inchi><inchiKey>VBKBDLMWICBSCY-IMJSIDKUSA-N</inchiKey><charge>0</charge><mass>220.18000</mass><monoisotopicMass>220.06954</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-Ser-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>SD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Serinyl-Aspartate</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>serylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-seryl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C7H12N2O6</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1728428</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  07191313362D          
+
+ 15 14  0  0  1  0            999 V2000
+   11.5304   -7.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5304   -8.1594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8160   -6.9219    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.2448   -6.9219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1014   -7.3344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8160   -6.0968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6738   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6738   -6.0968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9593   -7.3344    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.3882   -7.3344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9593   -8.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1014   -5.6844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6738   -8.5719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3883   -8.1594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6737   -9.3970    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+ 11  9  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 13  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0029035</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

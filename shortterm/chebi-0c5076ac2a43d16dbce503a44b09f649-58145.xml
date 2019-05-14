@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:58145</chebiId><chebiAsciiName>agmatinium(2+)</chebiAsciiName><definition>The dication resulting from deprotonation of the amino and guanidino groups of agmatine; major species at pH 7.3.</definition><status>CHECKED</status><smiles>NC(=[NH2+])NCCCC[NH3+]</smiles><inchi>InChI=1S/C5H14N4/c6-3-1-2-4-9-5(7)8/h1-4,6H2,(H4,7,8,9)/p+2</inchi><inchiKey>QYPPJABKJHAVHS-UHFFFAOYSA-P</inchiKey><charge>+2</charge><mass>132.20730</mass><monoisotopicMass>132.13640</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>agmatine</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>agmatinium</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>agmatinium dication</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>{amino[(4-azaniumylbutyl)amino]methylidene}azanium</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H16N4</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>{amino[(4-azaniumylbutyl)amino]methylidene}azanium
+  CDK    2/12/10,15:27
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   11.8170   -6.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5307   -6.5520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1034   -6.5520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2482   -6.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3859   -6.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9619   -6.5520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2482   -7.7934    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6722   -6.5520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9547   -6.9659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  1  3  1  0  0  0  0 
+  2  4  1  0  0  0  0 
+  3  5  1  0  0  0  0 
+  4  6  1  0  0  0  0 
+  4  7  2  0  0  0  0 
+  5  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+M  CHG  1   7   1
+M  CHG  1   9   1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>human metabolite</chebiName><chebiId>CHEBI:77746</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>guanidinium ion</chebiName><chebiId>CHEBI:60251</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>agmatine</chebiName><chebiId>CHEBI:17431</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>agmatine</chebiName><chebiId>CHEBI:17431</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><SourceType>DOI</SourceType><SourceAccession>10.1038/nbt.2488</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:16667</chebiId><chebiAsciiName>(4-hydroxyphenyl)acetonitrile</chebiAsciiName><definition>A hydroxynitrile that is phenylacetonitrile substituted by a hydroxy group at position 4.</definition><status>CHECKED</status><smiles>Oc1ccc(CC#N)cc1</smiles><inchi>InChI=1S/C8H7NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5H2</inchi><inchiKey>AYKYOOPFBCOXSL-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.14732</mass><monoisotopicMass>133.05276</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:12015</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:1875</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:20420</SecondaryChEBIIds><Synonyms><data>4-Hydroxybenzeneacetonitrile</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>4-Hydroxybenzyl cyanide</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>4-Hydroxybenzylcyanide</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>4-hydroxyphenylacetic acid nitrile</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>4-Hydroxyphenylacetonitrile</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>4-hydroxyphenylacetonitrile</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(4-hydroxyphenyl)acetonitrile</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H7NO</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>14191-95-8</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><RegistryNumbers><data>14191-95-8</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>14191-95-8</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>1934470</data><type>Beilstein Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>1934470</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>9677329</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  09130510542D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.9381   -1.8777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6526   -2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2236   -2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9381   -1.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6526   -3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2236   -3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6526   -0.6402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9381   -3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3670   -0.2277    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9381   -4.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  3  0  0  0  0
+  8 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00029532</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C03766</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CPD-1074</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0029757</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxynitrile</chebiName><chebiId>CHEBI:24730</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

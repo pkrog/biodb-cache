@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:24702</chebiId><chebiAsciiName>4-hydroxyindole</chebiAsciiName><definition>A member of the class of  hydroxyindoles that is 1H-indole substituted by a hydroxy group at position 4.</definition><status>CHECKED</status><smiles>Oc1cccc2[nH]ccc12</smiles><inchi>InChI=1S/C8H7NO/c10-8-3-1-2-7-6(8)4-5-9-7/h1-5,9-10H</inchi><inchiKey>NLMQHXUGJIAKTH-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.14730</mass><monoisotopicMass>133.05276</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:5804</SecondaryChEBIIds><Synonyms><data>4-Hydroxyindole</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>hydroxyindoles</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>1H-indol-4-ol</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H7NO</data><source>ChEBI</source></Formulae><RegistryNumbers><data>2380-94-1</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  Mrv0541 02091509192D          
+ 
+ 10 11  0  0  0  0            999 V2000
+   13.3238  -11.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3238  -11.8388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0382  -12.2513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7527  -11.8388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7527  -11.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0382  -10.6013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5373  -12.0937    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0223  -11.4263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5373  -10.7588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0382   -9.7764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>phenols</chebiName><chebiId>CHEBI:33853</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxyindoles</chebiName><chebiId>CHEBI:84729</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

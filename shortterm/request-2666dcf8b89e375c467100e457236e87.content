@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:82448</chebiId><chebiAsciiName>N,N'-diethylthiourea</chebiAsciiName><definition>Thiourea in which each nitrogen carries an ethyl substituent.</definition><status>CHECKED</status><smiles>CCNC(=S)NCC</smiles><inchi>InChI=1S/C5H12N2S/c1-3-6-5(8)7-4-2/h3-4H2,1-2H3,(H2,6,7,8)</inchi><inchiKey>FLVIGYVXZHLUHP-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.22700</mass><monoisotopicMass>132.07212</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1,3-Diethyl-2-thiourea</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>1,3-Diethylthiourea</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>DETU</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>diethylthiourea</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N,N'-Diethylthiocarbamide</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>N,N-Diethyl-2-thiourea</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Pennzone E</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Thiate H</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>N,N'-diethylthiourea</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H12N2S</data><source>ChEBI</source></Formulae><RegistryNumbers><data>105-55-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>105-55-5</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>773905</data><type>Beilstein Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>773905</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>11924477</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19463235</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21210829</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21564129</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22428567</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25532938</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>28295200</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 03051511552D          
+ 
+  8  7  0  0  0  0            999 V2000
+    8.2502  -10.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9646  -10.3540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6792  -10.7665    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3936  -10.3540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1081  -10.7665    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8226  -10.3540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5371  -10.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3936   -9.5290    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C19400</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>allergen</chebiName><chebiId>CHEBI:50904</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>thioureas</chebiName><chebiId>CHEBI:51276</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

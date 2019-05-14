@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:25234</chebiId><chebiAsciiName>1-methoxy-N-nitrosodiethylamine</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>CCN(N=O)C(C)OC</smiles><inchi>InChI=1S/C5H12N2O2/c1-4-7(6-8)5(2)9-3/h5H,4H2,1-3H3</inchi><inchiKey>DCUKVUVLSDGDEZ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.16106</mass><monoisotopicMass>132.08988</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>N-ethyl-1-methoxy-N-nitrosoethanamine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H12N2O2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>4368978</data><type>Beilstein Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>61738-03-2</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  11190814532D          
+
+  9  8  0  0  0  0            999 V2000
+   -1.4290    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146   -0.8251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146    1.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4291    2.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>mutagen</chebiName><chebiId>CHEBI:25435</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>nitrosamine</chebiName><chebiId>CHEBI:35803</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:33611</chebiId><chebiAsciiName>dodecaboron</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>[B]1234[B]567[B]118[B]229[B]33%10[B]454[B]656[B]711[B]822[B]933[B]%1045[B]6123</smiles><inchi>InChI=1S/B12/c1-2-3(1)5(1)6(1)4(1,2)8(2)7(2,3)9(3,5)11(5,6)10(4,6,8)12(7,8,9)11</inchi><inchiKey>IETQMFJBTNNARX-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>129.73200</mass><monoisotopicMass>132.11166</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>[Ih-(1551)-Delta(20)-closo]-dodecaboron</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>icosahedro-dodecaboron</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>B12</data><source>ChEBI</source></Formulae><RegistryNumbers><data>142527</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  01300915322D          
+
+ 12 30  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7262    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6906   -0.2243    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1982    0.3894    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4269    0.5875    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4269    0.5875    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6906   -0.2243    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7405   -1.0192    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2599    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7405   -1.0192    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1982    0.3894    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0025    0.3599    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  2  1  0  0  0  0
+  7 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 11  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  8  4  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4 12  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  01300915323D          
+
+ 12 30  0  0  0  0            999 V2000
+   -0.8392    0.9034    0.7552 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2105   -0.4291   -0.1913 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8384   -0.7172    1.4176 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3872    0.6404    2.4260 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5199    1.7688    1.4414 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6294    1.1079   -0.1771 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6298   -1.5151    0.8953 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5202   -0.8540    2.5130 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3600    0.6824    2.5277 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891    0.9712    0.9190 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5376   -0.3875   -0.0902 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891   -0.6501    1.5815 B   0  0  0  0  0  0  0  0  0  0  0  0
+ 11 12  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>3D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>polyboron cluster</chebiName><chebiId>CHEBI:33735</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>elemental boron</chebiName><chebiId>CHEBI:33609</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:32620</chebiId><chebiAsciiName>L-leucinium</chebiAsciiName><definition>The L-enantiomer of leucinium.</definition><status>CHECKED</status><smiles>CC(C)C[C@H]([NH3+])C(O)=O</smiles><inchi>InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/p+1/t5-/m0/s1</inchi><inchiKey>ROHFNLRQFUQHCH-YFKPBYRVSA-O</inchiKey><charge>+1</charge><mass>132.18090</mass><monoisotopicMass>132.10191</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(1S)-1-carboxy-3-methylbutan-1-aminium</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>L-leucine cation</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>L-leucinium</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H14NO2</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  11100611292D          
+
+  9  8  0  0  1  0            999 V2000
+    1.7862   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  8  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+M  CHG  1   7   1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>Escherichia coli metabolite</chebiName><chebiId>CHEBI:76971</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>Saccharomyces cerevisiae metabolite</chebiName><chebiId>CHEBI:75772</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>leucinium</chebiName><chebiId>CHEBI:32628</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-leucinium</chebiName><chebiId>CHEBI:32624</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-leucine</chebiName><chebiId>CHEBI:15603</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>L-leucyl(1+) group</chebiName><chebiId>CHEBI:64728</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-leucinium</chebiName><chebiId>CHEBI:32624</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-leucine</chebiName><chebiId>CHEBI:15603</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Saccharomyces cerevisiae</speciesText><speciesAccession>NCBI:4932</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>8798704</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Escherichia coli</speciesText><speciesAccession>NCBI:562</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>24206068</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>
