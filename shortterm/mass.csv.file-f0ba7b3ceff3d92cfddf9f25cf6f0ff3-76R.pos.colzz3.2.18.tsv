@@ -1,0 +1,11 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	76R	1	pos	102.054955	P9Z4W48 O2	[(M+H)-(H2O)]+	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	74.06004	P9Z3W48 O	[(M+H)-(HCOOH)]+	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	124.0369	P9Z4W47 Na O2	[(M+Na)-(H2O)]+	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	122.069764	P9Z4W410 O2 18O	[(M+H)]+ (18O)	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	104.059199	P9Z4W48 O 18O	[(M+H)-(H2O)]+ (18O)	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	121.062555	P90Z4W410 15N O3	[(M+H)]+ (15N)	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	78.054955	P9Z2W48 O2	[(M+H)-(C2H2O)]+	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	58.065125	P9Z3W48 O0	[(M+H)-(H2O)-(CO2)]+	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	121.068875	U313P9ZW410 O3	[(M+H)]+ (13C)	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18
+50	76R	1	pos	123.073119	U313P9ZW410 O2 18O	[(M+H)]+ (13C) (18O)	colzz3	2.18	J19L4M6O3	119.05824	L-vroomumil	min	76R.pos.colzz3.2.18

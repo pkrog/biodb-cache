@@ -1,0 +1,6 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	T1078	1	neg	251.132968	U913P9ZW420 O6	[(M-H)+(HCOOH)]- (13C)	colzz	11.02	J119L9M6O4	205.13141	Canapenol	min	T1078.neg.colzz.11.02
+50	T1078	1	neg	250.129613	P9Z10W420 O6	[(M-H)+(HCOOH)]-	colzz	11.02	J119L9M6O4	205.13141	Canapenol	min	T1078.neg.colzz.11.02
+50	T1078	1	neg	253.137212	U913P9ZW420 O5 18O	[(M-H)+(HCOOH)]- (13C) (18O)	colzz	11.02	J119L9M6O4	205.13141	Canapenol	min	T1078.neg.colzz.11.02
+50	T1078	1	neg	242.097861	U9H19 Cl0 37Cl N O4	[(M+Cl)]- (37Cl)	colzz	11.02	J119L9M6O4	205.13141	Canapenol	min	T1078.neg.colzz.11.02
+50	T1078	1	neg	240.100811	U9H19 Cl N O4	[(M+Cl)]-	colzz	11.02	J119L9M6O4	205.13141	Canapenol	min	T1078.neg.colzz.11.02

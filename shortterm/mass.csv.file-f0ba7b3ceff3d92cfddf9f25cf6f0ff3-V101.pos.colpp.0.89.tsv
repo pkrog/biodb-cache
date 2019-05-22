@@ -1,0 +1,8 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	V101	1	pos	309.178479	P92Z14W426 Na O4	[(2M+Na)]+	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	102.054955	P9Z4W48 O2	[(M+H)-(C3H6)]+	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	288.199889	U1313P92ZW427 O4	[(2M+H)]+ (13C)	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	167.087205	U613P9ZW413 Na O2	[(M+Na)]+ (13C)	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	84.080775	P9Z5W410 O0	[(M+H)-(C2H4O2)]+	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	85.08413	U413P9ZW410 O0	[(M+H)-(C2H4O2)]+ (13C)	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89
+50	V101	1	pos	146.106149	P9Z7W414 O 18O	[(M+H)]+ (18O)	colpp	0.89	J113L7M6O2	143.09463	Ovomaltine	min	V101.pos.colpp.0.89

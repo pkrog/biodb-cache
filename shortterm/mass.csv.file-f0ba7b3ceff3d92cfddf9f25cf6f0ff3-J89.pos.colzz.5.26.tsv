@@ -1,0 +1,2 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	J89	1	pos	131.08961	U513P9ZW412 O2	[(M+H)]+ (13C)	colzz	5.26	J111L6M6O2	129.07898	Zopic acid;Chababacid	min	J89.pos.colzz.5.26

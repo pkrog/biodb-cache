@@ -1,0 +1,14 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	L17	1	pos	84.063729	U313P92ZW47	[(M+H)-(J15L2M6)]+ (13C)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	83.060374	P92Z4W47	[(M+H)-(J15L2M6)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	81.044724	P92Z4W45	[(M+H)-(J17L2M6)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	84.068199	P94Z8W416	[(M+2H)+(CH3CN)]++	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	84.5667165	P93Z8W416 15N	[(M+2H)+(CH3CN)]++ (15N)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	251.19787	P96Z12W423	[(2M+H)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	206.043141	U6H11 Cl N3 Na2	[(M+Na)+(NaCl)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	64.5582795	U413P93Z2W413	[(M+2H)]++ (13C2)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	110.079379	U513P92ZW49	[(M+H)-(NH3)]+ (13C)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	106.045674	U313P92ZW46 Na	[(M+Na)-(J15L2M6)]+ (13C)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	127.099608	P92Z6W412 15N	[(M+H)]+ (15N)	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	126.102573	P93Z6W412	[(M+H)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77
+50	L17	1	pos	109.076024	P92Z6W49	[(M+H)-(NH3)]+	colpp	0.77	J111L6M63	125.0953	Clafamine	min	L17.pos.colpp.0.77

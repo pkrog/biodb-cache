@@ -1,0 +1,17 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	P5	1	neg	221.0585	U413C2 H13 Cl N2 Na O3	[(M-H)+(NaCl)]- (13C2)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	404.137533	U1113C H26 Cl N4 Na2 O6	[(2M-2H+Na)+(NaCl)]- (13C)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	345.175555	P94Z12W426 Na O6	[(2M-2H+Na)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	219.05179	U6H13 Cl N2 Na O3	[(M-H)+(NaCl)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	359.170288	U12H28 Cl N4 O6	[(2M+Cl)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	231.084836	P92Z7W414 Na O4 18O	[(M-H)+(HCOONa)]- (18O)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	433.042867	P92Z10W417 Na4 O11	[(M-H)+4(HCOONa)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	323.19361	P94Z12W427 O6	[(2M-H)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	145.086846	P92Z6W411 O 18O	[(M-H)-(H2O)]- (18O)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	161.093167	P92Z6W413 O3	[(M-H)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	220.055145	U513C H13 Cl N2 Na O3	[(M-H)+(NaCl)]- (13C)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	162.096522	U513P92ZW413 O3	[(M-H)]- (13C)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	434.046222	U913P92ZW417 Na4 O11	[(M-H)+4(HCOONa)]- (13C)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	569.017717	P92Z12W419 Na6 O15	[(M-H)+6(HCOONa)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	197.069845	U6H14 Cl N2 O3	[(M+Cl)-(H2O)]-	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56
+50	P5	1	neg	162.090202	P9Z6W413 15N O3	[(M-H)]- (15N)	colAA	1.56	J114L6M62O3	162.10044	Abracadabrine	min	P5.neg.colAA.1.56

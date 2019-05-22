@@ -1,0 +1,10 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	A103	1	pos	78.079934	P9Z3W410 O0 18O	[(M+H)]+ (18O)	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	104.10699	P9Z5W414 O	[(2M+H)-(J15LM6O)]+	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	153.148348	P92Z6W419 O 18O	[(2M+H)]+ (18O)	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	173.126049	P92Z6W418 Na O2	[(2M+Na)]+	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	59.06848	U213P9ZW48 O0	[(M+H)-(H2O)]+ (13C)	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	75.063395	U213P9ZW48 O	[(2M+H)-(J19L3M6)-(H2O)]+ (13C)	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	99.05467	P90Z3W49 15N Na O	[(M+Na)]+ (15N)	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	58.065125	P9Z3W48 O0	[(M+H)-(H2O)]+	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13
+50	A103	1	pos	115.122974	P92Z6W415 O0	[(2M+H)-2(H2O)]+	colpp	1.13	J19L3M6O	75.06841	6-α-jusdecarotine	min	A103.pos.colpp.1.13

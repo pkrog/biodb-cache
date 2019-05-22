@@ -1,0 +1,10 @@
+peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
+50	T1078	1	pos	435.256283	P92Z18W438 Na O7 18O	[(2M+Na)]+ (18O)	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	436.259638	U1713P92ZW438 Na O7 18O	[(2M+Na)]+ (13C) (18O)	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	206.138685	P9Z9W420 O4	[(M+H)]+	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	204.123035	P9Z9W418 O4	[(M+H)-(H2)]+	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	77.079045	U213P9ZW410 O	[(M+H)-(C6H10O3)]+ (13C)	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	207.13572	P90Z9W420 15N O4	[(M+H)]+ (15N)	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	170.117555	P9Z9W416 O2	[(M+H)-2(H2O)]+	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	208.142929	P9Z9W420 O3 18O	[(M+H)]+ (18O)	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
+50	T1078	1	pos	228.12063	P9Z9W419 Na O4	[(M+Na)]+	colAA	10.94	J119L9M6O4	205.13141	Canapenol	min	T1078.pos.colAA.10.94
