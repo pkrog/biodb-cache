@@ -1,3 +1,5 @@
 *.zip
 *.gz
 longterm
+shortterm/mass.sqlite-*
+shortterm/mass.csv.file-*

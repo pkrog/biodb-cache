@@ -1,4 +1,0 @@
-peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
-50	J89	1	neg	256.138387	U1113P92ZW419 O4	[(2M-H)-(H2)]- (13C)	colzz	5.26	J111L6M6O2	129.07898	Zopic acid;Chababacid	min	J89.neg.colzz.5.26
-50	J89	1	neg	332.033978	P9Z9W413 Na3 O8	[(M-H)+3(HCOONa)]-	colzz	5.26	J111L6M6O2	129.07898	Zopic acid;Chababacid	min	J89.neg.colzz.5.26
-50	J89	1	neg	349.124296	P92Z13W421 Na2 O5 18O	[(2M-2H+Na)+(HCOONa)]- (18O)	colzz	5.26	J111L6M6O2	129.07898	Zopic acid;Chababacid	min	J89.neg.colzz.5.26

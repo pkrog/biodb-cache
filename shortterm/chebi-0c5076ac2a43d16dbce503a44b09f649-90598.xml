@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:90598</chebiId><chebiAsciiName>L-aspartic acid alpha-methyl ester residue</chebiAsciiName><definition>An amino acid residue derived from aspartic acid alpha-methyl ester.</definition><status>CHECKED</status><smiles>N([C@@H](CC(*)=O)C(OC)=O)*</smiles><charge>0</charge><mass>129.114</mass><monoisotopicMass>129.04259</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-beta-isoaspartate alpha-methyl ester residue</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Formulae><data>C5H7NO3</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Ketcher 12091514452D 1   1.00000     0.00000     0
+
+ 11 10  0     0  0            999 V2000
+    5.1784  -25.7496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0445  -25.2496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106  -25.7496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0445  -24.2496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7765  -25.2496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3126  -25.2496    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106  -23.7496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1784  -23.7496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6426  -25.7496    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7765  -24.2496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106  -22.7497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0     0  0
+  2  3  1  0     0  0
+  2  4  1  6     0  0
+  3  5  1  0     0  0
+  1  6  1  0     0  0
+  4  7  1  0     0  0
+  4  8  2  0     0  0
+  5  9  1  0     0  0
+  5 10  2  0     0  0
+  7 11  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>PROTEIN-L-BETA-ISOSPARTATE-METHYL-ESTERS</data><type>MetaCyc accession</type></DatabaseLinks><OntologyParents><chebiName>amino-acid residue</chebiName><chebiId>CHEBI:33708</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

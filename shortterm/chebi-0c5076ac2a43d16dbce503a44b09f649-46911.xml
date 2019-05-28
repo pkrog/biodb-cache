@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:46911</chebiId><chebiAsciiName>L-ornithinium(1+)</chebiAsciiName><definition>A polar amino acid zwitterion of L-ornithine.</definition><status>CHECKED</status><smiles>[NH3+]CCC[C@H]([NH3+])C([O-])=O</smiles><inchi>InChI=1S/C5H12N2O2/c6-3-1-2-4(7)5(8)9/h4H,1-3,6-7H2,(H,8,9)/p+1/t4-/m0/s1</inchi><inchiKey>AHLPHDHHMVZTML-BYPYZUCNSA-O</inchiKey><charge>+1</charge><mass>133.16900</mass><monoisotopicMass>133.09715</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-ornithine</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>L-ornithine monocation</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>L-ornithinium(1+)</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>(2S)-2,5-diammoniopentanoate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>L-ornithinium</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H13N2O2</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  10180717242D          
+
+  9  8  0  0  0  0            999 V2000
+    0.4763   -1.0083    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4763   -0.1833    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2382    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9526   -0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6671    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3816   -0.1833    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1908    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1908    1.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053   -0.1833    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  CHG  3   1   1   6   1   9  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>polar amino acid zwitterion</chebiName><chebiId>CHEBI:62031</chebiId><type>is a</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-ornithine</chebiName><chebiId>CHEBI:15729</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>ornithinium(1+)</chebiName><chebiId>CHEBI:46912</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-ornithinium(2+)</chebiName><chebiId>CHEBI:44667</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>L-ornithinium(2+)</chebiName><chebiId>CHEBI:44667</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-ornithine</chebiName><chebiId>CHEBI:15729</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

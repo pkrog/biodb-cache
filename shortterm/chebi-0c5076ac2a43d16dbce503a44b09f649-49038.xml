@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:49038</chebiId><chebiAsciiName>L-methionyl group</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>132.20504</mass><monoisotopicMass>132.04831</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:43976</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:32633</SecondaryChEBIIds><Synonyms><data>L-Methionine</data><type>SYNONYM</type><source>PDBeChem</source></Synonyms><Synonyms><data>L-methionyl</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>Met-</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>(2S)-2-amino-4-(methylsulfanyl)butanoyl</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H10NOS</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  11090611132D          
+
+  9  8  0  0  1  0            999 V2000
+    1.1908    1.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1908    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053   -0.1833    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4763   -0.1833    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4763   -1.0083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2382    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9526   -0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6671    0.2292    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3816   -0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>MET_LSN3</data><type>PDBeChem accession</type></DatabaseLinks><OntologyParents><chebiName>L-methioniniumyl group</chebiName><chebiId>CHEBI:64731</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-terminal proteinogenic amino-acid residue</chebiName><chebiId>CHEBI:33716</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>methionyl group</chebiName><chebiId>CHEBI:37902</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-methionyl group</chebiName><chebiId>CHEBI:32640</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-methionine</chebiName><chebiId>CHEBI:16643</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>L-methioniniumyl group</chebiName><chebiId>CHEBI:64731</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>N-formyl-L-methionyl group</chebiName><chebiId>CHEBI:49298</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-methionyl group</chebiName><chebiId>CHEBI:32640</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

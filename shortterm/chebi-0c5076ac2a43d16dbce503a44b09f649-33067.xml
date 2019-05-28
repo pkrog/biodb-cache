@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:33067</chebiId><chebiAsciiName>1H-indol-5-amine</chebiAsciiName><definition>An indolamine carrying an amino group at position 5.</definition><status>CHECKED</status><smiles>Nc1ccc2[nH]ccc2c1</smiles><inchi>InChI=1S/C8H8N2/c9-7-1-2-8-6(5-7)3-4-10-8/h1-5,10H,9H2</inchi><inchiKey>ZCBIFHNDZBSCEP-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.16250</mass><monoisotopicMass>132.06875</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>5-aminoindole</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>indol-5-ylamine</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>1H-indol-5-amine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H8N2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>112348</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>112348</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>5192-03-0</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>5192-03-0</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>18947830</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>9225290</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 02101415392D          
+
+ 10 11  0  0  0  0            999 V2000
+    8.0359   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3214   -0.8838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3214   -1.7088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0359   -2.1213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7504   -1.7088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7504   -0.8838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5350   -1.9637    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0199   -1.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5350   -0.6289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6070   -0.4713    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+ 10  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  9  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>indolamine</chebiName><chebiId>CHEBI:50395</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

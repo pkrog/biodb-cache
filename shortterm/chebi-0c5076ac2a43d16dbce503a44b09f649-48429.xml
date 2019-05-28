@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:48429</chebiId><chebiAsciiName>N-formyl-L-aspartic acid</chebiAsciiName><definition>A N-formyl amino acid that is the N-formyl-derivative of L-aspartic acid.</definition><status>CHECKED</status><smiles>[H]C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C5H7NO5/c7-2-6-3(5(10)11)1-4(8)9/h2-3H,1H2,(H,6,7)(H,8,9)(H,10,11)/t3-/m0/s1</inchi><inchiKey>MQUUQXIFCBBFDP-VKHMYHEASA-N</inchiKey><charge>0</charge><mass>161.11282</mass><monoisotopicMass>161.03242</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:7277</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:21709</SecondaryChEBIIds><Synonyms><data>N-Formyl-L-aspartate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>N-formyl-L-aspartic acid</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S)-2-(formylamino)butanedioic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>N-formyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H7NO5</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>1725498</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>1725498</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>19427-28-2</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>3308850</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>5823108</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  02040816202D          
+
+ 12 11  0  0  1  0            999 V2000
+    0.0000    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  3 10  1  0  0  0  0
+  4  1  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  1  1  0  0  0  0
+  5  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  7  2  1  0  0  0  0
+ 12  7  2  0  0  0  0
+  8  4  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C01044</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>EP1013663</data><type>Patent accession</type></DatabaseLinks><OntologyParents><chebiName>mouse metabolite</chebiName><chebiId>CHEBI:75771</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-acyl-L-aspartic acid</chebiName><chebiId>CHEBI:21647</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-formyl-L-aspartate(2-)</chebiName><chebiId>CHEBI:16923</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-formyl amino acid</chebiName><chebiId>CHEBI:50759</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>N-formyl-L-aspartate(2-)</chebiName><chebiId>CHEBI:16923</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Mus musculus</speciesText><speciesAccession>NCBI:10090</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>19425150</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

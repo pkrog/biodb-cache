@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:125498</chebiId><chebiAsciiName>1,2,3,4-tetrahydroisoquinoline</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1CNCC2=CC=CC=C21</smiles><inchi>InChI=1S/C9H11N/c1-2-4-9-7-10-6-5-8(9)3-1/h1-4,10H,5-7H2</inchi><inchiKey>UWYZHKAOTLEWKK-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.191</mass><monoisotopicMass>133.08915</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C9H11N</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161911
+null
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10  5  1  0  0  0  0 
+ 10  1  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-37002</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>isoquinolines</chebiName><chebiId>CHEBI:24922</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

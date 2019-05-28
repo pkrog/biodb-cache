@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:22662</chebiId><chebiAsciiName>asparto group</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>132.09478</mass><monoisotopicMass>132.02968</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(1,2-dicarboxyethyl)amino</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><IupacNames><data>asparto</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H6NO4</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>ChEBI
+  Marvin  10180512322D          
+
+ 10  9  0  0  0  0            999 V2000
+   20.1493   -6.7210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4349   -6.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4349   -5.4836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7204   -6.7211    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   18.7204   -7.5460    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0060   -6.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2915   -6.7211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5770   -6.3086    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2915   -7.5461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4349   -7.9585    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 10  5  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>alkylamino group</chebiName><chebiId>CHEBI:22332</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>aspartic acid</chebiName><chebiId>CHEBI:22660</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>D-asparto group</chebiName><chebiId>CHEBI:32469</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-asparto group</chebiName><chebiId>CHEBI:32465</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

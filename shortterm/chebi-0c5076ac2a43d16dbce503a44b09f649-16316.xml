@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:16316</chebiId><chebiAsciiName>N-hydroxy-L-aspartic 1-amide</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>N[C@@H](CC(O)=O)C(=O)NO</smiles><inchi>InChI=1S/C4H8N2O4/c5-2(1-3(7)8)4(9)6-10/h2,10H,1,5H2,(H,6,9)(H,7,8)/t2-/m0/s1</inchi><inchiKey>GBEKONQCRZCCRM-REOHCLBHSA-N</inchiKey><charge>0</charge><mass>148.11740</mass><monoisotopicMass>148.04841</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:6197</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:13089</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:21250</SecondaryChEBIIds><Synonyms><data>L-Aspartylhydroxamate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>N-hydroxy-L-alpha-asparagine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-hydroxy-L-aspartic acid 1-amide</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>(3S)-3-amino-4-(hydroxyamino)-4-oxobutanoic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>N-hydroxy-L-aspartic 1-amide</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H8N2O4</data><source>KEGG COMPOUND</source></Formulae><ChemicalStructures><structure>
+  Marvin  04140813452D          
+ 
+ 10  9  0  0  1  0            999 V2000
+    0.7145    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2357    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  8  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 10  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>L-aspartic 1-amide</chebiName><chebiId>CHEBI:21248</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxamic acid</chebiName><chebiId>CHEBI:24650</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

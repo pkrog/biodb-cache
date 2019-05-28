@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:51997</chebiId><chebiAsciiName>2,2'-biimidazole</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>C1=NC(N=C1)=C1N=CC=N1</smiles><inchi>InChI=1S/C6H4N4/c1-2-8-5(7-1)6-9-3-4-10-6/h1-4H</inchi><inchiKey>HVEHTNLSYGZELD-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.12280</mass><monoisotopicMass>132.04360</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>2,2'-biimidazole</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H4N4</data><source>ChEBI</source></Formulae><RegistryNumbers><data>7915354</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  02260912182D          
+
+ 10 11  0  0  0  0            999 V2000
+   -0.6674   -0.8974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674   -0.8974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674    0.8974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6674    0.8974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  9  2  0  0  0  0
+  1  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8 10  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  6  5  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>fulvalenes</chebiName><chebiId>CHEBI:51995</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

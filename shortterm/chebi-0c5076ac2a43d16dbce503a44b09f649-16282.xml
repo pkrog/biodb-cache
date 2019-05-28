@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:16282</chebiId><chebiAsciiName>2-ureidoglycine</chebiAsciiName><definition>Allantoic acid in which one of the aminocarbonyl groups is replaced by hydrogen.</definition><status>CHECKED</status><smiles>NC(NC(N)=O)C(O)=O</smiles><inchi>InChI=1S/C3H7N3O3/c4-1(2(7)8)6-3(5)9/h1H,4H2,(H,7,8)(H3,5,6,9)</inchi><inchiKey>VTFWFHCECSOPSX-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.10610</mass><monoisotopicMass>133.04874</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:9890</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:15294</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:27222</SecondaryChEBIIds><Synonyms><data>(+-)-2-(carbamoylamino)glycine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(+-)-2-ureidoglycine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>(+-)-amino(carbamoylamino)acetic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>amino(carbamoylamino)acetic acid</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>Ureidoglycine</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>2-(carbamoylamino)glycine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C3H7N3O3</data><source>KEGG COMPOUND</source></Formulae><ChemicalStructures><structure>
+  Marvin  11220711332D          
+
+  9  8  0  0  0  0            999 V2000
+    1.4289   -0.1650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1650    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.2475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  2  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C02091</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>2-ureidoglycine zwitterion</chebiName><chebiId>CHEBI:57714</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>non-proteinogenic alpha-amino acid</chebiName><chebiId>CHEBI:83925</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>ureas</chebiName><chebiId>CHEBI:47857</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2-ureidoglycine zwitterion</chebiName><chebiId>CHEBI:57714</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>(S)-2-ureidoglycine</chebiName><chebiId>CHEBI:59945</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

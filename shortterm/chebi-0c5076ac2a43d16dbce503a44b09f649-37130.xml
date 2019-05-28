@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:37130</chebiId><chebiAsciiName>caeside</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>[Cs-]</smiles><inchi>InChI=1S/Cs/q-1</inchi><inchiKey>NFFJFSFVERDMBQ-UHFFFAOYSA-N</inchiKey><charge>-1</charge><mass>132.90545</mass><monoisotopicMass>132.90600</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>Cd(-)</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><IupacNames><data>caeside</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>caeside(-I)</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>caeside(1-)</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>Cs</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  11210615362D          
+
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cs  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>monoatomic monoanion</chebiName><chebiId>CHEBI:33429</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>caesium molecular entity</chebiName><chebiId>CHEBI:37128</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

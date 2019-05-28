@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:142415</chebiId><chebiAsciiName>3-hydroxy-L-valine</chebiAsciiName><definition>A hydroxy-L-valine which carries a hydroxy group at position 3.</definition><status>CHECKED</status><smiles>C(=O)(O)[C@@H](N)C(C)(C)O</smiles><inchi>InChI=1S/C5H11NO3/c1-5(2,9)3(6)4(7)8/h3,9H,6H2,1-2H3,(H,7,8)/t3-/m1/s1</inchi><inchiKey>LDRFQSZFVGJGGP-GSVOUGTGSA-N</inchiKey><charge>0</charge><mass>133.146</mass><monoisotopicMass>133.07389</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S)-2-amino-3-hydroxy-3-methylbutanoic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>3-hydroxyvaline</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>3-OH-Val</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>beta-hydroxy-L-valine</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>3-hydroxy-L-valine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H11NO3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1722369</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>2280-27-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>21124508</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 10101811002D 1   1.00000     0.00000     0
+
+  9  8  0     1  0            999 V2000
+   13.1434   -6.6854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2773   -7.1854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4112   -6.6854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4112   -5.6853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5453   -7.1854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2773   -8.1854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0094   -7.1854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1434   -5.6853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5452   -6.1853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0     0  0
+  7  1  1  0     0  0
+  2  1  1  0     0  0
+  2  6  1  1     0  0
+  3  2  1  0     0  0
+  4  3  1  0     0  0
+  3  5  1  0     0  0
+  3  9  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>non-proteinogenic L-alpha-amino acid</chebiName><chebiId>CHEBI:83822</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxy-L-valine</chebiName><chebiId>CHEBI:61139</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>fungal metabolite</chebiName><chebiId>CHEBI:76946</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>3-hydroxy-L-valine residue</chebiName><chebiId>CHEBI:141793</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Pleurocybella porrigens</speciesText><speciesAccession>NCBI:71910</speciesAccession><SourceType>Article</SourceType><SourceAccession>Aoyagi, Y. and Sugahara, T. (1988) β-hydroxy-l-valine from Pleurocybella porrigens. Phytochemistry, 27(10). 3306-3307.</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Pleurocybella porrigens</speciesText><speciesAccession>NCBI:71910</speciesAccession><SourceType>Article</SourceType><SourceAccession>Kawaguchi, T., Suzuki, T., Kobayashi, Y., Kodani, S., Hirai, H., Nagai, K. and Kawagishi, H. (2010) Unusual amino acid derivatives from the mushroom Pleurocybella porrigens. Tetrahedron, 66(2), 504-507.</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

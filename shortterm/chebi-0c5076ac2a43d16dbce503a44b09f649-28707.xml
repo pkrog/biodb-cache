@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:28707</chebiId><chebiAsciiName>ethyl (R)-3-hydroxybutanoate</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>CCOC(=O)C[C@@H](C)O</smiles><inchi>InChI=1S/C6H12O3/c1-3-9-6(8)4-5(2)7/h5,7H,3-4H2,1-2H3/t5-/m1/s1</inchi><inchiKey>OMSUIQOIVADKIM-RXMQYKEDSA-N</inchiKey><charge>0</charge><mass>132.15768</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:23985</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:4889</SecondaryChEBIIds><Synonyms><data>ethyl (3R)-3-hydroxybutanoate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Ethyl (R)-3-hydroxybutanoate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C6H12O3</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>1721368</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>ChEBI
+  Marvin  11170611502D          
+
+  9  8  0  0  1  0            999 V2000
+    6.4511   -3.5398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7353   -3.9501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0196   -3.5398    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3039   -3.9501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4511   -2.7096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0196   -2.7096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1668   -3.9501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8813   -3.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5957   -3.9501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  7  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C03499</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>ethyl 3-hydroxybutyrate</chebiName><chebiId>CHEBI:87685</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>(R)-3-hydroxybutyric acid</chebiName><chebiId>CHEBI:17066</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

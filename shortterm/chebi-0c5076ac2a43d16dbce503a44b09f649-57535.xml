@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:57535</chebiId><chebiAsciiName>4-phosphonato-L-aspartic acid(2-)</chebiAsciiName><definition>Dianionic form of 4-phosphonato-L-aspartic acid having carboxylic acid and phosphate functions in anionic form and a protonated nitrogen.</definition><status>CHECKED</status><smiles>[NH3+][C@@H](CC(=O)OP([O-])([O-])=O)C([O-])=O</smiles><inchi>InChI=1S/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/p-2/t2-/m0/s1</inchi><inchiKey>IXZNKTPIYKDIGG-REOHCLBHSA-L</inchiKey><charge>-2</charge><mass>211.06670</mass><monoisotopicMass>210.98929</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S)-2-ammonio-4-oxo-4-(phosphonatooxy)butanoate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>4-phospho-L-aspartate</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S)-2-azaniumyl-4-oxo-4-(phosphonatooxy)butanoate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H6NO7P</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>(2S)-2-azaniumyl-4-oxo-4-(phosphonatooxy)butanoate
+  CDK    2/12/10,15:26
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+   17.2649  -15.6536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6925  -15.2411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8359  -16.4786    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4070  -16.4786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5505  -14.4160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8359  -15.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4070  -15.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5505  -15.2411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1215  -15.2411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9780  -15.6536    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2636  -16.0661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3906  -16.3680    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5655  -14.9391    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0 
+  6  3  1  1  0  0  0 
+  7  2  1  0  0  0  0 
+  7  4  2  0  0  0  0 
+  8  5  2  0  0  0  0 
+  8  6  1  0  0  0  0 
+  9  6  1  0  0  0  0 
+  9  7  1  0  0  0  0 
+ 11 10  2  0  0  0  0 
+ 12 10  1  0  0  0  0 
+ 13 10  1  0  0  0  0 
+  2 10  1  0  0  0  0 
+M  CHG  1   1  -1
+M  CHG  1   3   1
+M  CHG  1  12  -1
+M  CHG  1  13  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>organophosphate oxoanion</chebiName><chebiId>CHEBI:58945</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>4-phospho-L-aspartic acid</chebiName><chebiId>CHEBI:15836</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>4-phospho-L-aspartic acid</chebiName><chebiId>CHEBI:15836</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

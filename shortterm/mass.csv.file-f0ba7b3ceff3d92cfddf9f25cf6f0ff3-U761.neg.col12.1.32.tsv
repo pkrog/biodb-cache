@@ -1,6 +1,0 @@
-peak.relative.intensity	compound.id	ms.level	ms.mode	peak.mztheo	peak.comp	peak.attr	chrom.col.name	chrom.rt	formula	molecular.mass	name	chrom.rt.unit	accession
-50	U761	1	neg	168.049572	U613P92ZW47 O3	[(M-H)+(HCOOH)]- (13C)	col12	1.32	J16L6M62O	122.04801	Coquelicol;Paquerettol	min	U761.neg.col12.1.32
-50	U761	1	neg	167.046217	P92Z7W47 O3	[(M-H)+(HCOOH)]-	col12	1.32	J16L6M62O	122.04801	Coquelicol;Paquerettol	min	U761.neg.col12.1.32
-50	U761	1	neg	122.044092	U513P92ZW45 O	[(M-H)]- (13C)	col12	1.32	J16L6M62O	122.04801	Coquelicol;Paquerettol	min	U761.neg.col12.1.32
-50	U761	1	neg	119.025087	P92Z6W43 O	[(M-H)-(H2)]-	col12	1.32	J16L6M62O	122.04801	Coquelicol;Paquerettol	min	U761.neg.col12.1.32
-50	U761	1	neg	121.040737	P92Z6W45 O	[(M-H)]-	col12	1.32	J16L6M62O	122.04801	Coquelicol;Paquerettol	min	U761.neg.col12.1.32

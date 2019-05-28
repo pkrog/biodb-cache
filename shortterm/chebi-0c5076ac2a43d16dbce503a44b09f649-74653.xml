@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:74653</chebiId><chebiAsciiName>3-thio-L-aspartic acid</chebiAsciiName><definition>A sulfur-containing amino acid that is L-aspartic acid substituted at position 3 by a thio (sulfanyl) group.</definition><status>CHECKED</status><smiles>N[C@@H](C(S)C(O)=O)C(O)=O</smiles><inchi>InChI=1S/C4H7NO4S/c5-1(3(6)7)2(10)4(8)9/h1-2,10H,5H2,(H,6,7)(H,8,9)/t1-,2?/m0/s1</inchi><inchiKey>MWUQQPGZOPQTIX-PIKHSQJKSA-N</inchiKey><charge>0</charge><mass>165.16800</mass><monoisotopicMass>165.00958</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>3-mercapto-L-aspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>3-sulfanyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H7NO4S</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  07101317062D          
+
+ 10  9  0  0  1  0            999 V2000
+   12.8673   -5.4216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8673   -4.5966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1528   -5.8341    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.1528   -6.6591    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4384   -5.4216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7239   -5.8341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0094   -5.4216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7239   -6.6591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5818   -5.8340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4384   -4.5966    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  1  0  0  0
+  5  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>C4-dicarboxylic acid</chebiName><chebiId>CHEBI:66873</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>sulfur-containing amino acid</chebiName><chebiId>CHEBI:26834</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>thiol</chebiName><chebiId>CHEBI:29256</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid derivative</chebiName><chebiId>CHEBI:83978</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>amino dicarboxylic acid</chebiName><chebiId>CHEBI:36164</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>non-proteinogenic L-alpha-amino acid</chebiName><chebiId>CHEBI:83822</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>3-thio-L-aspartic acid residue</chebiName><chebiId>CHEBI:74652</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>3-methylthioaspartic acid</chebiName><chebiId>CHEBI:73621</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

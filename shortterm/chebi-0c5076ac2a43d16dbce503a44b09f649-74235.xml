@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:74235</chebiId><chebiAsciiName>isoindolin-1-one</chebiAsciiName><definition>A member of the class of isoindoles that is  2,3-dihydro-1H-isoindole in which the hydrogens at positon 1 are replaced by an oxo group.</definition><status>CHECKED</status><smiles>O=C1NCc2ccccc12</smiles><inchi>InChI=1S/C8H7NO/c10-8-7-4-2-1-3-6(7)5-9-8/h1-4H,5H2,(H,9,10)</inchi><inchiKey>PXZQEOJJUGGUIB-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.14730</mass><monoisotopicMass>133.05276</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1-oxo-isoindoline</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>2,3-dihydro-1H-isoindol-1-one</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2,3-dihydro-3-oxo-1H-isoindole</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>dihydro-isoindol-1-one</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>isoindolin-1-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H7NO</data><source>ChEBI</source></Formulae><RegistryNumbers><data>115010</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>480-91-1</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  06201316232D          
+
+ 10 11  0  0  0  0            999 V2000
+   15.5740   -8.5730    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2981   -8.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2981   -8.1629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0841   -9.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0841   -7.9009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5805   -7.7414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5805   -9.3931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8743   -8.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8743   -8.1629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3461   -7.1150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  5  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  7  2  2  0  0  0  0
+  3  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  3  2  0  0  0  0
+ 10  5  2  0  0  0  0
+  9  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>isoindoles</chebiName><chebiId>CHEBI:24897</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>gamma-lactam</chebiName><chebiId>CHEBI:74222</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

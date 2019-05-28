@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:74332</chebiId><chebiAsciiName>Leu-Asp</chebiAsciiName><definition>A dipeptide formed from L-leucine and L-aspartic acid residues.</definition><status>CHECKED</status><smiles>CC(C)C[C@H](N)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><charge>0</charge><mass>246.26030</mass><monoisotopicMass>246.12157</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-Leu-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>LD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Leucyl-Aspartate</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>leucylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-leucyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H18N2O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1728618</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  06251315322D          
+
+ 17 16  0  0  1  0            999 V2000
+    6.2702   -5.0643    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6991   -5.0642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9845   -3.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9846   -4.6518    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.6991   -5.8892    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2666   -3.4128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4133   -4.6516    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8423   -4.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1276   -5.8892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1277   -5.0642    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.8423   -3.8268    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5564   -5.0643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8419   -6.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2663   -2.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5523   -3.8256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8417   -7.1269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5565   -5.8896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  2  0  0  0  0
+  7  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  1  1  1  0  0  0
+  3  6  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 12  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10  7  1  6  0  0  0
+  9 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028925</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

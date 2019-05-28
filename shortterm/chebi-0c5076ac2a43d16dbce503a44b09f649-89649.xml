@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:89649</chebiId><chebiAsciiName>5-hydroxyindole</chebiAsciiName><definition>A member of the class of hydroxyindoles that is 1H-indole in which the hydrogen at position 5 has been replaced by a hydroxy group.</definition><status>CHECKED</status><smiles>C=1C=C2C(C=CN2)=CC1O</smiles><inchi>InChI=1S/C8H7NO/c10-7-1-2-8-6(5-7)3-4-9-8/h1-5,9-10H</inchi><inchiKey>LMIQERWZRIFWNZ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.148</mass><monoisotopicMass>133.05276</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>5-hydroxy-1H-indole</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>indol-5-ol</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>1H-indol-5-ol</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H7NO</data><source>ChEBI</source></Formulae><RegistryNumbers><data>112349</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>1953-54-4</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>1953-54-4</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>21784895</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24029555</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>5294372</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>5294373</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 02161711312D 1   1.00000     0.00000     0
+
+ 10 11  0     0  0            999 V2000
+   22.0877  -13.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9538  -14.2245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7709  -12.4156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3586  -13.2245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9538  -12.2245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8197  -12.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0877  -12.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8197  -13.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7709  -14.0334    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2216  -12.2245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0     0  0
+  4  3  2  0     0  0
+  6  3  1  0     0  0
+  6  5  2  0     0  0
+  7  1  2  0     0  0
+  7  5  1  0     0  0
+  8  2  2  0     0  0
+  8  6  1  0     0  0
+  9  4  1  0     0  0
+  9  8  1  0     0  0
+ 10  7  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>CPD-16174</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0059805</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>hydroxyindoles</chebiName><chebiId>CHEBI:84729</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>human metabolite</chebiName><chebiId>CHEBI:77746</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>faeces</componentText><componentAccession>UBERON:0001988</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>24029555</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>blood</componentText><componentAccession>UBERON:0000178</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21784895</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:89440</chebiId><chebiAsciiName>3-Methyl sulfolene</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1S(CC=C1C)(=O)=O</smiles><inchi>InChI=1S/C5H8O2S/c1-5-2-3-8(6,7)4-5/h2H,3-4H2,1H3</inchi><inchiKey>FAYFWMOSHFCQPG-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.182</mass><monoisotopicMass>132.02450</monoisotopicMass><entityStar>2</entityStar><IupacNames><data>3-methyl-2,5-dihydro-1$l^{6}-thiophene-1,1-dione</data><type>IUPAC NAME</type><source>HMDB</source></IupacNames><Formulae><data>C5H8O2S</data><source>HMDB</source></Formulae><Citations><data>19244436</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24023812</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  CDK     1023151746
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -0.6482    0.5480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3627    0.9605    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3627    1.7855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0662    1.7855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0662    0.9605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1877    0.9605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7752    0.2461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7807    0.5480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  1  5  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  2  6  2  0  0  0  0 
+  2  7  2  0  0  0  0 
+  5  8  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0059667</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>organosulfur heterocyclic compound</chebiName><chebiId>CHEBI:38106</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>urine</componentText><componentAccession>BTO:0001419</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>24023812</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>
