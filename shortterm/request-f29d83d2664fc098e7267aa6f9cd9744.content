@@ -211,7 +211,7 @@ function btn(bobj,img) { bobj.src = "/Fig/bget/button_" + img + ".gif"; }
 ]
   
 <table id="description" cellpadding="10" width="800" style="display: none;"><tr><td>
-Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:<a href="/dbget-bin/www_bget?md:M00020">M00020</a>], and glycine is derived from serine. Threonine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, threonine is derived from aspartate [MD:<a href="/dbget-bin/www_bget?md:M00018">M00018</a>].</td></tr></table>
+Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:<a href="/kegg-bin/show_module?M00020">M00020</a>], and glycine is derived from serine. Threonine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, threonine is derived from aspartate [MD:<a href="/kegg-bin/show_module?M00018">M00018</a>].</td></tr></table>
 <table><tr><td>
 <form name="selmenu" method="get">
 <select name="org_name">
@@ -236,7 +236,10 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="cjc">Callithrix jacchus (white-tufted-ear marmoset)</option>
 <option value="sbq">Saimiri boliviensis boliviensis (Bolivian squirrel monkey)</option>
 <option value="mmu">Mus musculus (mouse)</option>
+<option value="mcal">Mus caroli (Ryukyu mouse)</option>
+<option value="mpah">Mus pahari (shrew mouse)</option>
 <option value="rno">Rattus norvegicus (rat)</option>
+<option value="mun">Meriones unguiculatus (Mongolian gerbil)</option>
 <option value="cge">Cricetulus griseus (Chinese hamster)</option>
 <option value="ngi">Nannospalax galili (Upper Galilee mountains blind mole rat)</option>
 <option value="hgl">Heterocephalus glaber (naked mole rat)</option>
@@ -244,8 +247,10 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ocu">Oryctolagus cuniculus (rabbit)</option>
 <option value="tup">Tupaia chinensis (Chinese tree shrew)</option>
 <option value="cfa">Canis familiaris (dog)</option>
+<option value="vvp">Vulpes vulpes (red fox)</option>
 <option value="aml">Ailuropoda melanoleuca (giant panda)</option>
 <option value="umr">Ursus maritimus (polar bear)</option>
+<option value="uah">Ursus arctos horribilis</option>
 <option value="oro">Odobenus rosmarus divergens (Pacific walrus)</option>
 <option value="fca">Felis catus (domestic cat)</option>
 <option value="ptg">Panthera tigris altaica (Amur tiger)</option>
@@ -253,6 +258,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bta">Bos taurus (cow)</option>
 <option value="bom">Bos mutus (wild yak)</option>
 <option value="biu">Bos indicus (zebu cattle)</option>
+<option value="bbub">Bubalus bubalis (water buffalo)</option>
 <option value="phd">Pantholops hodgsonii (chiru)</option>
 <option value="chx">Capra hircus (goat)</option>
 <option value="oas">Ovis aries (sheep)</option>
@@ -262,18 +268,22 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bacu">Balaenoptera acutorostrata scammoni (minke whale)</option>
 <option value="lve">Lipotes vexillifer (Yangtze River dolphin)</option>
 <option value="oor">Orcinus orca (killer whale)</option>
+<option value="dle">Delphinapterus leucas (beluga whale)</option>
 <option value="ecb">Equus caballus (horse)</option>
 <option value="epz">Equus przewalskii (Przewalski's horse)</option>
 <option value="eai">Equus asinus (ass)</option>
 <option value="myb">Myotis brandtii (Brandt's bat)</option>
 <option value="myd">Myotis davidii</option>
+<option value="mna">Miniopterus natalensis</option>
 <option value="hai">Hipposideros armiger (great roundleaf bat)</option>
 <option value="rss">Rhinolophus sinicus (Chinese rufous horseshoe bat)</option>
+<option value="dro">Desmodus rotundus (common vampire bat)</option>
 <option value="pale">Pteropus alecto (black flying fox)</option>
 <option value="lav">Loxodonta africana (African savanna elephant)</option>
 <option value="tmu">Trichechus manatus latirostris (Florida manatee)</option>
 <option value="mdo">Monodelphis domestica (opossum)</option>
 <option value="shr">Sarcophilus harrisii (Tasmanian devil)</option>
+<option value="pcw">Phascolarctos cinereus (koala)</option>
 <option value="oaa">Ornithorhynchus anatinus (platypus)</option>
 <option value="gga">Gallus gallus (chicken)</option>
 <option value="mgp">Meleagris gallopavo (turkey)</option>
@@ -281,6 +291,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="apla">Anas platyrhynchos (mallard)</option>
 <option value="acyg">Anser cygnoides domesticus (swan goose)</option>
 <option value="tgu">Taeniopygia guttata (zebra finch)</option>
+<option value="lsr">Lonchura striata domestica (Bengalese finch)</option>
 <option value="scan">Serinus canaria (common canary)</option>
 <option value="gfr">Geospiza fortis (medium ground-finch)</option>
 <option value="fab">Ficedula albicollis (collared flycatcher)</option>
@@ -288,6 +299,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="pmaj">Parus major (Great Tit)</option>
 <option value="ccae">Cyanistes caeruleus (blue tit)</option>
 <option value="ccw">Corvus cornix (hooded crow)</option>
+<option value="etl">Empidonax traillii (willow flycatcher)</option>
 <option value="fpg">Falco peregrinus (peregrine falcon)</option>
 <option value="fch">Falco cherrug (Saker falcon)</option>
 <option value="clv">Columba livia (rock pigeon)</option>
@@ -324,6 +336,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="mze">Maylandia zebra (zebra mbuna)</option>
 <option value="ola">Oryzias latipes (Japanese medaka)</option>
 <option value="xma">Xiphophorus maculatus (southern platyfish)</option>
+<option value="xco">Xiphophorus couchianus (Monterrey platyfish)</option>
 <option value="pret">Poecilia reticulata (guppy)</option>
 <option value="nfu">Nothobranchius furzeri (turquoise killifish)</option>
 <option value="kmr">Kryptolebias marmoratus (mangrove rivulus)</option>
@@ -357,6 +370,9 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="dya">Drosophila yakuba</option>
 <option value="dgr">Drosophila grimshawi</option>
 <option value="dmo">Drosophila mojavensis</option>
+<option value="daz">Drosophila arizonae</option>
+<option value="dnv">Drosophila navojoa</option>
+<option value="dhe">Drosophila hydei</option>
 <option value="dvi">Drosophila virilis</option>
 <option value="mde">Musca domestica (house fly)</option>
 <option value="aga">Anopheles gambiae (mosquito)</option>
@@ -391,6 +407,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="pxy">Plutella xylostella (diamondback moth)</option>
 <option value="api">Acyrthosiphon pisum (pea aphid)</option>
 <option value="dnx">Diuraphis noxia (Russian wheat aphid)</option>
+<option value="ags">Aphis gossypii (cotton aphid)</option>
 <option value="clec">Cimex lectularius (bed bug)</option>
 <option value="phu">Pediculus humanus corporis (human body louse)</option>
 <option value="zne">Zootermopsis nevadensis</option>
@@ -401,12 +418,13 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="dpte">Dermatophagoides pteronyssinus (European house dust mite)</option>
 <option value="cel">Caenorhabditis elegans (nematode)</option>
 <option value="cbr">Caenorhabditis briggsae</option>
-<option value="nai">Necator americanus</option>
 <option value="bmy">Brugia malayi (filaria)</option>
 <option value="loa">Loa loa (eye worm)</option>
+<option value="nai">Necator americanus</option>
 <option value="tsp">Trichinella spiralis</option>
 <option value="hro">Helobdella robusta</option>
 <option value="lgi">Lottia gigantea (owl limpet)</option>
+<option value="pcan">Pomacea canaliculata (golden apple snail)</option>
 <option value="crg">Crassostrea gigas (Pacific oyster)</option>
 <option value="myi">Mizuhopecten yessoensis (Yesso scallop)</option>
 <option value="obi">Octopus bimaculoides</option>
@@ -471,6 +489,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="mesc">Manihot esculenta (cassava)</option>
 <option value="pop">Populus trichocarpa (black cottonwood)</option>
 <option value="jre">Juglans regia (English walnut)</option>
+<option value="qsu">Quercus suber (cork oak)</option>
 <option value="vvi">Vitis vinifera (wine grape)</option>
 <option value="sly">Solanum lycopersicum (tomato)</option>
 <option value="spen">Solanum pennellii</option>
@@ -479,6 +498,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="nta">Nicotiana tabacum (common tobacco)</option>
 <option value="nsy">Nicotiana sylvestris</option>
 <option value="nto">Nicotiana tomentosiformis</option>
+<option value="nau">Nicotiana attenuata</option>
 <option value="ini">Ipomoea nil (Japanese morning glory)</option>
 <option value="sind">Sesamum indicum (sesame)</option>
 <option value="oeu">Olea europaea var. sylvestris (wild olive)</option>
@@ -551,7 +571,6 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="yli">Yarrowia lipolytica</option>
 <option value="clu">Clavispora lusitaniae ATCC 42720</option>
 <option value="clus">Clavispora lusitaniae CBS 6936</option>
-<option value="caur">Candida auris</option>
 <option value="slb">Sugiyamaella lignohabitans</option>
 <option value="ncr">Neurospora crassa</option>
 <option value="nte">Neurospora tetrasperma</option>
@@ -846,7 +865,6 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="exf">Enterobacter hormaechei subsp. xiangfangensis</option>
 <option value="ecla">Enterobacter hormaechei subsp. hoffmannii ECNIH3</option>
 <option value="eclc">Enterobacter hormaechei subsp. hoffmannii ECR091</option>
-<option value="eas">Enterobacter asburiae LF7a</option>
 <option value="eau">Enterobacter asburiae L1</option>
 <option value="ekb">Enterobacter kobei</option>
 <option value="eec">Enterobacter ludwigii EcWSU1</option>
@@ -854,6 +872,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ecan">Enterobacter cancerogenus</option>
 <option value="ern">Enterobacter roggenkampii</option>
 <option value="ecls">Enterobacter cloacae complex sp. 35734</option>
+<option value="eas">Enterobacter soli</option>
 <option value="enr">Enterobacter sp. R4-368</option>
 <option value="enx">Enterobacter sp. E20</option>
 <option value="enf">Enterobacter sp. FY-07</option>
@@ -909,6 +928,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ear">Klebsiella aerogenes EA1509E</option>
 <option value="kqv">Klebsiella quasivariicola</option>
 <option value="kll">Klebsiella sp. LTGPAF-6F</option>
+<option value="klw">Klebsiella sp. WCHKl090001</option>
 <option value="cko">Citrobacter koseri</option>
 <option value="cro">Citrobacter rodentium</option>
 <option value="cfd">Citrobacter freundii</option>
@@ -921,6 +941,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="cfar">Citrobacter farmeri</option>
 <option value="cir">Citrobacter sp. CFNIH10</option>
 <option value="cie">Citrobacter sp. CRE-46</option>
+<option value="cpar">Citrobacter pasteurii</option>
 <option value="gqu">Gibbsiella quercinecans</option>
 <option value="bfl">Candidatus Blochmannia floridanus (Camponotus floridanus)</option>
 <option value="bpn">Candidatus Blochmannia pennsylvanicus (Camponotus pennsylvanicus)</option>
@@ -1214,6 +1235,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ass">Actinobacillus suis ATCC 33415</option>
 <option value="aeu">Actinobacillus equuli</option>
 <option value="apor">Actinobacillus porcitonsillarum</option>
+<option value="aio">Actinobacillus indolicus</option>
 <option value="aap">Aggregatibacter aphrophilus NJ8700</option>
 <option value="aaz">Aggregatibacter aphrophilus W10433</option>
 <option value="aat">Aggregatibacter actinomycetemcomitans D11S-1</option>
@@ -1473,6 +1495,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="psil">Pseudomonas silesiensis</option>
 <option value="pym">Pseudomonas yamanorum</option>
 <option value="pade">Candidatus Pseudomonas adelgestsugas (Adelges tsugae)</option>
+<option value="psed">Pseudomonas sp. R2A2</option>
 <option value="avn">Azotobacter vinelandii DJ</option>
 <option value="avl">Azotobacter vinelandii CA</option>
 <option value="avd">Azotobacter vinelandii CA6</option>
@@ -1515,7 +1538,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="alc">Acinetobacter lactucae</option>
 <option value="acal">Acinetobacter calcoaceticus</option>
 <option value="acd">Acinetobacter oleivorans</option>
-<option value="aci">Acinetobacter sp. ADP1</option>
+<option value="aci">Acinetobacter baylyi</option>
 <option value="att">Acinetobacter sp. TTH0-4</option>
 <option value="aei">Acinetobacter equi</option>
 <option value="ajo">Acinetobacter johnsonii</option>
@@ -1569,6 +1592,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="smav">Shewanella marisflavi</option>
 <option value="shew">Shewanella sp. WE21</option>
 <option value="salg">Shewanella algae</option>
+<option value="slj">Shewanella livingstonensis</option>
 <option value="ilo">Idiomarina loihiensis L2TR</option>
 <option value="ili">Idiomarina loihiensis GSL 199</option>
 <option value="ipi">Idiomarina piscisalsi</option>
@@ -1581,6 +1605,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="cola">Colwellia sp. Arc7-D</option>
 <option value="cber">Colwellia beringensis</option>
 <option value="lsd">Litorilituus sediminis</option>
+<option value="tht">Thalassotalea sp. HSM 43</option>
 <option value="pha">Pseudoalteromonas haloplanktis</option>
 <option value="pat">Pseudoalteromonas atlantica</option>
 <option value="psm">Pseudoalteromonas sp. SM9913</option>
@@ -1600,6 +1625,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="png">Pseudoalteromonas nigrifaciens</option>
 <option value="ptd">Pseudoalteromonas tetraodonis</option>
 <option value="psen">Pseudoalteromonas sp. NC201</option>
+<option value="pdj">Pseudoalteromonas donghaensis</option>
 <option value="maq">Marinobacter hydrocarbonoclasticus VT8</option>
 <option value="mhc">Marinobacter hydrocarbonoclasticus ATCC 49840</option>
 <option value="mad">Marinobacter adhaerens</option>
@@ -1632,6 +1658,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="aaw">Alteromonas addita</option>
 <option value="alr">Alteromonas sp. RKMC-009</option>
 <option value="ale">Alteromonas sp. Mac1</option>
+<option value="alz">Alteromonas sp. Mac2</option>
 <option value="gag">Glaciecola sp. 4H-3-7+YE-5</option>
 <option value="gni">Glaciecola nitratireducens</option>
 <option value="gps">Paraglaciecola psychrophila</option>
@@ -1684,12 +1711,14 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="les">Legionella endosymbiont of Polyplax serrata</option>
 <option value="lsh">Legionella sainthelensi</option>
 <option value="llg">Legionella lansingensis</option>
+<option value="lib">Legionella israelensis</option>
 <option value="tmc">Tatlockia micdadei</option>
 <option value="mca">Methylococcus capsulatus</option>
 <option value="mmt">Methylomonas methanica</option>
 <option value="mdn">Methylomonas denitrificans</option>
 <option value="mdh">Methylomonas sp. DH-1</option>
 <option value="mko">Methylomonas koyamae</option>
+<option value="metl">Methylomonas sp. LW13</option>
 <option value="mah">Methylomicrobium alcaliphilum</option>
 <option value="mpsy">Methylovulum psychrotolerans</option>
 <option value="mmai">Methylocaldum marinum</option>
@@ -1750,6 +1779,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="noc">Nitrosococcus oceani</option>
 <option value="nhl">Nitrosococcus halophilus</option>
 <option value="nwa">Nitrosococcus watsonii</option>
+<option value="nwr">Nitrosococcus wardiae</option>
 <option value="alv">Allochromatium vinosum</option>
 <option value="tvi">Thiocystis violascens</option>
 <option value="tmb">Thioflavicoccus mobilis</option>
@@ -1757,6 +1787,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="tee">Candidatus Tenderia electrophaga</option>
 <option value="ntt">Candidatus Nitrosoglobus terrae</option>
 <option value="tsy">Candidatus Thiodictyon syntrophicum</option>
+<option value="rhh">Rheinheimera sp. D18</option>
 <option value="aeh">Alkalilimnicola ehrlichii</option>
 <option value="hha">Halorhodospira halophila</option>
 <option value="hhc">Halorhodospira halochloris</option>
@@ -1774,6 +1805,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="wma">Wenzhouxiangella marina</option>
 <option value="woc">Woeseia oceani</option>
 <option value="gai">Granulosicoccus antarcticus</option>
+<option value="ttc">Thiohalobacter thiocyanaticus</option>
 <option value="hch">Hahella chejuensis</option>
 <option value="hahe">Hahella sp. KA22</option>
 <option value="csa">Chromohalobacter salexigens</option>
@@ -1790,6 +1822,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="hag">Halomonas sp. GFAJ-1</option>
 <option value="haf">Halomonas sp. SF2003</option>
 <option value="halk">Halomonas alkaliphila</option>
+<option value="hvn">Halomonas venusta</option>
 <option value="ple">Candidatus Portiera aleyrodidarum BT-B</option>
 <option value="ply">Candidatus Portiera aleyrodidarum BT-B-HRs</option>
 <option value="plr">Candidatus Portiera aleyrodidarum BT-QVLC</option>
@@ -1853,6 +1886,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="aem">Aeromonas sp. CU5</option>
 <option value="aea">Aeromonas sp. ASNIH3</option>
 <option value="arv">Aeromonas rivipollensis</option>
+<option value="aes">Aeromonas sp. ASNIH5</option>
 <option value="tau">Tolumonas auensis</option>
 <option value="oce">Oceanimonas sp. GK1</option>
 <option value="ocm">Oceanisphaera avium</option>
@@ -1875,7 +1909,6 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="thin">Candidatus Thioglobus sp. NP1</option>
 <option value="tho">Candidatus Thioglobus autotrophicus</option>
 <option value="pspi">Pseudohongiella spirulinae</option>
-<option value="ttc">Thiohalobacter thiocyanaticus</option>
 <option value="rma">Candidatus Ruthia magnifica (Calyptogena magnifica)</option>
 <option value="vok">Candidatus Vesicomyosocius okutanii (Calyptogena okutanii)</option>
 <option value="ebh">Endosymbiont of Bathymodiolus septemdierum</option>
@@ -1907,6 +1940,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="nsi">Neisseria sicca</option>
 <option value="nmj">Neisseria mucosa</option>
 <option value="nei">Neisseria sp. 10023</option>
+<option value="nek">Neisseria sp. KEM232</option>
 <option value="salv">Snodgrassella alvi</option>
 <option value="kki">Kingella kingae</option>
 <option value="vff">Vitreoscilla filiformis</option>
@@ -2043,7 +2077,6 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bxe">Paraburkholderia xenovorans LB400</option>
 <option value="bxb">Paraburkholderia xenovorans LB400</option>
 <option value="bph">Paraburkholderia phymatum</option>
-<option value="brh">Paraburkholderia rhizoxinica</option>
 <option value="bpx">Paraburkholderia phenoliruptrix</option>
 <option value="bpy">Paraburkholderia phytofirmans</option>
 <option value="bfn">Paraburkholderia fungorum</option>
@@ -2056,6 +2089,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="pgp">Paraburkholderia graminis</option>
 <option value="pcj">Paraburkholderia caledonica</option>
 <option value="pts">Paraburkholderia terricola</option>
+<option value="brh">Paraburkholderia rhizoxinica</option>
 <option value="pnu">Polynucleobacter asymbioticus</option>
 <option value="pne">Polynucleobacter necessarius</option>
 <option value="pdq">Polynucleobacter duraquae</option>
@@ -2127,6 +2161,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="odi">Orrella dioscoreae</option>
 <option value="our">Oligella urethralis</option>
 <option value="pig">Pigmentiphaga sp. H8</option>
+<option value="kgy">Kerstersia gyiorum</option>
 <option value="rfr">Rhodoferax ferrireducens</option>
 <option value="rsb">Rhodoferax saidenbachensis</option>
 <option value="rac">Rhodoferax antarcticus</option>
@@ -2186,11 +2221,13 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="jaz">Janthinobacterium sp. 1_2014MBL_MicDiv</option>
 <option value="jal">Janthinobacterium sp. LM6</option>
 <option value="jsv">Janthinobacterium svalbardensis</option>
+<option value="jaj">Janthinobacterium sp. 17J80-10</option>
 <option value="hse">Herbaspirillum seropedicae SmR1</option>
 <option value="hsz">Herbaspirillum seropedicae Z67</option>
 <option value="hht">Herbaspirillum hiltneri</option>
 <option value="hrb">Herbaspirillum rubrisubalbicans</option>
 <option value="hee">Herbaspirillum sp. meg3</option>
+<option value="hhf">Herbaspirillum huttiense</option>
 <option value="zin">Candidatus Zinderia insecticola</option>
 <option value="cfu">Collimonas fungivorans</option>
 <option value="care">Collimonas arenae</option>
@@ -2201,6 +2238,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="masz">Massilia armeniaca</option>
 <option value="mtim">Massilia oculi</option>
 <option value="masy">Massilia sp. YMA4</option>
+<option value="mali">Massilia albidiflava</option>
 <option value="ofo">Oxalobacter formigenes</option>
 <option value="upv">Undibacterium parvum</option>
 <option value="sutt">Sutterella megalosphaeroides</option>
@@ -2422,12 +2460,14 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="cavi">Campylobacter avium</option>
 <option value="chw">Campylobacter hepaticus</option>
 <option value="camz">Campylobacter sp. RM12175</option>
+<option value="camy">Campylobacter sp. RM6137</option>
 <option value="abu">Arcobacter butzleri RM4018</option>
 <option value="abt">Arcobacter butzleri ED-1</option>
 <option value="abl">Arcobacter butzleri 7h1h</option>
 <option value="ant">Arcobacter nitrofigilis</option>
 <option value="ask">Arcobacter skirrowii</option>
 <option value="ahs">Arcobacter halophilus</option>
+<option value="amyt">Arcobacter mytili</option>
 <option value="arc">Arcobacter sp. L</option>
 <option value="alp">Arcobacter sp. LPB0137</option>
 <option value="sdl">Sulfurospirillum deleyianum</option>
@@ -2531,6 +2571,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bbw">Bdellovibrio bacteriovorus W</option>
 <option value="bbac">Bdellovibrio bacteriovorus 109J</option>
 <option value="bex">Bdellovibrio exovorus</option>
+<option value="bdq">Bdellovibrio sp. qaytius</option>
 <option value="bmx">Halobacteriovorax marinus</option>
 <option value="hax">Halobacteriovorax sp. BALOs_7</option>
 <option value="bsto">Bacteriovorax stolpii</option>
@@ -2637,6 +2678,8 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="mamo">Mesorhizobium amorphae</option>
 <option value="meso">Mesorhizobium sp. B7</option>
 <option value="mesw">Mesorhizobium sp. WSM1497</option>
+<option value="mesm">Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2</option>
+<option value="mesp">Mesorhizobium sp. Pch-S</option>
 <option value="mes">Chelativorans sp. BNC1</option>
 <option value="hoe">Hoeflea sp. IMCC20628</option>
 <option value="aak">Aminobacter aminovorans</option>
@@ -2671,6 +2714,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="agr">Agrobacterium sp. H13-3</option>
 <option value="agc">Agrobacterium sp. RAC06</option>
 <option value="aro">Agrobacterium rhizogenes</option>
+<option value="agt">Agrobacterium sp. 33MFTa1.1</option>
 <option value="ret">Rhizobium etli CFN 42</option>
 <option value="rec">Rhizobium etli CIAT 652</option>
 <option value="rel">Rhizobium etli bv. mimosae Mim1</option>
@@ -2692,6 +2736,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="rhv">Rhizobium sp. S41</option>
 <option value="rhk">Rhizobium sp. Kim5</option>
 <option value="rez">Rhizobium esperanzae</option>
+<option value="rjg">Rhizobium jaguaris</option>
 <option value="ngl">Neorhizobium galegae bv. officinalis bv. officinalis HAMBI 1141</option>
 <option value="ngg">Neorhizobium galegae bv. orientalis HAMBI 540</option>
 <option value="neo">Neorhizobium sp. SOG26</option>
@@ -2765,6 +2810,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="brk">Bradyrhizobium sp. SK17</option>
 <option value="bot">Bradyrhizobium ottawaense</option>
 <option value="brq">Bradyrhizobium sp. 2 39S1MB</option>
+<option value="bgq">Bradyrhizobium guangdongense</option>
 <option value="rpa">Rhodopseudomonas palustris CGA009</option>
 <option value="rpb">Rhodopseudomonas palustris HaA2</option>
 <option value="rpc">Rhodopseudomonas palustris BisB18</option>
@@ -2822,6 +2868,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="metd">Methylobacterium sp. DM1</option>
 <option value="metx">Methylobacterium sp. XJLW</option>
 <option value="mets">Methylobacterium sp. 17SD2-17</option>
+<option value="meti">Methylobacterium sp. 17Sr1-43</option>
 <option value="moc">Microvirga ossetica</option>
 <option value="miv">Microvirga sp. 17 mud 1-3</option>
 <option value="bid">Beijerinckia indica</option>
@@ -2865,6 +2912,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="chq">Caulobacter henricii</option>
 <option value="cmb">Caulobacter mirabilis</option>
 <option value="cfh">Caulobacter flavus</option>
+<option value="cauf">Caulobacter sp. FWC26</option>
 <option value="pzu">Phenylobacterium zucineum</option>
 <option value="phb">Phenylobacterium sp. HYN0004</option>
 <option value="bsb">Brevundimonas subvibrioides</option>
@@ -2941,6 +2989,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="sulz">Sulfitobacter sp. SK012</option>
 <option value="suli">Sulfitobacter sp. JL08</option>
 <option value="suld">Sulfitobacter sp. D7</option>
+<option value="sdo">Sulfitobacter donghicola</option>
 <option value="don">Donghicola sp. JLT3646</option>
 <option value="tpro">Salipiger profundus</option>
 <option value="tom">Tateyamaria omphalii</option>
@@ -2959,6 +3008,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="salo">Silicimonas algicola</option>
 <option value="sedi">Sedimentitalea sp. W43</option>
 <option value="hml">Haematobacter massiliensis</option>
+<option value="boo">Boseongicola sp. CCM32</option>
 <option value="rbz">Rhodobacteraceae bacterium G7</option>
 <option value="mmr">Maricaulis maris</option>
 <option value="hne">Hyphomonas neptunium</option>
@@ -3024,7 +3074,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="spyg">Sphingobium sp. YG1</option>
 <option value="cij">Citromicrobium sp. JL477</option>
 <option value="sphg">Sphingorhabdus sp. M41</option>
-<option value="sfla">Sphingorhabdus flavimaris</option>
+<option value="sfla">Sphingorhabdus sp. SMR4y</option>
 <option value="sphy">Sphingorhabdus sp. YGSMI21</option>
 <option value="blas">Blastomonas sp. RAC04</option>
 <option value="bfw">Blastomonas fulva</option>
@@ -3107,6 +3157,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ahu">Azospirillum humicireducens</option>
 <option value="azt">Azospirillum sp. TSH58</option>
 <option value="azm">Azospirillum sp. M2T2B2</option>
+<option value="azz">Azospirillum sp. CFH 70021</option>
 <option value="tmo">Tistrella mobilis</option>
 <option value="thal">Candidatus Endolissoclinum faulkneri L2</option>
 <option value="efk">Candidatus Endolissoclinum faulkneri L5</option>
@@ -3271,6 +3322,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bmur">Bacillus muralis</option>
 <option value="bsaf">Bacillus safensis</option>
 <option value="bit">Bacillus intestinalis</option>
+<option value="bacq">Bacillus sp. Y1</option>
 <option value="oih">Oceanobacillus iheyensis</option>
 <option value="ocn">Oceanobacillus sp. 160</option>
 <option value="gka">Geobacillus kaustophilus</option>
@@ -3515,6 +3567,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="paih">Paenibacillus sp. IHB B 3084</option>
 <option value="pvo">Paenibacillus vortex</option>
 <option value="plw">Paenibacillus lautus</option>
+<option value="plen">Paenibacillus lentus</option>
 <option value="tco">Thermobacillus composti</option>
 <option value="anx">Aneurinibacillus sp. XH2</option>
 <option value="asoc">Aneurinibacillus soli</option>
@@ -3541,6 +3594,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="plx">Planococcus sp. MB-3u-03</option>
 <option value="jeo">Jeotgalibacillus malaysiensis</option>
 <option value="kur">Kurthia sp. 11kri321</option>
+<option value="kzo">Kurthia zopfii</option>
 <option value="spsy">Sporosarcina psychrophila</option>
 <option value="spor">Sporosarcina sp. P33</option>
 <option value="spop">Sporosarcina sp. P37</option>
@@ -3548,6 +3602,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="spos">Sporosarcina sp. PTS2304</option>
 <option value="rst">Rummeliibacillus stabekisii</option>
 <option value="paek">Paenisporosarcina sp. K2R23-3</option>
+<option value="panc">Paenisporosarcina antarctica</option>
 <option value="ntr">Novibacillus thermophilus</option>
 <option value="lfb">Laceyella sacchari</option>
 <option value="tvu">Thermoactinomyces vulgaris</option>
@@ -3712,6 +3767,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="stra">Streptococcus sp. A12</option>
 <option value="strn">Streptococcus sp. NPS 308</option>
 <option value="ssob">Streptococcus sobrinus</option>
+<option value="srq">Streptococcus ruminantium</option>
 <option value="lpl">Lactobacillus plantarum WCFS1</option>
 <option value="lpj">Lactobacillus plantarum JDM1</option>
 <option value="lpt">Lactobacillus plantarum ZJ316</option>
@@ -3840,6 +3896,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="tkr">Tetragenococcus koreensis</option>
 <option value="vte">Vagococcus teuberi</option>
 <option value="vpi">Vagococcus penaei</option>
+<option value="vac">Vagococcus sp. CF-49</option>
 <option value="ooe">Oenococcus oeni</option>
 <option value="oen">Oenococcus sp. UCMA 16435</option>
 <option value="osi">Oenococcus sicerae</option>
@@ -3976,6 +4033,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="rto">Ruminococcus torques</option>
 <option value="bhan">Blautia hansenii</option>
 <option value="blau">Blautia sp. N6H1-15</option>
+<option value="bpro">Blautia producta</option>
 <option value="cpy">Lachnoclostridium phytofermentans</option>
 <option value="lacy">Lachnoclostridium sp. YL32</option>
 <option value="csh">Clostridium saccharolyticum WM1</option>
@@ -3985,6 +4043,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="hsd">Herbinix luporum</option>
 <option value="cpro">Anaerotignum propionicum</option>
 <option value="lua">Lachnoanaerobaculum umeaense</option>
+<option value="ehl">Anaerobutyricum hallii</option>
 <option value="ere">Eubacterium rectale ATCC 33656</option>
 <option value="ert">Eubacterium rectale DSM 17629</option>
 <option value="era">Eubacterium rectale M104/1</option>
@@ -4027,10 +4086,10 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="hmo">Heliobacterium modesticaldum</option>
 <option value="eel">Eubacterium eligens</option>
 <option value="elm">Eubacterium limosum</option>
-<option value="ehl">Eubacterium hallii</option>
 <option value="awo">Acetobacterium woodii</option>
 <option value="ova">Oscillibacter valericigenes</option>
 <option value="tmr">Thermaerobacter marianensis</option>
+<option value="thef">Thermaerobacter sp. FW80</option>
 <option value="say">Sulfobacillus acidophilus TPY</option>
 <option value="sap">Sulfobacillus acidophilus DSM 10332</option>
 <option value="cthm">Carboxydocella thermautotrophica</option>
@@ -4065,6 +4124,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="cki">Caldicellulosiruptor kristjanssonii</option>
 <option value="ckn">Caldicellulosiruptor kronotskyensis</option>
 <option value="clc">Caldicellulosiruptor lactoaceticus</option>
+<option value="ccha">Caldicellulosiruptor changbaiensis</option>
 <option value="toc">Thermosediminibacter oceani</option>
 <option value="ttm">Thermoanaerobacterium thermosaccharolyticum DSM 571</option>
 <option value="tto">Thermoanaerobacterium thermosaccharolyticum M0795</option>
@@ -4447,6 +4507,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="csph">Corynebacterium sphenisci</option>
 <option value="camg">Corynebacterium ammoniagenes</option>
 <option value="cmin">Corynebacterium minutissimum</option>
+<option value="cpeg">Corynebacterium pelargi</option>
 <option value="bfv">Brevibacterium flavum ZL-1</option>
 <option value="nfa">Nocardia farcinica IFM 10152</option>
 <option value="nfr">Nocardia farcinica NCTC11134</option>
@@ -4485,6 +4546,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="git">Gordonia iterans</option>
 <option value="gru">Gordonia rubripertincta</option>
 <option value="gom">Gordonia sp. MMS17-SY073</option>
+<option value="gav">Gordonia alkanivorans</option>
 <option value="tpr">Tsukamurella paurometabola</option>
 <option value="tsm">Tsukamurella tyrosinosolvens</option>
 <option value="srt">Segniliparus rotundus</option>
@@ -4591,12 +4653,13 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="rtc">Rathayibacter toxicus WAC3373</option>
 <option value="rtn">Rathayibacter tritici</option>
 <option value="rry">Rathayibacter rathayi</option>
+<option value="ria">Rathayibacter iranicus</option>
 <option value="cum">Curtobacterium sp. MR_MD2014</option>
 <option value="cub">Curtobacterium sp. BH-2-1-1</option>
 <option value="mvd">Microterricola viridarii</option>
 <option value="frp">Frondihabitans sp. PAMC 28766</option>
 <option value="agy">Agromyces aureus</option>
-<option value="agm">Agromyces sp. 30A</option>
+<option value="agm">Agromyces sp. MF30-A</option>
 <option value="agf">Agromyces sp. FW100M-8</option>
 <option value="cart">Cryobacterium arcticum</option>
 <option value="cry">Cryobacterium sp. LW097</option>
@@ -4713,6 +4776,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="tez">Tessaracoccus sp. T2.5-30</option>
 <option value="nca">Nocardioides sp. JS614</option>
 <option value="ndk">Nocardioides dokdonensis</option>
+<option value="noy">Nocardioides sp. MMS17-SY117</option>
 <option value="kfl">Kribbella flavida</option>
 <option value="psim">Pimelobacter simplex</option>
 <option value="aer">Aeromicrobium erythreum</option>
@@ -4741,6 +4805,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="kra">Kineococcus radiotolerans</option>
 <option value="sen">Saccharopolyspora erythraea</option>
 <option value="svi">Saccharomonospora viridis</option>
+<option value="sacc">Saccharomonospora sp. 31sw</option>
 <option value="amd">Amycolatopsis mediterranei U32</option>
 <option value="amn">Amycolatopsis mediterranei S699</option>
 <option value="amm">Amycolatopsis mediterranei S699</option>
@@ -4852,10 +4917,10 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="bcor">Bifidobacterium coryneforme</option>
 <option value="bka">Bifidobacterium kashiwanohense PV20-2</option>
 <option value="bks">Bifidobacterium kashiwanohense JCM 15439 = DSM 21854</option>
+<option value="bcat">Bifidobacterium catenulatum</option>
 <option value="bpsp">Bifidobacterium pseudolongum</option>
 <option value="bii">Bifidobacterium indicum</option>
 <option value="bang">Bifidobacterium angulatum</option>
-<option value="bcat">Bifidobacterium catenulatum</option>
 <option value="bpsc">Bifidobacterium pseudocatenulatum</option>
 <option value="bsca">Bifidobacterium scardovii</option>
 <option value="bact">Bifidobacterium actinocoloniiforme</option>
@@ -5196,6 +5261,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="sng">Simkania negevensis</option>
 <option value="ote">Opitutus terrae</option>
 <option value="obg">Lacunisphaera limnophila</option>
+<option value="vbh">Nibricoccus aquaticus HZ-65</option>
 <option value="obt">Opitutaceae bacterium TAV5</option>
 <option value="caa">Coraliomargarita akajimensis</option>
 <option value="amu">Akkermansia muciniphila</option>
@@ -5203,7 +5269,6 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="xii">Candidatus Xiphinematobacter sp. Idaho Grape</option>
 <option value="min">Methylacidiphilum infernorum</option>
 <option value="vba">Verrucomicrobia bacterium IMCC26134</option>
-<option value="vbh">Verrucomicrobia bacterium HZ-65</option>
 <option value="rba">Rhodopirellula baltica</option>
 <option value="psl">Pirellula staleyi</option>
 <option value="pir">Pirellula sp. SH-Sr6A</option>
@@ -5515,6 +5580,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="ccyn">Capnocytophaga cynodegmi</option>
 <option value="caph">Capnocytophaga sp. H4358</option>
 <option value="csto">Capnocytophaga stomatis</option>
+<option value="capq">Capnocytophaga sp. H2931</option>
 <option value="rbi">Robiginitalea biformata</option>
 <option value="zpr">Zunongwangia profunda</option>
 <option value="cat">Croceibacter atlanticus</option>
@@ -5528,6 +5594,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="marm">Maribacter sp. 1_2014MBL_MicDiv</option>
 <option value="mart">Maribacter sp. T28</option>
 <option value="marb">Maribacter cobaltidurans</option>
+<option value="mare">Maribacter sp. MJ134</option>
 <option value="cao">Cellulophaga algicola</option>
 <option value="cly">Cellulophaga lytica DSM 7489</option>
 <option value="clh">Cellulophaga lytica HI1</option>
@@ -5581,6 +5648,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="chrs">Chryseobacterium sp. 3008163</option>
 <option value="chrz">Chryseobacterium sp. 6424</option>
 <option value="carh">Chryseobacterium arthrosphaerae</option>
+<option value="csha">Chryseobacterium shandongense</option>
 <option value="win">Winogradskyella sp. PG-2</option>
 <option value="wij">Winogradskyella sp. J14-2</option>
 <option value="sze">Siansivirga zeaxanthinifaciens</option>
@@ -6013,6 +6081,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <option value="nvn">Nitrososphaera viennensis</option>
 <option value="nev">Candidatus Nitrososphaera evergladensis</option>
 <option value="taa">Candidatus Nitrosocosmicus oleophilus</option>
+<option value="nfn">Candidatus Nitrosocosmicus franklandus</option>
 <option value="ncv">Candidatus Nitrosocaldus cavascurensis</option>
 <option value="csu">Candidatus Caldiarchaeum subterraneum</option>
 <option value="nbv">Candidatus Nitrosopelagicus brevis</option>
@@ -6056,7 +6125,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 </td></tr></table>
 
 
-<img src="/tmp/mark_pathway15550616364494/map00260_1.04494.png" name="pathwayimage" name="pathwayimage" usemap="#mapdata" border="0" />
+<img src="/tmp/mark_pathway156034314711569/map00260_1.011569.png" name="pathwayimage" name="pathwayimage" usemap="#mapdata" border="0" />
 
 <map name="mapdata">
 <area shape=circle	coords=1079,930,4	href="/dbget-bin/www_bget?C16432"	title="C16432 (5-Hydroxyectoine)" onmouseover="popupTimer(&quot;C16432&quot;, &quot;C16432 (5-Hydroxyectoine)&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
@@ -6127,7 +6196,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <area shape=rect	coords=412,453,458,470	href="/dbget-bin/www_bget?K00542+2.1.1.2+R01883"	title="K00542 (GAMT), 2.1.1.2, R01883" />
 <area shape=rect	coords=380,184,426,201	href="/dbget-bin/www_bget?K00058+1.1.1.95+R01513"	title="K00058 (serA), 1.1.1.95, R01513" />
 <area shape=rect	coords=116,173,162,190	href="/dbget-bin/www_bget?K00018+K15893+1.1.1.29+R01388"	title="K00018 (hprA), K15893 (HPR1), 1.1.1.29, R01388" />
-<area shape=rect	coords=312,527,358,544	href="/dbget-bin/www_bget?K00315+1.5.8.4+R01565"	title="K00315 (DMGDH), 1.5.8.4, R01565" />
+<area shape=rect	coords=312,538,358,555	href="/dbget-bin/www_bget?K00315+1.5.8.4+R01565"	title="K00315 (DMGDH), 1.5.8.4, R01565" />
 <area shape=rect	coords=437,317,483,334	href="/dbget-bin/www_bget?K01697+K10150+4.2.1.22+R01290"	title="K01697 (CBS), K10150 (cysO), 4.2.1.22, R01290" />
 <area shape=rect	coords=437,381,483,398	href="/dbget-bin/www_bget?K01758+K17217+4.4.1.1+R01001"	title="K01758 (CTH), K17217 (mccB), 4.4.1.1, R01001" />
 <area shape=rect	coords=496,451,542,468	href="/dbget-bin/www_bget?K00613+2.1.4.1+R00565"	title="K00613 (GATM), 2.1.4.1, R00565" />
@@ -6187,6 +6256,7 @@ Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:
 <area shape=rect	coords=702,634,748,651	href="/dbget-bin/www_bget?K16066+1.1.1.381+R10851"	title="K16066 (ydfG), 1.1.1.381, R10851" />
 <area shape=rect	coords=600,694,646,711	href="/dbget-bin/www_bget?4.1.2.5+R00751"	title="4.1.2.5, 4.1.2.5, R00751" />
 <area shape=rect	coords=638,616,684,633	href="/dbget-bin/www_bget?K20801+4.1.2.49+R06171"	title="K20801 (ltaA), 4.1.2.49, R06171" />
+<area shape=rect	coords=312,517,358,534	href="/dbget-bin/www_bget?K00309+1.5.3.10+R01564"	title="K00309 (dmg), 1.5.3.10, R01564" />
 <area shape=rect	coords=130,913,273,947	href="/kegg-bin/show_pathway?map00250"	title="map00250: Alanine, aspartate and glutamate metabolism" onmouseover="popupTimer(&quot;map00250&quot;, &quot;map00250: Alanine, aspartate and glutamate metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
 <area shape=rect	coords=250,404,383,438	href="/kegg-bin/show_pathway?map00270"	title="map00270: Cysteine and methionine metabolism" onmouseover="popupTimer(&quot;map00270&quot;, &quot;map00270: Cysteine and methionine metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />
 <area shape=rect	coords=395,600,504,625	href="/kegg-bin/show_pathway?map00230"	title="map00230: Purine metabolism" onmouseover="popupTimer(&quot;map00230&quot;, &quot;map00230: Purine metabolism&quot;, &quot;#ffffff&quot;)" onmouseout="hideMapTn()" />

@@ -3,3 +3,10 @@
 longterm
 shortterm/mass.sqlite-*
 shortterm/mass.csv.file-*
+shortterm/nci.cactus-*
+shortterm/mirbase.mature-*
+!shortterm/mirbase.mature-*-MIMAT0000433.txt
+!shortterm/mirbase.mature-*-MIMAT0000434.txt
+!shortterm/nci.cactus-*-749674.sdf
+!shortterm/nci.cactus-*-750690.sdf
+!*.marker
