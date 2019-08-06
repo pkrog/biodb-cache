@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:35494</chebiId><chebiAsciiName>D-cystine</chebiAsciiName><definition>The D-enantiomer of cystine.</definition><status>CHECKED</status><smiles>N[C@H](CSSC[C@@H](N)C(O)=O)C(O)=O</smiles><inchi>InChI=1S/C6H12N2O4S2/c7-3(5(9)10)1-13-14-2-4(8)6(11)12/h3-4H,1-2,7-8H2,(H,9,10)(H,11,12)/t3-,4-/m1/s1</inchi><inchiKey>LEVWYRKDKASIDU-QWWZWVQMSA-N</inchiKey><charge>0</charge><mass>240.30256</mass><monoisotopicMass>240.02385</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S,2'S)-3,3'-dithiobis(2-aminopropanoic acid)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>cystine D-form</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>D-cystine</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S,2'S)-3,3'-disulfanediylbis(2-aminopropanoic acid)</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>D-cystine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H12N2O4S2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1728093</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>1728093</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>349-46-2</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  04250612262D          
+
+ 14 13  0  0  1  0            999 V2000
+    2.5076    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -0.2350    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5076    1.0025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3642   -0.2350    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0787    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2221   -0.2350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    0.1775    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4937   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    1.0025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3503    0.1775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0648   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2082    0.1775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  1  6  0  0  0
+  2  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  1  6  0  0  0
+  9 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>cystine</chebiName><chebiId>CHEBI:17376</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-cystine</chebiName><chebiId>CHEBI:16283</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>D-cystyl group</chebiName><chebiId>CHEBI:50049</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-cystine residue</chebiName><chebiId>CHEBI:50065</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-cystine</chebiName><chebiId>CHEBI:16283</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

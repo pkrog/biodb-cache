@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-04-03" modified="2019-05-08" version="65">
+<accession>Q2G1F3</accession>
+<name>Y172_STAA8</name>
+<protein>
+<recommendedName>
+<fullName>Uncharacterized protein SAOUHSC_00172</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="ordered locus">SAOUHSC_00172</name>
+</gene>
+<organism>
+<name type="scientific">Staphylococcus aureus (strain NCTC 8325)</name>
+<dbReference type="NCBI Taxonomy" id="93061"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Staphylococcaceae</taxon>
+<taxon>Staphylococcus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="book" date="2006" name="Gram positive pathogens, 2nd edition" first="381" last="412" publisher="ASM Press" city="Washington D.C.">
+<title>The Staphylococcus aureus NCTC 8325 genome.</title>
+<editorList>
+<person name="Fischetti V."/>
+<person name="Novick R."/>
+<person name="Ferretti J."/>
+<person name="Portnoy D."/>
+<person name="Rood J."/>
+</editorList>
+<authorList>
+<person name="Gillaspy A.F."/>
+<person name="Worrell V."/>
+<person name="Orvis J."/>
+<person name="Roe B.A."/>
+<person name="Dyer D.W."/>
+<person name="Iandolo J.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>NCTC 8325</strain>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell membrane</location>
+<topology evidence="2">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the staphylococcal tandem lipoprotein family.</text>
+</comment>
+<dbReference type="EMBL" id="CP000253">
+<property type="protein sequence ID" value="ABD29350.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000643616.1">
+<property type="nucleotide sequence ID" value="NZ_LS483365.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_498769.1">
+<property type="nucleotide sequence ID" value="NC_007795.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q2G1F3"/>
+<dbReference type="EnsemblBacteria" id="ABD29350">
+<property type="protein sequence ID" value="ABD29350"/>
+<property type="gene ID" value="SAOUHSC_00172"/>
+</dbReference>
+<dbReference type="GeneID" id="3919486"/>
+<dbReference type="KEGG" id="sao:SAOUHSC_00172"/>
+<dbReference type="PATRIC" id="fig|93061.5.peg.160"/>
+<dbReference type="HOGENOM" id="HOG000279738"/>
+<dbReference type="OMA" id="HYENNGQ"/>
+<dbReference type="BioCyc" id="GCF_000013425:G1I0R-160-MONOMER"/>
+<dbReference type="BioCyc" id="SAUR93061:G1G5Y-160-MONOMER"/>
+<dbReference type="PRO" id="PR:Q2G1F3"/>
+<dbReference type="Proteomes" id="UP000008816">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.50.20.40">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007595">
+<property type="entry name" value="Csa"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038641">
+<property type="entry name" value="Csa_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04507">
+<property type="entry name" value="DUF576"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01742">
+<property type="entry name" value="SA_tandem_lipo"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Uncharacterized protein SAOUHSC_00172" id="PRO_0000282088">
+<location>
+<begin position="1"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="6"/>
+<end position="26"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="257" mass="29677" checksum="872D7E001FF5BCDE" modified="2006-03-21" version="1">
+MKAHKIFWLNLAAIIIISIVVSGDMFLAMKWEQIHLKDGLKKVLSTYPIKNLETLYEIDG
+HDNPHYENNDQDTWYIESSYSVVGSDELLKEDRMLLKVDKNTHKITGEYDTTTNDRKNAT
+DSTYKSYPVKVVNNKIVFTKDVKDPALKQKIENNQFLIQSGDLTSILNSNDLKVTHDPTT
+DYYNLSGKLSNDNPNVKQLKRRYNIPKNASTKVELKGMSDLKGNNHQDQKLYFYFSSPGK
+DQIIYKESLTYNKISEH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

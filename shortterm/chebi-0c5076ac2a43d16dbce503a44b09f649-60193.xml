@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:60193</chebiId><chebiAsciiName>queuosine</chebiAsciiName><definition>A nucleoside found in tRNA that has an additional cyclopentenyl ring added via an NH group to the methyl group of 7-methyl-7-deazaguanosine. The cyclopentenyl ring may carry other substituents.</definition><status>CHECKED</status><smiles>Nc1nc2n(cc(CN[C@H]3C=C[C@H](O)[C@@H]3O)c2c(=O)[nH]1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O</smiles><inchi>InChI=1S/C17H23N5O7/c18-17-20-14-10(15(28)21-17)6(3-19-7-1-2-8(24)11(7)25)4-22(14)16-13(27)12(26)9(5-23)29-16/h1-2,4,7-9,11-13,16,19,23-27H,3,5H2,(H3,18,20,21,28)/t7-,8-,9+,11+,12+,13+,16+/m0/s1</inchi><inchiKey>QQXQGKSPIMGUIZ-AEZJAUAXSA-N</inchiKey><charge>0</charge><mass>409.39380</mass><monoisotopicMass>409.15975</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>Nucleoside Q</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>q</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Q (nucleoside)</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>2-amino-5-({[(1S,4S,5R)-4,5-dihydroxycyclopent-2-en-1-yl]amino}methyl)-7-(beta-D-ribofuranosyl)-1,7-dihydro-4H-pyrrolo[2,3-d]pyrimidin-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C17H23N5O7</data><source>ChEBI</source></Formulae><RegistryNumbers><data>57072-36-3</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>19285444</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19414587</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19925456</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20333371</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21487017</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>388227</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  09101010482D          
+
+ 29 32  0  0  1  0            999 V2000
+    0.9372   -1.0517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2227   -1.4642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9371   -2.7017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6516   -2.2892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6516   -1.4642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9212   -1.8768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4362   -2.5442    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6912   -3.3290    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2062   -3.9963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6911   -4.6639    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4361   -5.4485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9882   -6.0616    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4757   -4.4089    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1432   -4.8939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4758   -3.5839    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1432   -3.0990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2226   -2.2892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4919   -2.7017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9372   -0.2267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4362   -1.2093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6497   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4466   -0.1989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6601    1.9329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1752    1.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6601    0.5980    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4447    0.8530    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.4447    1.6779    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1592    0.4405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1592    2.0904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 19  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+ 20  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 25 22  1  1  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 26 28  1  6  0  0  0
+ 27 29  1  6  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0011596</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>7-deazaguanine ribonucleoside</chebiName><chebiId>CHEBI:50660</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>queuosine residue</chebiName><chebiId>CHEBI:64299</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>O-5''-beta-D-mannosylqueuosine</chebiName><chebiId>CHEBI:64306</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>O-5''-beta-D-galactosylqueuosine</chebiName><chebiId>CHEBI:64309</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

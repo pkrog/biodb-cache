@@ -1,0 +1,5 @@
+md:M00009	Citrate cycle (TCA cycle, Krebs cycle)
+md:M00010	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate
+md:M00011	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+md:M00173	Reductive citrate cycle (Arnon-Buchanan cycle)
+md:M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate

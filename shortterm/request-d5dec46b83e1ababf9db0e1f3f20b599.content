@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request string="75-07-0" representation="InChI">
+
+	
+	<data id="1" resolver="cas_number" string_class="CAS Registry Number" notation="75-07-0">	
+		
+			
+			<item id="1">InChI=1/C2H4O/c1-2-3/h2H,1H3</item>
+			
+			
+		
+	</data>	
+	
+	
+	
+
+</request>
+
+

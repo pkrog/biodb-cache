@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:116218</chebiId><chebiAsciiName>2-[[3-[2-(diethylamino)ethyl]-4-oxo-[1]benzothiolo[3,2-d]pyrimidin-2-yl]thio]-N-(phenylmethyl)acetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CCN(CC)CCN1C(=O)C2=C(C3=CC=CC=C3S2)N=C1SCC(=O)NCC4=CC=CC=C4</smiles><inchi>InChI=1S/C25H28N4O2S2/c1-3-28(4-2)14-15-29-24(31)23-22(19-12-8-9-13-20(19)33-23)27-25(29)32-17-21(30)26-16-18-10-6-5-7-11-18/h5-13H,3-4,14-17H2,1-2H3,(H,26,30)</inchi><inchiKey>ZEWFJYBVIKDCCU-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>480.649</mass><monoisotopicMass>480.16537</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C25H28N4O2S2</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161901
+null
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -2.6062   -0.0080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6062   -0.8330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8917   -1.2455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772   -0.8330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4628   -1.2455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8917   -2.0705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772   -2.4830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772   -3.3080    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8917   -3.7205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6062   -3.3080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8917   -4.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772   -4.9580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3488   -5.7650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8638   -6.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1994   -7.1861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0199   -7.2723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5048   -6.6049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1692   -5.8512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5048   -5.0976    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4628   -4.5455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4628   -3.7205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2517   -3.3080    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9662   -3.7205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6807   -3.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6807   -2.4830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3951   -3.7205    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1096   -3.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8241   -3.7205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5385   -3.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530   -3.7205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530   -4.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5385   -4.9580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8241   -4.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  3  6  1  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+  9 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 18 13  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 11  1  0  0  0  0 
+ 12 20  1  0  0  0  0 
+ 20 21  2  0  0  0  0 
+ 21  8  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 24 26  1  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 31 32  1  0  0  0  0 
+ 32 33  2  0  0  0  0 
+ 33 28  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-27674</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>organic heterobicyclic compound</chebiName><chebiId>CHEBI:27171</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organonitrogen heterocyclic compound</chebiName><chebiId>CHEBI:38101</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organosulfur heterocyclic compound</chebiName><chebiId>CHEBI:38106</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

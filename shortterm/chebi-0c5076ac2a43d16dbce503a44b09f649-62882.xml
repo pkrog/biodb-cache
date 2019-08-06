@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:62882</chebiId><chebiAsciiName>IWR-1-endo</chebiAsciiName><definition>A dicarboximide having an endo bridged phthalimide structure, substituted at nitrogen by a 4-(quinolin-8-ylcarbamoyl)benzoyl group.</definition><status>CHECKED</status><smiles>[C@@]12([C@H]3C=C[C@@H]([C@]1(C(N(C2=O)C=4C=CC(=CC4)C(NC=5C6=C(C=CC5)C=CC=N6)=O)=O)[H])C3)[H]</smiles><inchi>InChI=1S/C25H19N3O3/c29-23(27-19-5-1-3-14-4-2-12-26-22(14)19)15-8-10-18(11-9-15)28-24(30)20-16-6-7-17(13-16)21(20)25(28)31/h1-12,16-17,20-21H,13H2,(H,27,29)/t16-,17+,20-,21+</inchi><inchiKey>ZGSXEXBYLJIOGF-ALFLXDJESA-N</inchiKey><charge>0</charge><mass>409.438</mass><monoisotopicMass>409.14264</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>IRW1</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><IupacNames><data>4-[(3aR,4S,7R,7aS)-1,3-dioxo-1,3,3a,4,7,7a-hexahydro-2H-4,7-methanoisoindol-2-yl]-N-(quinolin-8-yl)benzamide</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C25H19N3O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>19908763</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>19125156</data><type>PubMed citation</type><source>SUBMITTER</source></Citations><Citations><data>19410457</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19759537</data><type>PubMed citation</type><source>SUBMITTER</source></Citations><Citations><data>25963533</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26141761</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26214410</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26549292</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 07061615152D 1   1.00000     0.00000     0
+
+ 33 38  0     1  0            999 V2000
+   16.7587  -16.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2608  -17.3531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2609  -15.6284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2650  -17.3531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2650  -15.6283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7671  -16.4906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7327  -16.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8367  -17.6881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9271  -18.0932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6991  -18.1861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4238  -19.1819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4237  -18.1862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5614  -19.6798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5614  -17.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6990  -19.1818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2861  -19.6799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1486  -19.1821    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1487  -18.1863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1491  -16.1947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0114  -16.6929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2867  -16.6926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0111  -17.6886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2864  -17.6884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8739  -16.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7361  -16.6934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8733  -18.1868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7358  -17.6892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2861  -20.6756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4727  -16.0316    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7201  -19.0672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3441  -15.6853    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8558  -18.2628    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1161  -16.6947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0     0  0
+  4  2  1  0     0  0
+  5  3  1  0     0  0
+  6  4  1  0     0  0
+  6  5  2  0     0  0
+  7  1  1  0     0  0
+  2  1  1  0     0  0
+  8  7  1  0     0  0
+  9  2  1  0     0  0
+  9  8  1  0     0  0
+  8 10  1  0     0  0
+ 12 11  1  0     0  0
+ 13 11  2  0     0  0
+ 14 12  2  0     0  0
+ 15 13  1  0     0  0
+ 10 14  1  0     0  0
+ 10 15  2  0     0  0
+ 11 16  1  0     0  0
+ 16 17  1  0     0  0
+ 17 18  1  0     0  0
+ 20 19  1  0     0  0
+ 21 19  2  0     0  0
+ 23 21  1  0     0  0
+ 18 22  1  0     0  0
+ 18 23  2  0     0  0
+ 24 20  1  0     0  0
+ 22 20  2  0     0  0
+ 25 24  2  0     0  0
+ 26 22  1  0     0  0
+ 27 25  1  0     0  0
+ 27 26  2  0     0  0
+ 16 28  2  0     0  0
+  7 29  2  0     0  0
+  9 30  2  0     0  0
+  1 31  1  1     0  0
+  2 32  1  1     0  0
+  3 33  1  1     0  0
+  4 33  1  1     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Ketcher 07061615152D 1   1.00000     0.00000     0
+
+ 33 38  0     1  0            999 V2000
+    7.9888  -16.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9888  -17.0781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1264  -15.5844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1264  -17.5760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2640  -16.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2640  -17.0781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9358  -15.7746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5211  -16.5802    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9359  -17.3859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5168  -16.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5084  -16.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0105  -17.4425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0105  -15.7178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0147  -17.4425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0147  -15.7178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5042  -16.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0022  -17.4425    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9979  -17.4425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9895  -17.4424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4916  -18.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4915  -16.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4958  -18.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4957  -16.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9895  -19.1672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4915  -20.0296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9978  -19.1670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4957  -20.0294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0020  -15.7178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2434  -14.8276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2437  -18.3329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0929  -15.0921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0929  -18.0684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5342  -16.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0     0  0
+  4  2  1  0     0  0
+  5  3  1  0     0  0
+  6  4  1  0     0  0
+  6  5  2  0     0  0
+  7  1  1  0     0  0
+  2  1  1  0     0  0
+  8  7  1  0     0  0
+  9  2  1  0     0  0
+  9  8  1  0     0  0
+  8 10  1  0     0  0
+ 12 11  1  0     0  0
+ 13 11  2  0     0  0
+ 14 12  2  0     0  0
+ 15 13  1  0     0  0
+ 10 14  1  0     0  0
+ 10 15  2  0     0  0
+ 11 16  1  0     0  0
+ 16 17  1  0     0  0
+ 17 18  1  0     0  0
+ 20 19  1  0     0  0
+ 21 19  2  0     0  0
+ 23 21  1  0     0  0
+ 18 22  1  0     0  0
+ 18 23  2  0     0  0
+ 24 20  1  0     0  0
+ 22 20  2  0     0  0
+ 25 24  2  0     0  0
+ 26 22  1  0     0  0
+ 27 25  1  0     0  0
+ 27 26  2  0     0  0
+ 16 28  2  0     0  0
+  7 29  2  0     0  0
+  9 30  2  0     0  0
+  1 31  1  1     0  0
+  2 32  1  1     0  0
+  3 33  1  1     0  0
+  4 33  1  1     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Ketcher 07061615152D 1   1.00000     0.00000     0
+
+ 33 38  0     1  0            999 V2000
+   16.1532  -16.6909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1532  -17.6867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2907  -16.1930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2907  -18.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4283  -16.6909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4283  -17.6867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1001  -16.3832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6854  -17.1888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1003  -17.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6812  -17.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6728  -17.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1748  -18.0511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1748  -16.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1790  -18.0511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1790  -16.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6686  -17.1886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1665  -18.0511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6688  -18.9135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6732  -20.6383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6690  -20.6382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1753  -19.7760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1667  -19.7758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6731  -18.9136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1671  -21.5005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1630  -21.5002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1625  -19.7754    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6605  -20.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1664  -16.3263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4078  -15.4362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4081  -18.9415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2573  -15.7007    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2573  -18.6770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6986  -17.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0     0  0
+  4  2  1  0     0  0
+  5  3  1  0     0  0
+  6  4  1  0     0  0
+  6  5  2  0     0  0
+  7  1  1  0     0  0
+  2  1  1  0     0  0
+  8  7  1  0     0  0
+  9  2  1  0     0  0
+  9  8  1  0     0  0
+  8 10  1  0     0  0
+ 12 11  1  0     0  0
+ 13 11  2  0     0  0
+ 14 12  2  0     0  0
+ 15 13  1  0     0  0
+ 10 14  1  0     0  0
+ 10 15  2  0     0  0
+ 11 16  1  0     0  0
+ 16 17  1  0     0  0
+ 17 18  1  0     0  0
+ 20 19  1  0     0  0
+ 21 19  2  0     0  0
+ 23 21  1  0     0  0
+ 18 22  1  0     0  0
+ 18 23  2  0     0  0
+ 24 20  1  0     0  0
+ 22 20  2  0     0  0
+ 25 24  2  0     0  0
+ 26 22  1  0     0  0
+ 27 25  1  0     0  0
+ 27 26  2  0     0  0
+ 16 28  2  0     0  0
+  7 29  2  0     0  0
+  9 30  2  0     0  0
+  1 31  1  1     0  0
+  2 32  1  1     0  0
+  3 33  1  1     0  0
+  4 33  1  1     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-5707</data><type>LINCS accession</type></DatabaseLinks><DatabaseLinks><data>WO2009155001</data><type>Patent accession</type></DatabaseLinks><OntologyParents><chebiName>Wnt signalling inhibitor</chebiName><chebiId>CHEBI:78031</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>quinolines</chebiName><chebiId>CHEBI:26513</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>benzamides</chebiName><chebiId>CHEBI:22702</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>axin stabilizer</chebiName><chebiId>CHEBI:62914</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dicarboximide</chebiName><chebiId>CHEBI:35356</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>bridged compound</chebiName><chebiId>CHEBI:35990</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

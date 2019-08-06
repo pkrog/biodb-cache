@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:111384</chebiId><chebiAsciiName>7-[4-[4-(2,5-dimethylphenyl)-1-piperazinyl]-4-oxobutyl]-6-sulfanylidene-5H-[1,3]dioxolo[4,5-g]quinazolin-8-one</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1=CC(=C(C=C1)C)N2CCN(CC2)C(=O)CCCN3C(=O)C4=CC5=C(C=C4NC3=S)OCO5</smiles><inchi>InChI=1S/C25H28N4O4S/c1-16-5-6-17(2)20(12-16)27-8-10-28(11-9-27)23(30)4-3-7-29-24(31)18-13-21-22(33-15-32-21)14-19(18)26-25(29)34/h5-6,12-14H,3-4,7-11,15H2,1-2H3,(H,26,34)</inchi><inchiKey>COLKKSSIWGXVIR-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>480.581</mass><monoisotopicMass>480.18313</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C25H28N4O4S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162334
+null
+ 34 38  0  0  0  0  0  0  0  0999 V2000
+   -5.7158    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3570   -1.4924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8419   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3570   -0.1576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  2  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  2  0  0  0  0 
+  7  2  1  0  0  0  0 
+  5  8  1  0  0  0  0 
+  4  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 14  9  1  0  0  0  0 
+ 12 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 15 17  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  2  0  0  0  0 
+ 21 23  1  0  0  0  0 
+ 23 24  2  0  0  0  0 
+ 24 25  1  0  0  0  0 
+ 25 26  2  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  2  0  0  0  0 
+ 28 23  1  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 20  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 26 32  1  0  0  0  0 
+ 32 33  1  0  0  0  0 
+ 33 34  1  0  0  0  0 
+ 34 25  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-22840</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>piperazines</chebiName><chebiId>CHEBI:26144</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

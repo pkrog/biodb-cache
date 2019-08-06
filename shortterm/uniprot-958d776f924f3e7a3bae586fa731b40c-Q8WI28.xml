@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-02-10" modified="2019-05-08" version="77">
+<accession>Q8WI28</accession>
+<name>ATPI_PSINU</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">ATP synthase subunit a, chloroplastic</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">ATP synthase F0 sector subunit a</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">F-ATPase subunit IV</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">atpI</name>
+</gene>
+<organism>
+<name type="scientific">Psilotum nudum</name>
+<name type="common">Whisk fern</name>
+<name type="synonym">Lycopodium nudum</name>
+<dbReference type="NCBI Taxonomy" id="3240"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Polypodiopsida</taxon>
+<taxon>Ophioglossidae</taxon>
+<taxon>Psilotales</taxon>
+<taxon>Psilotaceae</taxon>
+<taxon>Psilotum</taxon>
+</lineage>
+</organism>
+<geneLocation type="chloroplast"/>
+<reference key="1">
+<citation type="journal article" date="2004" name="Mol. Biol. Evol." volume="21" first="1813" last="1819">
+<title>Chloroplast phylogeny indicates that bryophytes are monophyletic.</title>
+<authorList>
+<person name="Nishiyama T."/>
+<person name="Wolf P.G."/>
+<person name="Kugita M."/>
+<person name="Sinclair R.B."/>
+<person name="Sugita M."/>
+<person name="Sugiura C."/>
+<person name="Wakasugi T."/>
+<person name="Yamada K."/>
+<person name="Yoshinaga K."/>
+<person name="Yamaguchi K."/>
+<person name="Ueda K."/>
+<person name="Hasebe M."/>
+</authorList>
+<dbReference type="PubMed" id="15240838"/>
+<dbReference type="DOI" id="10.1093/molbev/msh203"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>Kingyoku</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Key component of the proton channel; it plays a direct role in the translocation of protons across the membrane.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has four main subunits: a, b, b' and c.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Plastid</location>
+<location evidence="1">Chloroplast thylakoid membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the ATPase A chain family.</text>
+</comment>
+<dbReference type="EMBL" id="AP004638">
+<property type="protein sequence ID" value="BAB84204.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_569617.1">
+<property type="nucleotide sequence ID" value="NC_003386.1"/>
+</dbReference>
+<dbReference type="GeneID" id="2545109"/>
+<dbReference type="GO" id="GO:0009535">
+<property type="term" value="C:chloroplast thylakoid membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045263">
+<property type="term" value="C:proton-transporting ATP synthase complex, coupling factor F(o)"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046933">
+<property type="term" value="F:proton-transporting ATP synthase activity, rotational mechanism"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015986">
+<property type="term" value="P:ATP synthesis coupled proton transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.120.220">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01393">
+<property type="entry name" value="ATP_synth_a_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000568">
+<property type="entry name" value="ATP_synth_F0_asu"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023011">
+<property type="entry name" value="ATP_synth_F0_asu_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035908">
+<property type="entry name" value="F0_ATP_A_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00119">
+<property type="entry name" value="ATP-synt_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00123">
+<property type="entry name" value="ATPASEA"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81336">
+<property type="entry name" value="SSF81336"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01131">
+<property type="entry name" value="ATP_synt_6_or_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00449">
+<property type="entry name" value="ATPASE_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0066">ATP synthesis</keyword>
+<keyword id="KW-0138">CF(0)</keyword>
+<keyword id="KW-0150">Chloroplast</keyword>
+<keyword id="KW-0375">Hydrogen ion transport</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0934">Plastid</keyword>
+<keyword id="KW-0793">Thylakoid</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="ATP synthase subunit a, chloroplastic" id="PRO_0000362596">
+<location>
+<begin position="1"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="37"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="96"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="135"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="200"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="221"/>
+<end position="241"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01393"/>
+</source>
+</evidence>
+<sequence length="248" mass="27680" checksum="B1B5DBF11C2E6342" modified="2002-03-01" version="1">
+MNIEKHLISLINDLCQISGVEVGQHFYWQLGGFQVHAQVLITSWVVIVLLSGLAFVTTRD
+LRTIPTGGQNFVEYVLEFIRDLTRTQIGEEEYRPWVPFIGTLFLFIFVSNWSGALFPWKI
+IQLPHGELAAPTNDINTTVALALLTSVAYFYAGLHKKGLSYFGRYIKPTPILLPINILED
+FTKPLSLSFRLFGNILADELVVAVLISLVPLVVPIPMMFLGLFTSAIQALIFATLAAAYI
+GESMEGHH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

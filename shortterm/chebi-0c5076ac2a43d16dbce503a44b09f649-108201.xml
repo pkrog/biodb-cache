@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:108201</chebiId><chebiAsciiName>2,4-dihydroxy-N-[[4-methoxy-3-[(2-pyridinylthio)methyl]phenyl]methylideneamino]benzamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>COC1=C(C=C(C=C1)C=NNC(=O)C2=C(C=C(C=C2)O)O)CSC3=CC=CC=N3</smiles><inchi>InChI=1S/C21H19N3O4S/c1-28-19-8-5-14(10-15(19)13-29-20-4-2-3-9-22-20)12-23-24-21(27)17-7-6-16(25)11-18(17)26/h2-12,25-26H,13H2,1H3,(H,24,27)</inchi><inchiKey>YBDHFPHIXYMEFA-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>409.460</mass><monoisotopicMass>409.10963</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C21H19N3O4S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162332
+null
+ 29 31  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.9000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  3  1  0  0  0  0 
+  9  6  1  4  0  0  0 
+  9 10  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+ 12 14  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  2  0  0  0  0 
+ 19 14  1  0  0  0  0 
+ 17 20  1  0  0  0  0 
+ 15 21  1  0  0  0  0 
+  4 22  1  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  2  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 24  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-19578</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>salicylamides</chebiName><chebiId>CHEBI:53443</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

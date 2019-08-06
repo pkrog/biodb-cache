@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:96607</chebiId><chebiAsciiName>N-[[(2S,3R)-8-[3-(dimethylamino)prop-1-ynyl]-5-[(2R)-1-hydroxypropan-2-yl]-3-methyl-6-oxo-3,4-dihydro-2H-pyrido[2,3-b][1,5]oxazocin-2-yl]methyl]-N-methyl-2-pyrazinecarboxamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C[C@@H]1CN(C(=O)C2=C(N=CC(=C2)C#CCN(C)C)O[C@@H]1CN(C)C(=O)C3=NC=CN=C3)[C@H](C)CO</smiles><inchi>InChI=1S/C25H32N6O4/c1-17-14-31(18(2)16-32)24(33)20-11-19(7-6-10-29(3)4)12-28-23(20)35-22(17)15-30(5)25(34)21-13-26-8-9-27-21/h8-9,11-13,17-18,22,32H,10,14-16H2,1-5H3/t17-,18-,22-/m1/s1</inchi><inchiKey>GDMNEEJFLGDCSP-JBYIUTFZSA-N</inchiKey><charge>0</charge><mass>480.560</mass><monoisotopicMass>480.24850</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C25H32N6O4</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162206
+null
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+    5.6736    2.3501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9114    2.0344    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9114    1.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3281    0.6260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5031    0.6260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1874   -0.1362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9197    1.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9197    2.0344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2053    2.4469    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4908    2.0344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4908    1.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2053    0.7969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7763    0.7969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0618    0.3844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6526   -0.0281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6526   -0.8531    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3671   -1.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0618   -1.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5031    2.6178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3281    2.6178    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6438    3.3800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4617    3.4876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9640    2.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775    4.2498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2752    4.9044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5954    4.3575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9111    5.1197    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7291    5.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2313    4.5729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9156    3.8107    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0976    3.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6438   -0.1362    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.1416   -0.7907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4617   -0.2439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -1.0061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12  7  1  0  0  0  0 
+ 11 13  1  0  0  0  0 
+ 13 14  3  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 16 18  1  0  0  0  0 
+  8 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20  2  1  0  0  0  0 
+ 20 21  1  6  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 22 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 24 26  1  0  0  0  0 
+ 26 27  2  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 31 26  1  0  0  0  0 
+  4 32  1  0  0  0  0 
+ 32 33  1  1  0  0  0 
+ 32 34  1  0  0  0  0 
+ 34 35  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-7986</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>tertiary carboxamide</chebiName><chebiId>CHEBI:140326</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>pyrazines</chebiName><chebiId>CHEBI:38314</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

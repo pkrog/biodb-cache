@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:40403</chebiId><chebiAsciiName>adenosine-5'-phosphate-2',3'-cyclic phosphate</chebiAsciiName><definition>A 2',3'-cyclic purine nucleotide that is AMP in which the hydroxy groups at the 2' and 3' positions have been converted to the corresponding cyclic phosphate.</definition><status>CHECKED</status><smiles>[H][C@]12OP(O)(=O)O[C@@]1([H])[C@@H](O[C@@H]2COP(O)(O)=O)n1cnc2c(N)ncnc12</smiles><inchi>InChI=1S/C10H13N5O9P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7-6(23-26(19,20)24-7)4(22-10)1-21-25(16,17)18/h2-4,6-7,10H,1H2,(H,19,20)(H2,11,12,13)(H2,16,17,18)/t4-,6-,7-,10-/m1/s1</inchi><inchiKey>HJMBCNJTGVMDOA-KQYNXXCUSA-N</inchiKey><charge>0</charge><mass>409.18580</mass><monoisotopicMass>409.01885</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>AMP 2',3'-cyclic phosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>O(2'),O(3')-hydroxyphosphoryl-O(5')-phosphono-adenosine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>pA&gt;p</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C10H13N5O9P2</data><source>ChEBI</source></Formulae><RegistryNumbers><data>66469</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  02141314272D          
+
+ 28 31  0  0  1  0            999 V2000
+    4.5656  -10.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8510  -10.7183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5654  -11.9558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2800  -11.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2800  -10.7183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0645  -10.4633    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5495  -11.1308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0645  -11.7982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3195  -12.5830    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8345  -13.2503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3195  -13.9180    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1040  -13.6630    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.1041  -12.8380    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2395  -14.7025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5249  -15.9400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5249  -15.1150    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5249  -14.2900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8105  -14.7025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0645  -14.7025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8509  -11.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5656   -9.4808    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8888  -12.5831    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3736  -13.2506    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8887  -13.9180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1061  -12.0087    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1061  -14.4837    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0881  -12.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0881  -13.6632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 21  1  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2 20  1  0  0  0  0
+ 20  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 19  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 13 22  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 12 24  1  6  0  0  0
+ 24 23  1  0  0  0  0
+ 13 25  1  1  0  0  0
+ 12 26  1  1  0  0  0
+ 27 23  2  0  0  0  0
+ 23 28  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>A23</data><type>PDBeChem accession</type></DatabaseLinks><OntologyParents><chebiName>2',3'-cyclic purine nucleotide</chebiName><chebiId>CHEBI:19217</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>adenosine 5'-monophosphate</chebiName><chebiId>CHEBI:16027</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>adenosine bisphosphate</chebiName><chebiId>CHEBI:22251</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>adenyl ribonucleotide</chebiName><chebiId>CHEBI:61296</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

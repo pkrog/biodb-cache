@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:81514</chebiId><chebiAsciiName>1,2,3,4,7,8,9-Heptachlorodibenzofuran</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>Clc1cc2oc3c(Cl)c(Cl)c(Cl)c(Cl)c3c2c(Cl)c1Cl</smiles><inchi>InChI=1S/C12HCl7O/c13-2-1-3-4(7(15)6(2)14)5-8(16)9(17)10(18)11(19)12(5)20-3/h1H</inchi><inchiKey>VEZCTZWLJYWARH-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>409.30700</mass><monoisotopicMass>405.78471</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>1,2,3,4,7,8,9-HpCDF</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>PCDF 134</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C12HCl7O</data><source>ChEBI</source></Formulae><RegistryNumbers><data>55673-89-7</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure> 
+ 
+ 
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+   22.5400  -25.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5400  -26.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7300  -27.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8500  -26.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8500  -25.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3500  -24.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2300  -25.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2300  -26.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3500  -27.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0400  -27.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2300  -26.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2300  -25.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0400  -24.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3500  -24.5700    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   28.3500  -27.2300    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   18.9700  -24.5700    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   18.9700  -27.2300    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   26.0400  -28.6300    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   26.0400  -23.1700    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   21.3322  -23.1701    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0     0  0
+  2  3  1  0     0  0
+  3  4  1  0     0  0
+  4  5  2  0     0  0
+  1  5  1  0     0  0
+  1  6  1  0     0  0
+  6  7  2  0     0  0
+  7  8  1  0     0  0
+  8  9  2  0     0  0
+  2  9  1  0     0  0
+  4 10  1  0     0  0
+ 10 11  2  0     0  0
+ 11 12  1  0     0  0
+ 12 13  2  0     0  0
+  5 13  1  0     0  0
+ 12 14  1  0     0  0
+ 11 15  1  0     0  0
+  7 16  1  0     0  0
+  8 17  1  0     0  0
+ 10 18  1  0     0  0
+ 13 19  1  0     0  0
+  6 20  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C18112</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>polychlorinated dibenzofuran</chebiName><chebiId>CHEBI:134046</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

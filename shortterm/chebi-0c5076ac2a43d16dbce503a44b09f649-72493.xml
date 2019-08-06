@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:72493</chebiId><chebiAsciiName>Dnp-Pro-Gln</chebiAsciiName><definition>A dipeptide consisting of L-proline substituted on nitrogen by a 2,4-dinitrophenyl group and connected to L-glutamine via a peptide bond.</definition><status>CHECKED</status><smiles>NC(=O)CC[C@H](NC(=O)[C@@H]1CCCN1c1ccc(cc1[N+]([O-])=O)[N+]([O-])=O)C(O)=O</smiles><inchi>InChI=1S/C16H19N5O8/c17-14(22)6-4-10(16(24)25)18-15(23)12-2-1-7-19(12)11-5-3-9(20(26)27)8-13(11)21(28)29/h3,5,8,10,12H,1-2,4,6-7H2,(H2,17,22)(H,18,23)(H,24,25)/t10-,12-/m0/s1</inchi><inchiKey>CGQFTTVSUUOBNW-JQWIXIFHSA-N</inchiKey><charge>0</charge><mass>409.35080</mass><monoisotopicMass>409.12336</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>DNP-Pro</data><type>SYNONYM</type><source>ChEBI</source><Comments><text>This synonym, used in PMID:22877585, does not indicate the presence of the glutamine residue.</text><date>2013-02-21</date></Comments></Synonyms><IupacNames><data>1-(2,4-dinitrophenyl)-L-prolyl-L-glutamine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H19N5O8</data><source>ChEBI</source></Formulae><Citations><data>22877585</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  02201311062D          
+
+ 29 30  0  0  1  0            999 V2000
+   33.2039  -23.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9183  -24.4007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2039  -23.1632    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   33.9183  -22.7507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4894  -22.7506    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4893  -24.4006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6328  -23.1632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3473  -22.7508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.0618  -23.1633    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3473  -21.9258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7749  -23.1631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7749  -23.9881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0604  -22.7506    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   30.3067  -23.0863    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7547  -22.4731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1672  -21.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9743  -21.9302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1352  -23.8932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7483  -24.4452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3506  -24.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5768  -25.2523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1791  -24.9552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7921  -25.5072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6206  -26.3141    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   28.8360  -26.5691    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   30.2337  -26.8662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7375  -23.5961    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   28.9090  -22.7892    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   27.9529  -23.8511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  1  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+  5 11  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 18  2  0  0  0  0
+ 21 19  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23 21  1  0  0  0  0
+ 23 22  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 25 24  1  0  0  0  0
+ 26 24  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 28 27  1  0  0  0  0
+ 29 27  2  0  0  0  0
+ 20 27  1  0  0  0  0
+M  CHG  4  24   1  25  -1  27   1  28  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>2,4-dinitrophenyl group</chebiName><chebiId>CHEBI:53018</chebiId><type>has part</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

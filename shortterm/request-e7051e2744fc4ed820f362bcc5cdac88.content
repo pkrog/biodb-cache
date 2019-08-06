@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-05-08" version="140">
+<accession>Q03401</accession>
+<name>CRIS1_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Cysteine-rich secretory protein 1</fullName>
+<shortName>CRISP-1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Acidic epididymal glycoprotein 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Sperm-coating glycoprotein 1</fullName>
+<shortName>SCP 1</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Crisp1</name>
+<name type="synonym">Aeg-1</name>
+<name type="synonym">Aeg1</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Mol. Cell. Endocrinol." volume="89" first="25" last="32">
+<title>Mouse submandibular glands express an androgen-regulated transcript encoding an acidic epididymal glycoprotein-like molecule.</title>
+<authorList>
+<person name="Mizuki N."/>
+<person name="Kasahara M."/>
+</authorList>
+<dbReference type="PubMed" id="1301383"/>
+<dbReference type="DOI" id="10.1016/0303-7207(92)90207-M"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Submandibular gland</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Endocrinology" volume="133" first="192" last="198">
+<title>Transcripts for cysteine-rich secretory protein-1 (CRISP-1; DE/AEG) and the novel related CRISP-3 are expressed under androgen control in the mouse salivary gland.</title>
+<authorList>
+<person name="Haendler B."/>
+<person name="Kraetzschmar J."/>
+<person name="Theuring F."/>
+<person name="Schleuning W.-D."/>
+</authorList>
+<dbReference type="PubMed" id="8319566"/>
+<dbReference type="DOI" id="10.1210/endo.133.1.8319566"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Submandibular gland</tissue>
+</source>
+</reference>
+<comment type="function">
+<text>This protein is supposed to help spermatozoa undergo functional maturation while they move from the testis to the ductus deferens.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasmic vesicle</location>
+<location>Secretory vesicle</location>
+</subcellularLocation>
+<text>Stored in secretory granules of granular convoluted tubules cells.</text>
+</comment>
+<comment type="tissue specificity">
+<text>Mainly found in the cauda epididymis where it is synthesized by the principal cells and secreted into the lumen. Binds to the heads of spermatozoa. Also expressed in the submandibular gland.</text>
+</comment>
+<comment type="developmental stage">
+<text>Exponential increase between days 25 and 30 after birth.</text>
+</comment>
+<comment type="induction">
+<text>By androgens.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the CRISP family.</text>
+</comment>
+<dbReference type="EMBL" id="M92849">
+<property type="protein sequence ID" value="AAA37185.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L05559">
+<property type="protein sequence ID" value="AAA37460.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS28784.1"/>
+<dbReference type="PIR" id="A49202">
+<property type="entry name" value="A49202"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_033768.3">
+<property type="nucleotide sequence ID" value="NM_009638.3"/>
+</dbReference>
+<dbReference type="SMR" id="Q03401"/>
+<dbReference type="STRING" id="10090.ENSMUSP00000026498"/>
+<dbReference type="iPTMnet" id="Q03401"/>
+<dbReference type="PhosphoSitePlus" id="Q03401"/>
+<dbReference type="PaxDb" id="Q03401"/>
+<dbReference type="PeptideAtlas" id="Q03401"/>
+<dbReference type="PRIDE" id="Q03401"/>
+<dbReference type="Ensembl" id="ENSMUST00000026498">
+<property type="protein sequence ID" value="ENSMUSP00000026498"/>
+<property type="gene ID" value="ENSMUSG00000025431"/>
+</dbReference>
+<dbReference type="GeneID" id="11571"/>
+<dbReference type="KEGG" id="mmu:11571"/>
+<dbReference type="UCSC" id="uc008coh.2">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="167"/>
+<dbReference type="MGI" id="MGI:102553">
+<property type="gene designation" value="Crisp1"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG3017">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2340">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000162013"/>
+<dbReference type="HOGENOM" id="HOG000236338"/>
+<dbReference type="InParanoid" id="Q03401"/>
+<dbReference type="KO" id="K19919"/>
+<dbReference type="OMA" id="AWCPASC"/>
+<dbReference type="OrthoDB" id="1528782at2759"/>
+<dbReference type="PhylomeDB" id="Q03401"/>
+<dbReference type="TreeFam" id="TF316148"/>
+<dbReference type="Reactome" id="R-MMU-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q03401"/>
+<dbReference type="Proteomes" id="UP000000589">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSMUSG00000025431">
+<property type="expression patterns" value="Expressed in 73 organ(s), highest expression level in parotid gland"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q03401">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q03401">
+<property type="organism ID" value="MM"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030133">
+<property type="term" value="C:transport vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="CDD" id="cd05383">
+<property type="entry name" value="SCP_CRISP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.740">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.33.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018244">
+<property type="entry name" value="Allrgn_V5/Tpx1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014044">
+<property type="entry name" value="CAP_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035940">
+<property type="entry name" value="CAP_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042076">
+<property type="entry name" value="Crisp-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001283">
+<property type="entry name" value="CRISP-related"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013871">
+<property type="entry name" value="Cysteine_rich_secretory"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034117">
+<property type="entry name" value="SCP_CRISP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003582">
+<property type="entry name" value="ShKT_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10334">
+<property type="entry name" value="PTHR10334"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00188">
+<property type="entry name" value="CAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08562">
+<property type="entry name" value="Crisp"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00837">
+<property type="entry name" value="V5TPXLIKE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00198">
+<property type="entry name" value="SCP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55797">
+<property type="entry name" value="SSF55797"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01009">
+<property type="entry name" value="CRISP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01010">
+<property type="entry name" value="CRISP_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51670">
+<property type="entry name" value="SHKT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="chain" description="Cysteine-rich secretory protein 1" id="PRO_0000006262">
+<location>
+<begin position="20"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="domain" description="SCP">
+<location>
+<begin position="44"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="domain" description="ShKT" evidence="2">
+<location>
+<begin position="206"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="1">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="190"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="193"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="206"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="215"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="224"/>
+<end position="237"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01005"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="244" mass="27680" checksum="D00DD0348F85781F" modified="1993-10-01" version="1" precursor="true">
+MALMLVLFFLAAVLPPSLLQDSSQENRLEKLSTTKMSVQEEIVSKHNQLRRMVSPSGSDL
+LKMEWNYDAQVNAQQWADKCTFSHSPIELRTTNLRCGENLFMSSYLASWSSAIQGWYNEY
+KDLTYDVGPKQPDSVVGHYTQVVWNSTFQVACGVAECPKNPLRYYYVCHYCPVGNYQGRL
+YTPYTAGEPCASCPDHCEDGLCTNSCGHEDKYTNCKYLKKMLSCEHELLKKGCKATCLCE
+GKIH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:96076</chebiId><chebiAsciiName>(8R,9S)-6-[(2R)-1-hydroxypropan-2-yl]-8-methyl-9-[[methyl(7-quinolinylmethyl)amino]methyl]-10-oxa-1,6,13,14-tetrazabicyclo[10.2.1]pentadeca-12(15),13-dien-5-one</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C[C@@H]1CN(C(=O)CCCN2C=C(CO[C@@H]1CN(C)CC3=CC4=C(C=CC=N4)C=C3)N=N2)[C@H](C)CO</smiles><inchi>InChI=1S/C26H36N6O3/c1-19-13-32(20(2)17-33)26(34)7-5-11-31-15-23(28-29-31)18-35-25(19)16-30(3)14-21-8-9-22-6-4-10-27-24(22)12-21/h4,6,8-10,12,15,19-20,25,33H,5,7,11,13-14,16-18H2,1-3H3/t19-,20-,25-/m1/s1</inchi><inchiKey>PJEXWGOYWCOKCP-UMEGOILYSA-N</inchiKey><charge>0</charge><mass>480.603</mass><monoisotopicMass>480.28489</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C26H36N6O3</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162206
+null
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+    1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8007   -5.3580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6077   -5.5295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9432   -6.2832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0202   -4.8150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4681   -4.2020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -4.5375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3655   -2.1029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4595   -2.1029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9120   -6.1754    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6756   -6.4877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2598   -6.6806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3711   -7.4980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15  2  1  0  0  0  0 
+ 15 16  1  1  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 17 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  2  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 23  2  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  2  0  0  0  0 
+ 27 22  1  0  0  0  0 
+ 23 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 20  1  0  0  0  0 
+ 12 30  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 31 10  1  0  0  0  0 
+  4 32  1  0  0  0  0 
+ 32 33  1  1  0  0  0 
+ 32 34  1  0  0  0  0 
+ 34 35  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-7455</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>azamacrocycle</chebiName><chebiId>CHEBI:52898</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>lactam</chebiName><chebiId>CHEBI:24995</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

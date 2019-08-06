@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:3156</chebiId><chebiAsciiName>Borreverine</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CNCCc1c([nH]c2ccccc12)[C@@H]1[C@@H]2[C@H](C=C(C)CC2(C)C)[C@]23Nc4ccccc4[C@]12CCN3C</smiles><inchi>InChI=1S/C32H40N4/c1-20-18-24-27(30(2,3)19-20)28(29-22(14-16-33-4)21-10-6-8-12-25(21)34-29)31-15-17-36(5)32(24,31)35-26-13-9-7-11-23(26)31/h6-13,18,24,27-28,33-35H,14-17,19H2,1-5H3/t24-,27-,28-,31+,32+/m0/s1</inchi><inchiKey>PHMBUGRSZKDHNS-QGEDZZHQSA-N</inchiKey><charge>0</charge><mass>480.688</mass><monoisotopicMass>480.32530</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>Borreverine</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C32H40N4</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>51109-65-0</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  ISISHOST03240423212D 1   1.00000     0.00000  8122
+
+ 39 45  0     1  0            999 V2000
+   14.7911  -11.5473    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.0861  -11.9577    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.0893  -12.7758    0.0000 C   0  0  0  0  0  0           0  0  0
+   15.5034  -11.9550    0.0000 C   0  0  0  0  0  0           0  0  0
+   15.5045  -12.7696    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.7954  -13.1810    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.9703  -13.9796    0.0000 N   0  0  0  0  0  0           0  0  0
+   15.7833  -14.0584    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.1161  -13.3112    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.9796  -15.0250    0.0000 C   0  0  2  0  0  0           0  0  0
+   16.9796  -15.8417    0.0000 C   0  0  2  0  0  0           0  0  0
+   17.6915  -16.2500    0.0000 C   0  0  0  0  0  0           0  0  0
+   18.3952  -15.8417    0.0000 C   0  0  0  0  0  0           0  0  0
+   18.3952  -15.0250    0.0000 C   0  0  0  0  0  0           0  0  0
+   17.6915  -14.6125    0.0000 C   0  0  3  0  0  0           0  0  0
+   13.5292  -15.6917    0.0000 C   0  0  0  0  0  0           0  0  0
+   13.5292  -16.5084    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.2329  -16.9166    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.2329  -15.2833    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.9407  -15.6917    0.0000 C   0  0  0  0  0  0           0  0  0
+   14.9416  -16.5090    0.0000 C   0  0  0  0  0  0           0  0  0
+   15.7187  -16.7632    0.0000 N   0  0  0  0  0  0           0  0  0
+   15.7172  -15.4357    0.0000 C   0  0  1  0  0  0           0  0  0
+   16.2028  -16.1008    0.0000 C   0  0  2  0  0  0           0  0  0
+   16.1983  -14.7713    0.0000 C   0  0  2  0  0  0           0  0  0
+   16.8167  -12.9042    0.0000 C   0  0  0  0  0  0           0  0  0
+   17.5209  -13.3042    0.0000 C   0  0  0  0  0  0           0  0  0
+   18.2250  -12.9000    0.0000 N   0  0  0  0  0  0           0  0  0
+   18.9292  -13.3000    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.5333  -15.4333    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.6042  -16.8041    0.0000 N   0  0  3  0  0  0           0  0  0
+   17.3917  -16.5875    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.6000  -17.6250    0.0000 C   0  0  0  0  0  0           0  0  0
+   19.0958  -16.2500    0.0000 C   0  0  0  0  0  0           0  0  0
+   16.3917  -14.0584    0.0000 H   0  0  0  0  0  0           0  0  0
+   17.2709  -13.9042    0.0000 C   0  0  0  0  0  0           0  0  0
+   18.2625  -14.0334    0.0000 C   0  0  0  0  0  0           0  0  0
+   17.6875  -15.4250    0.0000 H   0  0  0  0  0  0           0  0  0
+   16.9750  -14.3625    0.0000 H   0  0  0  0  0  0           0  0  0
+ 18 21  1  0     0  0
+ 20 19  1  0     0  0
+ 19 16  2  0     0  0
+  9  5  1  0     0  0
+  4  1  2  0     0  0
+ 20 21  2  0     0  0
+ 21 22  1  0     0  0
+ 22 24  1  0     0  0
+ 23 20  1  0     0  0
+  1  2  1  0     0  0
+  2  3  2  0     0  0
+  3  6  1  0     0  0
+ 23 24  1  0     0  0
+ 24 11  1  0     0  0
+ 10 25  1  0     0  0
+ 25 23  1  0     0  0
+ 25  8  1  0     0  0
+  5  4  1  0     0  0
+  9 26  1  0     0  0
+ 10 11  1  0     0  0
+ 26 27  1  0     0  0
+ 11 12  1  0     0  0
+ 27 28  1  0     0  0
+ 12 13  2  0     0  0
+ 28 29  1  0     0  0
+ 13 14  1  0     0  0
+ 23 30  1  1     0  0
+ 14 15  1  0     0  0
+ 24 31  1  1     0  0
+ 15 10  1  0     0  0
+ 31 32  1  0     0  0
+ 30 32  1  0     0  0
+  5  6  2  0     0  0
+ 31 33  1  0     0  0
+  6  7  1  0     0  0
+ 13 34  1  0     0  0
+  7  8  1  0     0  0
+ 25 35  1  1     0  0
+  8  9  2  0     0  0
+ 15 36  1  0     0  0
+ 16 17  1  0     0  0
+ 15 37  1  0     0  0
+ 17 18  2  0     0  0
+ 11 38  1  1     0  0
+ 10 39  1  6     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00001693</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C09082</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>pyrroloindole</chebiName><chebiId>CHEBI:48133</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

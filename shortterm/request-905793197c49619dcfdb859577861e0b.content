@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request string="87605-72-9" representation="InChIKEY">
+
+	
+	<data id="1" resolver="cas_number" string_class="CAS Registry Number" notation="87605-72-9">	
+		
+			
+			<item id="1">InChIKey=KZPCPZBBGCTGCN-LZYBPNLTNA-N</item>
+			
+			
+		
+	</data>	
+	
+	
+	
+
+</request>
+
+

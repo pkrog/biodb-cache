@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:85627</chebiId><chebiAsciiName>picarbutrazox</chebiAsciiName><definition>An oxime O-ether that is the (Z)-oxime derivative of 1-methyl-1H-tetrazol-5-yl phenyl ketone in which the hydrogen of the hydroxy group has been replaced by the N-tert-butoxycarbonyl derivative of a [6-(Boc-amino)pyridin-2-yl]methyl group. It is a novel fungicide developed for use on cereals.</definition><status>CHECKED</status><smiles>Cn1nnnc1\C(=N/OCc1cccc(NC(=O)OC(C)(C)C)n1)c1ccccc1</smiles><inchi>InChI=1S/C20H23N7O3/c1-20(2,3)30-19(28)22-16-12-8-11-15(21-16)13-29-24-17(14-9-6-5-7-10-14)18-23-25-26-27(18)4/h5-12H,13H2,1-4H3,(H,21,22,28)/b24-17-</inchi><inchiKey>URHWNXDZOULUHC-ULJHMMPZSA-N</inchiKey><charge>0</charge><mass>409.44170</mass><monoisotopicMass>409.18624</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1,1-dimethylethyl N-[6-[[[(Z)-[(1-methyl-1H-tetrazol-5-yl)phenylmethylene]amino]oxy]methyl]-2-pyridinyl]carbamate</data><type>SYNONYM</type><source>Alan Wood's Pesticides</source></Synonyms><Synonyms><data>tert-butyl (6-{[(Z)-(1-methyl-1H-5-tetrazolyl)(phenyl)methylene]aminooxymethyl}-2-pyridyl)carbamate</data><type>SYNONYM</type><source>Alan Wood's Pesticides</source></Synonyms><IupacNames><data>tert-butyl {6-[({(Z)-[(1-methyl-1H-tetrazol-5-yl)(phenyl)methylene]amino}oxy)methyl]pyridin-2-yl}carbamate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C20H23N7O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>11888660</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>500207-04-5</data><type>CAS Registry Number</type><source>Alan Wood's Pesticides</source></RegistryNumbers><RegistryNumbers><data>500207-04-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Ketcher 05011513202D 1   1.00000     0.00000     0
+
+ 30 32  0     0  0            999 V2000
+   17.2321  -10.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2321   -9.2104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0981  -10.7103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3661  -10.7103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6341  -10.7103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7681  -10.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5001  -10.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5001   -9.2104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7681   -9.2104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6341   -8.7104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9021  -10.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9020  -11.7103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7681  -12.2103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7681  -13.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7975  -14.7048    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8194  -14.9127    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3194  -14.0467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9885  -13.3035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9020  -13.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5407  -15.3739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3661  -13.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3661  -14.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5001  -15.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6341  -14.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6341  -13.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5001  -13.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9642  -10.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8302  -10.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9642   -9.2104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8310   -9.7107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0     0  0
+  3  1  1  0     0  0
+  4  1  1  0     0  0
+ 27  3  1  0     0  0
+  7  4  1  0     0  0
+  6  5  2  0     0  0
+  7  5  1  0     0  0
+  9  6  1  0     0  0
+ 11  6  1  0     0  0
+  8  7  2  0     0  0
+ 10  8  1  0     0  0
+ 10  9  2  0     0  0
+ 12 11  1  0     0  0
+ 13 12  1  0     0  0
+ 14 13  2  0     0  0
+ 19 14  1  0     0  0
+ 25 14  1  0     0  0
+ 16 15  1  0     0  0
+ 19 15  1  0     0  0
+ 20 15  1  0     0  0
+ 17 16  2  0     0  0
+ 18 17  1  0     0  0
+ 19 18  2  0     0  0
+ 26 21  2  0     0  0
+ 22 21  1  0     0  0
+ 23 22  2  0     0  0
+ 24 23  1  0     0  0
+ 25 24  2  0     0  0
+ 26 25  1  0     0  0
+ 28 27  1  0     0  0
+ 29 27  1  0     0  0
+ 27 30  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>2667</data><type>PPDB accession</type></DatabaseLinks><DatabaseLinks><data>EP2687088</data><type>Patent accession</type></DatabaseLinks><DatabaseLinks><data>picarbutrazox</data><type>Pesticides accession</type></DatabaseLinks><OntologyParents><chebiName>carbamate fungicide</chebiName><chebiId>CHEBI:87061</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>carbamate ester</chebiName><chebiId>CHEBI:23003</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tetrazoles</chebiName><chebiId>CHEBI:35689</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>pyridines</chebiName><chebiId>CHEBI:26421</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>oxime O-ether</chebiName><chebiId>CHEBI:36816</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antifungal agrochemical</chebiName><chebiId>CHEBI:86328</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

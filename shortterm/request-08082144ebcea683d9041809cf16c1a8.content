@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:69007</chebiId><chebiAsciiName>laxiracemosin H</chebiAsciiName><definition>A  terpene alkaloid with a tirucallane skeleton isolated from Dysoxylum lenticellatum.</definition><status>CHECKED</status><smiles>C[C@@]12CC[C@H]3C(=CC[C@H]4C(C)(C)C(=O)CC[C@]34C)[C@@]1(C)CC[C@H]2C1=CC(=O)NC1=O</smiles><inchi>InChI=1S/C26H35NO3/c1-23(2)19-7-6-18-17(24(19,3)11-10-20(23)28)9-13-25(4)16(8-12-26(18,25)5)15-14-21(29)27-22(15)30/h6,14,16-17,19H,7-13H2,1-5H3,(H,27,29,30)/t16-,17-,19-,24+,25-,26+/m0/s1</inchi><inchiKey>MBOKEBRRTSUMOO-CVRFEKSNSA-N</inchiKey><charge>0</charge><mass>409.56100</mass><monoisotopicMass>409.26169</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>3-[(5alpha,13alpha,14beta,17alpha)-4,4,14-trimethyl-3-oxoandrost-7-en-17-yl]-1H-pyrrole-2,5-dione</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C26H35NO3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>22781646</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>21954912</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 11131317032D          
+
+ 32 36  0  0  0  0            999 V2000
+    7.0125   -6.5292    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.2917   -6.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0208   -5.7083    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.0708   -4.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8708   -6.9250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.8542   -4.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8625   -3.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5833   -6.5125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.8083   -5.4583    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.8667   -7.7542    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.1542   -8.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0792   -3.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2958   -7.7583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5875   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7917   -6.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3125   -5.2875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5750   -8.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4417   -7.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1542   -6.5083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5917   -5.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2833   -6.1333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5208   -4.9125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4417   -6.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8292   -2.5500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7292   -8.1667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0083   -7.3583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0167   -4.8792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8625   -6.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5708   -8.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7458   -8.8792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5750   -7.3417    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8583   -8.5750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  9  4  1  6  0  0  0
+  5  8  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13  2  2  0  0  0  0
+ 14  4  2  0  0  0  0
+ 15  1  1  0  0  0  0
+ 16  3  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 18 11  1  0  0  0  0
+ 19  5  1  0  0  0  0
+ 20 16  1  0  0  0  0
+ 21 15  1  0  0  0  0
+ 22  6  2  0  0  0  0
+ 23 19  1  0  0  0  0
+ 24 12  2  0  0  0  0
+ 25 18  2  0  0  0  0
+  1 26  1  1  0  0  0
+  3 27  1  6  0  0  0
+  5 28  1  1  0  0  0
+ 29 11  1  0  0  0  0
+ 30 11  1  0  0  0  0
+  8 31  1  6  0  0  0
+ 10 32  1  6  0  0  0
+  9 21  1  0  0  0  0
+ 20  8  1  0  0  0  0
+ 17 10  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 18 23  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>maleimides</chebiName><chebiId>CHEBI:55417</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>terpene alkaloid</chebiName><chebiId>CHEBI:26871</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tetracyclic triterpenoid</chebiName><chebiId>CHEBI:26893</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>cyclic terpene ketone</chebiName><chebiId>CHEBI:36130</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Dysoxylum lenticellatum</speciesText><speciesAccession>IPNI:578201-1</speciesAccession><componentText>twig</componentText><componentAccession>BTO:0001411</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21954912</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Dysoxylum lenticellatum</speciesText><speciesAccession>IPNI:578201-1</speciesAccession><componentText>leaf</componentText><componentAccession>BTO:0000713</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21954912</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

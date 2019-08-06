@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:114968</chebiId><chebiAsciiName>4-morpholinecarboxylic acid [3-(6-amino-5-cyano-3-propan-2-yl-2,4-dihydropyrano[2,3-c]pyrazol-4-yl)phenyl] ester</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC(C)C1=C2C(C(=C(OC2=NN1)N)C#N)C3=CC(=CC=C3)OC(=O)N4CCOCC4</smiles><inchi>InChI=1S/C21H23N5O4/c1-12(2)18-17-16(15(11-22)19(23)30-20(17)25-24-18)13-4-3-5-14(10-13)29-21(27)26-6-8-28-9-7-26/h3-5,10,12,16H,6-9,23H2,1-2H3,(H,24,25)</inchi><inchiKey>VDPBIFHDBGERIF-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>409.439</mass><monoisotopicMass>409.17500</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C21H23N5O4</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161900
+null
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    0.0768    0.9256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4358    1.3672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812    0.5396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.9521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    2.1896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.6021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    2.1896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2089    2.6021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4944    2.1896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4944    1.3646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2201    2.6021    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9345    2.1896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6490    2.6021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6490    3.4271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9345    3.8396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2201    3.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  2  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10  5  1  0  0  0  0 
+ 10 11  2  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12  4  1  0  0  0  0 
+  8 13  1  0  0  0  0 
+  7 14  1  0  0  0  0 
+ 14 15  3  0  0  0  0 
+  6 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  2  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  2  0  0  0  0 
+ 21 16  1  0  0  0  0 
+ 18 22  1  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 24  2  0  0  0  0 
+ 23 25  1  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 25  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-26430</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>morpholines</chebiName><chebiId>CHEBI:38785</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>pyranopyrazole</chebiName><chebiId>CHEBI:131903</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

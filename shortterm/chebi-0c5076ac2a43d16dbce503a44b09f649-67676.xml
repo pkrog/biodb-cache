@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:67676</chebiId><chebiAsciiName>Adenolin A</chebiAsciiName><definition>A natural product found in Isodon adenolomus.</definition><status>OK - Preliminary</status><smiles>[H][C@]12C[C@@H](OC(C)=O)[C@@]3([H])[C@]45CCC[C@@](C)(COC(C)=O)[C@@]4([H])[C@H](O)[C@@](O)(OC5)[C@]3(C1)C(=O)[C@@H]2COC</smiles><inchi>InChI=1S/C25H36O9/c1-13(26)32-11-22(3)6-5-7-23-12-33-25(30,21(29)19(22)23)24-9-15(16(10-31-4)20(24)28)8-17(18(23)24)34-14(2)27/h15-19,21,29-30H,5-12H2,1-4H3/t15-,16+,17+,18-,19+,21-,22-,23+,24-,25+/m0/s1</inchi><inchiKey>DGVZXNNCLWTOAG-ILOGQNIYSA-N</inchiKey><charge>0</charge><mass>480.54790</mass><monoisotopicMass>480.23593</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C25H36O9</data><source>ChEBI</source></Formulae><Citations><data>21534539</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  CDK    9/10/12,15:49
+
+ 37 41  0  0  0  0  0  0  0  0999 V2000
+    0.5333   -4.3209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5333   -5.1459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2453   -5.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2453   -3.9042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9573   -4.3209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9538   -5.1459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6626   -5.5591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3794   -5.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6696   -3.9091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3790   -4.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0938   -3.9274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1053   -3.1035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3959   -2.6832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6749   -3.0868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8166   -3.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0875   -4.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6146   -3.3030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9500   -3.4959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9458   -5.9667    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2462   -6.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5250   -5.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3791   -3.4917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -4.7375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8166   -2.6834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6580   -6.3841    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0935   -5.5650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8000   -5.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5322   -6.7925    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5331   -7.6175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1810   -8.0307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2480   -8.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9646   -2.6673    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9727   -1.8423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2624   -1.4228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6912   -1.4369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1950   -3.8893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9930   -3.6798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 15 17  1  1  0  0  0 
+  7  8  1  0  0  0  0 
+  5 18  1  6  0  0  0 
+  8 10  1  0  0  0  0 
+  6 19  1  1  0  0  0 
+  9 10  1  0  0  0  0 
+  3 20  1  6  0  0  0 
+  3  6  1  0  0  0  0 
+  3 21  1  0  0  0  0 
+  5  4  1  0  0  0  0 
+  9 22  1  1  0  0  0 
+  5  6  1  0  0  0  0 
+  8 23  1  6  0  0  0 
+ 18 23  1  0  0  0  0 
+ 12 24  1  1  0  0  0 
+  1  2  1  0  0  0  0 
+  7 25  1  1  0  0  0 
+  1  4  1  0  0  0  0 
+  8 26  1  0  0  0  0 
+  9 14  1  0  0  0  0 
+ 16 27  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 20 28  1  0  0  0  0 
+ 12 11  1  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 29 30  2  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 29 31  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+ 14 32  1  6  0  0  0 
+ 12 15  1  0  0  0  0 
+ 32 33  1  0  0  0  0 
+  5  9  1  0  0  0  0 
+ 33 34  2  0  0  0  0 
+ 10 16  1  1  0  0  0 
+ 33 35  1  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 17 36  1  0  0  0  0 
+  6  7  1  0  0  0  0 
+ 36 37  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>kaurane diterpenoid</chebiName><chebiId>CHEBI:53666</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><GeneralComments><text>Suggested Classification:  ISA:oxanes(CHEBI:46942); ISA:ketone(CHEBI:17087); ISA:secondary alcohol(CHEBI:35681); ISA:organic hydroxy compound(CHEBI:33822); ISA:carboxylic ester(CHEBI:33308); ISA:hemiacetal(CHEBI:5653); ISA:ether(CHEBI:25698); ISA:organonitrogen compound(CHEBI:35352);</text><date>2014-10-17</date></GeneralComments><CompoundOrigins><speciesText>Isodon adenolomus</speciesText><speciesAccession>NCBI:662903</speciesAccession><componentText>aerial part</componentText><componentAccession>BTO:0001658</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21534539</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

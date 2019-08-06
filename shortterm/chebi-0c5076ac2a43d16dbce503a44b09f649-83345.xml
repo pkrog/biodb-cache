@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:83345</chebiId><chebiAsciiName>metrafenone</chebiAsciiName><definition>A member of the class of benzophenones that is benzophenone in which one of the phenyl groups is substituted by methoxy groups at positions 2, 3, and 4 and by a methyl group at position 6, while the other is substituted at positions 2, 3, and 6 by methyl, bromine, and methoxy groups, respectively. A fungicide with protectant and curative properties, it is used for the control of powdery mildew in cereals and grape vines.</definition><status>CHECKED</status><smiles>COc1ccc(Br)c(C)c1C(=O)c1c(C)cc(OC)c(OC)c1OC</smiles><inchi>InChI=1S/C19H21BrO5/c1-10-9-14(23-4)18(24-5)19(25-6)15(10)17(21)16-11(2)12(20)7-8-13(16)22-3/h7-9H,1-6H3</inchi><inchiKey>AMSPWOYQQAWRRM-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>409.27100</mass><monoisotopicMass>408.05724</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>3'-bromo-2,3,4,6'-tetramethoxy-2',6-dimethylbenzophenone</data><type>SYNONYM</type><source>Alan Wood's Pesticides</source></Synonyms><Synonyms><data>BAS 560 02F</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>metrafenone</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>(3-bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C19H21BrO5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>11343406</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>220899-03-6</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>16602071</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25123185</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 10201410092D          
+
+ 25 26  0  0  0  0            999 V2000
+    1.2030   -1.9072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3865   -2.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1749   -2.9547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7796   -2.3936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5961   -1.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8077   -1.3461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4597   -1.5493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4597   -0.7243    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2836   -1.9072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8884   -1.3461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6768   -1.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8603   -2.3936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2556   -2.9547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4672   -2.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2815   -1.0281    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8721   -3.3566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2301   -4.0999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3585   -3.7591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1468   -4.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680   -2.6368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1728   -2.0756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0471   -3.3566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3108   -4.0999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7048   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6241   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  0  0  0  0
+  6  1  2  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+ 16  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+ 18  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+ 20  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+ 25  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 14  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 24 10  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 15 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 22 14  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 23 22  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>468</data><type>PPDB accession</type></DatabaseLinks><DatabaseLinks><data>metrafenone</data><type>Pesticides accession</type></DatabaseLinks><OntologyParents><chebiName>aryl phenyl ketone fungicide</chebiName><chebiId>CHEBI:87035</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>benzophenones</chebiName><chebiId>CHEBI:22726</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>aromatic ether</chebiName><chebiId>CHEBI:35618</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organobromine compound</chebiName><chebiId>CHEBI:37141</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antifungal agrochemical</chebiName><chebiId>CHEBI:86328</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:4304</chebiId><chebiAsciiName>Sitafloxacin</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>N[C@@H]1CN(CC11CC1)c1c(F)cc2c(c1Cl)n(cc(C(O)=O)c2=O)[C@@H]1C[C@@H]1F</smiles><inchi>InChI=1S/C19H18ClF2N3O3/c20-14-15-8(17(26)9(18(27)28)5-25(15)12-4-10(12)21)3-11(22)16(14)24-6-13(23)19(7-24)1-2-19/h3,5,10,12-13H,1-2,4,6-7,23H2,(H,27,28)/t10-,12+,13+/m0/s1</inchi><inchiKey>PNUZDKCDAWUEGK-CYZMBNFOSA-N</inchiKey><charge>0</charge><mass>409.81400</mass><monoisotopicMass>409.10048</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>DU-6859</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>DU-6859</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>gracevit</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>Sitafloxacin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>sitafloxacin hydrate</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Formulae><data>C19H18ClF2N3O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>127254-12-0</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  Ketcher 07031515272D 1   1.00000     0.00000     0
+
+ 28 32  0     1  0            999 V2000
+   20.3388   -6.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4679   -5.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3340   -6.4625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6018   -6.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4679   -4.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3340   -7.4626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2000   -5.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7358   -5.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6018   -7.4626    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   25.3340   -4.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6018   -4.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8340   -8.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8340   -8.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2000   -4.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8703   -6.4623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7358   -4.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3340   -3.4625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0660   -4.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9149   -6.1670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8847   -7.4623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8698   -4.4625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9321   -4.9625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0660   -3.4625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9382   -7.7850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6430   -8.7404    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4801   -7.4969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4657   -6.4970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7000   -8.8286    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0     0  0
+  2  4  1  0     0  0
+  2  5  2  0     0  0
+  6  3  1  1     0  0
+  3  7  1  0     0  0
+  4  8  2  0     0  0
+  4  9  1  0     0  0
+  5 10  1  0     0  0
+  5 11  1  0     0  0
+  6 12  1  0     0  0
+  6 13  1  0     0  0
+  7 14  2  0     0  0
+  8 15  1  0     0  0
+  8 16  1  0     0  0
+ 10 17  2  0     0  0
+ 14 18  1  0     0  0
+ 15 19  1  0     0  0
+ 15 20  1  0     0  0
+ 16 21  1  0     0  0
+ 18 22  1  0     0  0
+ 18 23  2  0     0  0
+ 19  1  1  0     0  0
+ 20 24  1  0     0  0
+ 10 14  1  0     0  0
+ 11 16  2  0     0  0
+ 12 13  1  0     0  0
+  1 24  1  0     0  0
+ 24 25  1  1     0  0
+ 26  1  1  0     0  0
+ 27  1  1  0     0  0
+ 27 26  1  0     0  0
+ 13 28  1  1     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>2449</data><type>Drug Central accession</type></DatabaseLinks><DatabaseLinks><data>C11248</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>quinolone antibiotic</chebiName><chebiId>CHEBI:86324</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>fluoroquinolone antibiotic</chebiName><chebiId>CHEBI:87211</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>quinolines</chebiName><chebiId>CHEBI:26513</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

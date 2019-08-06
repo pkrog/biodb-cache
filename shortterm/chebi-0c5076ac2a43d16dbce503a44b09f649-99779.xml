@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:99779</chebiId><chebiAsciiName>N-[3-(dimethylamino)propyl]-2-[(2R,3R,6S)-3-[[[(3,5-dimethyl-4-isoxazolyl)amino]-oxomethyl]amino]-2-(hydroxymethyl)-3,6-dihydro-2H-pyran-6-yl]acetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1=C(C(=NO1)C)NC(=O)N[C@@H]2C=C[C@@H](O[C@H]2CO)CC(=O)NCCCN(C)C</smiles><inchi>InChI=1S/C19H31N5O5/c1-12-18(13(2)29-23-12)22-19(27)21-15-7-6-14(28-16(15)11-25)10-17(26)20-8-5-9-24(3)4/h6-7,14-16,25H,5,8-11H2,1-4H3,(H,20,26)(H2,21,22,27)/t14-,15-,16+/m1/s1</inchi><inchiKey>IXKFMJFBYVYICU-OAGGEKHMSA-N</inchiKey><charge>0</charge><mass>409.481</mass><monoisotopicMass>409.23252</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C19H31N5O5</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162306
+null
+ 29 30  0  0  0  0  0  0  0  0999 V2000
+   -4.4976    5.6800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3260    4.8731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6586    3.7170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4656    3.5455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8781    4.2600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0455    3.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    3.7125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.3000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  2  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  2  1  0  0  0  0 
+  4  7  1  0  0  0  0 
+  3  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+  9 11  1  0  0  0  0 
+ 12 11  1  6  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 12  1  0  0  0  0 
+ 17 18  1  1  0  0  0 
+ 18 19  1  0  0  0  0 
+ 15 20  1  6  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  2  0  0  0  0 
+ 21 23  1  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  1  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 27 29  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-11158</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>pyrans</chebiName><chebiId>CHEBI:26407</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

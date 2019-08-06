@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73564</chebiId><chebiAsciiName>Leu-Asp-Tyr</chebiAsciiName><definition>A tripeptide composed of L-leucine, L-aspartic acid and L-tyrosine joined in sequence by peptide linkages.</definition><status>CHECKED</status><smiles>CC(C)C[C@H](N)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(O)=O</smiles><inchi>InChI=1S/C19H27N3O7/c1-10(2)7-13(20)17(26)21-14(9-16(24)25)18(27)22-15(19(28)29)8-11-3-5-12(23)6-4-11/h3-6,10,13-15,23H,7-9,20H2,1-2H3,(H,21,26)(H,22,27)(H,24,25)(H,28,29)/t13-,14-,15-/m0/s1</inchi><inchiKey>QLQHWWCSCLZUMA-KKUMJFAQSA-N</inchiKey><charge>0</charge><mass>409.43360</mass><monoisotopicMass>409.18490</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-D-Y</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-Leu-L-Asp-L-Tyr</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>LDY</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-leucyl-L-alpha-aspartyl-L-tyrosine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C19H27N3O7</data><source>ChEBI</source></Formulae><RegistryNumbers><data>7319267</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  05091316532D          
+
+ 29 29  0  0  1  0            999 V2000
+    5.9071   -7.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9071   -8.5622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1926   -7.3246    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.6215   -7.3246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4782   -7.7371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1926   -6.4997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -7.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -6.4997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3360   -7.7371    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.7649   -7.7371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3360   -8.5622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1939   -7.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1939   -8.5622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4794   -7.3246    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.9082   -7.3246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9071   -6.0872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9071   -5.2622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6215   -6.4997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -8.9747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -9.7997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7650   -8.5622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4794   -6.4996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1939   -6.0871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6228   -5.2621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9083   -6.4996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1939   -5.2621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6228   -6.0871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9083   -4.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3373   -4.8496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+ 11  9  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 14 10  1  1  0  0  0
+  6 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 25 23  1  0  0  0  0
+ 26 23  2  0  0  0  0
+ 28 24  2  0  0  0  0
+ 29 24  1  0  0  0  0
+ 27 24  1  0  0  0  0
+ 27 25  2  0  0  0  0
+ 28 26  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>tripeptide</chebiName><chebiId>CHEBI:47923</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-leucine</chebiName><chebiId>CHEBI:15603</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-tyrosine</chebiName><chebiId>CHEBI:17895</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

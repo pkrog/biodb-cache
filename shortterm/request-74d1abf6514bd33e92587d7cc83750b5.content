@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:62286</chebiId><chebiAsciiName>2'-deoxyinosine 5'-diphosphate(3-)</chebiAsciiName><definition>A 2'-deoxyribonucleoside 5'-diphosphate obtained by deprotonation of the diphosphate OH groups of 2'-deoxyinosine  5'-diphosphate; major species at pH 7.3.</definition><status>CHECKED</status><smiles>O[C@H]1C[C@@H](O[C@@H]1COP([O-])(=O)OP([O-])([O-])=O)n1cnc2c1nc[nH]c2=O</smiles><inchi>InChI=1S/C10H14N4O10P2/c15-5-1-7(14-4-13-8-9(14)11-3-12-10(8)16)23-6(5)2-22-26(20,21)24-25(17,18)19/h3-7,15H,1-2H2,(H,20,21)(H,11,12,16)(H2,17,18,19)/p-3/t5-,6+,7+/m0/s1</inchi><inchiKey>BKUSIKGSPSFQAC-RRKCRQDMSA-K</inchiKey><charge>-3</charge><mass>409.16270</mass><monoisotopicMass>408.99669</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>2'-deoxyinosine-5'-diphosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>deoxyinosine diphosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>deoxyinosine diphosphate(3-)</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>dIDP</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>dIDP</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>dIDP(3-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>2'-deoxy-5'-O-[(phosphonatooxy)phosphinato]inosine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H11N4O10P2</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  06241116382D          
+
+ 26 28  0  0  1  0            999 V2000
+   11.2500   -5.9667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2500   -6.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9778   -7.2099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7056   -6.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7056   -5.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9778   -5.5420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4941   -5.6937    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9793   -6.3912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4941   -7.0584    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8883   -9.3328    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.1612   -8.5443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4941   -8.0591    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.8270   -8.5443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0695   -9.3328    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.3735  -10.0302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9778   -4.6930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4861   -9.9162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7718   -9.5037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0573   -9.9162    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3428   -9.5037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6285   -9.9162    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9140   -9.5037    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   11.0573  -10.7411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6285  -10.7411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4149   -9.1193    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   10.8438   -9.1193    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  6  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 16  6  2  0  0  0  0
+  7  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  9  4  1  0  0  0  0
+ 12  9  1  1  0  0  0
+  8  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 10 15  1  6  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 25  1  0  0  0  0
+ 19 26  1  0  0  0  0
+M  CHG  3  22  -1  25  -1  26  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>CPD0-2231</data><type>MetaCyc accession</type></DatabaseLinks><OntologyParents><chebiName>2'-deoxyribonucleoside 5'-diphosphate(3-)</chebiName><chebiId>CHEBI:73316</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2'-deoxyinosine-5'-diphosphate</chebiName><chebiId>CHEBI:28823</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2'-deoxyinosine-5'-diphosphate</chebiName><chebiId>CHEBI:28823</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

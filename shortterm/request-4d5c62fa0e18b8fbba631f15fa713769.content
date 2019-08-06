@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-06-01" modified="2019-05-08" version="153">
+<accession>P58158</accession>
+<name>B3GA3_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3</fullName>
+<ecNumber evidence="2">2.4.1.135</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Beta-1,3-glucuronyltransferase 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Glucuronosyltransferase I</fullName>
+<shortName>GlcAT-I</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>UDP-GlcUA:Gal beta-1,3-Gal-R glucuronyltransferase</fullName>
+<shortName>GlcUAT-I</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">B3gat3</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>C57BL/6J</strain>
+<tissue>Eye</tissue>
+<tissue>Mammary tumor</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2010" name="Cell" volume="143" first="1174" last="1189">
+<title>A tissue-specific atlas of mouse protein phosphorylation and expression.</title>
+<authorList>
+<person name="Huttlin E.L."/>
+<person name="Jedrychowski M.P."/>
+<person name="Elias J.E."/>
+<person name="Goswami T."/>
+<person name="Rad R."/>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Haas W."/>
+<person name="Sowa M.E."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="21183079"/>
+<dbReference type="DOI" id="10.1016/j.cell.2010.12.001"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2011" name="Am. J. Hum. Genet." volume="89" first="15" last="27">
+<title>Faulty initiation of proteoglycan synthesis causes cardiac and joint defects.</title>
+<authorList>
+<person name="Baasanjav S."/>
+<person name="Al-Gazali L."/>
+<person name="Hashiguchi T."/>
+<person name="Mizumoto S."/>
+<person name="Fischer B."/>
+<person name="Horn D."/>
+<person name="Seelow D."/>
+<person name="Ali B.R."/>
+<person name="Aziz S.A."/>
+<person name="Langer R."/>
+<person name="Saleh A.A."/>
+<person name="Becker C."/>
+<person name="Nurnberg G."/>
+<person name="Cantagrel V."/>
+<person name="Gleeson J.G."/>
+<person name="Gomez D."/>
+<person name="Michel J.B."/>
+<person name="Stricker S."/>
+<person name="Lindner T.H."/>
+<person name="Nurnberg P."/>
+<person name="Sugahara K."/>
+<person name="Mundlos S."/>
+<person name="Hoffmann K."/>
+</authorList>
+<dbReference type="PubMed" id="21763480"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2011.05.021"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Glycosaminoglycans biosynthesis. Involved in forming the linkage tetrasaccharide present in heparan sulfate and chondroitin sulfate. Transfers a glucuronic acid moiety from the uridine diphosphate-glucuronic acid (UDP-GlcUA) to the common linkage region trisaccharide Gal-beta-1,3-Gal-beta-1,4-Xyl covalently bound to a Ser residue at the glycosaminylglycan attachment site of proteoglycans. Can also play a role in the biosynthesis of l2/HNK-1 carbohydrate epitope on glycoproteins. Stimulates 2-phosphoxylose phosphatase activity of PXYLP1 in presence of uridine diphosphate-glucuronic acid (UDP-GlcUA) during completion of linkage region formation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>3-O-(beta-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-xylosyl)-L-seryl-[protein] + UDP-alpha-D-glucuronate = 3-O-(beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl)-L-seryl-[protein] + H(+) + UDP</text>
+<dbReference type="Rhea" id="RHEA:24168"/>
+<dbReference type="Rhea" id="RHEA-COMP:12571"/>
+<dbReference type="Rhea" id="RHEA-COMP:12573"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:58052"/>
+<dbReference type="ChEBI" id="CHEBI:58223"/>
+<dbReference type="ChEBI" id="CHEBI:132090"/>
+<dbReference type="ChEBI" id="CHEBI:132093"/>
+<dbReference type="EC" id="2.4.1.135"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+</comment>
+<comment type="pathway">
+<text>Protein modification; protein glycosylation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homodimer; disulfide-linked. Interacts with PXYLP1; the interaction increases the 2-phosphoxylose phosphatase activity of PXYLP1 during completion of linkage region formation in a B3GAT3-mediated manner.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Golgi apparatus membrane</location>
+<topology evidence="2">Single-pass type II membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="2">Golgi apparatus</location>
+<location evidence="2">cis-Golgi network</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Expressed in heart, aorta, bone, and also in osteoblasts.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">N-glycosylated.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the glycosyltransferase 43 family.</text>
+</comment>
+<dbReference type="EC" id="2.4.1.135" evidence="2"/>
+<dbReference type="EMBL" id="BC002103">
+<property type="protein sequence ID" value="AAH02103.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC004038">
+<property type="protein sequence ID" value="AAH04038.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC012930">
+<property type="protein sequence ID" value="AAH12930.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS29558.1"/>
+<dbReference type="RefSeq" id="NP_077218.1">
+<property type="nucleotide sequence ID" value="NM_024256.2"/>
+</dbReference>
+<dbReference type="SMR" id="P58158"/>
+<dbReference type="STRING" id="10090.ENSMUSP00000093962"/>
+<dbReference type="CAZy" id="GT43">
+<property type="family name" value="Glycosyltransferase Family 43"/>
+</dbReference>
+<dbReference type="EPD" id="P58158"/>
+<dbReference type="MaxQB" id="P58158"/>
+<dbReference type="PaxDb" id="P58158"/>
+<dbReference type="PeptideAtlas" id="P58158"/>
+<dbReference type="PRIDE" id="P58158"/>
+<dbReference type="Ensembl" id="ENSMUST00000096243">
+<property type="protein sequence ID" value="ENSMUSP00000093962"/>
+<property type="gene ID" value="ENSMUSG00000071649"/>
+</dbReference>
+<dbReference type="GeneID" id="72727"/>
+<dbReference type="KEGG" id="mmu:72727"/>
+<dbReference type="UCSC" id="uc008gob.1">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="26229"/>
+<dbReference type="MGI" id="MGI:1919977">
+<property type="gene designation" value="B3gat3"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1476">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP79">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000156954"/>
+<dbReference type="HOGENOM" id="HOG000261693"/>
+<dbReference type="InParanoid" id="P58158"/>
+<dbReference type="KO" id="K10158"/>
+<dbReference type="OMA" id="PKMKREE"/>
+<dbReference type="OrthoDB" id="901158at2759"/>
+<dbReference type="PhylomeDB" id="P58158"/>
+<dbReference type="TreeFam" id="TF313522"/>
+<dbReference type="Reactome" id="R-MMU-1971475">
+<property type="pathway name" value="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00378"/>
+<dbReference type="PRO" id="PR:P58158"/>
+<dbReference type="Proteomes" id="UP000000589">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSMUSG00000071649">
+<property type="expression patterns" value="Expressed in 285 organ(s), highest expression level in pancreas"/>
+</dbReference>
+<dbReference type="Genevisible" id="P58158">
+<property type="organism ID" value="MM"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005801">
+<property type="term" value="C:cis-Golgi network"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015018">
+<property type="term" value="F:galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015020">
+<property type="term" value="F:glucuronosyltransferase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072542">
+<property type="term" value="F:protein phosphatase activator activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050650">
+<property type="term" value="P:chondroitin sulfate proteoglycan biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050651">
+<property type="term" value="P:dermatan sulfate proteoglycan biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006024">
+<property type="term" value="P:glycosaminoglycan biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015012">
+<property type="term" value="P:heparan sulfate proteoglycan biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043085">
+<property type="term" value="P:positive regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090316">
+<property type="term" value="P:positive regulation of intracellular protein transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006486">
+<property type="term" value="P:protein glycosylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="CDD" id="cd00218">
+<property type="entry name" value="GlcAT-I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.550.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005027">
+<property type="entry name" value="Glyco_trans_43"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029044">
+<property type="entry name" value="Nucleotide-diphossugar_trans"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10896">
+<property type="entry name" value="PTHR10896"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03360">
+<property type="entry name" value="Glyco_transf_43"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53448">
+<property type="entry name" value="SSF53448"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0464">Manganese</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0735">Signal-anchor</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3" id="PRO_0000195177">
+<location>
+<begin position="1"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Signal-anchor for type II membrane protein" evidence="3">
+<location>
+<begin position="8"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="topological domain" description="Lumenal" evidence="3">
+<location>
+<begin position="29"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="UDP-glucuronate binding" evidence="1">
+<location>
+<begin position="82"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="UDP-glucuronate binding" evidence="1">
+<location>
+<begin position="194"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="UDP-glucuronate binding" evidence="1">
+<location>
+<begin position="308"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with galactose moiety of substrate glycoprotein" evidence="1">
+<location>
+<begin position="243"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor/acceptor" evidence="1">
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese" evidence="1">
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="binding site" description="UDP-glucuronate" evidence="1">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="binding site" description="UDP-glucuronate" evidence="1">
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="binding site" description="UDP-glucuronate" evidence="1">
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with galactose moiety of substrate glycoprotein" evidence="1">
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with galactose moiety of substrate glycoprotein" evidence="1">
+<location>
+<position position="318"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="3">
+<location>
+<position position="300"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain" evidence="1">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O94766"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21763480"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="335" mass="37067" checksum="906EED2AB672F1EC" modified="2001-06-01" version="1">
+MKLKLKNVFLAYFLVSIAGLLYALVQLGQPCDCLPPLRAAAEQLRQKDLRISQLQADLRR
+PPPVPAQPPEPEALPTIYVITPTYARLVQKAELVRLSQTLSLVPRLHWLLVEDAESPTPL
+VSGLLAASGLLFTHLAVLTPKAQRLREGEPGWVRPRGVEQRNKALDWLRGKGGAVGGEKD
+PPPPGTQGVVYFADDDNTYSRELFKEMRWTRGVSVWPVGLVGGLRFEGPQVQDGRVVGFH
+TAWEPNRPFPLDMAGFAVALPLLLAKPNAQFDATAPRGHLESSLLSHLVDPKDLEPRAAN
+CTQVLVWHTRTEKPKMKQEEQLQRQGQGSDPAIEV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

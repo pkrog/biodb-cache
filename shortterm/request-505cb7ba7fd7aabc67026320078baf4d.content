@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:32151</chebiId><chebiAsciiName>Solifenacin succinate</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C(CCC(O)=O)(O)=O.C12CCN(C[C@@H]1OC(N3CCC4=C([C@@H]3C5=CC=CC=C5)C=CC=C4)=O)CC2</smiles><inchi>InChI=1S/C23H26N2O2.C4H6O4/c26-23(27-21-16-24-13-10-18(21)11-14-24)25-15-12-17-6-4-5-9-20(17)22(25)19-7-2-1-3-8-19;5-3(6)1-2-4(7)8/h1-9,18,21-22H,10-16H2;1-2H2,(H,5,6)(H,7,8)/t21-,22-;/m0./s1</inchi><inchiKey>RXZMMZZRUPYENV-VROPFNGYSA-N</inchiKey><charge>0</charge><mass>480.554</mass><monoisotopicMass>480.22604</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>Solifenacin succinate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C23H26N2O2.C4H6O4</data><source>KEGG COMPOUND</source></Formulae><Formulae><data>C27H32N2O6</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>242478-38-2</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  CDK     0306170842
+
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+   16.1155   -9.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3983   -9.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8362   -9.6559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1155   -8.4146    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6845   -9.2422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9707   -9.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2534   -9.2457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9707  -10.4835    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8239   -8.6928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8239   -7.8618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1067   -9.1100    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.5342   -9.1100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2273   -8.5790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5136   -9.8204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9411   -9.8204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2239   -9.4099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2509   -7.4615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9629   -7.8741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9629   -8.6991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2509   -9.1115    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.5347   -7.8741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5347   -8.6991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8203   -9.1115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1058   -8.6991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1058   -7.8741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8203   -7.4615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2520   -9.9365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9673  -10.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9683  -11.1725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2544  -11.5860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5394  -11.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5383  -10.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6777   -9.1110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3919   -8.6980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6783   -9.9360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  1  0  0  0  0 
+  6  8  2  0  0  0  0 
+  1  2  1  0  0  0  0 
+  1  3  1  0  0  0  0 
+  1  4  2  0  0  0  0 
+  2  5  1  0  0  0  0 
+  5  6  1  0  0  0  0 
+ 21 17  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 22  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 21 22  2  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 24  2  0  0  0  0 
+ 24 25  1  0  0  0  0 
+ 25 26  2  0  0  0  0 
+ 26 21  1  0  0  0  0 
+  9 11  1  0  0  0  0 
+ 20 27  1  1  0  0  0 
+  9 12  1  0  0  0  0 
+ 10 13  1  0  0  0  0 
+ 11 14  1  0  0  0  0 
+ 12 15  1  0  0  0  0 
+ 13 16  1  0  0  0  0 
+ 27 28  2  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 29 30  2  0  0  0  0 
+ 30 31  1  0  0  0  0 
+ 31 32  2  0  0  0  0 
+ 32 27  1  0  0  0  0 
+ 14 16  1  0  0  0  0 
+ 19 33  1  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 33 34  1  0  0  0  0 
+ 33 35  2  0  0  0  0 
+ 11 34  1  6  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>D01269</data><type>KEGG DRUG accession</type></DatabaseLinks><OntologyParents><chebiName>isoquinolines</chebiName><chebiId>CHEBI:24922</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

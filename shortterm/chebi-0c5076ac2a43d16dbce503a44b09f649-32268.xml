@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:32268</chebiId><chebiAsciiName>trolnitrate phosphate</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C(CN(CCO[N+](=O)[O-])CCO[N+](=O)[O-])O[N+]([O-])=O.P(O)(O)(O)=O.P(O)(O)(O)=O</smiles><inchi>InChI=1S/C6H12N4O9.2H3O4P/c11-8(12)17-4-1-7(2-5-18-9(13)14)3-6-19-10(15)16;2*1-5(2,3)4/h1-6H2;2*(H3,1,2,3,4)</inchi><inchiKey>UOCLRXFKRLRMKV-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>480.172</mass><monoisotopicMass>480.01422</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>Trolnitrate phosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C6H12N4O9.2H3O4P</data><source>KEGG COMPOUND</source></Formulae><Formulae><data>C6H18N4O17P2</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>588-42-1</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  CDK     0306170842
+
+ 29 26  0  0  0  0  0  0  0  0999 V2000
+    9.6610  -11.2834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736  -11.6960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0862  -11.2876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7987  -11.7002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5113  -11.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2238  -11.7043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0880  -10.4626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8034  -10.0516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8052   -9.2265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9460  -11.6951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5207   -8.8156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5225   -7.9905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2342   -9.2297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9389  -11.2926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9399  -10.4676    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6528  -11.7060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2320  -11.2817    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5170  -11.6934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2329  -10.4567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0920  -10.0541    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8646  -10.0611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3683  -10.0611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1268  -10.8967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1128   -9.0962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0920  -10.0541    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8646  -10.0611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3683  -10.0611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1268  -10.8967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1128   -9.0962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  7  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 14 16  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+ 10 17  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+ 17 19  2  0  0  0  0 
+  1  2  1  0  0  0  0 
+  1 10  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  9 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+ 11 13  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  6 14  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 20 22  1  0  0  0  0 
+ 20 23  1  0  0  0  0 
+ 20 24  2  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 25 27  1  0  0  0  0 
+ 25 28  1  0  0  0  0 
+ 25 29  2  0  0  0  0 
+M  CHG  1  11   1
+M  CHG  1  13  -1
+M  CHG  1  14   1
+M  CHG  1  16  -1
+M  CHG  1  17   1
+M  CHG  1  18  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>D01756</data><type>KEGG DRUG accession</type></DatabaseLinks><OntologyParents><chebiName>organoammonium phosphate</chebiName><chebiId>CHEBI:37509</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

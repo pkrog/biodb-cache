@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2018-07-18" modified="2019-06-05" version="7">
+<accession>A0A2T7F0M5</accession>
+<name>A0A2T7F0M5_9POAL</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">DNA-directed RNA polymerase subunit beta</fullName>
+<ecNumber evidence="2">2.7.7.6</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="ORF" evidence="10">GQ55_1G002900</name>
+</gene>
+<organism evidence="10 11">
+<name type="scientific">Panicum hallii var. hallii</name>
+<dbReference type="NCBI Taxonomy" id="1504633"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>Liliopsida</taxon>
+<taxon>Poales</taxon>
+<taxon>Poaceae</taxon>
+<taxon>PACMAD clade</taxon>
+<taxon>Panicoideae</taxon>
+<taxon>Panicodae</taxon>
+<taxon>Paniceae</taxon>
+<taxon>Panicinae</taxon>
+<taxon>Panicum</taxon>
+<taxon>Panicum sect. Panicum</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="10 11">
+<citation type="submission" date="2018-04" db="EMBL/GenBank/DDBJ databases">
+<title>WGS assembly of Panicum hallii var. hallii HAL2.</title>
+<authorList>
+<person name="Lovell J."/>
+<person name="Jenkins J."/>
+<person name="Lowry D."/>
+<person name="Mamidi S."/>
+<person name="Sreedasyam A."/>
+<person name="Weng X."/>
+<person name="Barry K."/>
+<person name="Bonette J."/>
+<person name="Campitelli B."/>
+<person name="Daum C."/>
+<person name="Gordon S."/>
+<person name="Gould B."/>
+<person name="Lipzen A."/>
+<person name="MacQueen A."/>
+<person name="Palacio-Mejia J."/>
+<person name="Plott C."/>
+<person name="Shakirov E."/>
+<person name="Shu S."/>
+<person name="Yoshinaga Y."/>
+<person name="Zane M."/>
+<person name="Rokhsar D."/>
+<person name="Grimwood J."/>
+<person name="Schmutz J."/>
+<person name="Juenger T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="11">cv. HAL2</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="2">
+<text>a ribonucleoside 5'-triphosphate + RNA(n) = diphosphate + RNA(n+1)</text>
+<dbReference type="Rhea" id="RHEA:21248"/>
+<dbReference type="Rhea" id="RHEA-COMP:11128"/>
+<dbReference type="Rhea" id="RHEA-COMP:11129"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:61557"/>
+<dbReference type="ChEBI" id="CHEBI:83400"/>
+<dbReference type="EC" id="2.7.7.6"/>
+</reaction>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the RNA polymerase beta chain family.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.6" evidence="2"/>
+<dbReference type="EMBL" id="CM009749">
+<property type="protein sequence ID" value="PUZ73632.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="PUZ73632">
+<property type="protein sequence ID" value="PUZ73632"/>
+<property type="gene ID" value="GQ55_1G002900"/>
+</dbReference>
+<dbReference type="Gramene" id="PUZ73632">
+<property type="protein sequence ID" value="PUZ73632"/>
+<property type="gene ID" value="GQ55_1G002900"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000244336">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003899">
+<property type="term" value="F:DNA-directed 5'-3' RNA polymerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032549">
+<property type="term" value="F:ribonucleoside binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00653">
+<property type="entry name" value="RNA_pol_B_RPB2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.270.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.50.150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015712">
+<property type="entry name" value="DNA-dir_RNA_pol_su2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007120">
+<property type="entry name" value="DNA-dir_RNAP_su2_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037033">
+<property type="entry name" value="DNA-dir_RNAP_su2_hyb_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007121">
+<property type="entry name" value="RNA_pol_bsu_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007644">
+<property type="entry name" value="RNA_pol_bsu_protrusion"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007642">
+<property type="entry name" value="RNA_pol_Rpb2_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037034">
+<property type="entry name" value="RNA_pol_Rpb2_2_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007645">
+<property type="entry name" value="RNA_pol_Rpb2_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007646">
+<property type="entry name" value="RNA_pol_Rpb2_4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007647">
+<property type="entry name" value="RNA_pol_Rpb2_5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007641">
+<property type="entry name" value="RNA_pol_Rpb2_7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014724">
+<property type="entry name" value="RNA_pol_RPB2_OB-fold"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR20856">
+<property type="entry name" value="PTHR20856"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04563">
+<property type="entry name" value="RNA_pol_Rpb2_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04561">
+<property type="entry name" value="RNA_pol_Rpb2_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04565">
+<property type="entry name" value="RNA_pol_Rpb2_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04566">
+<property type="entry name" value="RNA_pol_Rpb2_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04567">
+<property type="entry name" value="RNA_pol_Rpb2_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00562">
+<property type="entry name" value="RNA_pol_Rpb2_6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04560">
+<property type="entry name" value="RNA_pol_Rpb2_7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01166">
+<property type="entry name" value="RNA_POL_BETA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181" evidence="11">Complete proteome</keyword>
+<keyword id="KW-0240" evidence="2">DNA-directed RNA polymerase</keyword>
+<keyword id="KW-0548" evidence="2">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185" evidence="11">Reference proteome</keyword>
+<keyword id="KW-0804" evidence="2">Transcription</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<feature type="domain" description="RNA_pol_Rpb2_1" evidence="6">
+<location>
+<begin position="44"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_2" evidence="5">
+<location>
+<begin position="193"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_3" evidence="7">
+<location>
+<begin position="441"/>
+<end position="505"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_4" evidence="8">
+<location>
+<begin position="542"/>
+<end position="601"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_5" evidence="9">
+<location>
+<begin position="624"/>
+<end position="669"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_6" evidence="3">
+<location>
+<begin position="677"/>
+<end position="1055"/>
+</location>
+</feature>
+<feature type="domain" description="RNA_pol_Rpb2_7" evidence="4">
+<location>
+<begin position="1057"/>
+<end position="1147"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363031"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00562"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04560"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04561"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04563"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04565"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04566"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF04567"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PUZ73632.1"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000244336"/>
+</source>
+</evidence>
+<sequence length="1151" mass="129314" checksum="D2A52AC0FC867549" modified="2018-07-18" version="1">
+MTVPPADDAAKKELPPPSYRSLAAPVATPVDKFALLPAFLKVRGLVKEHIDSFNYFTTRG
+IRNIVEANNRIEARNDPSIYLRYTNVYVGTPSVQVDYKIENITPHFCRLTDRTYSAPIRV
+DIEYTVGKQHEPQHKKNVLIGYLPIMLRSYACVLHGRDEAELARQGECPLDPGGYFIVKG
+TEKVILIQEQLSKNRIIIDTDSKGRVIASVTSSTHEIKSKTVITMDKEKIYLQLNQFTKP
+IPIIVVMKAMGMESDQEVVQMVGRDPRYGDLLFPSIQECASERIYTQQQALQYMDEKVTY
+PGAGNQKEGRSKSILRDVFIAHVPVKNGNFRQKCIYTGVMLRRMMDAILNADTFDDKDYV
+GNKRLELSGQLISLLFEDLFKTMNSQAVELMNKNSDKTRSSPSDFSQLIKHEAITSGLER
+AISTGNWDIKRFRMHRKGVSQVLSRLSYMASLGYMTRITPQFEKTRKTSGPRALQPSQWG
+MLCPCDTPEGEACGLTKNLALLTHVTTDQEEGPLMNLCKSLGVEDLTLLSGEEIHAPGSF
+LVMFNGLILGKHRQPQTFANAMRELRRSGKIGEFVSIFVNEKQHCIHIASDGGRVCRPLI
+IADKGISRVKECHMKELRDGIRSFDDFLRDGLIEYLDVNEENNALIALYEHVDQDDVERS
+SITHIEIEPLSILGVVSGLIPYPHHNQSPRNTYQCAMGKQAMGNIAYNQLFRADSLLYLL
+VYAQRPLLTTKTIELVGYDKLGAGQNATVAVMGYSGYDIEDAIVMNKSSLDRGFGRCIAM
+KKYTVMKENYGDGVSDRIAKPQRDKDGVLLRQNMRALDEDGIAAPGQIIRNHDVYVNKQS
+PKIVDRRGAGALLKDMDYKDSLAIYKGVDGETTVVDRVMLCSDTNEKLSIKCIIRHTRRP
+EVGDKFSSRHGQKGVCGTIVQQEDFPFSERGICPDLIMNPHGFPSRMTIGKMIELIGGKA
+GLSCGRFHYGSAFGEPSGNADKVEDISNTLIKHGFSYNGKDFLYSGILGHPLEAYIFMGP
+IYYQKLKHMVLDKMHARASGPRVLLTRQPTEGRSRDGGLRLGEMERDCLIAYGASMLIFE
+RLLLSSDPYQVQVCRKCGLLGYYNYKLKTSYCSMCKNGENMAKMRLPYACKLLFQELQAM
+NVVPRLKLTEG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

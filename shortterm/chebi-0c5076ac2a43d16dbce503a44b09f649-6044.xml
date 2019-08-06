@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:6044</chebiId><chebiAsciiName>Isopropamide iodide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>[I-].CC([N+](CCC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)N)(C(C)C)C)C</smiles><inchi>InChI=1S/C23H32N2O.HI/c1-18(2)25(5,19(3)4)17-16-23(22(24)26,20-12-8-6-9-13-20)21-14-10-7-11-15-21;/h6-15,18-19H,16-17H2,1-5H3,(H-,24,26);1H</inchi><inchiKey>BFSMWENDZZIWPW-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>480.426</mass><monoisotopicMass>480.16376</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>Darbid (TN)</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Isopropamide iodide</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C23H33IN2O</data><source>KEGG COMPOUND</source></Formulae><Formulae><data>C23H33N2O.I</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>71-81-8</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>
+  CDK     0306170845
+
+ 27 27  0  0  0  0  0  0  0  0999 V2000
+    9.9660  -12.6264    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4616  -11.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1761  -10.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8905  -11.3027    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6051  -10.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3195  -11.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0340  -10.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7485  -11.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7485  -12.1276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4630  -12.5401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1775  -12.1276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1775  -11.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4630  -10.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0340  -10.0653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7410   -9.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7409   -8.8321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0264   -8.4196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3195   -8.8278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3195   -9.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1761  -10.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8905  -12.1278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1674  -12.5453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5963  -12.5353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8905  -10.4777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7798   -9.9002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5043  -10.3262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7862   -9.0753    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  2  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  2  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+  8 13  1  0  0  0  0 
+  7 14  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  2  0  0  0  0 
+ 14 19  1  0  0  0  0 
+  3 20  1  0  0  0  0 
+  4 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 21 23  1  0  0  0  0 
+  4 24  1  0  0  0  0 
+  7 25  1  0  0  0  0 
+ 25 26  2  0  0  0  0 
+ 25 27  1  0  0  0  0 
+M  CHG  1   1  -1
+M  CHG  1   4   1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>D01005</data><type>KEGG DRUG accession</type></DatabaseLinks><OntologyParents><chebiName>diarylmethane</chebiName><chebiId>CHEBI:51614</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

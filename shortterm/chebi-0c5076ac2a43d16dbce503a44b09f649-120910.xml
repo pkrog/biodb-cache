@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:120910</chebiId><chebiAsciiName>N-(2,3-dihydro-1,4-benzodioxin-6-yl)-2-[4-methyl-2,5-dioxo-4-(2-phenylethyl)-1-imidazolidinyl]acetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1(C(=O)N(C(=O)N1)CC(=O)NC2=CC3=C(C=C2)OCCO3)CCC4=CC=CC=C4</smiles><inchi>InChI=1S/C22H23N3O5/c1-22(10-9-15-5-3-2-4-6-15)20(27)25(21(28)24-22)14-19(26)23-16-7-8-17-18(13-16)30-12-11-29-17/h2-8,13H,9-12,14H2,1H3,(H,23,26)(H,24,28)</inchi><inchiKey>DMYQWAOHPQSQJD-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>409.436</mass><monoisotopicMass>409.16377</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C22H23N3O5</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161908
+null
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+   -2.4697   -5.8025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559   -4.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8109   -4.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5955   -3.9425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4760   -4.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6914   -3.9425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -4.9820    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3629   -5.1536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6178   -5.9382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4248   -6.1097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6797   -6.8943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4867   -7.0659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0387   -6.4528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7838   -5.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9768   -5.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  3  5  1  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  2  0  0  0  0 
+  6  8  1  0  0  0  0 
+  8  2  1  0  0  0  0 
+  5  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  2  0  0  0  0 
+ 10 12  1  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 18 13  1  0  0  0  0 
+ 16 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 15  1  0  0  0  0 
+  2 23  1  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  1  0  0  0  0 
+ 25 26  2  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  2  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 29 30  2  0  0  0  0 
+ 30 25  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-32353</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>imidazolidine-2,4-dione</chebiName><chebiId>CHEBI:24628</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

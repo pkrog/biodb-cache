@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-07-05" modified="2019-06-05" version="11">
+<accession>A0A1W6HPW2</accession>
+<name>A0A1W6HPW2_9CHLB</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Histidine kinase</fullName>
+<ecNumber evidence="3">2.7.13.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="ORF" evidence="12">B9H02_01395</name>
+</gene>
+<organism evidence="12">
+<name type="scientific">Prosthecochloris sp. HL-130-GSB</name>
+<dbReference type="NCBI Taxonomy" id="1974213"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Chlorobi</taxon>
+<taxon>Chlorobia</taxon>
+<taxon>Chlorobiales</taxon>
+<taxon>Chlorobiaceae</taxon>
+<taxon>Prosthecochloris</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="12">
+<citation type="submission" date="2017-04" db="EMBL/GenBank/DDBJ databases">
+<title>Genome sequence of Prosthecochloris sp. strain HL-130-GSB (Chlorobi).</title>
+<authorList>
+<person name="Thiel V."/>
+<person name="Drautz-Moses D.I."/>
+<person name="Purbojati R.M."/>
+<person name="Schuster S.C."/>
+<person name="Lindemann S."/>
+<person name="Bryant D.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="12">HL-130-GSB</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="6">
+<text>ATP + protein L-histidine = ADP + protein N-phospho-L-histidine.</text>
+<dbReference type="EC" id="2.7.13.3"/>
+</reaction>
+</comment>
+<dbReference type="EC" id="2.7.13.3" evidence="3"/>
+<dbReference type="EMBL" id="CP020873">
+<property type="protein sequence ID" value="ARM30224.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="KEGG" id="prs:B9H02_01395"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000155">
+<property type="term" value="F:phosphorelay sensor kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00075">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00082">
+<property type="entry name" value="HisKA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00130">
+<property type="entry name" value="PAS"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="CDD" id="cd00156">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.450.40">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011006">
+<property type="entry name" value="CheY-like_superfamily"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003018">
+<property type="entry name" value="GAF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029016">
+<property type="entry name" value="GAF-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036890">
+<property type="entry name" value="HATPase_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005467">
+<property type="entry name" value="His_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003661">
+<property type="entry name" value="HisK_dim/P"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036097">
+<property type="entry name" value="HisK_dim/P_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001610">
+<property type="entry name" value="PAC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000014">
+<property type="entry name" value="PAS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000700">
+<property type="entry name" value="PAS-assoc_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035965">
+<property type="entry name" value="PAS-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013767">
+<property type="entry name" value="PAS_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013655">
+<property type="entry name" value="PAS_fold_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004358">
+<property type="entry name" value="Sig_transdc_His_kin-like_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001789">
+<property type="entry name" value="Sig_transdc_resp-reg_receiver"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01590">
+<property type="entry name" value="GAF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13185">
+<property type="entry name" value="GAF_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02518">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00512">
+<property type="entry name" value="HisKA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00989">
+<property type="entry name" value="PAS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08447">
+<property type="entry name" value="PAS_3"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13426">
+<property type="entry name" value="PAS_9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00072">
+<property type="entry name" value="Response_reg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00344">
+<property type="entry name" value="BCTRLSENSOR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00065">
+<property type="entry name" value="GAF"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00387">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00388">
+<property type="entry name" value="HisKA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00086">
+<property type="entry name" value="PAC"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SMART" id="SM00091">
+<property type="entry name" value="PAS"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SMART" id="SM00448">
+<property type="entry name" value="REC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47384">
+<property type="entry name" value="SSF47384"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52172">
+<property type="entry name" value="SSF52172"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55785">
+<property type="entry name" value="SSF55785"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00229">
+<property type="entry name" value="sensory_box"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50109">
+<property type="entry name" value="HIS_KIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50113">
+<property type="entry name" value="PAC"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50112">
+<property type="entry name" value="PAS"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50110">
+<property type="entry name" value="RESPONSE_REGULATORY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="5">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="7">Coiled coil</keyword>
+<keyword id="KW-0418" evidence="4">Kinase</keyword>
+<keyword id="KW-0547" evidence="5">Nucleotide-binding</keyword>
+<keyword id="KW-0597" evidence="2">Phosphoprotein</keyword>
+<keyword id="KW-0808" evidence="4">Transferase</keyword>
+<feature type="domain" description="PAS" evidence="10">
+<location>
+<begin position="55"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="domain" description="PAC" evidence="11">
+<location>
+<begin position="132"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="domain" description="PAS" evidence="10">
+<location>
+<begin position="208"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="domain" description="PAC" evidence="11">
+<location>
+<begin position="260"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="domain" description="PAS" evidence="10">
+<location>
+<begin position="650"/>
+<end position="720"/>
+</location>
+</feature>
+<feature type="domain" description="PAS" evidence="10">
+<location>
+<begin position="773"/>
+<end position="844"/>
+</location>
+</feature>
+<feature type="domain" description="PAC" evidence="11">
+<location>
+<begin position="847"/>
+<end position="898"/>
+</location>
+</feature>
+<feature type="domain" description="PAS" evidence="10">
+<location>
+<begin position="905"/>
+<end position="979"/>
+</location>
+</feature>
+<feature type="domain" description="PAC" evidence="11">
+<location>
+<begin position="981"/>
+<end position="1033"/>
+</location>
+</feature>
+<feature type="domain" description="Histidine kinase" evidence="8">
+<location>
+<begin position="1053"/>
+<end position="1277"/>
+</location>
+</feature>
+<feature type="domain" description="Response regulatory" evidence="9">
+<location>
+<begin position="1299"/>
+<end position="1416"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="1">
+<location>
+<begin position="1275"/>
+<end position="1297"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="7">
+<location>
+<begin position="756"/>
+<end position="783"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="7">
+<location>
+<begin position="892"/>
+<end position="912"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="7">
+<location>
+<begin position="1024"/>
+<end position="1047"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polyampholyte" evidence="1">
+<location>
+<begin position="1276"/>
+<end position="1297"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-aspartylphosphate" evidence="2">
+<location>
+<position position="1350"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="MobiDB-lite" id="A0A1W6HPW2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00169"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00908113"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00908154"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00908420"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01121918"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50109"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50110"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50112"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50113"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ARM30224.1"/>
+</source>
+</evidence>
+<sequence length="1420" mass="160610" checksum="103AD81113281C60" modified="2017-07-05" version="1">
+MRCPLTGFYHPRAVLQIHINHGTRYIITPPEKYEHMKSSGEEKCITPDDNQLLQSFQRLS
+MVVEGTAAGSWDWNIRSGELVINERWAEITGYRLDELAPVSIELWKRLCHPDDLERSNTL
+LQEHFQGKTALYEMELRMRHKDGSWVWVLDRGKVFERDSQGNPLRMVGSHQDISARKKAE
+EELENERKLFTSGPVCMFRWASTPGWPVEYVSSNIEDLLGYRAEDLMHGNLTYEQIIHPE
+DREFIVDEVGYYTRQQVPFFEQEYRLVKADGSAIWIYDHTVVHRDPDGRIVHLQGYILDY
+TSKKESETYLRQRLEFEHLIATISNRFINLALDEIDPVIDDLLRLIGKHVEADRSYIFQF
+YDNDTLMDNTHEWCADGIEPQIEILKGIPADISEWWMERVRSNEIIHIPDVADIPDEEAA
+LRDILQQQDIKSLMVIPLVSNNRSFGYIGFDAVQKHRSWHPETISVLQLAGGMIASALKR
+KETETALEAELDLALRLSASDSLQQTLQLCLDTAISISRMDCGGIYLIDPADNSLKLEVH
+SGLPESFIQHTAYFPPDHHHMQTVLTGRPLYRSLLHEPESPDDTLMRDEGLKAVAILPVT
+YKGSVIACMNIASHTLNHVPESSRKGVESVISHIGAAFMQARHEEQVNETRLNFETLFNS
+LDDYLFIVDRQGRVVGTNEAVRNALDYTPEEVAGKPVLEFHPADQHEKARKNIESMLQGS
+SDVCMVPLVTRKGEQIPVETKVSPGIWNHQPVLFGISRNITELRKAEKALRENEQRFREL
+TEMLPQPVFESDTGTTITYANRTALELFGYTSGELTGSFSLCNLTESASHHLIRKSLGNL
+LKGTKRESTEVHALKKSGDKFPAILYSTPIIHDGRVTGFRATFFDMTRHREIEEARREAE
+LKKRVIEKYRNMLHNIPGIVYTTSRSGHMDFLLSPKVVDITGYKASEIMDMEHGWASIVH
+PEDLGRYRTTRLQRSSRPRQLTISYRITAKNGQVKWLEDHSSLLEKSTESHLAADGIILD
+ITDRITAETEKNELEGQLRQAQRLETIGTLAGGIAHDFNNILTPIMGYAEMLEMMIGDQD
+QGTEYIKEIRKASERAKHLVEQILTFSRMDESRQGTMNLATVIDEALKLLRPSIPVTIDI
+IADIDTHAGFITGDSSQMHQVIVNLCTNAYQAMEASGGQLTISLKETIPSAEFVRIHPSL
+AEQPYAVLKISDTGKGMDKKTIQHIFEPFFTTKPVNKGTGLGLSVVHGIITRHGGTIVVD
+SVLSKGSTFSIYLPKAEELHEPEENPDKSEKTGSKREASVLLVDDEEANAMMLGRMLTLS
+GYHVTPETSALAALRKIQGNPGGFDLLITDLTMPEMTGITLAAEARHARPDLPVLMITGH
+GNDQALMQAVNLDDIQYVLRKPVQLETLQNTIENILSMHK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

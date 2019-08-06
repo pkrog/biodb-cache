@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:4170</chebiId><chebiAsciiName>D-glucopyranose 6-phosphate</chebiAsciiName><definition>A glucopyranose ring with a phosphate replacing the hydroxy in the hydroxymethyl group at position 6.</definition><status>CHECKED</status><smiles>OC1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]1O</smiles><inchi>InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6?/m1/s1</inchi><inchiKey>NBSCHQHZLSJFNQ-GASJEMHNSA-N</inchiKey><charge>0</charge><mass>260.13578</mass><monoisotopicMass>260.02972</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>6-O-phosphono-D-glucopyranose</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>D-Glucose 6-phosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Glc6P</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Robison ester</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>D-glucopyranose 6-(dihydrogen phosphate)</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H13O9P</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>1649252</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>1649252</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>299-31-0</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>56-73-5</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><Citations><data>17439666</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22846255</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  11260714572D          
+
+ 16 16  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  6  0  0  0
+  2  1  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  9  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5 11  1  1  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  6  0  0  0
+ 12 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00007306</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C00092</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>D-glucose-6-phosphate</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>DB03581</data><type>DrugBank accession</type></DatabaseLinks><DatabaseLinks><data>G6Q</data><type>PDBeChem accession</type></DatabaseLinks><DatabaseLinks><data>Glucose_6-phosphate</data><type>Wikipedia accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0001401</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>YMDB00947</data><type>YMDB accession</type></DatabaseLinks><OntologyParents><chebiName>D-glucose 6-phosphate</chebiName><chebiId>CHEBI:14314</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-glucopyranose 6-phosphate(2-)</chebiName><chebiId>CHEBI:61548</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-hexopyranose 6-phosphate</chebiName><chebiId>CHEBI:61667</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-glucopyranose</chebiName><chebiId>CHEBI:4167</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>D-glucopyranose 6-phosphate(2-)</chebiName><chebiId>CHEBI:61548</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>alpha-D-glucose 6-phosphate</chebiName><chebiId>CHEBI:17665</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>arbutin 6-phosphate</chebiName><chebiId>CHEBI:2807</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>beta-D-glucose 6-phosphate</chebiName><chebiId>CHEBI:17719</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>saliva</componentText><componentAccession>UBERON:0001836</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>23857558</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>cytoplasm</componentText><componentAccession>GO:0005737</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>15882454</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:9606</speciesAccession><componentText>blood</componentText><componentAccession>UBERON:0000178</componentAccession><SourceType>Article</SourceType><SourceAccession>Geigy Scientific Tables, 8th Rev edition, pp. 165-177. Edited by C. Lentner, West Cadwell, N.J.: Medical education Div., Ciba-Geigy Corp., Basel, Switzerland c1981-1992.</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Leaf</speciesText><speciesAccession>PO:0025034</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS297</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

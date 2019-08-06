@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:109795</chebiId><chebiAsciiName>1-acetyl-5-bromo-N-(2,3-dihydro-1,4-benzodioxin-3-ylmethyl)-2-methyl-2,3-dihydroindole-7-sulfonamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1CC2=CC(=CC(=C2N1C(=O)C)S(=O)(=O)NCC3COC4=CC=CC=C4O3)Br</smiles><inchi>InChI=1S/C20H21BrN2O5S/c1-12-7-14-8-15(21)9-19(20(14)23(12)13(2)24)29(25,26)22-10-16-11-27-17-5-3-4-6-18(17)28-16/h3-6,8-9,12,16,22H,7,10-11H2,1-2H3</inchi><inchiKey>SIBRQXJGJMWOEK-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>481.362</mass><monoisotopicMass>480.03546</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C20H21BrN2O5S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162333
+null
+ 29 32  0  0  0  0  0  0  0  0999 V2000
+   -0.7389   -6.1452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1514   -5.4307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9719   -5.3445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8158   -4.6770    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0089   -4.5055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5432   -5.1186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2461   -3.7209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -3.6020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270   -2.1730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -2.8875    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  2  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  2  0  0  0  0 
+  9  4  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10  2  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 11 13  1  0  0  0  0 
+  8 14  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 14 16  2  0  0  0  0 
+ 14 17  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 23  2  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  2  0  0  0  0 
+ 27 22  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 19  1  0  0  0  0 
+  6 29  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-21223</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>benzodioxine</chebiName><chebiId>CHEBI:64096</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

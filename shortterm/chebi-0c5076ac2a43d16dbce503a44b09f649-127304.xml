@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:127304</chebiId><chebiAsciiName>(1S,2aR,8bR)-1-(hydroxymethyl)-4-[(4-methoxyphenyl)-oxomethyl]-N-propan-2-yl-1,2a,3,8b-tetrahydroazeto[2,3-c]quinoline-2-carboxamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC(C)NC(=O)N1[C@H]2CN(C3=CC=CC=C3[C@H]2[C@H]1CO)C(=O)C4=CC=C(C=C4)OC</smiles><inchi>InChI=1S/C23H27N3O4/c1-14(2)24-23(29)26-19-12-25(22(28)15-8-10-16(30-3)11-9-15)18-7-5-4-6-17(18)21(19)20(26)13-27/h4-11,14,19-21,27H,12-13H2,1-3H3,(H,24,29)/t19-,20+,21+/m0/s1</inchi><inchiKey>ZFSASZLDLYDYGX-PWRODBHTSA-N</inchiKey><charge>0</charge><mass>409.479</mass><monoisotopicMass>409.20016</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C23H27N3O4</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161914
+null
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+   -0.7203   -1.6385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1780   -1.0168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4453   -0.2363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6316   -1.1756    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1739   -0.5539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9066    0.2266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9835   -0.7127    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6682   -0.2525    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0311    0.4883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8542    0.5445    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3144   -0.1403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1375   -0.0841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5976   -0.7689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2347   -1.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4116   -1.5659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9515   -0.8811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1284   -0.9373    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4436   -1.3975    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2848   -2.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5043   -2.4743    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2171    1.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7570    1.9701    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0402    1.3415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4031    2.0824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2262    2.1385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6864    1.4538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3235    0.7129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5004    0.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5095    1.5099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8724    2.2508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  2  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  1  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 11  1  0  0  0  0 
+ 17 16  1  1  0  0  0 
+ 17  8  1  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 18  7  1  0  0  0  0 
+ 18 19  1  1  0  0  0 
+ 19 20  1  0  0  0  0 
+ 10 21  1  0  0  0  0 
+ 21 22  2  0  0  0  0 
+ 21 23  1  0  0  0  0 
+ 23 24  2  0  0  0  0 
+ 24 25  1  0  0  0  0 
+ 25 26  2  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  2  0  0  0  0 
+ 28 23  1  0  0  0  0 
+ 26 29  1  0  0  0  0 
+ 29 30  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-38864</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>quinolines</chebiName><chebiId>CHEBI:26513</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-05-27" modified="2019-07-03" version="18">
+<accession>A0A0E0PUT9</accession>
+<name>A0A0E0PUT9_ORYRU</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<organism evidence="2 3">
+<name type="scientific">Oryza rufipogon</name>
+<name type="common">Brownbeard rice</name>
+<name type="synonym">Asian wild rice</name>
+<dbReference type="NCBI Taxonomy" id="4529"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>Liliopsida</taxon>
+<taxon>Poales</taxon>
+<taxon>Poaceae</taxon>
+<taxon>BOP clade</taxon>
+<taxon>Oryzoideae</taxon>
+<taxon>Oryzeae</taxon>
+<taxon>Oryzinae</taxon>
+<taxon>Oryza</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="2012" name="Ecol. Evol." volume="2" first="211" last="217">
+<title>Chloroplast genome sequence confirms distinctness of Australian and Asian wild rice.</title>
+<authorList>
+<person name="Waters D.L.E."/>
+<person name="Nock C.J."/>
+<person name="Rice N."/>
+<person name="Ishikawa R."/>
+<person name="Henry R.J."/>
+</authorList>
+<dbReference type="PubMed" id="22408737"/>
+<dbReference type="DOI" id="10.1002/ece3.66"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="2">W1943</strain>
+</source>
+</reference>
+<reference key="2" evidence="3">
+<citation type="submission" date="2013-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Zhao Q."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="2">
+<citation type="submission" date="2015-06" db="UniProtKB">
+<authorList>
+<consortium name="EnsemblPlants"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<dbReference type="STRING" id="4529.ORUFI06G06860.1"/>
+<dbReference type="EnsemblPlants" id="ORUFI06G06860.1">
+<property type="protein sequence ID" value="ORUFI06G06860.1"/>
+<property type="gene ID" value="ORUFI06G06860"/>
+</dbReference>
+<dbReference type="Gramene" id="ORUFI06G06860.1">
+<property type="protein sequence ID" value="ORUFI06G06860.1"/>
+<property type="gene ID" value="ORUFI06G06860"/>
+</dbReference>
+<dbReference type="OMA" id="RRQHYGH"/>
+<dbReference type="Proteomes" id="UP000008022">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.80.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036047">
+<property type="entry name" value="F-box-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001810">
+<property type="entry name" value="F-box_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006566">
+<property type="entry name" value="FBD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032675">
+<property type="entry name" value="LRR_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00646">
+<property type="entry name" value="F-box"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08387">
+<property type="entry name" value="FBD"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00256">
+<property type="entry name" value="FBOX"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81383">
+<property type="entry name" value="SSF81383"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50181">
+<property type="entry name" value="FBOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181" evidence="3">Complete proteome</keyword>
+<keyword id="KW-1185" evidence="3">Reference proteome</keyword>
+<feature type="domain" description="F-box" evidence="1">
+<location>
+<begin position="265"/>
+<end position="301"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50181"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EnsemblPlants" id="ORUFI06G06860.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000008022"/>
+</source>
+</evidence>
+<sequence length="1245" mass="138563" checksum="0DE1CFFFC5EBC892" modified="2015-05-27" version="1">
+MKLQSKKAAIEVLESHIKCTEEIVKAKIGKERKNYEKEFSFARGLGGHIPYEAMFVWYCY
+YLEFGGLHMKRERAFNQSAQPSSAAWSVSHDPHPRWTCKCNPSRVSFSVSNKNPCTLHQA
+RLQNLIQYFQCPMTQIGQRKKNRNRQTCTKGMDAAGRRIVRALIRANDAMEPVTDTIASA
+AALVGLVYGAMEVVRDIRVVVGGMLRVARGSGDGGQAEAAPAVDLAGACGLGTSTSSTGM
+ENELTCRRTTSDHCHQKLNHGKGRNVQFDDLPEDVICLIFSKLQLKDLVSTSVLSSKWKH
+MWTICPTLRFDSSTLCGSNMCSAEQFTQKFIDNVNAVLQQHRGKLVEALEIKIDFNSRLA
+NHLNNWFSGFPNLKKLDLLLLRTTREDLEDMIANCPNLEWLSLNRCHIYDELKFDRPFTR
+LIYLQVIHCQITKIEIDAVNLKAFVYKGFKLRVDLSEAKGLETVDIEFFGIALDYLLTAI
+PSALPSVQNLTIEARILQELKCLRMLLHHRFSDNRNTLGLASFLKAAPLIEQLELDFNDD
+GYISDVETEALRSLPKCSYDHLKNVSIIGYVGCIGHVELLVHIVENAPALEALTIDRTQR
+RGRPLHEYSARLAGIAARGYLDGKILPTTKLDLYERQAGCYAISTVRFHISGPSPTAFLA
+MLARLRAASDAARELDVCVRHGDDDDDYVVLHGCDRRRQHYGHGRSCLHGCSGVRAGGGL
+VRIVSGARHVRSAVGRYLAAADDDEEHDELSVGDKVLIAADVVVGAYDVVVGGIDVVVGV
+CGIDVVARGALARLRRMCPGVGIPDMQNMIFSKLPLKETVRTSVLSSKWRHLWKISPKLR
+FDGSTMRGEYMLEKLVGNVNATLKQQRGRMAEALEVKLEFQSRLVAFTGEKSILVDHLNN
+WVGSAASSCTTSLALDLAPKEFRDRHDRYMFPFELLDGKAASCLQQIQLSFVSLKPPTQF
+SGFPKLKKLSLHLVQVIAKDLQALLSSCSNLEWLSIVRCNLNDDELKVDCALSRLLYLRI
+ANCEISKIEMYAPKLKTFIYEGAQLPVDPIQAQELEVADIVFKGDITFQYALTVLPVVFP
+SVQNLTVHANFGLQFPWLLSTKSKFIQLKYLKLLLPQCSGDMDNIVYLASFLKAAPLLEV
+LEIPFNVPGYEDAGIPVLRSLPKCPYKNLKSIYITGFRGLKGQAEFLVHAVENAPALEVL
+TIDTATKIGVRSAQHIESAGGYVARSCLASIVSPKTKFQIVDTAR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

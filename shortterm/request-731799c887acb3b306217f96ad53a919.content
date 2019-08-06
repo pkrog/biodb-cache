@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-07-24" modified="2019-05-08" version="29">
+<accession>R5SC42</accession>
+<name>R5SC42_9GAMM</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Transcription-repair-coupling factor</fullName>
+<shortName evidence="1">TRCF</shortName>
+<ecNumber evidence="1">3.6.4.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">mfd</name>
+<name type="ORF" evidence="9">BN527_00749</name>
+</gene>
+<organism evidence="9">
+<name type="scientific">Acinetobacter sp. CAG:196</name>
+<dbReference type="NCBI Taxonomy" id="1262690"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pseudomonadales</taxon>
+<taxon>Moraxellaceae</taxon>
+<taxon>Acinetobacter</taxon>
+<taxon>environmental samples</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="submission" date="2012-11" db="EMBL/GenBank/DDBJ databases">
+<title>Dependencies among metagenomic species, viruses, plasmids and units of genetic variation.</title>
+<authorList>
+<person name="Nielsen H.B."/>
+<person name="Almeida M."/>
+<person name="Juncker A.S."/>
+<person name="Rasmussen S."/>
+<person name="Li J."/>
+<person name="Sunagawa S."/>
+<person name="Plichta D."/>
+<person name="Gautier L."/>
+<person name="Le Chatelier E."/>
+<person name="Peletier E."/>
+<person name="Bonde I."/>
+<person name="Nielsen T."/>
+<person name="Manichanh C."/>
+<person name="Arumugam M."/>
+<person name="Batto J."/>
+<person name="Santos M.B.Q.D."/>
+<person name="Blom N."/>
+<person name="Borruel N."/>
+<person name="Burgdorf K.S."/>
+<person name="Boumezbeur F."/>
+<person name="Casellas F."/>
+<person name="Dore J."/>
+<person name="Guarner F."/>
+<person name="Hansen T."/>
+<person name="Hildebrand F."/>
+<person name="Kaas R.S."/>
+<person name="Kennedy S."/>
+<person name="Kristiansen K."/>
+<person name="Kultima J.R."/>
+<person name="Leonard P."/>
+<person name="Levenez F."/>
+<person name="Lund O."/>
+<person name="Moumen B."/>
+<person name="Le Paslier D."/>
+<person name="Pons N."/>
+<person name="Pedersen O."/>
+<person name="Prifti E."/>
+<person name="Qin J."/>
+<person name="Raes J."/>
+<person name="Tap J."/>
+<person name="Tims S."/>
+<person name="Ussery D.W."/>
+<person name="Yamada T."/>
+<person name="MetaHit consortium"/>
+<person name="Renault P."/>
+<person name="Sicheritz-Ponten T."/>
+<person name="Bork P."/>
+<person name="Wang J."/>
+<person name="Brunak S."/>
+<person name="Ehrlich S.D."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Couples transcription and DNA repair by recognizing RNA polymerase (RNAP) stalled at DNA lesions. Mediates ATP-dependent release of RNAP and its truncated transcript from the DNA, and recruitment of nucleotide excision repair machinery to the damaged site.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 4">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">In the C-terminal section; belongs to the helicase family. RecG subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">In the N-terminal section; belongs to the UvrB family.</text>
+</comment>
+<comment type="caution">
+<text evidence="9">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.-" evidence="1"/>
+<dbReference type="EMBL" id="CBAD010000040">
+<property type="protein sequence ID" value="CCZ50593.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016787">
+<property type="term" value="F:hydrolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000716">
+<property type="term" value="P:transcription-coupled nucleotide-excision repair, DNA damage recognition"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00079">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.30.840">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1150.50">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00969">
+<property type="entry name" value="TRCF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036101">
+<property type="entry name" value="CarD-like/TRCF_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003711">
+<property type="entry name" value="CarD-like/TRCF_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004576">
+<property type="entry name" value="Mfd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037235">
+<property type="entry name" value="TRCF-like_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005118">
+<property type="entry name" value="TRCF_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041471">
+<property type="entry name" value="UvrB_inter"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02559">
+<property type="entry name" value="CarD_CdnL_TRCF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03461">
+<property type="entry name" value="TRCF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17757">
+<property type="entry name" value="UvrB_inter"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01058">
+<property type="entry name" value="CarD_TRCF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00982">
+<property type="entry name" value="TRCF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF141259">
+<property type="entry name" value="SSF141259"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF143517">
+<property type="entry name" value="SSF143517"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00580">
+<property type="entry name" value="mfd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1 5">ATP-binding</keyword>
+<keyword id="KW-0963" evidence="1 3">Cytoplasm</keyword>
+<keyword id="KW-0227" evidence="1 2">DNA damage</keyword>
+<keyword id="KW-0234" evidence="1 2">DNA repair</keyword>
+<keyword id="KW-0238" evidence="1">DNA-binding</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0472" evidence="6">Membrane</keyword>
+<keyword id="KW-0547" evidence="1 5">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="6">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="6">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="6">
+<location>
+<begin position="21"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="7">
+<location>
+<begin position="581"/>
+<end position="742"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="8">
+<location>
+<begin position="763"/>
+<end position="917"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00969"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01144510"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01144521"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01144535"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01144540"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CCZ50593.1"/>
+</source>
+</evidence>
+<sequence length="1119" mass="129313" checksum="EED780F80A6C0A24" modified="2013-07-24" version="1">
+MKIEQSSFFDKFVRNIKKGKSFTLTGLTIFSRLLLLKYIFKLSGKKVLFITSTEQSALKY
+SSDLERLFELNSETLPYQNTSPYEVVTGNLYDYARQVNTLLNLPDIVIAPAKVLLEKFPS
+NIFFENNSFKLKVGESIDQKNLLSRLIKLGYKRSTMVSDIGEFSIRGDIADIYSLEENPV
+RVEFWGDEIIDIRFFNNETQKSIEKIKEITIEPLYKFILPDSTPEDFPKELQEQLDNEGY
+FEGVNVYQSYFNNDLVSVLDYFKDYIIVFDEYAEVSAKYQQIDDNFVNNYNEGLKTQNIH
+PLKEINHFTLAETLNRTAGMQKIYFNNFLSDENNEVIDIDARNVQVFDADMDEAAKFLKE
+HKGYQITIATDYQERVKEVLSDYDIFDINFIKNITSQGTEIQDGKILLLTDRELFNKRQK
+EVPSNRKRHYKEKAEYIESINDIKEGEYVVHSIHGVGVYKGLTKQEFDGQLKDYLTIEYA
+NKDKLHIPAEQINMLCRYRGSGQVKPKLSRMGGSDWENTKTRVKKEVETIAYDLLRLYAR
+RKMKTGIEFAPDSPLQLEMEDTFEYIETPDQLKSINQIKADMESPNPMDRLVCGDVGFGK
+TEVAMRAMFKAVTSLKQVAVIVPTTVLALQHYQTVSERFKPFGIDVELLCRFRSAKEKKE
+TLKNLATGKCDVVIATHSLLQDNVIFKDLGLLVIDEEHRFGVRHKEKLKEFRENIDIISM
+SATPIPRTLYMSLSGIKDISVINTPPQNRLPIKTFVGEYNEQTVKNAILNELDRDGQVFY
+LYNRVETIEEFKLELQKLVPNARIAVGHGQLSEKHLEDVIIGFDNHDYDILLCTTIIENG
+LDIPNANTMIIHEADKLGLAQLYQLRGRVGRSEKQAYCYCLYKKNKELSQEATERLKAIR
+EFTTLGSGYRIAMRDVEIRGVGNILGTKQHGHMINVGFDTYCQLLEETVNELKGEKVKAN
+KPTIVDINITAYIPDEWVGSGEQKMIEYKRLSDVKNETELDYIISEWKDRFSRIPEEVEN
+LIKLIKIRLLATDCGITIIREAGNDIRVYSPFTPYEWNIIKQGLDKTILRRVKFTVAPKT
+CEDGKSILLVNNQNLTFEEMFNILSGLFYYIKETINKYQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

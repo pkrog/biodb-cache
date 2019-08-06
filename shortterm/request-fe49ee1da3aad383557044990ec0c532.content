@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:98990</chebiId><chebiAsciiName>(2S,3S,3aR,9bR)-3-(hydroxymethyl)-7-(2-methoxyphenyl)-6-oxo-1-propyl-N-(2-thiazolyl)-3,3a,4,9b-tetrahydro-2H-pyrrolo[2,3-a]indolizine-2-carboxamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CCCN1[C@@H]2[C@@H](CN3C2=CC=C(C3=O)C4=CC=CC=C4OC)[C@@H]([C@H]1C(=O)NC5=NC=CS5)CO</smiles><inchi>InChI=1S/C25H28N4O4S/c1-3-11-28-21-17(18(14-30)22(28)23(31)27-25-26-10-12-34-25)13-29-19(21)9-8-16(24(29)32)15-6-4-5-7-20(15)33-2/h4-10,12,17-18,21-22,30H,3,11,13-14H2,1-2H3,(H,26,27,31)/t17-,18-,21+,22-/m0/s1</inchi><inchiKey>FBORFXHKEDCJEC-HXHBTQRASA-N</inchiKey><charge>0</charge><mass>480.581</mass><monoisotopicMass>480.18313</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C25H28N4O4S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162301
+null
+ 34 38  0  0  0  0  0  0  0  0999 V2000
+    3.6742   -2.3653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6904   -1.5405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9842   -1.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0005   -0.2892    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3427    0.2088    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6131    0.9883    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9554    1.4863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2785    1.0146    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5179    0.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9539   -0.3770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1505   -0.1896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0890    0.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4750    1.2020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2356    1.9915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8924    0.7873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4564    0.1852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2598    0.3726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4993    1.1621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9353    1.7642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1318    1.5768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5678    2.1789    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8072    2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4379    0.9720    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6774    0.1825    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4568   -0.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6124   -0.8980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0807    0.4520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8601    0.1816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5370    0.6533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1947    0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9244   -0.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0995   -0.6078    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9359    1.6298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7545    1.5274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  5  4  1  1  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  1  1  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9  5  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13  8  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 12 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  2  0  0  0  0 
+ 20 15  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+  6 23  1  0  0  0  0 
+ 23 24  1  0  0  0  0 
+ 24  4  1  0  0  0  0 
+ 24 25  1  1  0  0  0 
+ 25 26  2  0  0  0  0 
+ 25 27  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 31 32  1  0  0  0  0 
+ 32 28  1  0  0  0  0 
+ 23 33  1  6  0  0  0 
+ 33 34  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-10369</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>phenylpyridine</chebiName><chebiId>CHEBI:38193</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

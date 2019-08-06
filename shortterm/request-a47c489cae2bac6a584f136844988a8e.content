@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-05-08" version="141">
+<accession>P36041</accession>
+<accession>D6VWZ9</accession>
+<name>EAP1_YEAST</name>
+<protein>
+<recommendedName>
+<fullName>Protein EAP1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>eIF4E-associated protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">EAP1</name>
+<name type="ordered locus">YKL204W</name>
+</gene>
+<organism>
+<name type="scientific">Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</name>
+<name type="common">Baker's yeast</name>
+<dbReference type="NCBI Taxonomy" id="559292"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Fungi</taxon>
+<taxon>Dikarya</taxon>
+<taxon>Ascomycota</taxon>
+<taxon>Saccharomycotina</taxon>
+<taxon>Saccharomycetes</taxon>
+<taxon>Saccharomycetales</taxon>
+<taxon>Saccharomycetaceae</taxon>
+<taxon>Saccharomyces</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="369" first="371" last="378">
+<title>Complete DNA sequence of yeast chromosome XI.</title>
+<authorList>
+<person name="Dujon B."/>
+<person name="Alexandraki D."/>
+<person name="Andre B."/>
+<person name="Ansorge W."/>
+<person name="Baladron V."/>
+<person name="Ballesta J.P.G."/>
+<person name="Banrevi A."/>
+<person name="Bolle P.-A."/>
+<person name="Bolotin-Fukuhara M."/>
+<person name="Bossier P."/>
+<person name="Bou G."/>
+<person name="Boyer J."/>
+<person name="Buitrago M.J."/>
+<person name="Cheret G."/>
+<person name="Colleaux L."/>
+<person name="Daignan-Fornier B."/>
+<person name="del Rey F."/>
+<person name="Dion C."/>
+<person name="Domdey H."/>
+<person name="Duesterhoeft A."/>
+<person name="Duesterhus S."/>
+<person name="Entian K.-D."/>
+<person name="Erfle H."/>
+<person name="Esteban P.F."/>
+<person name="Feldmann H."/>
+<person name="Fernandes L."/>
+<person name="Fobo G.M."/>
+<person name="Fritz C."/>
+<person name="Fukuhara H."/>
+<person name="Gabel C."/>
+<person name="Gaillon L."/>
+<person name="Garcia-Cantalejo J.M."/>
+<person name="Garcia-Ramirez J.J."/>
+<person name="Gent M.E."/>
+<person name="Ghazvini M."/>
+<person name="Goffeau A."/>
+<person name="Gonzalez A."/>
+<person name="Grothues D."/>
+<person name="Guerreiro P."/>
+<person name="Hegemann J.H."/>
+<person name="Hewitt N."/>
+<person name="Hilger F."/>
+<person name="Hollenberg C.P."/>
+<person name="Horaitis O."/>
+<person name="Indge K.J."/>
+<person name="Jacquier A."/>
+<person name="James C.M."/>
+<person name="Jauniaux J.-C."/>
+<person name="Jimenez A."/>
+<person name="Keuchel H."/>
+<person name="Kirchrath L."/>
+<person name="Kleine K."/>
+<person name="Koetter P."/>
+<person name="Legrain P."/>
+<person name="Liebl S."/>
+<person name="Louis E.J."/>
+<person name="Maia e Silva A."/>
+<person name="Marck C."/>
+<person name="Monnier A.-L."/>
+<person name="Moestl D."/>
+<person name="Mueller S."/>
+<person name="Obermaier B."/>
+<person name="Oliver S.G."/>
+<person name="Pallier C."/>
+<person name="Pascolo S."/>
+<person name="Pfeiffer F."/>
+<person name="Philippsen P."/>
+<person name="Planta R.J."/>
+<person name="Pohl F.M."/>
+<person name="Pohl T.M."/>
+<person name="Poehlmann R."/>
+<person name="Portetelle D."/>
+<person name="Purnelle B."/>
+<person name="Puzos V."/>
+<person name="Ramezani Rad M."/>
+<person name="Rasmussen S.W."/>
+<person name="Remacha M.A."/>
+<person name="Revuelta J.L."/>
+<person name="Richard G.-F."/>
+<person name="Rieger M."/>
+<person name="Rodrigues-Pousada C."/>
+<person name="Rose M."/>
+<person name="Rupp T."/>
+<person name="Santos M.A."/>
+<person name="Schwager C."/>
+<person name="Sensen C."/>
+<person name="Skala J."/>
+<person name="Soares H."/>
+<person name="Sor F."/>
+<person name="Stegemann J."/>
+<person name="Tettelin H."/>
+<person name="Thierry A."/>
+<person name="Tzermia M."/>
+<person name="Urrestarazu L.A."/>
+<person name="van Dyck L."/>
+<person name="van Vliet-Reedijk J.C."/>
+<person name="Valens M."/>
+<person name="Vandenbol M."/>
+<person name="Vilela C."/>
+<person name="Vissers S."/>
+<person name="von Wettstein D."/>
+<person name="Voss H."/>
+<person name="Wiemann S."/>
+<person name="Xu G."/>
+<person name="Zimmermann J."/>
+<person name="Haasemann M."/>
+<person name="Becker I."/>
+<person name="Mewes H.-W."/>
+</authorList>
+<dbReference type="PubMed" id="8196765"/>
+<dbReference type="DOI" id="10.1038/369371a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 204508 / S288c</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2014" name="G3 (Bethesda)" volume="4" first="389" last="398">
+<title>The reference genome sequence of Saccharomyces cerevisiae: Then and now.</title>
+<authorList>
+<person name="Engel S.R."/>
+<person name="Dietrich F.S."/>
+<person name="Fisk D.G."/>
+<person name="Binkley G."/>
+<person name="Balakrishnan R."/>
+<person name="Costanzo M.C."/>
+<person name="Dwight S.S."/>
+<person name="Hitz B.C."/>
+<person name="Karra K."/>
+<person name="Nash R.S."/>
+<person name="Weng S."/>
+<person name="Wong E.D."/>
+<person name="Lloyd P."/>
+<person name="Skrzypek M.S."/>
+<person name="Miyasato S.R."/>
+<person name="Simison M."/>
+<person name="Cherry J.M."/>
+</authorList>
+<dbReference type="PubMed" id="24374639"/>
+<dbReference type="DOI" id="10.1534/g3.113.008995"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>ATCC 204508 / S288c</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Curr. Biol." volume="10" first="1519" last="1522">
+<title>Yeast Eap1p, an eIF4E-associated protein, has a separate function involving genetic stability.</title>
+<authorList>
+<person name="Chial H.J."/>
+<person name="Stemm-Wolf A.J."/>
+<person name="McBratney S."/>
+<person name="Winey M."/>
+</authorList>
+<dbReference type="PubMed" id="11114520"/>
+<dbReference type="DOI" id="10.1016/S0960-9822(00)00829-0"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="Mol. Cell. Biol." volume="20" first="4604" last="4613">
+<title>Eap1p, a novel eukaryotic translation initiation factor 4E-associated protein in Saccharomyces cerevisiae.</title>
+<authorList>
+<person name="Cosentino G.P."/>
+<person name="Schmelzle T."/>
+<person name="Haghighat A."/>
+<person name="Helliwell S.B."/>
+<person name="Hall M.N."/>
+<person name="Sonenberg N."/>
+</authorList>
+<dbReference type="PubMed" id="10848587"/>
+<dbReference type="DOI" id="10.1128/MCB.20.13.4604-4613.2000"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH EIF4E</scope>
+<scope>MUTAGENESIS OF TYR-109</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Nature" volume="425" first="686" last="691">
+<title>Global analysis of protein localization in budding yeast.</title>
+<authorList>
+<person name="Huh W.-K."/>
+<person name="Falvo J.V."/>
+<person name="Gerke L.C."/>
+<person name="Carroll A.S."/>
+<person name="Howson R.W."/>
+<person name="Weissman J.S."/>
+<person name="O'Shea E.K."/>
+</authorList>
+<dbReference type="PubMed" id="14562095"/>
+<dbReference type="DOI" id="10.1038/nature02026"/>
+</citation>
+<scope>SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Nature" volume="425" first="737" last="741">
+<title>Global analysis of protein expression in yeast.</title>
+<authorList>
+<person name="Ghaemmaghami S."/>
+<person name="Huh W.-K."/>
+<person name="Bower K."/>
+<person name="Howson R.W."/>
+<person name="Belle A."/>
+<person name="Dephoure N."/>
+<person name="O'Shea E.K."/>
+<person name="Weissman J.S."/>
+</authorList>
+<dbReference type="PubMed" id="14562106"/>
+<dbReference type="DOI" id="10.1038/nature02046"/>
+</citation>
+<scope>LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2005" name="FEBS Lett." volume="579" first="2433" last="2438">
+<title>The yeast eIF4E-associated protein Eap1p attenuates GCN4 translation upon TOR-inactivation.</title>
+<authorList>
+<person name="Matsuo R."/>
+<person name="Kubota H."/>
+<person name="Obata T."/>
+<person name="Kito K."/>
+<person name="Ota K."/>
+<person name="Kitazono T."/>
+<person name="Ibayashi S."/>
+<person name="Sasaki T."/>
+<person name="Iida M."/>
+<person name="Ito T."/>
+</authorList>
+<dbReference type="PubMed" id="15848184"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2005.03.043"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF TYR-109 AND LEU-114</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Mol. Cell. Proteomics" volume="4" first="1797" last="1811">
+<title>GYF domain proteomics reveals interaction sites in known and novel target proteins.</title>
+<authorList>
+<person name="Kofler M."/>
+<person name="Motzny K."/>
+<person name="Freund C."/>
+</authorList>
+<dbReference type="PubMed" id="16120600"/>
+<dbReference type="DOI" id="10.1074/mcp.M500129-MCP200"/>
+</citation>
+<scope>INTERACTION WITH SMY2 AND SYH1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2007" name="J. Proteome Res." volume="6" first="1190" last="1197">
+<title>Large-scale phosphorylation analysis of alpha-factor-arrested Saccharomyces cerevisiae.</title>
+<authorList>
+<person name="Li X."/>
+<person name="Gerber S.A."/>
+<person name="Rudner A.D."/>
+<person name="Beausoleil S.A."/>
+<person name="Haas W."/>
+<person name="Villen J."/>
+<person name="Elias J.E."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="17330950"/>
+<dbReference type="DOI" id="10.1021/pr060559j"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>ADR376</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="Mol. Cell. Proteomics" volume="7" first="1389" last="1396">
+<title>A multidimensional chromatography technology for in-depth phosphoproteome analysis.</title>
+<authorList>
+<person name="Albuquerque C.P."/>
+<person name="Smolka M.B."/>
+<person name="Payne S.H."/>
+<person name="Bafna V."/>
+<person name="Eng J."/>
+<person name="Zhou H."/>
+</authorList>
+<dbReference type="PubMed" id="18407956"/>
+<dbReference type="DOI" id="10.1074/mcp.M700468-MCP200"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-30; SER-281; SER-282; SER-327; SER-344 AND SER-387</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Science" volume="325" first="1682" last="1686">
+<title>Global analysis of Cdk1 substrate phosphorylation sites provides insights into evolution.</title>
+<authorList>
+<person name="Holt L.J."/>
+<person name="Tuch B.B."/>
+<person name="Villen J."/>
+<person name="Johnson A.D."/>
+<person name="Gygi S.P."/>
+<person name="Morgan D.O."/>
+</authorList>
+<dbReference type="PubMed" id="19779198"/>
+<dbReference type="DOI" id="10.1126/science.1172867"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-282 AND SER-327</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7 10">Can regulate translation through binding to eIF4E. Competes with eIF4G and p20 for binding to eIF4E in vivo and inhibits cap-dependent translation in vitro. Plays a role in cell growth and is implicated in the TOR signaling cascade. Functions independently of eIF4E to maintain genetic stability and to attenuate GCN4 translation upon TOR inactivation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 11">Interacts with SMY2, SYH1 and eIF4E.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="8">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="miscellaneous">
+<text evidence="9">Present with 3240 molecules/cell in log phase SD medium.</text>
+</comment>
+<dbReference type="EMBL" id="Z28204">
+<property type="protein sequence ID" value="CAA82049.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BK006944">
+<property type="protein sequence ID" value="DAA08965.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S38042">
+<property type="entry name" value="S38042"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_012718.1">
+<property type="nucleotide sequence ID" value="NM_001179769.1"/>
+</dbReference>
+<dbReference type="PDB" id="6FC1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="B/D=91-150"/>
+</dbReference>
+<dbReference type="PDB" id="6FC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.92"/>
+<property type="chains" value="B/D=91-150"/>
+</dbReference>
+<dbReference type="PDBsum" id="6FC1"/>
+<dbReference type="PDBsum" id="6FC2"/>
+<dbReference type="SMR" id="P36041"/>
+<dbReference type="BioGrid" id="33919">
+<property type="interactions" value="374"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-1778N"/>
+<dbReference type="IntAct" id="P36041">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="MINT" id="P36041"/>
+<dbReference type="STRING" id="4932.YKL204W"/>
+<dbReference type="iPTMnet" id="P36041"/>
+<dbReference type="MaxQB" id="P36041"/>
+<dbReference type="PaxDb" id="P36041"/>
+<dbReference type="PRIDE" id="P36041"/>
+<dbReference type="EnsemblFungi" id="YKL204W_mRNA">
+<property type="protein sequence ID" value="YKL204W_mRNA"/>
+<property type="gene ID" value="YKL204W"/>
+</dbReference>
+<dbReference type="GeneID" id="853631"/>
+<dbReference type="KEGG" id="sce:YKL204W"/>
+<dbReference type="EuPathDB" id="FungiDB:YKL204W"/>
+<dbReference type="SGD" id="S000001687">
+<property type="gene designation" value="EAP1"/>
+</dbReference>
+<dbReference type="InParanoid" id="P36041"/>
+<dbReference type="KO" id="K15908"/>
+<dbReference type="OMA" id="NDERRMS"/>
+<dbReference type="BioCyc" id="YEAST:G3O-31963-MONOMER"/>
+<dbReference type="PRO" id="PR:P36041"/>
+<dbReference type="Proteomes" id="UP000002311">
+<property type="component" value="Chromosome XI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010494">
+<property type="term" value="C:cytoplasmic stress granule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005845">
+<property type="term" value="C:mRNA cap binding complex"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005844">
+<property type="term" value="C:polysome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008190">
+<property type="term" value="F:eukaryotic initiation factor 4E binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003729">
+<property type="term" value="F:mRNA binding"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000290">
+<property type="term" value="P:deadenylation-dependent decapping of nuclear-transcribed mRNA"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006402">
+<property type="term" value="P:mRNA catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017148">
+<property type="term" value="P:negative regulation of translation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040008">
+<property type="term" value="P:regulation of growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0341">Growth regulation</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<feature type="chain" description="Protein EAP1" id="PRO_0000203133">
+<location>
+<begin position="1"/>
+<end position="632"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="440"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3 4">
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3 4">
+<location>
+<position position="327"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="344"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with eIF4E; when associated with A-114." evidence="6 10">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with eIF4E; when associated with A-109." evidence="10">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="93"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="122"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="125"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="130"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="142"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6FC1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6FC2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18407956"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19779198"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10848587"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11114520"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14562095"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14562106"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15848184"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16120600"/>
+</source>
+</evidence>
+<sequence length="632" mass="69762" checksum="775F73F57BB0EF2B" modified="1994-06-01" version="1">
+MELNDPSIISSSQFSGELSDSDTAAATHKSQQAISNLFQKLAKKGREEKPIGSVESSTDS
+SNISVATSGNNKESNKKKNKKTAMLNFSSLTDPITNYKPMDLQYKTYAYSMNELYHLKPS
+LASASYEEDPLISELVRSLPKRKFWRLRMGPPDQKHANNHHFNGNNGGGSWKAGYKNGKN
+DERRMSRTKNMQGGKRRSQQDDEEKKIDQEMLEMDKNLQLGGDVGHSIADFEDWKAKMKE
+LELKKLSKSKGISNSTAIAPRESASHETPTDLRPVIPRGPSSITDFLNLKRQDKKEESSQ
+QTPGIPVGQPSLSKTSIEQVNELETNSDLGKSSSSRFSSFFNKSATSLPSLDNNNQVPSS
+NVSVVNNDGNSTPHQSGSRLMSFFKESRSSTPNAESQLLSASDKDNGKMQTLPQFQQQPQ
+QMQPMAFTQHPPNNNAFFNGLLNKGKSETSTPPPPPPGLIAHQGPQFPVMGVPPNFPQRM
+MPPPPGLVQFQKDSKDVNKKEDRQLRQNKNPNGTRNSKGKQEETATPDLPQQQYMPPPPP
+PGFFPMHPNFPNGPMPPLPQGFPIPPNGMLPVTGQQPQPPYPNMMLQGNFPPNFQQGFGS
+NSPMPIPSIINANGKNVTNQLPPGLNSKKNIK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

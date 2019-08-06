@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:95479</chebiId><chebiAsciiName>N-[[(2S,3R)-8-[(3R)-3-hydroxybut-1-ynyl]-5-[(2S)-1-hydroxypropan-2-yl]-3-methyl-6-oxo-3,4-dihydro-2H-pyrido[2,3-b][1,5]oxazocin-2-yl]methyl]-N-methyl-2-pyridin-4-ylacetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C[C@@H]1CN(C(=O)C2=C(N=CC(=C2)C#C[C@@H](C)O)O[C@@H]1CN(C)C(=O)CC3=CC=NC=C3)[C@@H](C)CO</smiles><inchi>InChI=1S/C26H32N4O5/c1-17-14-30(18(2)16-31)26(34)22-11-21(6-5-19(3)32)13-28-25(22)35-23(17)15-29(4)24(33)12-20-7-9-27-10-8-20/h7-11,13,17-19,23,31-32H,12,14-16H2,1-4H3/t17-,18+,19-,23-/m1/s1</inchi><inchiKey>XXZIILLLBOPLBY-ISJRUSPKSA-N</inchiKey><charge>0</charge><mass>480.557</mass><monoisotopicMass>480.23727</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C26H32N4O5</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162205
+null
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+    0.6721   -2.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4586   -1.9555    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3594   -1.8478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8616   -1.1933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7539   -0.3753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4684    0.0372    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0994    0.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7185    0.0192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2208    0.6737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9050    1.4359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0871    1.5436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4151    0.8891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2286    2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5443    3.0680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8600    3.8302    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6780    3.9379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3578    4.4847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2208   -0.6353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1131   -1.4532    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8275   -1.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5420   -1.4532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5420   -0.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2565   -1.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2565   -2.6907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9710   -1.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6854   -1.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3999   -1.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1144   -1.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1144   -2.6907    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3999   -3.1032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6854   -2.6907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6585   -1.4068    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2419   -0.8234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8720   -2.2037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6689   -2.4172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12  7  1  0  0  0  0 
+ 11 13  1  0  0  0  0 
+ 13 14  3  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  1  1  0  0  0 
+ 15 17  1  0  0  0  0 
+  8 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19  2  1  0  0  0  0 
+ 19 20  1  6  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 21 23  1  0  0  0  0 
+ 23 24  2  0  0  0  0 
+ 23 25  1  0  0  0  0 
+ 25 26  1  0  0  0  0 
+ 26 27  2  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  2  0  0  0  0 
+ 29 30  1  0  0  0  0 
+ 30 31  2  0  0  0  0 
+ 31 26  1  0  0  0  0 
+  4 32  1  0  0  0  0 
+ 32 33  1  6  0  0  0 
+ 32 34  1  0  0  0  0 
+ 34 35  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-6858</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>aromatic ether</chebiName><chebiId>CHEBI:35618</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

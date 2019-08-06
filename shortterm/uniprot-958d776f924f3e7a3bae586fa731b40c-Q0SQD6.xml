@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-09-11" modified="2019-05-08" version="83">
+<accession>Q0SQD6</accession>
+<name>RPOB_CLOPS</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">DNA-directed RNA polymerase subunit beta</fullName>
+<shortName evidence="1">RNAP subunit beta</shortName>
+<ecNumber evidence="1">2.7.7.6</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">RNA polymerase subunit beta</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Transcriptase subunit beta</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">rpoB</name>
+<name type="ordered locus">CPR_2408</name>
+</gene>
+<organism>
+<name type="scientific">Clostridium perfringens (strain SM101 / Type A)</name>
+<dbReference type="NCBI Taxonomy" id="289380"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Clostridia</taxon>
+<taxon>Clostridiales</taxon>
+<taxon>Clostridiaceae</taxon>
+<taxon>Clostridium</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2006" name="Genome Res." volume="16" first="1031" last="1040">
+<title>Skewed genomic variability in strains of the toxigenic bacterial pathogen, Clostridium perfringens.</title>
+<authorList>
+<person name="Myers G.S.A."/>
+<person name="Rasko D.A."/>
+<person name="Cheung J.K."/>
+<person name="Ravel J."/>
+<person name="Seshadri R."/>
+<person name="DeBoy R.T."/>
+<person name="Ren Q."/>
+<person name="Varga J."/>
+<person name="Awad M.M."/>
+<person name="Brinkac L.M."/>
+<person name="Daugherty S.C."/>
+<person name="Haft D.H."/>
+<person name="Dodson R.J."/>
+<person name="Madupu R."/>
+<person name="Nelson W.C."/>
+<person name="Rosovitz M.J."/>
+<person name="Sullivan S.A."/>
+<person name="Khouri H."/>
+<person name="Dimitrov G.I."/>
+<person name="Watkins K.L."/>
+<person name="Mulligan S."/>
+<person name="Benton J."/>
+<person name="Radune D."/>
+<person name="Fisher D.J."/>
+<person name="Atkins H.S."/>
+<person name="Hiscox T."/>
+<person name="Jost B.H."/>
+<person name="Billington S.J."/>
+<person name="Songer J.G."/>
+<person name="McClane B.A."/>
+<person name="Titball R.W."/>
+<person name="Rood J.I."/>
+<person name="Melville S.B."/>
+<person name="Paulsen I.T."/>
+</authorList>
+<dbReference type="PubMed" id="16825665"/>
+<dbReference type="DOI" id="10.1101/gr.5238106"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>SM101 / Type A</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>a ribonucleoside 5'-triphosphate + RNA(n) = diphosphate + RNA(n+1)</text>
+<dbReference type="Rhea" id="RHEA:21248"/>
+<dbReference type="Rhea" id="RHEA-COMP:11128"/>
+<dbReference type="Rhea" id="RHEA-COMP:11129"/>
+<dbReference type="ChEBI" id="CHEBI:33019"/>
+<dbReference type="ChEBI" id="CHEBI:61557"/>
+<dbReference type="ChEBI" id="CHEBI:83400"/>
+<dbReference type="EC" id="2.7.7.6"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="1">The RNAP catalytic core consists of 2 alpha, 1 beta, 1 beta' and 1 omega subunit. When a sigma factor is associated with the core the holoenzyme is formed, which can initiate transcription.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the RNA polymerase beta chain family.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.6" evidence="1"/>
+<dbReference type="EMBL" id="CP000312">
+<property type="protein sequence ID" value="ABG85828.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="SMR" id="Q0SQD6"/>
+<dbReference type="PRIDE" id="Q0SQD6"/>
+<dbReference type="EnsemblBacteria" id="ABG85828">
+<property type="protein sequence ID" value="ABG85828"/>
+<property type="gene ID" value="CPR_2408"/>
+</dbReference>
+<dbReference type="KEGG" id="cpr:CPR_2408"/>
+<dbReference type="HOGENOM" id="HOG000218611"/>
+<dbReference type="KO" id="K03043"/>
+<dbReference type="OMA" id="FMTWEGY"/>
+<dbReference type="Proteomes" id="UP000001824">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003899">
+<property type="term" value="F:DNA-directed 5'-3' RNA polymerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032549">
+<property type="term" value="F:ribonucleoside binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00653">
+<property type="entry name" value="RNA_pol_B_RPB2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.270.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.50.150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01321">
+<property type="entry name" value="RNApol_bact_RpoB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042107">
+<property type="entry name" value="DNA-dir_RNA_pol_bsu_ext_1_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019462">
+<property type="entry name" value="DNA-dir_RNA_pol_bsu_external_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015712">
+<property type="entry name" value="DNA-dir_RNA_pol_su2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007120">
+<property type="entry name" value="DNA-dir_RNAP_su2_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037033">
+<property type="entry name" value="DNA-dir_RNAP_su2_hyb_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010243">
+<property type="entry name" value="RNA_pol_bsu_bac"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007121">
+<property type="entry name" value="RNA_pol_bsu_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007644">
+<property type="entry name" value="RNA_pol_bsu_protrusion"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007642">
+<property type="entry name" value="RNA_pol_Rpb2_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037034">
+<property type="entry name" value="RNA_pol_Rpb2_2_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007645">
+<property type="entry name" value="RNA_pol_Rpb2_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007641">
+<property type="entry name" value="RNA_pol_Rpb2_7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014724">
+<property type="entry name" value="RNA_pol_RPB2_OB-fold"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR20856">
+<property type="entry name" value="PTHR20856"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04563">
+<property type="entry name" value="RNA_pol_Rpb2_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04561">
+<property type="entry name" value="RNA_pol_Rpb2_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04565">
+<property type="entry name" value="RNA_pol_Rpb2_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10385">
+<property type="entry name" value="RNA_pol_Rpb2_45"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00562">
+<property type="entry name" value="RNA_pol_Rpb2_6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04560">
+<property type="entry name" value="RNA_pol_Rpb2_7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02013">
+<property type="entry name" value="rpoB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01166">
+<property type="entry name" value="RNA_POL_BETA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0240">DNA-directed RNA polymerase</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="DNA-directed RNA polymerase subunit beta" id="PRO_0000300302">
+<location>
+<begin position="1"/>
+<end position="1234"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01321"/>
+</source>
+</evidence>
+<sequence length="1234" mass="138566" checksum="5AC385BAA7BE6F71" modified="2006-09-05" version="1">
+MVHPVQVGKRTRMSFAKVKDVAEMPNLIEIQLDSYKWFLDAGLYEVFDDINPISNFTGNL
+VLEFVGYTLDMDNIKYSVEECKERDTTYAAPLKVAVRLQNKETGEIKEQEVFMGDFPLMT
+EQGTFIINGAERVIVSQLVRSPGVYYNYNVDKTGKKLFSATVIPNRGAWLEYETDSNDVI
+YVRIDKTRKLPISILGRAMGFGSDQELLEYFGEEERFKATIEKDNTKTKEEALLEIYKRL
+RPGEPPTVDSAISLIDSLFFDAKRYDLSRVGRYKFNKKLAIGLRIANQIAAEDIVDKLTG
+EVLVAKGEKISRANAEEIQNRGINSVDVLVEDRVIRIIGNHFVDIHKCVDFDISDLNIRE
+LVHYPTLREILDNYSDEETIKEEIKKNMTRLIPKHIIKDDIFATISYQIGLAYNIGYVDD
+IDHLGNRRLRSVGELLQNQFRIGLSRMERVVKERMTIQDQEAITPQQLINIRPVAAAIKE
+FFGSSQLSQFMDQTNPLSELTHKRRLSALGPGGLSRERAGFEVRDVHHSHYGRMCPIETP
+EGPNIGLINSLATYAKVNEYGFIETPYRVVDKSEGRVTGEIRYFTADEEDQYLVAQANEP
+LDENGCFIDKKVTVRDKGEVLVVPSKDVDLMDVSPRQLVSVATAMIPFLENDDASRALMG
+SNMQRQAVPLLKPYAPIVGTGIEYKAAVDSGVLPKAKNAGEVVYVSANEVRVKRELDGGV
+DTYRLLKFKRSNQGTCINQRPIVAKGDWVLKGEVLADGPSTDLGEIALGKNIRMGFITWE
+GYNYEDAMLISEELVREDVFTSIHIEEYECEARDTKLGPEEITRDIPNVSEDALKDIDER
+GIIRIGAEVRSGDILVGKVTPKGETELTAEERLLRAIFGEKAREVRDTSLRVPHGEAGII
+VDVKVFTRENGDDLSPGVNELVRCYIAQKRKISVGDKMAGRHGNKGVISRVLPEEDMPFL
+PDGRPLQICLNPLGVPSRMNIGQVLEVHLGWAASALGWHIATPVFDGATETDIEDCLEKA
+GYNRNGKTVLRDGRTGEEFDNEVTVGIMYILKLAHLVDDKIHARSTGPYSLVTQQPLGGK
+AQFGGQRFGEMEVWALEAYGAAHTLQEILTVKSDDVVGRVKTYEAIVKGENIPEPGVPES
+FKVLIKELQALCLDVKVLNDNNQEVKFKELAEDDDEIEVLEVNMEGTEDSTTEEAKEEKG
+EAYIPAEEIDEEIDYENIDLLDFTSDLDIEDDFN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

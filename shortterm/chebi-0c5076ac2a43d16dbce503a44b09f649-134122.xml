@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:134122</chebiId><chebiAsciiName>N-oleoyl-L-glutamate(2-)</chebiAsciiName><definition>An N-acyl-L-alpha-amino acid anion resulting from the deprotonation of the carboxy groups of N-oleoyl-L-glutamic acid. The major species at pH 7.3.</definition><status>CHECKED</status><smiles>C(\CCCCCCCC(=O)N[C@H](C([O-])=O)CCC(=O)[O-])=C\CCCCCCCC</smiles><inchi>InChI=1S/C23H41NO5/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-21(25)24-20(23(28)29)18-19-22(26)27/h9-10,20H,2-8,11-19H2,1H3,(H,24,25)(H,26,27)(H,28,29)/p-2/b10-9-/t20-/m0/s1</inchi><inchiKey>UUFVSGRELDGPGL-QJRAZLAKSA-L</inchiKey><charge>-2</charge><mass>409.560</mass><monoisotopicMass>409.28392</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>N-(9Z-octadecenoyl)-L-glutamate</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>N-(9Z-octadecenoyl)-L-glutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-(9Z-octadecenoyl)glutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-[(9Z)-octadecenoyl]-L-glutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-[(9Z)-octadecenoyl]glutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>N-oleoylglutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>oleoylglutamate(2-)</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>(2S)-2-{[(9Z)-octadec-9-enoyl]amino}pentanedioate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C23H39NO5</data><source>ChEBI</source></Formulae><Citations><data>27374330</data><type>PubMed citation</type><source>SUBMITTER</source></Citations><ChemicalStructures><structure>
+  Ketcher 04041712012D 1   1.00000     0.00000     0
+
+ 29 28  0     0  0            999 V2000
+   14.0532  -15.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1873  -15.8284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9815  -15.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1155  -15.8289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9815  -14.3289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2495  -15.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3834  -15.8287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5175  -15.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6514  -15.8287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7853  -15.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9192  -15.8286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8475  -15.8290    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1871  -16.8286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0532  -17.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9192  -16.8287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7853  -17.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6513  -16.8287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5172  -17.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3834  -16.8288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2494  -17.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7135  -15.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5795  -15.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7136  -14.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5796  -13.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4456  -15.3292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5795  -16.8290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5796  -12.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4456  -12.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7136  -12.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  0     0  0
+  1  2  2  0     0  0
+ 13  2  1  0     0  0
+  3  4  1  0     0  0
+  3  5  2  0     0  0
+  3 12  1  0     0  0
+  4  6  1  0     0  0
+  6  7  1  0     0  0
+  7  8  1  0     0  0
+  8  9  1  0     0  0
+  9 10  1  0     0  0
+ 10 11  1  0     0  0
+ 14 13  1  0     0  0
+ 15 14  1  0     0  0
+ 16 15  1  0     0  0
+ 17 16  1  0     0  0
+ 18 17  1  0     0  0
+ 19 18  1  0     0  0
+ 20 19  1  0     0  0
+ 12 21  1  0     0  0
+ 21 22  1  0     0  0
+ 21 23  1  1     0  0
+ 23 24  1  0     0  0
+ 22 25  1  0     0  0
+ 22 26  2  0     0  0
+ 24 27  1  0     0  0
+ 27 28  2  0     0  0
+ 27 29  1  0     0  0
+M  CHG  2  25  -1  29  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>N-(fatty acyl)-L-alpha-amino acid anion</chebiName><chebiId>CHEBI:136716</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-acyl-L-alpha-amino acid anion</chebiName><chebiId>CHEBI:59874</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-oleoyl-L-glutamic acid</chebiName><chebiId>CHEBI:136713</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>N-oleoyl-L-glutamic acid</chebiName><chebiId>CHEBI:136713</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

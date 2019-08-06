@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:113227</chebiId><chebiAsciiName>N-butyl-2-[[6-(4-morpholinyl)-4-oxo-3-(2-phenylethyl)-2-quinazolinyl]thio]acetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CCCCNC(=O)CSC1=NC2=C(C=C(C=C2)N3CCOCC3)C(=O)N1CCC4=CC=CC=C4</smiles><inchi>InChI=1S/C26H32N4O3S/c1-2-3-12-27-24(31)19-34-26-28-23-10-9-21(29-14-16-33-17-15-29)18-22(23)25(32)30(26)13-11-20-7-5-4-6-8-20/h4-10,18H,2-3,11-17,19H2,1H3,(H,27,31)</inchi><inchiKey>FAHIGMPLTGSOSF-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>480.624</mass><monoisotopicMass>480.21951</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C26H32N4O3S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161859
+null
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -2.8579   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.0125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -4.5375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  2  0  0  0  0 
+  6  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  2  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 12  1  0  0  0  0 
+ 15 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  1  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 18  1  0  0  0  0 
+ 13 24  1  0  0  0  0 
+ 24 25  2  0  0  0  0 
+ 24 26  1  0  0  0  0 
+ 26 10  1  0  0  0  0 
+ 26 27  1  0  0  0  0 
+ 27 28  1  0  0  0  0 
+ 28 29  1  0  0  0  0 
+ 29 30  2  0  0  0  0 
+ 30 31  1  0  0  0  0 
+ 31 32  2  0  0  0  0 
+ 32 33  1  0  0  0  0 
+ 33 34  2  0  0  0  0 
+ 34 29  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-24638</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>quinazolines</chebiName><chebiId>CHEBI:38530</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

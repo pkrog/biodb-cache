@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:64873</chebiId><chebiAsciiName>1-acyl-2-tetradecanoyl-sn-glycero-3-phosphate</chebiAsciiName><definition>A 1,2-diacyl-sn-glycerol 3-phosphate in which the acyl group at position 1 is unspecified while that at position 2 is specified as myristoyl (tetradecanoyl).</definition><status>CHECKED</status><smiles>[H][C@@](COC([*])=O)(COP(O)(O)=O)OC(=O)CCCCCCCCCCCCC</smiles><charge>0</charge><mass>409.432</mass><monoisotopicMass>409.19913</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1-acyl-2-myristoyl-sn-glycero-3-phosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C18H34O8PR</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  06131210082D          
+
+ 29 28  0  0  1  0            999 V2000
+   16.5965   -5.7074    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.8863   -5.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1759   -5.7074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4659   -5.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4659   -4.4777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0070   -6.4176    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1859   -6.4176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7508   -5.7102    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0
+   17.3068   -5.2973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0171   -5.7074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4419   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4419   -7.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7317   -6.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0155   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2997   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5838   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8680   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1521   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4362   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7204   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0046   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2887   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5729   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8571   -6.8374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1413   -6.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7317   -5.2950    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4461   -5.7076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7317   -4.4700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9452   -6.0919    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  1  7  1  6  0  0  0
+  1  6  1  1  0  0  0
+  9  1  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 26 29  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>1,2-diacyl-sn-glycerol 3-phosphate</chebiName><chebiId>CHEBI:29089</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>1-acyl-2-tetradecanoyl-sn-glycero-3-phosphate(2-)</chebiName><chebiId>CHEBI:64863</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tetradecanoate ester</chebiName><chebiId>CHEBI:87691</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>1-acyl-2-tetradecanoyl-sn-glycero-3-phosphate(2-)</chebiName><chebiId>CHEBI:64863</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>1,2-ditetradecanoyl-sn-glycerol-3-phosphate</chebiName><chebiId>CHEBI:84266</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>1-hexadecanoyl-2-tetradecanoyl-sn-glycero-3-phosphate</chebiName><chebiId>CHEBI:73264</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>
