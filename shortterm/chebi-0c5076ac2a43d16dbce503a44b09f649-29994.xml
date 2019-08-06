@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:29994</chebiId><chebiAsciiName>D-aspartate(2-)</chebiAsciiName><definition>An aspartate(2-) that is the conjugate base of D-aspartate(1-).</definition><status>CHECKED</status><smiles>N[C@H](CC([O-])=O)C([O-])=O</smiles><inchi>InChI=1S/C4H7NO4/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H,6,7)(H,8,9)/p-2/t2-/m1/s1</inchi><inchiKey>CKLJMWTZIZZHCS-UWTATZPHSA-L</inchiKey><charge>-2</charge><mass>131.08684</mass><monoisotopicMass>131.02295</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2R)-2-aminosuccinate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>D-aspartate(2-)</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D-aspartic acid dianion</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>(2R)-2-aminobutanedioate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>D-aspartate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C4H5NO4</data><source>ChEBI</source></Formulae><RegistryNumbers><data>14495011</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>327368</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  02010810592D          
+
+  9  8  0  0  1  0            999 V2000
+    1.0451    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0451    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7596   -0.1105    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3307   -0.1105    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3307   -0.9355    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3838    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0983   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0983   -0.9355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8128    0.3020    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+M  CHG  2   3  -1   9  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>aspartate(2-)</chebiName><chebiId>CHEBI:29995</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartate(2-)</chebiName><chebiId>CHEBI:29993</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-aspartate(1-)</chebiName><chebiId>CHEBI:29990</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>L-aspartate(2-)</chebiName><chebiId>CHEBI:29993</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-aspartate(1-)</chebiName><chebiId>CHEBI:29990</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

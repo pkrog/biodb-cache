@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:15779</chebiId><chebiAsciiName>N-acyl-D-aspartic acid</chebiAsciiName><definition>A D-aspartic acid derivative that is D-aspartic acid in which one of the hydrogens attached to the nitrogen is replaced by an acyl group.</definition><status>CHECKED</status><smiles>OC(=O)C[C@@H](NC([*])=O)C(O)=O</smiles><charge>0</charge><mass>160.10480</mass><monoisotopicMass>160.02460</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:12475</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:7225</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:21633</SecondaryChEBIIds><Synonyms><data>N-Acyl-D-aspartate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>N-acyl-D-aspartic acids</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C5H6NO5R</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>ChEBI
+  Marvin  01120915252D          
+
+ 12 11  0  0  1  0            999 V2000
+   12.6541   -6.9657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9396   -6.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9396   -5.7282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2251   -6.9657    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.2251   -7.7907    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5106   -6.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7962   -6.9657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0817   -6.5532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7962   -7.7907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9396   -8.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9396   -9.0282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6540   -7.7907    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  6  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  RGP  1  12   1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C06380</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>N-acyl-D-aspartate(2-)</chebiName><chebiId>CHEBI:57512</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-aspartic acid derivative</chebiName><chebiId>CHEBI:83979</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-acyl-aspartic acid</chebiName><chebiId>CHEBI:21654</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-acyl-D-amino acid</chebiName><chebiId>CHEBI:15778</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>N-acyl-D-aspartate(2-)</chebiName><chebiId>CHEBI:57512</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

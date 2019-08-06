@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:58935</chebiId><chebiAsciiName>2,4-diazaniumylpentanoate</chebiAsciiName><definition>Conjugate acid of 2,4-diaminopentanoic acid having both nitrogens protonated and an anionic carboxy group.</definition><status>CHECKED</status><smiles>CC([NH3+])CC([NH3+])C([O-])=O</smiles><inchi>InChI=1S/C5H12N2O2/c1-3(6)2-4(7)5(8)9/h3-4H,2,6-7H2,1H3,(H,8,9)/p+1</inchi><inchiKey>PCEJMSIIDXUDSN-UHFFFAOYSA-O</inchiKey><charge>+1</charge><mass>133.16890</mass><monoisotopicMass>133.09715</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>2,4-diaminopentanoate</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>2,4-diammoniopentanoate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>2,4-diazaniumylpentanoate cation</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>2,4-diazaniumylpentanoate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H13N2O2</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>2,4-diazaniumylpentanoate
+  CDK    2/12/10,15:28
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -0.8335    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5954    0.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5954    0.8938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3099   -0.3437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2625    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5480   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1191   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5480   -1.1688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1191   -1.1688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0 
+  7  1  1  0  0  0  0 
+  2  7  1  0  0  0  0 
+  3  2  2  0  0  0  0 
+  4  2  1  0  0  0  0 
+  6  5  1  0  0  0  0 
+  6  8  1  0  0  0  0 
+  7  9  1  0  0  0  0 
+M  CHG  1   4  -1
+M  CHG  1   8   1
+M  CHG  1   9   1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>amino-acid cation</chebiName><chebiId>CHEBI:33703</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2,4-diaminopentanoic acid</chebiName><chebiId>CHEBI:904</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2,4-diaminopentanoic acid</chebiName><chebiId>CHEBI:904</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

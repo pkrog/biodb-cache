@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:141455</chebiId><chebiAsciiName>Tyr-Asp</chebiAsciiName><definition>A dipeptide obtained by formal condensation of the carboxy group of L-tyrosine with the amino group of L-aspartic acid.</definition><status>CHECKED</status><smiles>C(=O)([C@@H](N)CC=1C=CC(=CC1)O)N[C@H](C(=O)O)CC(=O)O</smiles><inchi>InChI=1S/C13H16N2O6/c14-9(5-7-1-3-8(16)4-2-7)12(19)15-10(13(20)21)6-11(17)18/h1-4,9-10,16H,5-6,14H2,(H,15,19)(H,17,18)(H,20,21)/t9-,10-/m0/s1</inchi><inchiKey>QZOSVNLXLSNHQK-UWVGGRQHSA-N</inchiKey><charge>0</charge><mass>296.276</mass><monoisotopicMass>296.10084</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S)-2-{[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino}succinic acid</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>tyrosine aspartic acid dipeptide</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>tyrosylaspartic acid</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>Y-D</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>Y-D dipeptide</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>YD</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>YD dipeptide</data><type>SYNONYM</type><source>HMDB</source></Synonyms><IupacNames><data>L-tyrosyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C13H16N2O6</data><source>ChEBI</source></Formulae><RegistryNumbers><data>3218974</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Ketcher 08091816092D 1   1.00000     0.00000     0
+
+ 21 21  0     1  0            999 V2000
+    6.7476   -9.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7476  -10.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8816   -8.7300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6136   -8.7300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0154   -9.2300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8816   -7.7301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3456   -8.7300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3456   -7.7301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4796   -9.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2118   -9.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4796  -10.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0154   -7.2301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0154   -6.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1493   -5.7300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1493   -7.7301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2833   -6.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2833   -7.2301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4172   -5.7300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3442  -10.7308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3428  -11.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2143  -10.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0     0  0
+  3  1  1  0     0  0
+  4  1  1  0     0  0
+  3  5  1  1     0  0
+  6  3  1  0     0  0
+  8  7  2  0     0  0
+  9  7  1  0     0  0
+ 10  7  1  0     0  0
+  9  4  1  6     0  0
+ 11  9  1  0     0  0
+  6 12  1  0     0  0
+ 12 13  1  0     0  0
+ 14 13  2  0     0  0
+ 15 12  2  0     0  0
+ 16 14  1  0     0  0
+ 17 15  1  0     0  0
+ 17 16  2  0     0  0
+ 16 18  1  0     0  0
+ 11 19  1  0     0  0
+ 19 20  2  0     0  0
+ 19 21  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0029101</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>L-tyrosine</chebiName><chebiId>CHEBI:17895</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

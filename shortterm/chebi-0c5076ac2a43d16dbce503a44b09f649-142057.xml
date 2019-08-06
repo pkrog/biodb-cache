@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:142057</chebiId><chebiAsciiName>3-hydroxy-L-aspartic acid residue</chebiAsciiName><definition>A 3-hydroxyaspartic acid residue in which the carbon at position 2 has S configuration.</definition><status>CHECKED</status><smiles>C(*)(=O)[C@@H](N*)C(C(O)=O)O</smiles><charge>0</charge><mass>131.087</mass><monoisotopicMass>131.02186</monoisotopicMass><entityStar>3</entityStar><Formulae><data>C4H5NO4</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Ketcher 08311814242D 1   1.00000     0.00000     0
+
+ 11 10  0     0  0            999 V2000
+   22.2345  -21.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2345  -20.3173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3684  -21.8173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3684  -22.8173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5024  -21.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6364  -21.8173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7704  -21.3173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6364  -22.8173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1005  -21.8173    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5024  -23.3172    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5023  -20.3173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0     0  0
+  2  1  2  0     0  0
+  3  1  1  0     0  0
+  3  4  1  1     0  0
+  5  3  1  0     0  0
+  6  5  1  0     0  0
+  7  6  1  0     0  0
+  8  6  2  0     0  0
+ 10  4  1  0     0  0
+  5 11  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>3-hydroxy-L-aspartate residue</chebiName><chebiId>CHEBI:17427</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-alpha-amino acid residue</chebiName><chebiId>CHEBI:83228</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3-hydroxyaspartic acid residue</chebiName><chebiId>CHEBI:142054</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>3-hydroxy-L-aspartate residue</chebiName><chebiId>CHEBI:17427</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

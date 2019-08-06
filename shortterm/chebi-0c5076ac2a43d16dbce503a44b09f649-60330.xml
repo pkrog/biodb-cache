@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:60330</chebiId><chebiAsciiName>2-methyl-2-(methylsulfanyl)propanal oxime</chebiAsciiName><definition>The oxime resulting from the formal condensation of 2-methyl-2-(methylsulfanyl)propanal with hydroxylamine. Addition of the oxime group to methyl isocyanate forms the final step in the synthesis of the systemic insecticide aldicarb.</definition><status>CHECKED</status><smiles>[H]C(=NO)C(C)(C)SC</smiles><inchi>InChI=1S/C5H11NOS/c1-5(2,8-3)4-6-7/h4,7H,1-3H3</inchi><inchiKey>ZFGMCJAXIZTVJA-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.21200</mass><monoisotopicMass>133.05614</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>2-(methylthio)-2-methylpropionaldehyde oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2-(methylthio)isobutyraldehyde oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2-methyl-2-(methylsulfanyl)propanaldoxime</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>2-methyl-2-(methylthio)propanal oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2-methyl-2-(methylthio)propionaldehyde oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>2-methyl-2-(methylthio)propionaldoxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>ADO</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>aldicarb oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Temik oxime</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>N-hydroxy-2-methyl-2-(methylsulfanyl)propan-1-imine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H11NOS</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1646-75-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>2038299</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>2038299</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  10011009372D          
+
+  9  8  0  0  0  0            999 V2000
+   12.9336   -9.1583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7817   -9.8234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9336   -7.8282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0855   -7.1631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6297   -9.1583    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4778   -9.8234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4507  -10.9765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1207  -10.9765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8776   -9.7033    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  5  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  1  9  1  4  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>US3217037</data><type>Patent accession</type></DatabaseLinks><OntologyParents><chebiName>methyl sulfide</chebiName><chebiId>CHEBI:86315</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>aliphatic aldoxime</chebiName><chebiId>CHEBI:82744</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>aldicarb</chebiName><chebiId>CHEBI:2555</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

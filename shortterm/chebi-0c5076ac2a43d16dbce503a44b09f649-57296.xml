@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:57296</chebiId><chebiAsciiName>(-)-ureidoglycolate</chebiAsciiName><definition>Conjugate base of (-)-ureidoglycolic acid.</definition><status>CHECKED</status><smiles>NC(=O)N[C@@H](O)C([O-])=O</smiles><inchi>InChI=1S/C3H6N2O4/c4-3(9)5-1(6)2(7)8/h1,6H,(H,7,8)(H3,4,5,9)/p-1/t1-/m0/s1</inchi><inchiKey>NWZYYCVIOKVTII-SFOWXEAESA-M</inchiKey><charge>-1</charge><mass>133.08280</mass><monoisotopicMass>133.02548</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(S)-ureidoglycolate</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S)-(carbamoylamino)(hydroxy)acetate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C3H5N2O4</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>(2S)-2-(carbamoylamino)-2-hydroxyacetate
+  CDK    2/12/10,15:26
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  2  0  0  0  0 
+  1  2  1  0  0  0  0 
+  7  3  2  0  0  0  0 
+  4  3  1  0  0  0  0 
+  2  5  1  0  0  0  0 
+  5  3  1  0  0  0  0 
+  5  9  1  6  0  0  0 
+  6  1  1  0  0  0  0 
+M  CHG  1   4  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>hydroxy monocarboxylic acid anion</chebiName><chebiId>CHEBI:36059</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>(-)-ureidoglycolic acid</chebiName><chebiId>CHEBI:15412</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(-)-ureidoglycolic acid</chebiName><chebiId>CHEBI:15412</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

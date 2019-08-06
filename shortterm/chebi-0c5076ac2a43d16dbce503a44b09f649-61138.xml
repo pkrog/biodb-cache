@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:61138</chebiId><chebiAsciiName>N-hydroxy-L-valine</chebiAsciiName><definition>An N-hydroxyamino acid that is derived from L-valine.</definition><status>CHECKED</status><smiles>CC(C)[C@H](NO)C(O)=O</smiles><inchi>InChI=1S/C5H11NO3/c1-3(2)4(6-9)5(7)8/h3-4,6,9H,1-2H3,(H,7,8)/t4-/m0/s1</inchi><inchiKey>PXEKBQAJOBYINU-BYPYZUCNSA-N</inchiKey><charge>0</charge><mass>133.14570</mass><monoisotopicMass>133.07389</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>N-hydroxyvaline</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>N-hydroxy-L-valine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H11NO3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>6588754</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  01281112132D          
+
+  9  8  0  0  1  0            999 V2000
+    6.9154  -16.4784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0575  -16.4784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2009  -16.0659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2009  -15.2409    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4864  -16.4784    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4864  -17.3034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7719  -16.0659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7719  -15.2409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2027  -17.7135    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  5  3  1  0  0  0  0
+  7  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>N-hydroxy-alpha-amino-acid</chebiName><chebiId>CHEBI:50760</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxylamines</chebiName><chebiId>CHEBI:24709</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hydroxy-L-valine</chebiName><chebiId>CHEBI:61139</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>N-hydroxy-L-valinate</chebiName><chebiId>CHEBI:61140</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>N-hydroxy-L-valinate</chebiName><chebiId>CHEBI:61140</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Trypanosoma brucei</speciesText><speciesAccession>NCBI:5691</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS49</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Trypanosoma brucei brucei</speciesText><speciesAccession>NCBI:5702</speciesAccession><strainText>WT427</strainText><SourceType>PubMed Id</SourceType><SourceAccession>23571546</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Trypanosoma brucei brucei</speciesText><speciesAccession>NCBI:5702</speciesAccession><strainText>WT427</strainText><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS49</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Trypanosoma brucei brucei</speciesText><speciesAccession>NCBI:5702</speciesAccession><strainText>WT427</strainText><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS49</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

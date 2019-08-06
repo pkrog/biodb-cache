@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73639</chebiId><chebiAsciiName>Phe-Val-Asp</chebiAsciiName><definition>A tripeptide composed of L-phenylalanine, L-valine, and L-aspartic acid joined by peptide linkages.</definition><status>CHECKED</status><smiles>CC(C)[C@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C18H25N3O6/c1-10(2)15(17(25)20-13(18(26)27)9-14(22)23)21-16(24)12(19)8-11-6-4-3-5-7-11/h3-7,10,12-13,15H,8-9,19H2,1-2H3,(H,20,25)(H,21,24)(H,22,23)(H,26,27)/t12-,13-,15-/m0/s1</inchi><inchiKey>JSGWNFKWZNPDAV-YDHLFZDLSA-N</inchiKey><charge>0</charge><mass>379.40760</mass><monoisotopicMass>379.17434</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>F-V-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>FVD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-Phe-L-Val-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-phenylalanyl-L-valyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C18H25N3O6</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  05131316482D          
+
+ 27 27  0  0  1  0            999 V2000
+    9.1931   -9.1054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1931   -9.9304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4786   -8.6928    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.9076   -8.6928    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7641   -9.1054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4786   -7.8679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3365   -8.6928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3365   -7.8679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6219   -9.1054    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.0509   -9.1054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7641   -7.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7641   -6.6304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0497   -7.8679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3353   -7.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0497   -6.2180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3353   -6.6304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6219   -9.9304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9075  -10.3429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3364  -10.3429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7701   -7.8744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4739   -9.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7650   -8.7018    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.4688   -9.9416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1935   -8.7107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4871   -7.4664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4923   -6.6414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1991   -7.8833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+ 11  6  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13 11  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 16 14  1  0  0  0  0
+ 16 15  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 22 20  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 21  2  0  0  0  0
+ 24 21  1  0  0  0  0
+ 22 10  1  1  0  0  0
+ 20 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tripeptide</chebiName><chebiId>CHEBI:47923</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-phenylalanine</chebiName><chebiId>CHEBI:17295</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-valine</chebiName><chebiId>CHEBI:16414</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

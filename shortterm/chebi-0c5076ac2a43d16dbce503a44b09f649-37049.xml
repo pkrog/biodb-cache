@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:37049</chebiId><chebiAsciiName>(S)-3-hydroxyhexanoic acid</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>CCC[C@H](O)CC(O)=O</smiles><inchi>InChI=1S/C6H12O3/c1-2-3-5(7)4-6(8)9/h5,7H,2-4H2,1H3,(H,8,9)/t5-/m0/s1</inchi><inchiKey>HPMGFDVTYHWBAG-YFKPBYRVSA-N</inchiKey><charge>0</charge><mass>132.15768</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>(3S)-3-hydroxyhexanoic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H12O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>172180</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  11160614232D          
+
+  9  8  0  0  0  0            999 V2000
+   -3.7813   -0.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0668    0.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3523   -0.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9234   -0.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2089    1.1750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2089    0.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5056   -0.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6378    0.3500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6378    1.1750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  6  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>3-hydroxyhexanoic acid</chebiName><chebiId>CHEBI:37035</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(S)-3-hydroxyhexanoyl-CoA</chebiName><chebiId>CHEBI:28276</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

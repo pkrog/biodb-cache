@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:17404</chebiId><chebiAsciiName>indan-1-one</chebiAsciiName><definition>An indanone that consists of 2,3-dihydro-1H-indene substituted by an oxo group at position 1.</definition><status>CHECKED</status><smiles>O=C1CCc2ccccc12</smiles><inchi>InChI=1S/C9H8O/c10-9-6-5-7-3-1-2-4-8(7)9/h1-4H,5-6H2</inchi><inchiKey>QNXSIUBBGPHDDE-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.15922</mass><monoisotopicMass>132.05751</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:5892</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:14437</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:19056</SecondaryChEBIIds><Synonyms><data>1-Indanone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>alpha-hydrindone</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>alpha-indanone</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>Hydrindone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>indan-1-one</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>indan-1-one</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>Indanone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>2,3-dihydro-1H-inden-1-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H8O</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>142414</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><RegistryNumbers><data>507957</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>507957</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>83-33-0</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>83-33-0</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  04230716312D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991    0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991   -0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9840    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7540    1.4521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  3  2  0  0  0  0
+  6  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>1-INDANONE</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>C01504</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>c0395</data><type>UM-BBD compID</type></DatabaseLinks><DatabaseLinks><data>HMDB0059602</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>indanone</chebiName><chebiId>CHEBI:38132</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2-formylindan-1-one</chebiName><chebiId>CHEBI:27534</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

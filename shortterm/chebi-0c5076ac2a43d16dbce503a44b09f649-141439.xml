@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:141439</chebiId><chebiAsciiName>Ile-Asp</chebiAsciiName><definition>A dipeptide obtained by formal condensation of the carboxy group of L-isoleucine with the amino group of L-aspartic acid.</definition><status>CHECKED</status><smiles>N[C@H](C(=O)N[C@H](C(=O)O)CC(=O)O)[C@@H](C)CC</smiles><inchi>InChI=1S/C10H18N2O5/c1-3-5(2)8(11)9(15)12-6(10(16)17)4-7(13)14/h5-6,8H,3-4,11H2,1-2H3,(H,12,15)(H,13,14)(H,16,17)/t5-,6-,8-/m0/s1</inchi><inchiKey>WKXVAXOSIPTXEC-HAFWLYHUSA-N</inchiKey><charge>0</charge><mass>246.261</mass><monoisotopicMass>246.12157</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>(2S)-2-{[(2S,3S)-2-amino-3-methylpentanoyl]amino}succinic acid</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>I-D</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>I-D dipeptide</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>ID</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Synonyms><data>ID dipeptide</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>isoleucylaspartic acid</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><IupacNames><data>L-isoleucyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H18N2O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>7429414</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>28351802</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>3656360</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 08091815412D 1   1.00000     0.00000     0
+
+ 17 16  0     1  0            999 V2000
+    4.0686   -6.9339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7992   -6.9337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9336   -5.4350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9338   -6.4343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7992   -7.9329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0642   -4.9336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6643   -6.4341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8028   -4.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8022   -3.9291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3949   -6.4343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5293   -7.9329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5296   -6.9337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3949   -5.4350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2599   -6.9339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3945   -8.4327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3943   -9.4319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2600   -7.9334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0     0  0
+  5  2  2  0     0  0
+  7  2  1  0     0  0
+  4  3  1  0     0  0
+  4  1  1  1     0  0
+  3  6  1  1     0  0
+  3  8  1  0     0  0
+  8  9  1  0     0  0
+ 12 10  1  0     0  0
+ 13 10  2  0     0  0
+ 14 10  1  0     0  0
+ 12 11  1  0     0  0
+ 12  7  1  6     0  0
+ 11 15  1  0     0  0
+ 15 16  2  0     0  0
+ 15 17  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028903</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>L-isoleucine</chebiName><chebiId>CHEBI:17191</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

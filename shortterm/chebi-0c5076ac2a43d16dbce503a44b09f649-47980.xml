@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:47980</chebiId><chebiAsciiName>threo-3-methyl-L-aspartic acid</chebiAsciiName><definition>An aspartic acid derivative having a 3-methyl substituent.</definition><status>CHECKED</status><smiles>C[C@@H]([C@H](N)C(O)=O)C(O)=O</smiles><inchi>InChI=1S/C5H9NO4/c1-2(4(7)8)3(6)5(9)10/h2-3H,6H2,1H3,(H,7,8)(H,9,10)/t2-,3-/m0/s1</inchi><inchiKey>LXRUAYBIUSUULX-HRFVKAFMSA-N</inchiKey><charge>0</charge><mass>147.12930</mass><monoisotopicMass>147.05316</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:39908</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:6334</SecondaryChEBIIds><Synonyms><data>2S,3S-3-METHYLASPARTIC ACID</data><type>SYNONYM</type><source>PDBeChem</source></Synonyms><Synonyms><data>L-threo-3-Methylaspartate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>threo-3-methyl-L-aspartic acid</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S,3S)-2-amino-3-methylbutanedioic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>(3S)-3-methyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H9NO4</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>1724461</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>1724461</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>4664207</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><Citations><data>9718309</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  12110714352D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.0717    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  1  1  0  0  0  0
+  2 10  1  1  0  0  0
+  1  3  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6  2  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  9  1  1  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  12110714513D          
+
+ 19 18  0  0  0  0            999 V2000
+    0.8461   -0.0629    1.4196 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6459   -0.3232   -0.5029 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1887   -1.6034    0.0749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4891   -2.2911    0.7801 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4475   -1.9821   -0.1932 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7999   -0.1290   -0.0463 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4951    0.8545   -0.0202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3421    1.1528   -0.6255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2250    2.1878   -0.0148 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9572    1.1433   -1.8179 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2755    0.7239    1.6916 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3822   -0.8894    1.7625 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6797   -0.3726   -1.5918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4051   -0.9677   -0.3914 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7954   -2.8044    0.1784 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4610    0.9034    1.0679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1032    1.7805   -0.4389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5263    0.7165   -0.3458 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051    1.9656   -2.1895 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>3D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>3MD</data><type>PDBeChem accession</type></DatabaseLinks><DatabaseLinks><data>C03618</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>DB04538</data><type>DrugBank accession</type></DatabaseLinks><OntologyParents><chebiName>non-proteinogenic L-alpha-amino acid</chebiName><chebiId>CHEBI:83822</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>amino dicarboxylic acid</chebiName><chebiId>CHEBI:36164</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>threo-3-methyl-L-aspartate(1-)</chebiName><chebiId>CHEBI:58724</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>threo-3-methyl-L-aspartate(1-)</chebiName><chebiId>CHEBI:58724</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73503</chebiId><chebiAsciiName>Glu-Asp</chebiAsciiName><definition>A dipeptide composed of L-glutamic acid and L-aspartic acid joined by a peptide linkage.</definition><status>CHECKED</status><smiles>N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C9H14N2O7/c10-4(1-2-6(12)13)8(16)11-5(9(17)18)3-7(14)15/h4-5H,1-3,10H2,(H,11,16)(H,12,13)(H,14,15)(H,17,18)/t4-,5-/m0/s1</inchi><inchiKey>FYYSIASRLDJUNP-WHFBIAKZSA-N</inchiKey><charge>0</charge><mass>262.21670</mass><monoisotopicMass>262.08010</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>alpha-Glu-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>alpha-glutamylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>alpha-L-Glu-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>E-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>ED</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>glutamylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-Glu-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-alpha-glutamyl- L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H14N2O7</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1715449</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>3918-84-1</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  05021316562D          
+
+ 18 17  0  0  1  0            999 V2000
+    9.9582   -7.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9582   -8.4991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2438   -7.2616    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.6728   -7.2616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5293   -7.6741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2438   -6.4363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5293   -6.0239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5293   -5.1990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1017   -7.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3872   -8.4991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3873   -7.6741    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.1017   -6.4363    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8162   -7.6741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8148   -4.7864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2438   -4.7864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1017   -8.9118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1015   -9.7368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8162   -8.4992    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11  4  1  6  0  0  0
+  8 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028815</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-glutamic acid</chebiName><chebiId>CHEBI:16015</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

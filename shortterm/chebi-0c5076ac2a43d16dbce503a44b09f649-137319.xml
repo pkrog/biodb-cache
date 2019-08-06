@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:137319</chebiId><chebiAsciiName>4-phospho-L-aspartic acid residue</chebiAsciiName><definition>An L-alpha-amino acid residue derived from 4-phospho-L-aspartic acid.</definition><status>CHECKED</status><smiles>C(*)(=O)[C@@H](N*)CC(OP(O)(=O)O)=O</smiles><charge>0</charge><mass>195.067</mass><monoisotopicMass>194.99327</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>4-phospho-L-aspartate residue</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>4-phospho-L-aspartyl residue</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C4H6NO6P</data><source>ChEBI</source></Formulae><Citations><data>10350484</data><type>PubMed citation</type><source>SUBMITTER</source></Citations><ChemicalStructures><structure>
+  Ketcher 08091715462D 1   1.00000     0.00000     0
+
+ 14 13  0     0  0            999 V2000
+   10.6316  -21.2448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6316  -20.2448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7655  -21.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7655  -22.7448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8996  -21.2448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0335  -21.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1675  -21.2448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0335  -22.7448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4977  -21.7447    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8996  -23.2448    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1674  -20.2448    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3014  -19.7448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0335  -19.7448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3014  -20.7448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0     0  0
+  2  1  2  0     0  0
+  3  1  1  0     0  0
+  3  4  1  1     0  0
+  5  3  1  0     0  0
+  6  5  1  0     0  0
+  7  6  1  0     0  0
+  8  6  2  0     0  0
+ 10  4  1  0     0  0
+  7 11  1  0     0  0
+ 11 12  1  0     0  0
+ 11 13  2  0     0  0
+ 11 14  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>L-alpha-amino acid residue</chebiName><chebiId>CHEBI:83228</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>4-phospho-L-aspartic acid</chebiName><chebiId>CHEBI:15836</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

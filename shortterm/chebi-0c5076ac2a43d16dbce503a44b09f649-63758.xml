@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:63758</chebiId><chebiAsciiName>beta-D-xylosyl group</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>133.12260</mass><monoisotopicMass>133.05008</monoisotopicMass><entityStar>3</entityStar><Formulae><data>C5H9O4</data><source>ChEBI</source></Formulae><Citations><data>21478158</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  01271209062D          
+
+ 10 10  0  0  1  0            999 V2000
+    7.8543   -3.5592    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.8543   -4.3886    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1294   -4.7905    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.4244   -4.3770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.4391   -3.5521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5811   -3.1687    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5445   -4.7977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1338   -5.6052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7239   -4.7782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1545   -3.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  1  0  0  0
+  2  1  1  0  0  0  0
+ 10  1  1  0  0  0  0
+  2  7  1  6  0  0  0
+  3  2  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  3  1  0  0  0  0
+  4  9  1  6  0  0  0
+  5  4  1  0  0  0  0
+ 10  5  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>carbohydrate allergen</chebiName><chebiId>CHEBI:143231</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>xylosyl group</chebiName><chebiId>CHEBI:63759</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>beta-D-xylose</chebiName><chebiId>CHEBI:28161</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

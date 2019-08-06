@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73621</chebiId><chebiAsciiName>3-methylthioaspartic acid</chebiAsciiName><definition>A sulfur-containing amino acid that is L-aspartic acid substituted at position 3 by a methylthio group.</definition><status>CHECKED</status><smiles>CSC([C@H](N)C(O)=O)C(O)=O</smiles><inchi>InChI=1S/C5H9NO4S/c1-11-3(5(9)10)2(6)4(7)8/h2-3H,6H2,1H3,(H,7,8)(H,9,10)/t2-,3?/m0/s1</inchi><inchiKey>AOSGDBLMPHPJQU-SCQFTWEKSA-N</inchiKey><charge>0</charge><mass>179.19400</mass><monoisotopicMass>179.02523</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>3-(methylsulfanyl)aspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>3-(methylthio)-L-aspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>3-(methylsulfanyl)-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C5H9NO4S</data><source>ChEBI</source></Formulae><RegistryNumbers><data>18571117</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>19736993</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20007320</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22174266</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  05131311022D          
+
+ 11 10  0  0  1  0            999 V2000
+   10.3392   -5.1691    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0537   -5.5816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7681   -5.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4824   -5.5816    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.1970   -5.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9114   -5.5816    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1970   -4.3441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4824   -6.4065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0537   -6.4065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7681   -4.3441    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0537   -3.9316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  4  8  1  1  0  0  0
+  2  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>sulfur-containing amino acid</chebiName><chebiId>CHEBI:26834</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3-methylthioaspartate(1-)</chebiName><chebiId>CHEBI:73620</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>methyl sulfide</chebiName><chebiId>CHEBI:86315</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid derivative</chebiName><chebiId>CHEBI:83978</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>non-proteinogenic L-alpha-amino acid</chebiName><chebiId>CHEBI:83822</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>amino dicarboxylic acid</chebiName><chebiId>CHEBI:36164</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3-thio-L-aspartic acid</chebiName><chebiId>CHEBI:74653</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>C4-dicarboxylic acid</chebiName><chebiId>CHEBI:66873</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>3-methylthioaspartate(1-)</chebiName><chebiId>CHEBI:73620</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>3-methylthioaspartic acid residue</chebiName><chebiId>CHEBI:73619</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:27930</chebiId><chebiAsciiName>indan-2-one</chebiAsciiName><definition>An indanone with an oxo substituent at position 2. It is a metabolite of indane.</definition><status>CHECKED</status><smiles>O=C1Cc2ccccc2C1</smiles><inchi>InChI=1S/C9H8O/c10-9-5-7-3-1-2-4-8(7)6-9/h1-4H,5-6H2</inchi><inchiKey>UMJJFEIKYGFCAT-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>132.15922</mass><monoisotopicMass>132.05751</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:1173</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:19664</SecondaryChEBIIds><Synonyms><data>2-Indanone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>beta-hydrindone</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><IupacNames><data>1,3-dihydro-2H-inden-2-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H8O</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>464655</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><RegistryNumbers><data>615-13-4</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>615-13-4</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>636550</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>636550</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>2325154</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>7944365</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  04230716322D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991    0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991   -0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9840    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  3  2  0  0  0  0
+  6  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>2INDANONE</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>c0402</data><type>UM-BBD compID</type></DatabaseLinks><DatabaseLinks><data>C07727</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>xenobiotic metabolite</chebiName><chebiId>CHEBI:76206</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>indanone</chebiName><chebiId>CHEBI:38132</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>1-formylindan-2-one</chebiName><chebiId>CHEBI:28779</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>indan-2-one oxime</chebiName><chebiId>CHEBI:34291</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

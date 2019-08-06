@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:65619</chebiId><chebiAsciiName>chloropeptin II</chebiAsciiName><definition>A heterodetic cyclic peptide consisting of N-acylated trytophan, 3,5-dichloro-4-hydroxyphenylglycine, 4-hydroxyphenylglycine, 3,5-dichloro-4-hydroxyphenylglycyl, tyrosine and 4-hydroxyphenylglycine residues joined in sequence and in which the side-chain of the central 4-hydroxyphenylglycine residue is attached to the side-chain of the tryptophan via a C3-C6 bond and to the side-chain of the tyrosine via an ether bond from C5. It is isolated from the culture broth of Streptomyces and has anti-HIV-1 activity.</definition><status>CHECKED</status><smiles>[H][C@@]12NC(=O)[C@H](NC(=O)[C@@H](Cc3c[nH]c4cc(ccc34)-c3cc1cc(Oc1ccc(C[C@H](N(C)C(=O)[C@H](NC2=O)c2cc(Cl)c(O)c(Cl)c2)C(=O)N[C@@H](C(O)=O)c2ccc(O)cc2)cc1)c3O)NC(=O)C(=O)c1cc(Cl)c(O)c(Cl)c1)c1cc(Cl)c(O)c(Cl)c1</smiles><inchi>InChI=1S/C61H45Cl6N7O15/c1-74-44(56(82)73-49(61(87)88)25-4-7-32(75)8-5-25)12-24-2-9-33(10-3-24)89-45-22-27-13-35(51(45)77)26-6-11-34-31(23-68-42(34)20-26)21-43(69-59(85)50(76)30-18-40(66)54(80)41(67)19-30)55(81)70-47(28-14-36(62)52(78)37(63)15-28)57(83)71-46(27)58(84)72-48(60(74)86)29-16-38(64)53(79)39(65)17-29/h2-11,13-20,22-23,43-44,46-49,68,75,77-80H,12,21H2,1H3,(H,69,85)(H,70,81)(H,71,83)(H,72,84)(H,73,82)(H,87,88)/t43-,44+,46-,47-,48-,49-/m1/s1</inchi><inchiKey>JJGZGELTZPACID-OTLJHNKQSA-N</inchiKey><charge>0</charge><mass>1328.76600</mass><monoisotopicMass>1325.11048</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>alpha-(((8,13-bis(3,5-dichloro-4-hydroxyphenyl)-5-(((3,5-dichloro-4-hydroxyphenyl)oxoacetyl)amino)-2,4,5,6,7,8,9,10,10a,11,12,13,14,15,16,17-hexadecahydro-31-hydroxy-15-methyl-6,9,11,14-tetraoxo-18,21-etheno-1,27:23,26-dimethenopyrrolo(3',4':12,13)(1,4)diazacyclohexadecino(6,5-d)(1,7,10)oxadiazacyclohexadecin-16-yl)carbonyl)amino)-4-hydroxyphenylacetic acid</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Complestatin</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Formulae><data>C61H45Cl6N7O15</data><source>ChEBI</source></Formulae><RegistryNumbers><data>20323892</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>69598-75-0</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>9066767</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  09041216512D          
+
+ 90 99  0  0  0  0            999 V2000
+   10.8088  -14.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0666  -14.5489    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8733  -15.8675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4936  -15.1373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6708  -15.1060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302  -15.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6185  -16.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4397  -16.5616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2792  -16.1786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2718  -16.9751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9590  -17.3802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6468  -16.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6567  -16.1894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9759  -15.7909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3723  -15.7885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0858  -16.2026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0761  -17.0255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7902  -17.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5109  -17.0385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5133  -16.2065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8039  -15.7978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8083  -14.9679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7837  -18.2766    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0622  -18.6809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4969  -18.6911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3489  -18.2664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0518  -19.5069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2128  -18.2906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9316  -18.7052    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.2232  -17.4647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9196  -19.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6429  -18.1457    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4137  -18.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1287  -18.0121    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.4014  -19.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9484  -18.4748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6781  -18.0620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3642  -18.4333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6579  -17.1018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3528  -19.3373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9337  -18.0706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6466  -18.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3567  -18.0813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3609  -17.2541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6467  -16.8346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9312  -17.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6463  -16.0085    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   16.0783  -16.8392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0748  -18.4944    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    8.1990  -19.9390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1921  -20.7639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9022  -21.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6307  -20.7731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6329  -19.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3366  -21.1881    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.4720  -21.1678    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    8.8972  -22.0057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6292  -18.6669    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9793  -18.3543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6227  -19.4928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9048  -19.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8939  -20.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6024  -21.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3271  -20.7381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3331  -19.9111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0424  -21.1491    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974  -21.9707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1778  -21.1328    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.0142  -17.6574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2508  -18.5804    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2390  -19.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5334  -18.0979    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5709  -17.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8588  -18.5709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1064  -18.2260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596  -19.2232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3829  -18.6292    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3265  -18.2026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0461  -18.6059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3124  -17.3767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3726  -19.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3534  -19.8556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3679  -20.6805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3478  -21.1043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0706  -20.6989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0803  -19.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3351  -21.9303    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4204  -16.7355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6882  -15.7249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4983  -17.8622    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3 89  1  0  0  0  0
+ 89  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  3  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14  9  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 18  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  2  0  0  0  0
+ 25 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 29 31  1  6  0  0  0
+ 29 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  2  0  0  0  0
+ 34 36  1  1  0  0  0
+ 36 37  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  2  0  0  0  0
+ 38 40  2  0  0  0  0
+ 38 41  1  0  0  0  0
+ 41 42  2  0  0  0  0
+ 42 43  1  0  0  0  0
+ 43 44  2  0  0  0  0
+ 44 45  1  0  0  0  0
+ 45 46  2  0  0  0  0
+ 46 41  1  0  0  0  0
+ 45 47  1  0  0  0  0
+ 44 48  1  0  0  0  0
+ 43 49  1  0  0  0  0
+ 31 50  2  0  0  0  0
+ 50 51  1  0  0  0  0
+ 51 52  2  0  0  0  0
+ 52 53  1  0  0  0  0
+ 53 54  2  0  0  0  0
+ 54 31  1  0  0  0  0
+ 53 55  1  0  0  0  0
+ 51 56  1  0  0  0  0
+ 52 57  1  0  0  0  0
+ 26 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 60  1  6  0  0  0
+ 60 61  2  0  0  0  0
+ 61 62  1  0  0  0  0
+ 62 63  2  0  0  0  0
+ 63 64  1  0  0  0  0
+ 64 65  2  0  0  0  0
+ 65 60  1  0  0  0  0
+ 64 66  1  0  0  0  0
+ 63 67  1  0  0  0  0
+ 62 68  1  0  0  0  0
+ 59 69  2  0  0  0  0
+ 59 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 72  1  0  0  0  0
+ 72 73  1  0  0  0  0
+ 73 10  1  0  0  0  0
+ 72 74  1  6  0  0  0
+ 74 75  1  0  0  0  0
+ 74 76  2  0  0  0  0
+ 77 75  1  6  0  0  0
+ 77 78  1  0  0  0  0
+ 78 79  1  0  0  0  0
+ 78 80  2  0  0  0  0
+ 77 81  1  0  0  0  0
+ 81 82  2  0  0  0  0
+ 82 83  1  0  0  0  0
+ 83 84  2  0  0  0  0
+ 84 85  1  0  0  0  0
+ 85 86  2  0  0  0  0
+ 86 81  1  0  0  0  0
+ 84 87  1  0  0  0  0
+ 34 88  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 20  6  1  0  0  0  0
+ 23 90  1  6  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00016684</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C15695</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>polyphenol</chebiName><chebiId>CHEBI:26195</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anti-HIV-1 agent</chebiName><chebiId>CHEBI:64947</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>indoles</chebiName><chebiId>CHEBI:24828</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antimicrobial agent</chebiName><chebiId>CHEBI:33281</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>cyclic ether</chebiName><chebiId>CHEBI:37407</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>heterodetic cyclic peptide</chebiName><chebiId>CHEBI:24533</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organochlorine compound</chebiName><chebiId>CHEBI:36683</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>peptide antibiotic</chebiName><chebiId>CHEBI:25903</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Streptomyces sp.</speciesText><speciesAccession>NCBI:1931</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>9066767</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

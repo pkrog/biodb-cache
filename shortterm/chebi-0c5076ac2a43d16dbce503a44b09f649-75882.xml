@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:75882</chebiId><chebiAsciiName>1-alkyl-2-acetylglycerol</chebiAsciiName><definition>An ether lipid consisting of glycerol substituted at position 2 by an acetyl group and at position 1 by an unspecified alkyl group.</definition><status>CHECKED</status><smiles>CC(=O)OC(CO)CO[*]</smiles><charge>0</charge><mass>133.123</mass><monoisotopicMass>133.05008</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>1-O-alkyl-2-acetylglycerol</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>2-acetyl-1-alkylglycerol</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>AcMAGE</data><type>SYNONYM</type><source>SUBMITTER</source></Synonyms><Formulae><data>C5H9O4R</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Mrv0541 10171309342D          
+
+ 10  9  0  0  0  0            999 V2000
+   19.7931    6.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0785    7.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3635    6.9492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6488    7.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9339    6.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3634    6.1242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6486    5.7113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6486    4.8849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9340    6.1242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2008    7.3804    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Mrv0541 10171309342D          
+
+ 11 10  0  0  0  0            999 V2000
+   19.7931    6.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0785    7.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3635    6.9492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6488    7.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9339    6.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7766    6.2342    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9504    6.2342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2356    5.8213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2356    4.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5210    6.2342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2008    7.3804    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11  5  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>acetic acid</chebiName><chebiId>CHEBI:15366</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>glycerolipid</chebiName><chebiId>CHEBI:35741</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>acetate ester</chebiName><chebiId>CHEBI:47622</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>ether lipid</chebiName><chebiId>CHEBI:64611</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>1-alkyl-2-acetyl-sn-glycerol</chebiName><chebiId>CHEBI:16291</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>1-O-palmityl-2-acetyl-sn-glycerol</chebiName><chebiId>CHEBI:75936</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

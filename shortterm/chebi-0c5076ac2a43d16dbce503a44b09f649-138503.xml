@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:138503</chebiId><chebiAsciiName>Arg-Thr-Thr-Asp</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C(=O)([C@@H](N)CCCNC(=N)N)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)CC(=O)O)[C@H](O)C)[C@H](O)C</smiles><inchi>InChI=1S/C18H33N7O9/c1-7(26)12(15(31)23-10(17(33)34)6-11(28)29)25-16(32)13(8(2)27)24-14(30)9(19)4-3-5-22-18(20)21/h7-10,12-13,26-27H,3-6,19H2,1-2H3,(H,23,31)(H,24,30)(H,25,32)(H,28,29)(H,33,34)(H4,20,21,22)/t7-,8-,9+,10+,12+,13+/m1/s1</inchi><inchiKey>ZFSIGJMSVGZVGP-DHATWTDPSA-N</inchiKey><charge>0</charge><mass>491.497</mass><monoisotopicMass>491.23398</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>L-Arg-L-Thr-L-Thr-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>R-T-T-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>RTTD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-arginyl-L-threonyl-L-threonyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C18H33N7O9</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Ketcher 09251712332D 1   1.00000     0.00000     0
+
+ 34 33  0     1  0            999 V2000
+    9.0377   -9.7995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0377  -10.7997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1714   -9.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9042   -9.2993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3051   -9.7995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1714   -8.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6369   -9.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6369   -8.2989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7705   -9.7995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5032   -9.7995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7705  -10.7997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2360   -9.7995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2360  -10.7997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3697   -9.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1023   -9.2991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4386   -5.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3051   -4.7973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4386   -6.2981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5722   -4.7973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3051   -6.7983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3051   -7.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8395   -9.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9726   -9.8028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8406   -8.3032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7054   -9.8048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3697   -8.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9715  -10.8032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8373  -11.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2360   -7.7987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6296  -11.3217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9142  -11.2709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5032   -7.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8361  -12.3049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7043  -10.8053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0     0  0
+  3  1  1  0     0  0
+  4  1  1  0     0  0
+  3  5  1  1     0  0
+  6  3  1  0     0  0
+  8  7  2  0     0  0
+  9  7  1  0     0  0
+ 10  7  1  0     0  0
+  9  4  1  6     0  0
+ 11  9  1  0     0  0
+ 13 12  2  0     0  0
+ 14 12  1  0     0  0
+ 15 12  1  0     0  0
+ 14 10  1  1     0  0
+ 17 16  2  0     0  0
+ 18 16  1  0     0  0
+ 19 16  1  0     0  0
+ 20 18  1  0     0  0
+ 21 20  1  0     0  0
+ 21  6  1  0     0  0
+ 23 22  1  0     0  0
+ 24 22  2  0     0  0
+ 25 22  1  0     0  0
+ 23 15  1  6     0  0
+ 14 26  1  0     0  0
+ 23 27  1  0     0  0
+ 27 28  1  0     0  0
+ 26 29  1  1     0  0
+ 11 30  1  6     0  0
+ 31 11  1  0     0  0
+ 26 32  1  0     0  0
+ 28 33  2  0     0  0
+ 28 34  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>tetrapeptide</chebiName><chebiId>CHEBI:48030</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-arginine</chebiName><chebiId>CHEBI:16467</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-threonine</chebiName><chebiId>CHEBI:16857</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

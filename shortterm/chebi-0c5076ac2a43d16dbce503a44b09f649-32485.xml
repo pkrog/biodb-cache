@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:32485</chebiId><chebiAsciiName>L-rhodinose</chebiAsciiName><definition></definition><status>CHECKED</status><smiles>C[C@H](O)[C@@H](O)CCC=O</smiles><inchi>InChI=1S/C6H12O3/c1-5(8)6(9)3-2-4-7/h4-6,8-9H,2-3H2,1H3/t5-,6-/m0/s1</inchi><inchiKey>XXIHHRIZGBRENI-WDSKDSINSA-N</inchiKey><charge>0</charge><mass>132.15770</mass><monoisotopicMass>132.07864</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>2,3,6-tri-deoxy-L-threo-hexose</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-(-)-rhodinose</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>rhodinose</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>(4S,5S)-4,5-dihydroxyhexanal</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><IupacNames><data>2,3,6-trideoxy-L-threo-hexose</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C6H12O3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>5726765</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  01261116312D          
+
+  9  8  0  0  1  0            999 V2000
+    5.6757  -22.1211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3901  -21.7086    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1046  -22.1211    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.8191  -21.7086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5336  -22.1211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2480  -21.7086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2441  -20.8836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1070  -22.9511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3913  -20.8836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  3  8  1  6  0  0  0
+  2  9  1  6  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>ChEBI
+  Marvin  01261116322D          
+
+ 15 14  0  0  1  0            999 V2000
+    7.1186   -2.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1186   -3.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1186   -4.6318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1186   -5.4568    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1186   -6.2818    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.1186   -7.1068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8330   -2.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2936   -3.8068    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9436   -3.8068    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2936   -4.6318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9436   -4.6318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2936   -5.4568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9436   -5.4568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2936   -6.2818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9436   -6.2818    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  1  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  1  0  0  0
+  4 13  1  1  0  0  0
+  5 14  1  1  0  0  0
+  5 15  1  1  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>trideoxyhexose</chebiName><chebiId>CHEBI:50191</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>lactonamycin</chebiName><chebiId>CHEBI:66553</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

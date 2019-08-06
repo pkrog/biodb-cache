@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:26095</chebiId><chebiAsciiName>phthaloyl group</chebiAsciiName><definition>A divalent carboacyl group formed by removal of an OH from each carboxyl group of phthalic acid. It has been used as an amino protecting group of deoxyadenosine in oligonucleotide synthesis.</definition><status>CHECKED</status><charge>0</charge><mass>132.11616</mass><monoisotopicMass>132.02113</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>-Pht-</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>Pht&lt;</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>phthaloyl</data><type>SYNONYM</type><source>JCBN</source></Synonyms><IupacNames><data>benzene-1,2-dicarbonyl</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C8H4O2</data><source>ChEBI</source></Formulae><Citations><data>7400667</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>ChEBI
+  Marvin  10190511302D          
+
+ 12 12  0  0  0  0            999 V2000
+   13.2109   -8.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4964   -8.2559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7819   -8.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4964   -7.4308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7819   -7.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0674   -7.4308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0674   -8.2559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2109   -7.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2109   -6.1933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9254   -7.4308    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9254   -8.2559    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2109   -9.4934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  2  0  0  0  0
+ 11  1  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  3  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  8  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>divalent carboacyl group</chebiName><chebiId>CHEBI:23855</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>protecting group</chebiName><chebiId>CHEBI:51087</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><GeneralComments><text>See doi:10.1016/S0040-4039(00)85601-4 for use as an amino protecting group.</text><date>2016-06-22</date></GeneralComments></return></getCompleteEntityResponse></S:Body></S:Envelope>
