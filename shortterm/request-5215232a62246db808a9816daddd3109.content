@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2019-07-03" modified="2019-07-31" version="2">
+<accession>A0A4P1RPU5</accession>
+<name>A0A4P1RPU5_LUPAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Phospholipid-transporting ATPase</fullName>
+<ecNumber evidence="1">7.6.2.1</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="ORF" evidence="10">TanjilG_04443</name>
+</gene>
+<organism evidence="10 11">
+<name type="scientific">Lupinus angustifolius</name>
+<name type="common">Narrow-leaved blue lupine</name>
+<dbReference type="NCBI Taxonomy" id="3871"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliopsida</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>fabids</taxon>
+<taxon>Fabales</taxon>
+<taxon>Fabaceae</taxon>
+<taxon>Papilionoideae</taxon>
+<taxon>50 kb inversion clade</taxon>
+<taxon>genistoids sensu lato</taxon>
+<taxon>core genistoids</taxon>
+<taxon>Genisteae</taxon>
+<taxon>Lupinus</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="10 11">
+<citation type="journal article" date="2017" name="Plant Biotechnol. J." volume="15" first="318" last="330">
+<title>A comprehensive draft genome sequence for lupin (Lupinus angustifolius), an emerging health food: insights into plant-microbe interactions and legume evolution.</title>
+<authorList>
+<person name="Hane J.K."/>
+<person name="Ming Y."/>
+<person name="Kamphuis L.G."/>
+<person name="Nelson M.N."/>
+<person name="Garg G."/>
+<person name="Atkins C.A."/>
+<person name="Bayer P.E."/>
+<person name="Bravo A."/>
+<person name="Bringans S."/>
+<person name="Cannon S."/>
+<person name="Edwards D."/>
+<person name="Foley R."/>
+<person name="Gao L.L."/>
+<person name="Harrison M.J."/>
+<person name="Huang W."/>
+<person name="Hurgobin B."/>
+<person name="Li S."/>
+<person name="Liu C.W."/>
+<person name="McGrath A."/>
+<person name="Morahan G."/>
+<person name="Murray J."/>
+<person name="Weller J."/>
+<person name="Jian J."/>
+<person name="Singh K.B."/>
+</authorList>
+<dbReference type="PubMed" id="27557478"/>
+<dbReference type="DOI" id="10.1111/pbi.12615"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="11">cv. Tanjil</strain>
+<tissue evidence="10">Whole plant</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="1 7">
+<text>ATP + H(2)O + phospholipid(Side 1) = ADP + phosphate + phospholipid(Side 2).</text>
+<dbReference type="EC" id="7.6.2.1"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1 5">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily.</text>
+</comment>
+<dbReference type="EC" id="7.6.2.1" evidence="1"/>
+<dbReference type="EMBL" id="CM007363">
+<property type="protein sequence ID" value="OIW15908.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_019436506.1">
+<property type="nucleotide sequence ID" value="XM_019580961.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_019436507.1">
+<property type="nucleotide sequence ID" value="XM_019580962.1"/>
+</dbReference>
+<dbReference type="GeneID" id="109342909"/>
+<dbReference type="Proteomes" id="UP000188354">
+<property type="component" value="Chromosome LG03"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1000">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_dom_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036412">
+<property type="entry name" value="HAD-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006539">
+<property type="entry name" value="P-type_ATPase_IV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032631">
+<property type="entry name" value="P-type_ATPase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032630">
+<property type="entry name" value="P_typ_ATPase_c"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24092">
+<property type="entry name" value="PTHR24092"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16212">
+<property type="entry name" value="PhoLip_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16209">
+<property type="entry name" value="PhoLip_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81653">
+<property type="entry name" value="SSF81653"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81665">
+<property type="entry name" value="SSF81665"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01652">
+<property type="entry name" value="ATPase-Plipid"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1 3">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="11">Complete proteome</keyword>
+<keyword id="KW-0460" evidence="1 4">Magnesium</keyword>
+<keyword id="KW-0472" evidence="1 2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1 3">Nucleotide-binding</keyword>
+<keyword id="KW-1185" evidence="11">Reference proteome</keyword>
+<keyword id="KW-1278" evidence="1 6">Translocase</keyword>
+<keyword id="KW-0812" evidence="1 2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1 2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="303"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="356"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="942"/>
+<end position="959"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="971"/>
+<end position="991"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1021"/>
+<end position="1044"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1059"/>
+<end position="1078"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1090"/>
+<end position="1108"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1128"/>
+<end position="1147"/>
+</location>
+</feature>
+<feature type="domain" description="PhoLip_ATPase_N" evidence="8">
+<location>
+<begin position="42"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="domain" description="PhoLip_ATPase_C" evidence="9">
+<location>
+<begin position="907"/>
+<end position="1157"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362033"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00311798"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00311808"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00311822"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00533978"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01101229"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS01189249"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF16209"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF16212"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OIW15908.1"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000188354"/>
+</source>
+</evidence>
+<sequence length="1226" mass="138564" checksum="B259908495318E5A" modified="2019-07-03" version="1">
+MTRGRIRAKLQRSHLYTFGCIRPTTTDELPNPLHGPGFSRTVYCNQPQIHDKRSLFYCRN
+NVSTTKYNIITFFPKALFEQFRRVANIYFLLAACLSVSSISPFSPVSMIAPLGFVVGLSM
+AKEALEDFRRFLQDVKVNGRKASIHKGDGVFGPRAWQNIMVGDIIKVEKDQFFPSDLLLL
+SSSYEDGICYVETMNLDGETNLKVKRCLEATLCLDSDEAFKGLSGTIHCEDPNPNLYTFV
+GNFEYEHQVYALDPSQILLRDSKLRNTDYVYGVAIFTGHDSKVMQNSTKSPSKRSTIEKK
+MDYIIYTLFTVLILISIISSIGFVVKTKYQVSKWWYLRPDNIEDQYDPQKIGLAGMSHLI
+TALILYGYLIPISLYVSIEIVKVLQATFINKDIHMYDELTGTSADARTSNLNEELGQVDT
+ILSDKTGTLTCNQMDFLKCSIAGTAYGVRASEVELAATKQMTSDIEEQYSDLSNFPLSKS
+NTPSKKVTAGEEIVLEGIVTSKDDEDQKPAIKGFGFEDNRLMNGNWLNEPNSDVLLMYFR
+ILAVCHTAIPELNEETDSITYEAESPDEGAFLVAAREFGFEFYRRTQSTVVVHERLAASG
+QVVEREYKILNLLDFTSKRKRMSVIVRDEEGNIILFCKGADSIIFDRLSKNGKLYLEATT
+KHLNEYGEAGLRTLALAYRKLDEQEFSDWNNEFQKAKTAVGPDREAMLEQLSDSIERELI
+LVGATAVEDKLQKGVPQCIDKLAQAGLKIWVLTGDKMETAINIGFACSLLRQGMKQICIT
+LPNSDSLTNDTKEVIKSNILNQITNASQMIIFEKDPHAAFALIIEGKTLTYALEDDVKHQ
+FLGLAVGCASVICCRVSPKQKALVTRLVKQGTRKTTLAIGDGANDVGMIQEADIGIGISG
+VEGMQAVMASDFSIAQFRFLERLLVVHGHWCYKRIAQMICYFFYKNIAFGLTIFYFEAYA
+GFSGQSVYEDWYMILFNVVLTSLPVISLGVFEQDVSSEVCLQFPALYQQGPKNLFFDWYR
+ILGWMGNGLYTSLITFFLVIIIFYDQAFRVDGQTADIDAVGTIMFTCIICAVNCQIALTM
+SHFTWIQHLFVWGSIVTWYLFLLLYGMLSPAYSKNAYQILVEVLAPAPIYWTATLIVTIT
+CILPYLVHISLQRCFNPMDHHIIQEIKYYRKDIEDQRMWKTERFKARQETQIGFTARVEA
+KMRQLRGKLQRKPTSAGVLSPSYAQK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

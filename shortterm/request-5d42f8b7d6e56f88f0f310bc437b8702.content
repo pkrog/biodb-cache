@@ -48,4 +48,4 @@ M  END
   4  8  1  0  0  0  0
   5  9  1  0  0  0  0
 M  END
-</structure><type>mol</type><dimension>3D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>nickel-iron-sulfur cluster</chebiName><chebiId>CHEBI:60400</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>
+</structure><type>mol</type><dimension>3D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>nickel-iron-sulfur cluster</chebiName><chebiId>CHEBI:60400</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>cofactor</chebiName><chebiId>CHEBI:23357</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

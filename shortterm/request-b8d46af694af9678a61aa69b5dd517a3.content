@@ -62,7 +62,7 @@
 <div id='sib_body'>
 <!-- automatically added by Apache -->
 <H1> E found in ENZYME</H1>
-<H3>Release of 03-Jul-19
+<H3>Release of 31-Jul-19
 </H3>
 Please choose one of the following entries:<PRE>
 <A HREF= "/EC/1.1.1.1">1.1.1.1</A>      Alcohol dehydrogenase. 
@@ -22951,7 +22951,7 @@ Please choose one of the following entries:<PRE>
 
 <A HREF= "/EC/3.1.1.106">3.1.1.106</A>    O-acetyl-ADP-ribose deacetylase. 
 (CC: -!- The enzyme, characterized from the bacterium Escherichia coli and
-         from human cells, removes the acteyl group from either the 2'' or 3''
+         from human cells, removes the acetyl group from either the 2'' or 3''
          position of O-acetyl-ADP-ribose, which are formed by the action of
          EC <A HREF= "/EC/2.3.1.286">2.3.1.286</A>.
      -!- The human enzyme can also remove ADP-D-ribose from phosphorylated
@@ -34859,15 +34859,15 @@ Please choose one of the following entries:<PRE>
      -!- ATP hydrolysis provides energy for actomyosin contraction.
      -!- Formerly EC <A HREF= "/EC/3.6.1.32">3.6.1.32</A> and EC <A HREF= "/EC/3.6.4.9">3.6.4.9</A>.)
 
-<A HREF= "/EC/5.6.2.2">5.6.2.2</A>      DNA topoisomerase. 
+<A HREF= "/EC/5.6.2.1">5.6.2.1</A>      DNA topoisomerase. 
 (CC: -!- These enzymes bring about the conversion of one topological isomer of
          DNA into another, e.g., the relaxation of superhelical turns in DNA,
          the interconversion of simple and knotted rings of single-stranded
          DNA, and the intertwisting of single-stranded rings of complementary
-         sequences, cf. EC <A HREF= "/EC/5.6.2.3">5.6.2.3</A>.
+         sequences, cf. EC <A HREF= "/EC/5.6.2.2">5.6.2.2</A>.
      -!- Formerly EC <A HREF= "/EC/5.99.1.2">5.99.1.2</A>.)
 
-<A HREF= "/EC/5.6.2.3">5.6.2.3</A>      DNA topoisomerase (ATP-hydrolyzing). 
+<A HREF= "/EC/5.6.2.2">5.6.2.2</A>      DNA topoisomerase (ATP-hydrolyzing). 
 (CC: -!- The enzyme can introduce negative superhelical turns into double-
          stranded circular DNA.
      -!- One unit has nicking-closing activity, and another catalyzes super-

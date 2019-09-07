@@ -5,15 +5,15 @@
 	<DbName>pccompound</DbName>
 	<MenuName>PubChem Compound</MenuName>
 	<Description>PubChem Compound Database</Description>
-	<DbBuild>Build190719-1035m.1</DbBuild>
-	<Count>95753029</Count>
-	<LastUpdate>2019/07/20 00:56</LastUpdate>
+	<DbBuild>Build190905-0820m.1</DbBuild>
+	<Count>96261819</Count>
+	<LastUpdate>2019/09/06 14:05</LastUpdate>
 	<FieldList>
 		<Field>
 			<Name>ALL</Name>
 			<FullName>All Fields</FullName>
 			<Description>All terms from all searchable fields</Description>
-			<TermCount>925574160</TermCount>
+			<TermCount>930149404</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>N</SingleToken>
@@ -52,7 +52,7 @@
 			<Name>SRC</Name>
 			<FullName>SourceName</FullName>
 			<Description>Source Name</Description>
-			<TermCount>1224</TermCount>
+			<TermCount>1233</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -78,7 +78,7 @@
 			<Name>CDAT</Name>
 			<FullName>CreateDate</FullName>
 			<Description>Record Create Date</Description>
-			<TermCount>3640</TermCount>
+			<TermCount>3680</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -91,7 +91,7 @@
 			<Name>INCH</Name>
 			<FullName>InChI</FullName>
 			<Description>InChI</Description>
-			<TermCount>91096585</TermCount>
+			<TermCount>91584964</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -104,7 +104,7 @@
 			<Name>IKEY</Name>
 			<FullName>InChIKey</FullName>
 			<Description>InChI Key</Description>
-			<TermCount>178487722</TermCount>
+			<TermCount>179488915</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -117,7 +117,7 @@
 			<Name>CSYN</Name>
 			<FullName>CompleteSynonym</FullName>
 			<Description>Complete Synonym</Description>
-			<TermCount>316316301</TermCount>
+			<TermCount>317333418</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -130,7 +130,7 @@
 			<Name>SYNO</Name>
 			<FullName>Synonym</FullName>
 			<Description>Synonym</Description>
-			<TermCount>320196804</TermCount>
+			<TermCount>321213897</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -143,7 +143,7 @@
 			<Name>MSHT</Name>
 			<FullName>MeSHTerm</FullName>
 			<Description>MeSH Term</Description>
-			<TermCount>284336</TermCount>
+			<TermCount>284331</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -182,7 +182,7 @@
 			<Name>MW</Name>
 			<FullName>MolecularWeight</FullName>
 			<Description>Molecular Weight</Description>
-			<TermCount>137685</TermCount>
+			<TermCount>137742</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -208,7 +208,7 @@
 			<Name>UPAC</Name>
 			<FullName>IUPACName</FullName>
 			<Description>IUPAC Name</Description>
-			<TermCount>98055738</TermCount>
+			<TermCount>98579158</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -403,7 +403,7 @@
 			<Name>AC</Name>
 			<FullName>ActiveAidCount</FullName>
 			<Description>Active AID Count</Description>
-			<TermCount>446</TermCount>
+			<TermCount>450</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -416,7 +416,7 @@
 			<Name>TAC</Name>
 			<FullName>TotalAidCount</FullName>
 			<Description>Total AID Count</Description>
-			<TermCount>1543</TermCount>
+			<TermCount>1556</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -429,7 +429,7 @@
 			<Name>SID</Name>
 			<FullName>SubstanceID</FullName>
 			<Description>Substance ID</Description>
-			<TermCount>235016055</TermCount>
+			<TermCount>235793745</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -455,7 +455,7 @@
 			<Name>EMAS</Name>
 			<FullName>ExactMass</FullName>
 			<Description>Exact Mass</Description>
-			<TermCount>3796380</TermCount>
+			<TermCount>3821809</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -468,7 +468,7 @@
 			<Name>MMAS</Name>
 			<FullName>MonoisotopicMass</FullName>
 			<Description>Monoisotopic Mass</Description>
-			<TermCount>3797234</TermCount>
+			<TermCount>3822689</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -494,7 +494,7 @@
 			<Name>STID</Name>
 			<FullName>StructureID</FullName>
 			<Description>Depositor Associated Structure ID</Description>
-			<TermCount>99922</TermCount>
+			<TermCount>101982</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -507,7 +507,7 @@
 			<Name>DCSY</Name>
 			<FullName>DepositorCompleteSynonym</FullName>
 			<Description>Depositor Complete Synonym</Description>
-			<TermCount>147627237</TermCount>
+			<TermCount>148416540</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -520,7 +520,7 @@
 			<Name>DSYN</Name>
 			<FullName>DepositorSynonym</FullName>
 			<Description>Depositor Synonym</Description>
-			<TermCount>151972009</TermCount>
+			<TermCount>152764528</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>

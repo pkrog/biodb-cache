@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-09-22" modified="2019-05-08" version="61">
+<accession>C1DJG1</accession>
+<name>ARGA_AZOVD</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Amino-acid acetyltransferase</fullName>
+<ecNumber evidence="1">2.3.1.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">N-acetylglutamate synthase</fullName>
+<shortName evidence="1">AGS</shortName>
+<shortName evidence="1">NAGS</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">argA</name>
+<name type="ordered locus">Avin_04920</name>
+</gene>
+<organism>
+<name type="scientific">Azotobacter vinelandii (strain DJ / ATCC BAA-1303)</name>
+<dbReference type="NCBI Taxonomy" id="322710"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pseudomonadales</taxon>
+<taxon>Pseudomonadaceae</taxon>
+<taxon>Azotobacter</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="4534" last="4545">
+<title>Genome sequence of Azotobacter vinelandii, an obligate aerobe specialized to support diverse anaerobic metabolic processes.</title>
+<authorList>
+<person name="Setubal J.C."/>
+<person name="Dos Santos P."/>
+<person name="Goldman B.S."/>
+<person name="Ertesvaag H."/>
+<person name="Espin G."/>
+<person name="Rubio L.M."/>
+<person name="Valla S."/>
+<person name="Almeida N.F."/>
+<person name="Balasubramanian D."/>
+<person name="Cromes L."/>
+<person name="Curatti L."/>
+<person name="Du Z."/>
+<person name="Godsy E."/>
+<person name="Goodner B."/>
+<person name="Hellner-Burris K."/>
+<person name="Hernandez J.A."/>
+<person name="Houmiel K."/>
+<person name="Imperial J."/>
+<person name="Kennedy C."/>
+<person name="Larson T.J."/>
+<person name="Latreille P."/>
+<person name="Ligon L.S."/>
+<person name="Lu J."/>
+<person name="Maerk M."/>
+<person name="Miller N.M."/>
+<person name="Norton S."/>
+<person name="O'Carroll I.P."/>
+<person name="Paulsen I."/>
+<person name="Raulfs E.C."/>
+<person name="Roemer R."/>
+<person name="Rosser J."/>
+<person name="Segura D."/>
+<person name="Slater S."/>
+<person name="Stricklin S.L."/>
+<person name="Studholme D.J."/>
+<person name="Sun J."/>
+<person name="Viana C.J."/>
+<person name="Wallin E."/>
+<person name="Wang B."/>
+<person name="Wheeler C."/>
+<person name="Zhu H."/>
+<person name="Dean D.R."/>
+<person name="Dixon R."/>
+<person name="Wood D."/>
+</authorList>
+<dbReference type="PubMed" id="19429624"/>
+<dbReference type="DOI" id="10.1128/JB.00504-09"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>DJ / ATCC BAA-1303</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>acetyl-CoA + L-glutamate = CoA + H(+) + N-acetyl-L-glutamate</text>
+<dbReference type="Rhea" id="RHEA:24292"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29985"/>
+<dbReference type="ChEBI" id="CHEBI:44337"/>
+<dbReference type="ChEBI" id="CHEBI:57287"/>
+<dbReference type="ChEBI" id="CHEBI:57288"/>
+<dbReference type="EC" id="2.3.1.1"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Amino-acid biosynthesis; L-arginine biosynthesis; N(2)-acetyl-L-ornithine from L-glutamate: step 1/4.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the acetyltransferase family. ArgA subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.1" evidence="1"/>
+<dbReference type="EMBL" id="CP001157">
+<property type="protein sequence ID" value="ACO76746.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_012699174.1">
+<property type="nucleotide sequence ID" value="NC_012560.1"/>
+</dbReference>
+<dbReference type="SMR" id="C1DJG1"/>
+<dbReference type="STRING" id="322710.Avin_04920"/>
+<dbReference type="PRIDE" id="C1DJG1"/>
+<dbReference type="EnsemblBacteria" id="ACO76746">
+<property type="protein sequence ID" value="ACO76746"/>
+<property type="gene ID" value="Avin_04920"/>
+</dbReference>
+<dbReference type="KEGG" id="avn:Avin_04920"/>
+<dbReference type="eggNOG" id="ENOG4107QZM">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0548">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1246">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000262225"/>
+<dbReference type="KO" id="K14682"/>
+<dbReference type="OMA" id="KRKYNWD"/>
+<dbReference type="OrthoDB" id="901370at2"/>
+<dbReference type="BioCyc" id="AVIN322710:G1GCS-474-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00068">
+<property type="reaction ID" value="UER00106"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000002424">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004042">
+<property type="term" value="F:acetyl-CoA:L-glutamate N-acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0103045">
+<property type="term" value="F:methione N-acyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006526">
+<property type="term" value="P:arginine biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd04237">
+<property type="entry name" value="AAK_NAGS-ABP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1160.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01105">
+<property type="entry name" value="N_acetyl_glu_synth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036393">
+<property type="entry name" value="AceGlu_kinase-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016181">
+<property type="entry name" value="Acyl_CoA_acyltransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001048">
+<property type="entry name" value="Asp/Glu/Uridylate_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000182">
+<property type="entry name" value="GNAT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033719">
+<property type="entry name" value="NAGS_kin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010167">
+<property type="entry name" value="NH2A_AcTrfase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR30602">
+<property type="entry name" value="PTHR30602"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00696">
+<property type="entry name" value="AA_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00583">
+<property type="entry name" value="Acetyltransf_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000423">
+<property type="entry name" value="ArgA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53633">
+<property type="entry name" value="SSF53633"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55729">
+<property type="entry name" value="SSF55729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01890">
+<property type="entry name" value="N-Ac-Glu-synth"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51186">
+<property type="entry name" value="GNAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0028">Amino-acid biosynthesis</keyword>
+<keyword id="KW-0055">Arginine biosynthesis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Amino-acid acetyltransferase" id="PRO_1000213557">
+<location>
+<begin position="1"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="domain" description="N-acetyltransferase" evidence="1">
+<location>
+<begin position="286"/>
+<end position="425"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01105"/>
+</source>
+</evidence>
+<sequence length="432" mass="47651" checksum="40C31E00B0BC408A" modified="2009-05-26" version="1">
+MRDYVNWLRHASPYINAHRDCTFVVMLPGEGIEHPNFGNIVHDLVLLHSLGVRLVLVHGS
+RPQIEARLAARGLTPRFHQNLRITDVPTLECVIDAVGSLRLAIEARLSMDMAASPMQGAR
+LRVVGGNFVTARPIGVVDGIDYLHTGEVRRIDRKGIGRQLDERAIVLLSPLGYSPTGEIF
+NLACEDVATRAAIDLKADKLLLFGAEPGLLDGQGTLIRELRPQQVAAHLERLGADYQGEL
+LDAAAQACRAGVPRSHMVSYAEDGALLTELFTRDGGGTLVTQEQFEKLREATIEDVGGLL
+ELIRPLEEQGILVRRSREVLEREIGQFSIVERDGLIIACAALYPIADSDAGELACLAVNP
+DYRHGGRGDELLERIEARARALGLKTLFVLTTRTAHWFRERGFQPSGVERLPAARASLYN
+YQRQSKVFEKAL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

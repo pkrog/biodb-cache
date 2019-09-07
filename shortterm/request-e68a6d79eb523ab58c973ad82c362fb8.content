@@ -5,15 +5,15 @@
 	<DbName>pcsubstance</DbName>
 	<MenuName>PubChem Substance</MenuName>
 	<Description>PubChem Substance Database</Description>
-	<DbBuild>Build190726-1115m.1</DbBuild>
-	<Count>244625760</Count>
-	<LastUpdate>2019/07/26 22:19</LastUpdate>
+	<DbBuild>Build190906-2200m.1</DbBuild>
+	<Count>245080916</Count>
+	<LastUpdate>2019/09/07 06:39</LastUpdate>
 	<FieldList>
 		<Field>
 			<Name>ALL</Name>
 			<FullName>All Fields</FullName>
 			<Description>All terms from all searchable fields</Description>
-			<TermCount>935096339</TermCount>
+			<TermCount>936918306</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>N</SingleToken>
@@ -52,7 +52,7 @@
 			<Name>SRC</Name>
 			<FullName>SourceName</FullName>
 			<Description>Source Name</Description>
-			<TermCount>1284</TermCount>
+			<TermCount>1293</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -65,7 +65,7 @@
 			<Name>CSN</Name>
 			<FullName>CurrentSourceName</FullName>
 			<Description>Current Source Name</Description>
-			<TermCount>604</TermCount>
+			<TermCount>607</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -78,7 +78,7 @@
 			<Name>SRID</Name>
 			<FullName>SourceID</FullName>
 			<Description>Source ID</Description>
-			<TermCount>221141123</TermCount>
+			<TermCount>221591015</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -104,7 +104,7 @@
 			<Name>SRD</Name>
 			<FullName>SourceReleaseDate</FullName>
 			<Description>Source Release Date</Description>
-			<TermCount>6664</TermCount>
+			<TermCount>6705</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -117,7 +117,7 @@
 			<Name>DDAT</Name>
 			<FullName>DepositDate</FullName>
 			<Description>Deposit Date</Description>
-			<TermCount>3781</TermCount>
+			<TermCount>3823</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -130,7 +130,7 @@
 			<Name>MDAT</Name>
 			<FullName>ModifyDate</FullName>
 			<Description>Modification Date</Description>
-			<TermCount>3399</TermCount>
+			<TermCount>3440</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -143,7 +143,7 @@
 			<Name>CSYN</Name>
 			<FullName>CompleteSynonym</FullName>
 			<Description>Complete Synonym</Description>
-			<TermCount>641270049</TermCount>
+			<TermCount>642639725</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -156,7 +156,7 @@
 			<Name>SYNO</Name>
 			<FullName>Synonym</FullName>
 			<Description>Synonym</Description>
-			<TermCount>645824945</TermCount>
+			<TermCount>647197527</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -169,7 +169,7 @@
 			<Name>CMT</Name>
 			<FullName>Comment</FullName>
 			<Description>Comment</Description>
-			<TermCount>76511802</TermCount>
+			<TermCount>76519714</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -182,7 +182,7 @@
 			<Name>TAC</Name>
 			<FullName>TotalAidCount</FullName>
 			<Description>Total AID Count</Description>
-			<TermCount>1267</TermCount>
+			<TermCount>1273</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -195,7 +195,7 @@
 			<Name>SCID</Name>
 			<FullName>StandardizedCID</FullName>
 			<Description>Standardized CID</Description>
-			<TermCount>94336547</TermCount>
+			<TermCount>94541142</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -208,7 +208,7 @@
 			<Name>CCID</Name>
 			<FullName>ComponentCID</FullName>
 			<Description>Component CID</Description>
-			<TermCount>4543029</TermCount>
+			<TermCount>4551453</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -221,7 +221,7 @@
 			<Name>CID</Name>
 			<FullName>CompoundID</FullName>
 			<Description>Compound ID</Description>
-			<TermCount>96052546</TermCount>
+			<TermCount>96261822</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -247,7 +247,7 @@
 			<Name>STID</Name>
 			<FullName>StructureID</FullName>
 			<Description>Structure ID</Description>
-			<TermCount>119009</TermCount>
+			<TermCount>120102</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -260,7 +260,7 @@
 			<Name>HUD</Name>
 			<FullName>HoldUntilDate</FullName>
 			<Description>Hold Until Date</Description>
-			<TermCount>1608</TermCount>
+			<TermCount>1619</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -273,7 +273,7 @@
 			<Name>ADAT</Name>
 			<FullName>AvailableDate</FullName>
 			<Description>Available Date</Description>
-			<TermCount>4107</TermCount>
+			<TermCount>4149</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>

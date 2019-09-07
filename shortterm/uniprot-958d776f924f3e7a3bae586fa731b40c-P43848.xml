@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2019-05-08" version="122">
+<accession>P43848</accession>
+<name>PUR5_HAEIN</name>
+<protein>
+<recommendedName>
+<fullName>Phosphoribosylformylglycinamidine cyclo-ligase</fullName>
+<ecNumber>6.3.3.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>AIR synthase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>AIRS</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Phosphoribosyl-aminoimidazole synthetase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">purM</name>
+<name type="ordered locus">HI_1429</name>
+</gene>
+<organism>
+<name type="scientific">Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)</name>
+<dbReference type="NCBI Taxonomy" id="71421"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pasteurellales</taxon>
+<taxon>Pasteurellaceae</taxon>
+<taxon>Haemophilus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Science" volume="269" first="496" last="512">
+<title>Whole-genome random sequencing and assembly of Haemophilus influenzae Rd.</title>
+<authorList>
+<person name="Fleischmann R.D."/>
+<person name="Adams M.D."/>
+<person name="White O."/>
+<person name="Clayton R.A."/>
+<person name="Kirkness E.F."/>
+<person name="Kerlavage A.R."/>
+<person name="Bult C.J."/>
+<person name="Tomb J.-F."/>
+<person name="Dougherty B.A."/>
+<person name="Merrick J.M."/>
+<person name="McKenney K."/>
+<person name="Sutton G.G."/>
+<person name="FitzHugh W."/>
+<person name="Fields C.A."/>
+<person name="Gocayne J.D."/>
+<person name="Scott J.D."/>
+<person name="Shirley R."/>
+<person name="Liu L.-I."/>
+<person name="Glodek A."/>
+<person name="Kelley J.M."/>
+<person name="Weidman J.F."/>
+<person name="Phillips C.A."/>
+<person name="Spriggs T."/>
+<person name="Hedblom E."/>
+<person name="Cotton M.D."/>
+<person name="Utterback T.R."/>
+<person name="Hanna M.C."/>
+<person name="Nguyen D.T."/>
+<person name="Saudek D.M."/>
+<person name="Brandon R.C."/>
+<person name="Fine L.D."/>
+<person name="Fritchman J.L."/>
+<person name="Fuhrmann J.L."/>
+<person name="Geoghagen N.S.M."/>
+<person name="Gnehm C.L."/>
+<person name="McDonald L.A."/>
+<person name="Small K.V."/>
+<person name="Fraser C.M."/>
+<person name="Smith H.O."/>
+<person name="Venter J.C."/>
+</authorList>
+<dbReference type="PubMed" id="7542800"/>
+<dbReference type="DOI" id="10.1126/science.7542800"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 51907 / DSM 11121 / KW20 / Rd</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>2-(formamido)-N(1)-(5-phospho-D-ribosyl)acetamidine + ATP = 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + ADP + H(+) + phosphate</text>
+<dbReference type="Rhea" id="RHEA:23032"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:43474"/>
+<dbReference type="ChEBI" id="CHEBI:58478"/>
+<dbReference type="ChEBI" id="CHEBI:137981"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="6.3.3.1"/>
+</reaction>
+</comment>
+<comment type="pathway">
+<text>Purine metabolism; IMP biosynthesis via de novo pathway; 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide: step 2/2.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the AIR synthase family.</text>
+</comment>
+<dbReference type="EC" id="6.3.3.1"/>
+<dbReference type="EMBL" id="L42023">
+<property type="protein sequence ID" value="AAC23076.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G64122">
+<property type="entry name" value="G64122"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_439578.1">
+<property type="nucleotide sequence ID" value="NC_000907.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_005693936.1">
+<property type="nucleotide sequence ID" value="NC_000907.1"/>
+</dbReference>
+<dbReference type="SMR" id="P43848"/>
+<dbReference type="STRING" id="71421.HI_1429"/>
+<dbReference type="EnsemblBacteria" id="AAC23076">
+<property type="protein sequence ID" value="AAC23076"/>
+<property type="gene ID" value="HI_1429"/>
+</dbReference>
+<dbReference type="GeneID" id="950335"/>
+<dbReference type="KEGG" id="hin:HI1429"/>
+<dbReference type="PATRIC" id="fig|71421.8.peg.1486"/>
+<dbReference type="eggNOG" id="ENOG4105CXB">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0150">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K01933"/>
+<dbReference type="OMA" id="GCEQAGC"/>
+<dbReference type="PhylomeDB" id="P43848"/>
+<dbReference type="BioCyc" id="HINF71421:G1GJ1-1452-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00074">
+<property type="reaction ID" value="UER00129"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000000579">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004637">
+<property type="term" value="F:phosphoribosylamine-glycine ligase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004641">
+<property type="term" value="F:phosphoribosylformylglycinamidine cyclo-ligase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006189">
+<property type="term" value="P:'de novo' IMP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046084">
+<property type="term" value="P:adenine biosynthetic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006164">
+<property type="term" value="P:purine nucleotide biosynthetic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="CDD" id="cd02196">
+<property type="entry name" value="PurM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1330.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.650.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00741">
+<property type="entry name" value="AIRS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010918">
+<property type="entry name" value="PurM-like_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036676">
+<property type="entry name" value="PurM-like_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016188">
+<property type="entry name" value="PurM-like_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036921">
+<property type="entry name" value="PurM-like_N_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004733">
+<property type="entry name" value="PurM_cligase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10520">
+<property type="entry name" value="PTHR10520"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00586">
+<property type="entry name" value="AIRS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02769">
+<property type="entry name" value="AIRS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55326">
+<property type="entry name" value="SSF55326"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56042">
+<property type="entry name" value="SSF56042"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00878">
+<property type="entry name" value="purM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0436">Ligase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0658">Purine biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Phosphoribosylformylglycinamidine cyclo-ligase" id="PRO_0000148215">
+<location>
+<begin position="1"/>
+<end position="344"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="344" mass="37066" checksum="06EF6784D42A3936" modified="1995-11-01" version="1">
+MSNTQLSYKDAGVDIHTGNELVERIKGDVKRTRRSEVMGGLGGFGALCALPTKYKEPILV
+SGTDGVGTKLRLAIDLKKHDTIGQDLVAMCVNDLIVQGAEPLFFLDYYATGKLDVDVAAS
+VIKGIADGCEMSGCALVGGETAEMPGMYHEGDYDLAGFCVGVVEKSEIIDGTAVKTGDTL
+IALGSSGAHSNGYSLIRKVLEVSGANPTDLLEGKPLSEHLLAPTKIYVKSILQLIKQTEV
+HAIAHLTGGGFWENIPRVLPDNTKAVIDESSWQWPAIFNWLQEKGNISRYEMYRTFNCGV
+GMVIALPEKEVETALALLEQSGEKAWVIGKIEHLGESEAQVEIQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

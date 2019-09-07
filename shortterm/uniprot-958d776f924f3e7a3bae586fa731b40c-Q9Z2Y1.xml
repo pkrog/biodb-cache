@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-03-15" modified="2019-05-08" version="101">
+<accession>Q9Z2Y1</accession>
+<name>TIM_RAT</name>
+<protein>
+<recommendedName>
+<fullName>Protein timeless homolog</fullName>
+<shortName>rTIM</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Timeless-like protein</fullName>
+<shortName>rTLP</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="9">Timeless</name>
+</gene>
+<organism>
+<name type="scientific">Rattus norvegicus</name>
+<name type="common">Rat</name>
+<dbReference type="NCBI Taxonomy" id="10116"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Rattus</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="journal article" date="2000" name="Biochem. Biophys. Res. Commun." volume="279" first="131" last="138">
+<title>Molecular characterization and nuclear localization of rat timeless-like gene product.</title>
+<authorList>
+<person name="Sakamoto S."/>
+<person name="Miyazaki K."/>
+<person name="Fukui H."/>
+<person name="Oishi K."/>
+<person name="Hayasaka N."/>
+<person name="Okada M."/>
+<person name="Kamakura M."/>
+<person name="Taniguchi T."/>
+<person name="Nagai K."/>
+<person name="Ishida N."/>
+</authorList>
+<dbReference type="PubMed" id="11112428"/>
+<dbReference type="DOI" id="10.1006/bbrc.2000.3927"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH PER2</scope>
+<source>
+<strain evidence="8">Wistar</strain>
+<tissue evidence="5">Hypothalamus</tissue>
+</source>
+</reference>
+<reference key="2" evidence="7">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="10038" last="10043">
+<title>A role for Timeless in epithelial morphogenesis during kidney development.</title>
+<authorList>
+<person name="Li Z."/>
+<person name="Stuart R.O."/>
+<person name="Qiao J."/>
+<person name="Pavlova A."/>
+<person name="Bush K.T."/>
+<person name="Pohl M."/>
+<person name="Sakurai H."/>
+<person name="Nigam S.K."/>
+</authorList>
+<dbReference type="PubMed" id="10963667"/>
+<dbReference type="DOI" id="10.1073/pnas.97.18.10038"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="3" evidence="7">
+<citation type="journal article" date="2004" name="FEBS Lett." volume="564" first="91" last="96">
+<title>Indication of circadian oscillations in the rat pancreas.</title>
+<authorList>
+<person name="Muehlbauer E."/>
+<person name="Wolgast S."/>
+<person name="Finckh U."/>
+<person name="Peschke D."/>
+<person name="Peschke E."/>
+</authorList>
+<dbReference type="PubMed" id="15094047"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(04)00322-9"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2012" name="Nat. Commun." volume="3" first="876" last="876">
+<title>Quantitative maps of protein phosphorylation sites across 14 different rat organs and tissues.</title>
+<authorList>
+<person name="Lundby A."/>
+<person name="Secher A."/>
+<person name="Lage K."/>
+<person name="Nordsborg N.B."/>
+<person name="Dmytriyev A."/>
+<person name="Lundby C."/>
+<person name="Olsen J.V."/>
+</authorList>
+<dbReference type="PubMed" id="22673903"/>
+<dbReference type="DOI" id="10.1038/ncomms1871"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1169 AND THR-1174</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4">Plays an important role in the control of DNA replication, maintenance of replication fork stability, maintenance of genome stability throughout normal DNA replication, DNA repair and in the regulation of the circadian clock (By similarity). Required to stabilize replication forks during DNA replication by forming a complex with TIPIN: this complex regulates DNA replication processes under both normal and stress conditions, stabilizes replication forks and influences both CHEK1 phosphorylation and the intra-S phase checkpoint in response to genotoxic stress (By similarity). TIMELESS promotes TIPIN nuclear localization (By similarity). Involved in cell survival after DNA damage or replication stress by promoting DNA repair (By similarity). In response to double-strand breaks (DSBs), accumulates at DNA damage sites and promotes homologous recombination repair via its interaction with PARP1 (By similarity). May be specifically required for the ATR-CHEK1 pathway in the replication checkpoint induced by hydroxyurea or ultraviolet light (By similarity). Involved in the determination of period length and in the DNA damage-dependent phase advancing of the circadian clock (By similarity). Negatively regulates CLOCK|NPAS2-ARTNL/BMAL1|ARTNL2/BMAL2-induced transactivation of PER1 possibly via translocation of PER1 into the nucleus (By similarity). May also play an important role in epithelial cell morphogenesis and formation of branching tubules (PubMed:10963667).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 5">Homodimer or homomultimer (By similarity). Component of the circadian core oscillator, which includes the CRY proteins, CLOCK or NPAS2, ARTNL/BMAL1 or ARTNL2/BMAL2, CSKN1D and/or CSNK1E, TIMELESS, and the PER proteins (By similarity). Interacts directly with PER2; the interaction with PER2 is via its second PAS domain (PubMed:11112428). Interacts directly with PER1 and PER3 (By similarity). Interacts with CRY2, CHEK1, ATR and ATRIP (By similarity). Interacts with CRY1 (By similarity). Interacts with CLSPN. Interacts with TIPIN. Interacts with DDX11; this interaction increases recruitment of both proteins onto chromatin in response to replication stress induction by hydroxyurea. Interacts with PARP1; interaction is direct and independent of poly-ADP-ribose (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Chromosome</location>
+</subcellularLocation>
+<text evidence="3">In response to double-strand breaks (DSBs), accumulates at DNA damage sites via its interaction with PARP1.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 6">Expressed in all tissues examined including brain, eye, lung, heart, liver, kidney, pancreas, placenta and testis. Highest levels of expression in eye, lung, liver, placenta and kidney. Expressed throughout the suprachiasmatic nucleus (SCN).</text>
+</comment>
+<comment type="induction">
+<text evidence="5 6">In both brain and pancreas, no circadian oscillation was detected.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the timeless family.</text>
+</comment>
+<dbReference type="EMBL" id="AB019576">
+<property type="protein sequence ID" value="BAA34400.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="T13959">
+<property type="entry name" value="T13959"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_112630.1">
+<property type="nucleotide sequence ID" value="NM_031340.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q9Z2Y1"/>
+<dbReference type="STRING" id="10116.ENSRNOP00000043366"/>
+<dbReference type="iPTMnet" id="Q9Z2Y1"/>
+<dbReference type="PhosphoSitePlus" id="Q9Z2Y1"/>
+<dbReference type="PaxDb" id="Q9Z2Y1"/>
+<dbReference type="PRIDE" id="Q9Z2Y1"/>
+<dbReference type="GeneID" id="83508"/>
+<dbReference type="KEGG" id="rno:83508"/>
+<dbReference type="UCSC" id="RGD:620939">
+<property type="organism name" value="rat"/>
+</dbReference>
+<dbReference type="CTD" id="8914"/>
+<dbReference type="RGD" id="620939">
+<property type="gene designation" value="Timeless"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1974">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQM6">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="Q9Z2Y1"/>
+<dbReference type="KO" id="K03155"/>
+<dbReference type="OrthoDB" id="839367at2759"/>
+<dbReference type="PhylomeDB" id="Q9Z2Y1"/>
+<dbReference type="Reactome" id="R-RNO-5693607">
+<property type="pathway name" value="Processing of DNA double-strand break ends"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9Z2Y1"/>
+<dbReference type="Proteomes" id="UP000002494">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031298">
+<property type="term" value="C:replication fork protection complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035861">
+<property type="term" value="C:site of double-strand break"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001658">
+<property type="term" value="P:branching involved in ureteric bud morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007049">
+<property type="term" value="P:cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904976">
+<property type="term" value="P:cellular response to bleomycin"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072719">
+<property type="term" value="P:cellular response to cisplatin"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072711">
+<property type="term" value="P:cellular response to hydroxyurea"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007623">
+<property type="term" value="P:circadian rhythm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000076">
+<property type="term" value="P:DNA replication checkpoint"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001822">
+<property type="term" value="P:kidney development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002009">
+<property type="term" value="P:morphogenesis of an epithelium"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042753">
+<property type="term" value="P:positive regulation of circadian rhythm"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000781">
+<property type="term" value="P:positive regulation of double-strand break repair"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905168">
+<property type="term" value="P:positive regulation of double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042752">
+<property type="term" value="P:regulation of circadian rhythm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043111">
+<property type="term" value="P:replication fork arrest"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048478">
+<property type="term" value="P:replication fork protection"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006906">
+<property type="entry name" value="Timeless"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007725">
+<property type="entry name" value="TIMELESS_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04821">
+<property type="entry name" value="TIMELESS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05029">
+<property type="entry name" value="TIMELESS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0158">Chromosome</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0498">Mitosis</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Protein timeless homolog" id="PRO_0000072540">
+<location>
+<begin position="1"/>
+<end position="1205"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for homodimerization and for interaction with CRY1 and CHEK1" evidence="2">
+<location>
+<begin position="1"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PARP1" evidence="3">
+<location>
+<begin position="999"/>
+<end position="1097"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for nuclear localization" evidence="2">
+<location>
+<begin position="1081"/>
+<end position="1205"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Glu-rich">
+<location>
+<begin position="655"/>
+<end position="685"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Glu-rich">
+<location>
+<begin position="966"/>
+<end position="1178"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1073"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1086"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1088"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="1169"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="1">
+<location>
+<position position="1174"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22673903"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9R1X4"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9UNS1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10963667"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11112428"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15094047"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<evidence key="8" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAA34400.1"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000312">
+<source>
+<dbReference type="RGD" id="620939"/>
+</source>
+</evidence>
+<sequence length="1205" mass="138565" checksum="C118B6ACF1DDA03D" modified="1999-05-01" version="1">
+MDLYMMNCELLATCSALGYLEGGTYHKEPDCLESVKDLIRYLRHEDETRDVRQQLGAAQI
+LQSDLLPILTQHRQDKPLFDAVIRLMVNLTQPALLCFGSVPKDPTVRHHFLQVLTYLQAY
+KEAFASEKAFGVLSETLYELLQLGWEDRQEEDNLLIERILLLVRNILHVPANLEQEKRID
+DDASIHDRLLWAIHLSGMDDLLLFLSSSSAEQQWSLHVLEIISLMFRDQKPEQLAGVGQG
+RLAQERSTDLAELEVLRQREVAEKRARALQRGNRHSRFGGSYVVQGLKSIGERDVVFHKG
+LHNLQNYSSDLGKQPRRVPKRRQAAQELSVHRRSVLNVRLFLRDFCSEFLENCYNPLMGA
+VKDHLLREKAQQHDETYYMWAMAFFMAFNRAAAFRPGFVSETLSIRTFHFVEQNLTNYYE
+MMLTDRKEAASWARRMHLALKAYQELLATVNEMDMCPDDAVRESSRIIKNNIFYMMEYRE
+LFLALFRKFDERYHPRSFLCDLVETTHLFLKMLERFCRSRGNLMVQNKRKKRKKKKKAQE
+QGVAFSRSPEELQAMWSALAERLLQCAQEPELSVDSIIPFDAASEVPVEEQRVEAMVRIQ
+DCLVAGQAPQALALLRSAREVWPEGNVFGSPVISPGEEMQLLKQILSATLPRQQEPVEGD
+AEEEDEEEEEEEEEELQVVQVSEKEFKFLDYLKRFACSTIVRAYVLLLRSYRQNSAHTNH
+CIAKMLHRLAHDLGMEALLFQLSLFCLFNQLLSDPAAAAYKELVTFAKYILGKFFALAAV
+NQKAFVELLFWKNTSVVREMTQGYGSLDSGSCSHRAPVWSSEEEAQLQELYLAHKDVEGQ
+DVVETILAHLKAVPRTRKQVIHHLVRMGLADSVKDFQRKGTQIVLWTEDQELELQRLFEE
+FQDSDDVLGHIMKNITAKRSRARVVDKLLALGLVSERRQLHKKRRKKLAPSCMQNGEESQ
+RDAWQEDPEEEEEKEGLPESEGEENEEDLLAGQVQGSSSLSAENLRQSLCQDGLSAPLLW
+LQSSLIRAADDREEDGCSQAIPLVPLTEENEEAMENKQFQHLLRKLGIRAPCSGQETFWR
+IPAKLSSTQLRRVAASLSERENKEEREEEPEPNPGVPGEQSPSEEHQVRAPRALLSARKR
+KAGLVFPKEEATGEEEWKSVPKKQQLLDSDEEDTDDERGGQAAVSGTLRIHKEKRFLVED
+EDEDY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-01-20" modified="2019-05-08" version="91">
+<accession>O31431</accession>
+<accession>Q9R9J7</accession>
+<accession>Q9R9J8</accession>
+<name>YBDG_BACSU</name>
+<protein>
+<recommendedName>
+<fullName>Uncharacterized protein YbdG</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ybdG</name>
+<name type="synonym">ybdH</name>
+<name type="ordered locus">BSU01990</name>
+</gene>
+<organism>
+<name type="scientific">Bacillus subtilis (strain 168)</name>
+<dbReference type="NCBI Taxonomy" id="224308"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Bacillaceae</taxon>
+<taxon>Bacillus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1997-07" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence analysis of the 70kb region between 17 and 23 degree of the Bacillus subtilis chromosome.</title>
+<authorList>
+<person name="Haga K."/>
+<person name="Liu H."/>
+<person name="Yasumoto K."/>
+<person name="Takahashi H."/>
+<person name="Yoshikawa H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>168</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Nature" volume="390" first="249" last="256">
+<title>The complete genome sequence of the Gram-positive bacterium Bacillus subtilis.</title>
+<authorList>
+<person name="Kunst F."/>
+<person name="Ogasawara N."/>
+<person name="Moszer I."/>
+<person name="Albertini A.M."/>
+<person name="Alloni G."/>
+<person name="Azevedo V."/>
+<person name="Bertero M.G."/>
+<person name="Bessieres P."/>
+<person name="Bolotin A."/>
+<person name="Borchert S."/>
+<person name="Borriss R."/>
+<person name="Boursier L."/>
+<person name="Brans A."/>
+<person name="Braun M."/>
+<person name="Brignell S.C."/>
+<person name="Bron S."/>
+<person name="Brouillet S."/>
+<person name="Bruschi C.V."/>
+<person name="Caldwell B."/>
+<person name="Capuano V."/>
+<person name="Carter N.M."/>
+<person name="Choi S.-K."/>
+<person name="Codani J.-J."/>
+<person name="Connerton I.F."/>
+<person name="Cummings N.J."/>
+<person name="Daniel R.A."/>
+<person name="Denizot F."/>
+<person name="Devine K.M."/>
+<person name="Duesterhoeft A."/>
+<person name="Ehrlich S.D."/>
+<person name="Emmerson P.T."/>
+<person name="Entian K.-D."/>
+<person name="Errington J."/>
+<person name="Fabret C."/>
+<person name="Ferrari E."/>
+<person name="Foulger D."/>
+<person name="Fritz C."/>
+<person name="Fujita M."/>
+<person name="Fujita Y."/>
+<person name="Fuma S."/>
+<person name="Galizzi A."/>
+<person name="Galleron N."/>
+<person name="Ghim S.-Y."/>
+<person name="Glaser P."/>
+<person name="Goffeau A."/>
+<person name="Golightly E.J."/>
+<person name="Grandi G."/>
+<person name="Guiseppi G."/>
+<person name="Guy B.J."/>
+<person name="Haga K."/>
+<person name="Haiech J."/>
+<person name="Harwood C.R."/>
+<person name="Henaut A."/>
+<person name="Hilbert H."/>
+<person name="Holsappel S."/>
+<person name="Hosono S."/>
+<person name="Hullo M.-F."/>
+<person name="Itaya M."/>
+<person name="Jones L.-M."/>
+<person name="Joris B."/>
+<person name="Karamata D."/>
+<person name="Kasahara Y."/>
+<person name="Klaerr-Blanchard M."/>
+<person name="Klein C."/>
+<person name="Kobayashi Y."/>
+<person name="Koetter P."/>
+<person name="Koningstein G."/>
+<person name="Krogh S."/>
+<person name="Kumano M."/>
+<person name="Kurita K."/>
+<person name="Lapidus A."/>
+<person name="Lardinois S."/>
+<person name="Lauber J."/>
+<person name="Lazarevic V."/>
+<person name="Lee S.-M."/>
+<person name="Levine A."/>
+<person name="Liu H."/>
+<person name="Masuda S."/>
+<person name="Mauel C."/>
+<person name="Medigue C."/>
+<person name="Medina N."/>
+<person name="Mellado R.P."/>
+<person name="Mizuno M."/>
+<person name="Moestl D."/>
+<person name="Nakai S."/>
+<person name="Noback M."/>
+<person name="Noone D."/>
+<person name="O'Reilly M."/>
+<person name="Ogawa K."/>
+<person name="Ogiwara A."/>
+<person name="Oudega B."/>
+<person name="Park S.-H."/>
+<person name="Parro V."/>
+<person name="Pohl T.M."/>
+<person name="Portetelle D."/>
+<person name="Porwollik S."/>
+<person name="Prescott A.M."/>
+<person name="Presecan E."/>
+<person name="Pujic P."/>
+<person name="Purnelle B."/>
+<person name="Rapoport G."/>
+<person name="Rey M."/>
+<person name="Reynolds S."/>
+<person name="Rieger M."/>
+<person name="Rivolta C."/>
+<person name="Rocha E."/>
+<person name="Roche B."/>
+<person name="Rose M."/>
+<person name="Sadaie Y."/>
+<person name="Sato T."/>
+<person name="Scanlan E."/>
+<person name="Schleich S."/>
+<person name="Schroeter R."/>
+<person name="Scoffone F."/>
+<person name="Sekiguchi J."/>
+<person name="Sekowska A."/>
+<person name="Seror S.J."/>
+<person name="Serror P."/>
+<person name="Shin B.-S."/>
+<person name="Soldo B."/>
+<person name="Sorokin A."/>
+<person name="Tacconi E."/>
+<person name="Takagi T."/>
+<person name="Takahashi H."/>
+<person name="Takemaru K."/>
+<person name="Takeuchi M."/>
+<person name="Tamakoshi A."/>
+<person name="Tanaka T."/>
+<person name="Terpstra P."/>
+<person name="Tognoni A."/>
+<person name="Tosato V."/>
+<person name="Uchiyama S."/>
+<person name="Vandenbol M."/>
+<person name="Vannier F."/>
+<person name="Vassarotti A."/>
+<person name="Viari A."/>
+<person name="Wambutt R."/>
+<person name="Wedler E."/>
+<person name="Wedler H."/>
+<person name="Weitzenegger T."/>
+<person name="Winters P."/>
+<person name="Wipat A."/>
+<person name="Yamamoto H."/>
+<person name="Yamane K."/>
+<person name="Yasumoto K."/>
+<person name="Yata K."/>
+<person name="Yoshida K."/>
+<person name="Yoshikawa H.-F."/>
+<person name="Zumstein E."/>
+<person name="Yoshikawa H."/>
+<person name="Danchin A."/>
+</authorList>
+<dbReference type="PubMed" id="9384377"/>
+<dbReference type="DOI" id="10.1038/36786"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>168</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2009" name="Microbiology" volume="155" first="1758" last="1775">
+<title>From a consortium sequence to a unified sequence: the Bacillus subtilis 168 reference genome a decade later.</title>
+<authorList>
+<person name="Barbe V."/>
+<person name="Cruveiller S."/>
+<person name="Kunst F."/>
+<person name="Lenoble P."/>
+<person name="Meurice G."/>
+<person name="Sekowska A."/>
+<person name="Vallenet D."/>
+<person name="Wang T."/>
+<person name="Moszer I."/>
+<person name="Medigue C."/>
+<person name="Danchin A."/>
+</authorList>
+<dbReference type="PubMed" id="19383706"/>
+<dbReference type="DOI" id="10.1099/mic.0.027839-0"/>
+</citation>
+<scope>SEQUENCE REVISION TO C-TERMINUS</scope>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell membrane</location>
+<topology evidence="2">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="BAA33096" version="1"/>
+</conflict>
+<location>
+<position position="156"/>
+</location>
+<location>
+<position position="158"/>
+</location>
+<location>
+<position position="281"/>
+</location>
+<location>
+<position position="298"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="BAA33097" version="1"/>
+</conflict>
+<location>
+<position position="156"/>
+</location>
+<location>
+<position position="158"/>
+</location>
+<location>
+<position position="281"/>
+</location>
+<location>
+<position position="298"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="AB006424">
+<property type="protein sequence ID" value="BAA33096.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB006424">
+<property type="protein sequence ID" value="BAA33097.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL009126">
+<property type="protein sequence ID" value="CAB11993.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D69747">
+<property type="entry name" value="D69747"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_388081.2">
+<property type="nucleotide sequence ID" value="NC_000964.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_003234896.1">
+<property type="nucleotide sequence ID" value="NZ_JNCM01000030.1"/>
+</dbReference>
+<dbReference type="STRING" id="224308.BSU01990"/>
+<dbReference type="ESTHER" id="bacsu-YBDG">
+<property type="family name" value="AlphaBeta_hydrolase"/>
+</dbReference>
+<dbReference type="PaxDb" id="O31431"/>
+<dbReference type="PRIDE" id="O31431"/>
+<dbReference type="EnsemblBacteria" id="CAB11993">
+<property type="protein sequence ID" value="CAB11993"/>
+<property type="gene ID" value="BSU01990"/>
+</dbReference>
+<dbReference type="GeneID" id="938500"/>
+<dbReference type="KEGG" id="bsu:BSU01990"/>
+<dbReference type="PATRIC" id="fig|224308.179.peg.205"/>
+<dbReference type="eggNOG" id="COG0596">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000244352"/>
+<dbReference type="InParanoid" id="O31431"/>
+<dbReference type="OMA" id="HSIYLYQ"/>
+<dbReference type="BioCyc" id="BSUB:BSU01990-MONOMER"/>
+<dbReference type="Proteomes" id="UP000001570">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1820">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029058">
+<property type="entry name" value="AB_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000073">
+<property type="entry name" value="AB_hydrolase_1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00561">
+<property type="entry name" value="Abhydrolase_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53474">
+<property type="entry name" value="SSF53474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Uncharacterized protein YbdG" id="PRO_0000360731">
+<location>
+<begin position="1"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="10"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="domain" description="AB hydrolase-1" evidence="1">
+<location>
+<begin position="94"/>
+<end position="166"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="325" mass="37066" checksum="4767D11C89A397B0" modified="2009-06-16" version="2">
+MKTLWKVLKIVFVSLAALVLLVSVSVFIYHHFQLNKEAALLKGKGTVVDVDGKKMNVYQE
+GSGKDTFVFMSGSGIAAPAYEMKGLYSKFSKENKIAVVDRAGYGYSEVSHDDRDIDTVLE
+QTRKALMKSGNKPPYILMPHSISGIEAMYWAQKYPKEIKAIIAMDIGLPQQYVTYKLSGV
+DRLKVRGFHLLTSIGFHRFIPSAVYNPEVIRQSFLTDEEKEIYKAINFKQFFNADMEHEL
+LQSYQNGSKSVNLPAPKETPVLILDAVSDQNRHSKYAIQNRKDYEAFAAQFNTADIKELR
+GTHSIYLYQPDQIYKLSMEFMRKVR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

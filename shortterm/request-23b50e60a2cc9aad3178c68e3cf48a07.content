@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
-<eSearchResult><Count>2371</Count><RetMax>3</RetMax><RetStart>0</RetStart><IdList>
+<eSearchResult><Count>2372</Count><RetMax>3</RetMax><RetStart>0</RetStart><IdList>
+<Id>138924503</Id>
 <Id>138719864</Id>
 <Id>138544087</Id>
-<Id>138544082</Id>
 </IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>0000226.184607[MolecularWeight]</Term>    <Field>MolecularWeight</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>0000226.191393[MolecularWeight]</Term>    <Field>MolecularWeight</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <OP>RANGE</OP>  </TranslationStack><QueryTranslation>0000226.184607[MolecularWeight] : 0000226.191393[MolecularWeight]</QueryTranslation></eSearchResult>

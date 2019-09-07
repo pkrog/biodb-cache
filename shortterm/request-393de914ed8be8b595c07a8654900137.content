@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-10-13" modified="2019-05-08" version="97">
+<accession>Q8RHS8</accession>
+<name>OBG_FUSNN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">GTPase Obg</fullName>
+<ecNumber evidence="1">3.6.5.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">GTP-binding protein Obg</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">obg</name>
+<name type="ordered locus">FN1918</name>
+</gene>
+<organism>
+<name type="scientific">Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / CIP 101130 / JCM 8532 / LMG 13131)</name>
+<dbReference type="NCBI Taxonomy" id="190304"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Fusobacteria</taxon>
+<taxon>Fusobacteriales</taxon>
+<taxon>Fusobacteriaceae</taxon>
+<taxon>Fusobacterium</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="2005" last="2018">
+<title>Genome sequence and analysis of the oral bacterium Fusobacterium nucleatum strain ATCC 25586.</title>
+<authorList>
+<person name="Kapatral V."/>
+<person name="Anderson I."/>
+<person name="Ivanova N."/>
+<person name="Reznik G."/>
+<person name="Los T."/>
+<person name="Lykidis A."/>
+<person name="Bhattacharyya A."/>
+<person name="Bartman A."/>
+<person name="Gardner W."/>
+<person name="Grechkin G."/>
+<person name="Zhu L."/>
+<person name="Vasieva O."/>
+<person name="Chu L."/>
+<person name="Kogan Y."/>
+<person name="Chaga O."/>
+<person name="Goltsman E."/>
+<person name="Bernal A."/>
+<person name="Larsen N."/>
+<person name="D'Souza M."/>
+<person name="Walunas T."/>
+<person name="Pusch G."/>
+<person name="Haselkorn R."/>
+<person name="Fonstein M."/>
+<person name="Kyrpides N.C."/>
+<person name="Overbeek R."/>
+</authorList>
+<dbReference type="PubMed" id="11889109"/>
+<dbReference type="DOI" id="10.1128/JB.184.7.2005-2018.2002"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25586 / CIP 101130 / JCM 8532 / LMG 13131</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate. Plays a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="subunit">
+<text evidence="1">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.5.-" evidence="1"/>
+<dbReference type="EMBL" id="AE009951">
+<property type="protein sequence ID" value="AAL94017.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_602718.1">
+<property type="nucleotide sequence ID" value="NC_003454.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_011015918.1">
+<property type="nucleotide sequence ID" value="NC_003454.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q8RHS8"/>
+<dbReference type="STRING" id="190304.FN1918"/>
+<dbReference type="EnsemblBacteria" id="AAL94017">
+<property type="protein sequence ID" value="AAL94017"/>
+<property type="gene ID" value="FN1918"/>
+</dbReference>
+<dbReference type="GeneID" id="992462"/>
+<dbReference type="KEGG" id="fnu:FN1918"/>
+<dbReference type="PATRIC" id="fig|190304.8.peg.393"/>
+<dbReference type="eggNOG" id="ENOG4105C9R">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0536">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000019083"/>
+<dbReference type="InParanoid" id="Q8RHS8"/>
+<dbReference type="KO" id="K03979"/>
+<dbReference type="OMA" id="WVRQTDF"/>
+<dbReference type="BioCyc" id="FNUC190304:G1FZS-412-MONOMER"/>
+<dbReference type="Proteomes" id="UP000002521">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042254">
+<property type="term" value="P:ribosome biogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd01898">
+<property type="entry name" value="Obg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.240.60">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.210.12">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01454">
+<property type="entry name" value="GTPase_Obg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031167">
+<property type="entry name" value="G_OBG"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035101">
+<property type="entry name" value="GTP-bd_Obg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014100">
+<property type="entry name" value="GTP-bd_Obg/CgtA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015349">
+<property type="entry name" value="GTP-bd_prot_GTP1/OBG_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036346">
+<property type="entry name" value="GTP-bd_prot_GTP1/OBG_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006074">
+<property type="entry name" value="GTP1-OBG_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006169">
+<property type="entry name" value="GTP1_OBG_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036726">
+<property type="entry name" value="GTP1_OBG_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006073">
+<property type="entry name" value="GTP_binding_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09269">
+<property type="entry name" value="DUF1967"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01018">
+<property type="entry name" value="GTP1_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01926">
+<property type="entry name" value="MMR_HSR1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002401">
+<property type="entry name" value="GTP_bd_Obg/CgtA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00326">
+<property type="entry name" value="GTP1OBG"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF102741">
+<property type="entry name" value="SSF102741"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF82051">
+<property type="entry name" value="SSF82051"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02729">
+<property type="entry name" value="Obg_CgtA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03595">
+<property type="entry name" value="Obg_CgtA_exten"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51710">
+<property type="entry name" value="G_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00905">
+<property type="entry name" value="GTP1_OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51883">
+<property type="entry name" value="OBG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51881">
+<property type="entry name" value="OCT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="GTPase Obg" id="PRO_0000385947">
+<location>
+<begin position="1"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="domain" description="Obg" evidence="3">
+<location>
+<begin position="1"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="domain" description="OBG-type G" evidence="1">
+<location>
+<begin position="159"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="domain" description="OCT" evidence="2">
+<location>
+<begin position="349"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="1">
+<location>
+<begin position="165"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="1">
+<location>
+<begin position="190"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="1">
+<location>
+<begin position="212"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="1">
+<location>
+<begin position="282"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="1">
+<location>
+<begin position="311"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="192"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01454"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01229"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01231"/>
+</source>
+</evidence>
+<sequence length="428" mass="47650" checksum="2D7D6789244E9FC6" modified="2002-06-01" version="1">
+MFIDEVIITVKAGNGGDGSAAFRREKFVQFGGPDGGDGGKGGDVIFVADSNINTLIDFKF
+KKLFKAQNGENGQKKQMYGKKGEDLIIKVPVGTQVRDFTTGKLILDMSVNGEQRVLLKGG
+KGGYGNVHFKNSIRKAPKIAEKGGEGAEIKVKLELKLLADVALVGYPSVGKSSFINKVSA
+ANSKVGSYHFTTLEPKLGVVRLEEGKSFVIADIPGLIEGAHEGVGLGDKFLKHIERCKMI
+YHIVDVAEIEGRDCIEDFEKINHELKKFSEKLAGKKQIVIANKMDLIWDMEKFEKFKSYL
+AEKGIEIYPVSVLLNEGLKEILYKTYDMLSRIEREPLEEETDITKLLKELKIEKEDFEII
+RDEEDAIVVGGRIVDDVLAKYVIGMDDESLVTFLHMMRSLGMEEALQEFGVQDGDTVKIA
+DVEFEYFE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

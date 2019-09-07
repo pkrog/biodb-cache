@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-05-30" modified="2019-05-08" version="91">
+<accession>Q3K5Z1</accession>
+<name>RL2_PSEPF</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">50S ribosomal protein L2</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">rplB</name>
+<name type="ordered locus">Pfl01_5076</name>
+</gene>
+<organism>
+<name type="scientific">Pseudomonas fluorescens (strain Pf0-1)</name>
+<dbReference type="NCBI Taxonomy" id="205922"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pseudomonadales</taxon>
+<taxon>Pseudomonadaceae</taxon>
+<taxon>Pseudomonas</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2009" name="Genome Biol." volume="10" first="R51.1" last="R51.16">
+<title>Genomic and genetic analyses of diversity and plant interactions of Pseudomonas fluorescens.</title>
+<authorList>
+<person name="Silby M.W."/>
+<person name="Cerdeno-Tarraga A.M."/>
+<person name="Vernikos G.S."/>
+<person name="Giddens S.R."/>
+<person name="Jackson R.W."/>
+<person name="Preston G.M."/>
+<person name="Zhang X.-X."/>
+<person name="Moon C.D."/>
+<person name="Gehrig S.M."/>
+<person name="Godfrey S.A.C."/>
+<person name="Knight C.G."/>
+<person name="Malone J.G."/>
+<person name="Robinson Z."/>
+<person name="Spiers A.J."/>
+<person name="Harris S."/>
+<person name="Challis G.L."/>
+<person name="Yaxley A.M."/>
+<person name="Harris D."/>
+<person name="Seeger K."/>
+<person name="Murphy L."/>
+<person name="Rutter S."/>
+<person name="Squares R."/>
+<person name="Quail M.A."/>
+<person name="Saunders E."/>
+<person name="Mavromatis K."/>
+<person name="Brettin T.S."/>
+<person name="Bentley S.D."/>
+<person name="Hothersall J."/>
+<person name="Stephens E."/>
+<person name="Thomas C.M."/>
+<person name="Parkhill J."/>
+<person name="Levy S.B."/>
+<person name="Rainey P.B."/>
+<person name="Thomson N.R."/>
+</authorList>
+<dbReference type="PubMed" id="19432983"/>
+<dbReference type="DOI" id="10.1186/gb-2009-10-5-r51"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>Pf0-1</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity; this is somewhat controversial. Makes several contacts with the 16S rRNA in the 70S ribosome.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Part of the 50S ribosomal subunit. Forms a bridge to the 30S subunit in the 70S ribosome.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the universal ribosomal protein uL2 family.</text>
+</comment>
+<dbReference type="EMBL" id="CP000094">
+<property type="protein sequence ID" value="ABA76813.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_003186055.1">
+<property type="nucleotide sequence ID" value="NC_007492.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q3K5Z1"/>
+<dbReference type="STRING" id="205922.Pfl01_5076"/>
+<dbReference type="PRIDE" id="Q3K5Z1"/>
+<dbReference type="EnsemblBacteria" id="ABA76813">
+<property type="protein sequence ID" value="ABA76813"/>
+<property type="gene ID" value="Pfl01_5076"/>
+</dbReference>
+<dbReference type="GeneID" id="11833400"/>
+<dbReference type="KEGG" id="pfo:Pfl01_5076"/>
+<dbReference type="eggNOG" id="ENOG4105CFD">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0090">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000232982"/>
+<dbReference type="KO" id="K02886"/>
+<dbReference type="OMA" id="HGYIKGV"/>
+<dbReference type="BioCyc" id="PFLU205922:G1G4S-5179-MONOMER"/>
+<dbReference type="Proteomes" id="UP000002704">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015934">
+<property type="term" value="C:large ribosomal subunit"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003735">
+<property type="term" value="F:structural constituent of ribosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016740">
+<property type="term" value="F:transferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.30.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.950.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01320_B">
+<property type="entry name" value="Ribosomal_L2_B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022666">
+<property type="entry name" value="Rbsml_prot_L2_RNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014722">
+<property type="entry name" value="Rib_L2_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002171">
+<property type="entry name" value="Ribosomal_L2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005880">
+<property type="entry name" value="Ribosomal_L2_bac/org-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022669">
+<property type="entry name" value="Ribosomal_L2_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022671">
+<property type="entry name" value="Ribosomal_L2_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014726">
+<property type="entry name" value="Ribosomal_L2_dom3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008991">
+<property type="entry name" value="Translation_prot_SH3-like_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13691">
+<property type="entry name" value="PTHR13691"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00181">
+<property type="entry name" value="Ribosomal_L2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03947">
+<property type="entry name" value="Ribosomal_L2_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002158">
+<property type="entry name" value="Ribosomal_L2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01383">
+<property type="entry name" value="Ribosomal_L2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01382">
+<property type="entry name" value="Ribosomal_L2_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50104">
+<property type="entry name" value="SSF50104"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01171">
+<property type="entry name" value="rplB_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00467">
+<property type="entry name" value="RIBOSOMAL_L2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0687">Ribonucleoprotein</keyword>
+<keyword id="KW-0689">Ribosomal protein</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<feature type="chain" description="50S ribosomal protein L2" id="PRO_0000237228">
+<location>
+<begin position="1"/>
+<end position="274"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_01320"/>
+</source>
+</evidence>
+<sequence length="274" mass="29677" checksum="4BA441ADA740324B" modified="2005-11-08" version="1">
+MAIVKCKPTSPGRRFVVKVVNQELHKGAPHAPLLEKKSKSGGRNNNGRITTRHIGGGHKQ
+HYRLVDFRRNDKDGIAATVERIEYDPNRTAHIALLLYADGERRYIIAPKGVSAGDQLIAG
+ALAPIKPGNALQLRNIPVGSTVHGIELKPGKGAQIARSAGASAQLIAREGVYVTLRLRSG
+EMRKVLAECRATLGEVSNSEHSLRSLGKAGAKRWRGVRPTVRGVAMNPVDHPHGGGEGRT
+SGGRHPVSPWGFPTKGAKTRGNKRTDKMIVRRRK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

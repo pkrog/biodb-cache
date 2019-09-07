@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-02-26" modified="2019-07-31" version="81">
+<accession>A3N123</accession>
+<name>DEOC_ACTP2</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Deoxyribose-phosphate aldolase</fullName>
+<shortName evidence="1">DERA</shortName>
+<ecNumber evidence="1">4.1.2.4</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">2-deoxy-D-ribose 5-phosphate aldolase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Phosphodeoxyriboaldolase</fullName>
+<shortName evidence="1">Deoxyriboaldolase</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">deoC</name>
+<name type="ordered locus">APL_1015</name>
+</gene>
+<organism>
+<name type="scientific">Actinobacillus pleuropneumoniae serotype 5b (strain L20)</name>
+<dbReference type="NCBI Taxonomy" id="416269"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pasteurellales</taxon>
+<taxon>Pasteurellaceae</taxon>
+<taxon>Actinobacillus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2008" name="J. Bacteriol." volume="190" first="1495" last="1496">
+<title>The complete genome sequence of Actinobacillus pleuropneumoniae L20 (serotype 5b).</title>
+<authorList>
+<person name="Foote S.J."/>
+<person name="Bosse J.T."/>
+<person name="Bouevitch A.B."/>
+<person name="Langford P.R."/>
+<person name="Young N.M."/>
+<person name="Nash J.H.E."/>
+</authorList>
+<dbReference type="PubMed" id="18065534"/>
+<dbReference type="DOI" id="10.1128/JB.01845-07"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>L20</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy-D-ribose 5-phosphate.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>2-deoxy-D-ribose 5-phosphate = acetaldehyde + D-glyceraldehyde 3-phosphate</text>
+<dbReference type="Rhea" id="RHEA:12821"/>
+<dbReference type="ChEBI" id="CHEBI:15343"/>
+<dbReference type="ChEBI" id="CHEBI:59776"/>
+<dbReference type="ChEBI" id="CHEBI:62877"/>
+<dbReference type="EC" id="4.1.2.4"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Carbohydrate degradation; 2-deoxy-D-ribose 1-phosphate degradation; D-glyceraldehyde 3-phosphate and acetaldehyde from 2-deoxy-alpha-D-ribose 1-phosphate: step 2/2.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the DeoC/FbaB aldolase family. DeoC type 2 subfamily.</text>
+</comment>
+<dbReference type="EC" id="4.1.2.4" evidence="1"/>
+<dbReference type="EMBL" id="CP000569">
+<property type="protein sequence ID" value="ABN74109.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_009874823.1">
+<property type="nucleotide sequence ID" value="NC_009053.1"/>
+</dbReference>
+<dbReference type="SMR" id="A3N123"/>
+<dbReference type="STRING" id="416269.APL_1015"/>
+<dbReference type="EnsemblBacteria" id="ABN74109">
+<property type="protein sequence ID" value="ABN74109"/>
+<property type="gene ID" value="APL_1015"/>
+</dbReference>
+<dbReference type="GeneID" id="4849634"/>
+<dbReference type="KEGG" id="apl:APL_1015"/>
+<dbReference type="PATRIC" id="fig|416269.6.peg.1062"/>
+<dbReference type="eggNOG" id="ENOG4105FCI">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0274">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000241644"/>
+<dbReference type="KO" id="K01619"/>
+<dbReference type="OMA" id="MNACIPP"/>
+<dbReference type="BioCyc" id="APLE416269:G1G87-1065-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00002">
+<property type="reaction ID" value="UER00468"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000001432">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004139">
+<property type="term" value="F:deoxyribose-phosphate aldolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016052">
+<property type="term" value="P:carbohydrate catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009264">
+<property type="term" value="P:deoxyribonucleotide catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046386">
+<property type="term" value="P:deoxyribose phosphate catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="CDD" id="cd00959">
+<property type="entry name" value="DeoC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.70">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00592">
+<property type="entry name" value="DeoC_type2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013785">
+<property type="entry name" value="Aldolase_TIM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011343">
+<property type="entry name" value="DeoC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002915">
+<property type="entry name" value="DeoC/FbaB/lacD_aldolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023649">
+<property type="entry name" value="DeoC_typeII"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10889">
+<property type="entry name" value="PTHR10889"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01791">
+<property type="entry name" value="DeoC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001357">
+<property type="entry name" value="DeoC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01133">
+<property type="entry name" value="DeoC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00126">
+<property type="entry name" value="deoC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0456">Lyase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0704">Schiff base</keyword>
+<feature type="chain" description="Deoxyribose-phosphate aldolase" id="PRO_1000072591">
+<location>
+<begin position="1"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor/acceptor" evidence="1">
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="active site" description="Schiff-base intermediate with acetaldehyde" evidence="1">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor/acceptor" evidence="1">
+<location>
+<position position="200"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00592"/>
+</source>
+</evidence>
+<sequence length="258" mass="27680" checksum="C2E9E0BC72CA1D54" modified="2007-04-03" version="1">
+MSLKDSAKIALSLMDLTTLNDNDTDEKVITLCQQGKTEFGTPAAVCVYPRFVPIARKALK
+AQGTEQVKIATVTNFPHGNNDIDIAVAETKAAVAYGADEVDVVFPYKALMAGNEQIGFEL
+VQQCKAVCQASNVLLKVIIETGELKTAELIRKASEISIKAGADFIKTSTGKVPVNATLEY
+ARIMLETIRDLNVADRVGFKAAGGVKTAEEAAQYLALAQEILGHDWVNSDHFRFGASSLL
+TNLLAALNGQANQKVSGY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

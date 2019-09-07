@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-12-20" modified="2019-04-10" version="7">
+<accession>A0A256BAA6</accession>
+<name>A0A256BAA6_9CYAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Type I restriction enzyme R Protein</fullName>
+<ecNumber evidence="1">3.1.21.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="ORF" evidence="3">B9G53_20435</name>
+</gene>
+<organism evidence="3 4">
+<name type="scientific">Pseudanabaena sp. SR411</name>
+<dbReference type="NCBI Taxonomy" id="1980935"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Cyanobacteria</taxon>
+<taxon>Synechococcales</taxon>
+<taxon>Pseudanabaenaceae</taxon>
+<taxon>Pseudanabaena</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3 4">
+<citation type="submission" date="2017-04" db="EMBL/GenBank/DDBJ databases">
+<title>Novel uncharacterized cyanobacterium from Susquehanna River.</title>
+<authorList>
+<person name="Stowe E.L."/>
+<person name="Hundermark E.L."/>
+<person name="Stowe W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="3 4">SR411</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Subunit R is required for both nuclease and ATPase activities, but not for modification.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="1">
+<text>Endonucleolytic cleavage of DNA to give random double-stranded fragments with terminal 5'-phosphates, ATP is simultaneously hydrolyzed.</text>
+<dbReference type="EC" id="3.1.21.3"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="1">The type I restriction/modification system is composed of three polypeptides R, M and S.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the HsdR family.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EC" id="3.1.21.3" evidence="1"/>
+<dbReference type="EMBL" id="NDHW01000190">
+<property type="protein sequence ID" value="OYQ62802.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000215660">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009035">
+<property type="term" value="F:type I site-specific deoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009307">
+<property type="term" value="P:DNA restriction-modification system"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007409">
+<property type="entry name" value="Restrct_endonuc_type1_HsdR_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004473">
+<property type="entry name" value="Restrct_endonuc_typeI_HsdR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040980">
+<property type="entry name" value="SWI2_SNF2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04313">
+<property type="entry name" value="HSDR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF18766">
+<property type="entry name" value="SWI2_SNF2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00348">
+<property type="entry name" value="hsdR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="4">Complete proteome</keyword>
+<keyword id="KW-0238" evidence="1">DNA-binding</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-1185" evidence="4">Reference proteome</keyword>
+<keyword id="KW-0680" evidence="1">Restriction system</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="2">
+<location>
+<begin position="338"/>
+<end position="519"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU364115"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OYQ62802.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000215660"/>
+</source>
+</evidence>
+<sequence length="1123" mass="129314" checksum="8BF1A6C082EE1DFD" modified="2017-12-20" version="1">
+MTTIPEITPPFSEDDTSKIPALALLIKLGYQYLTPSQANKLRGDRKSSVILFGILEEQLR
+KMNRIQFRGENIPFSEGNITEAIRILRDIEDDGLVRTNEKIWELIRLGKALSQSIQGDTK
+SFNLHYIDWANPENNVYHVTDEFAIAAKGTTDTRRPDIVLFVNGIPFCVIECKRSGLIGK
+DPIEEAISQQLRNQRESEIPRLFHYSQILMVLATNAASYGATGTAAKFWAVWKERELEGL
+QQIIHQPLSDRQITHLFTPDQYRFKGTTPEKSRQWFEILQKQGRSITEQDRALYALARPE
+RLLELADRFSLFDNGDRKIARYQQYFCVKRVMERIHTFDAEGKRKGGVVWHTQGSGKSLT
+MVMLASAIANDPNIKDPQIILVTDRVDLDEQIYRTFDHCGVEVVQAKTGKNLRELLNDPK
+ARIITTLINKFQISDPNNEGKVEDDNQNKLDKLLASRDYTNDSPNIFVLVDEGHRTQFGT
+LHIAMQRVLPKACLIAFTGTPVQKKEQSTVTKFGGLIAPSYTINEAVSDRAVVPLLYEGR
+FVQQEVNRKQIDLWFQRTTAGLNEQQRADLKKKFSTADQLNQTEQKIQAIAWDISEHFSK
+TFGKITPFKGQLVTPSKAAALFYKRFLDEFGMVTSEVLISPPDTREGNTEVSELRDDSQR
+PKIQDFWKRILEKYGTEDKYQRELIKSFKTYDEPEIIIVVDKLLTGFDAPRNIVLYLTRS
+LKDHGLLQAIARVNRLYDGKDHGFIIDYFGVLKKLGKAIDLYGSMESEFEQGDLDGILTD
+ISEEWGKLEQRHSNIWELFQGVVNKYDDELLERSLADERKRSDFYERLSIFARTLKIALA
+SLEFYKQTPETKINRYKSDLQFFINLRASTARRYAEKIDFKQYQTSIQKLLDTHVESGEI
+ETVVEPVNIFDKEAFQAEIDARSSALAKAELIANRTKRAIIERLEEDPAFYKPFSQMLED
+IINNIREQRFDDADTILQQVEEIRDKVRDRTGDEVPEALRDRDVAKAYYGIIQENLRGIG
+DLPASNNHNYDKKSARVQDTSQTYKTSTSLNNLSVEIAINIDQIIQENRIVHWTQNTDIQ
+NQMKTAIEDMLFEIQDRHNFEIDFDTIDIILAKCIDIARVRIP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

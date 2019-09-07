@@ -1,261 +1,159 @@
-ID   APRIO_BOVIN             Reviewed;          81 AA.
-AC   F7VJQ2;
+ID   APRIO_HUMAN             Reviewed;          73 AA.
+AC   F7VJQ1;
 DT   28-NOV-2012, integrated into UniProtKB/Swiss-Prot.
 DT   21-SEP-2011, sequence version 1.
-DT   08-MAY-2019, entry version 17.
+DT   08-MAY-2019, entry version 38.
 DE   RecName: Full=Alternative prion protein;
 DE   AltName: Full=AltPrP;
-OS   Bos taurus (Bovine).
+GN   Name=PRNP; Synonyms=ALTPRP, PRIP, PRP;
+OS   Homo sapiens (Human).
 OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
-OC   Pecora; Bovidae; Bovinae; Bos.
-OX   NCBI_TaxID=9913;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
 RN   [1]
 RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
-RC   STRAIN=Hereford;
-RX   PubMed=19390049; DOI=10.1126/science.1169588;
-RG   The bovine genome sequencing and analysis consortium;
-RT   "The genome sequence of taurine cattle: a window to ruminant biology
-RT   and evolution.";
-RL   Science 324:522-528(2009).
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M.,
+RA   Beasley O.P., Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J.,
+RA   Buck D., Burrill W.D., Butler A.P., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M., Clark G., Clark L.N., Clark S.Y., Clee C.M.,
+RA   Clegg S., Cobley V.E., Collier R.E., Connor R.E., Corby N.R.,
+RA   Coulson A., Coville G.J., Deadman R., Dhami P.D., Dunn M.,
+RA   Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H.,
+RA   Rice C.M., Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S.,
+RA   Skuce C.D., Smith M.L., Soderlund C., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A.,
+RA   Tracey A., Tromans A.C., Vaudin M., Wall M., Wallis J.M.,
+RA   Whitehead S.L., Whittaker P., Willey D.L., Williams L., Williams S.A.,
+RA   Wilming L., Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S.,
+RA   Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
 RN   [2]
-RP   IDENTIFICATION.
+RP   IDENTIFICATION, SUBCELLULAR LOCATION, INDUCTION, AND TISSUE
+RP   SPECIFICITY.
 RX   PubMed=21478263; DOI=10.1096/fj.10-173815;
 RA   Vanderperre B., Staskevicius A.B., Tremblay G., McCoy M.,
 RA   O'Neill M.A., Cashman N.R., Roucou X.;
 RT   "An overlapping reading frame in the PRNP gene encodes a novel
 RT   polypeptide distinct from the prion protein.";
 RL   FASEB J. 25:2373-2386(2011).
-CC   -!- SUBCELLULAR LOCATION: Mitochondrion outer membrane {ECO:0000250};
-CC       Single-pass membrane protein.
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion outer membrane
+CC       {ECO:0000269|PubMed:21478263}; Single-pass membrane protein
+CC       {ECO:0000269|PubMed:21478263}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative initiation; Named isoforms=3;
+CC       Name=3; Synonyms=AltPrP;
+CC         IsoId=F7VJQ1-1; Sequence=Displayed;
+CC       Name=1; Synonyms=PrP;
+CC         IsoId=P04156-1; Sequence=External;
+CC       Name=2; Synonyms=PrP(M8);
+CC         IsoId=P04156-2; Sequence=External;
+CC   -!- TISSUE SPECIFICITY: Detected in brain homogenate, primary neurons,
+CC       and peripheral blood mononuclear cells (at protein level).
+CC       {ECO:0000269|PubMed:21478263}.
+CC   -!- INDUCTION: Up-regulated by endoplasmic reticulum stress and
+CC       proteasomal inhibition. {ECO:0000269|PubMed:21478263}.
 CC   -!- MISCELLANEOUS: This protein is produced by a bicistronic gene
 CC       which also produces the major prion protein/PRNP from an
-CC       overlapping reading frame.
-CC   -!- MISCELLANEOUS: The alternative prion protein and PRNP (AC P10279)
-CC       have no apparent direct functional relation since a mutation that
-CC       removes the start codon of the AltPrP has no apparent effect on
-CC       the biology of PRNP (By similarity). In mouse and hamster, the
+CC       overlapping reading frame. {ECO:0000305|PubMed:21478263}.
+CC   -!- MISCELLANEOUS: The alternative prion protein/AltPrP and PRNP (AC
+CC       P04156) have no apparent direct functional relation since a
+CC       mutation that removes the start codon of the AltPrP has no
+CC       apparent effect on the biology of PRNP. In mouse and hamster, the
 CC       alternative initiation AUG codon is absent and is replaced by a
-CC       GUG codon. {ECO:0000250}.
+CC       GUG codon (PubMed:21478263). {ECO:0000305|PubMed:21478263}.
 CC   -----------------------------------------------------------------------
 CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
 CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
 CC   -----------------------------------------------------------------------
-DR   EMBL; AAFC03011819; -; NOT_ANNOTATED_CDS; Genomic_DNA.
-DR   EMBL; BK007888; DAA34791.1; -; Genomic_DNA.
-DR   RefSeq; NP_001258554.1; NM_001271625.2.
-DR   BioGrid; 158758; 3.
-DR   GeneID; 281427; -.
-DR   KEGG; bta:281427; -.
+DR   EMBL; AL133396; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BK007887; DAA34790.1; -; Genomic_DNA.
+DR   RefSeq; NP_001258490.1; NM_001271561.2. [F7VJQ1-1]
+DR   BioGrid; 111606; 74.
+DR   SwissPalm; F7VJQ1; -.
+DR   BioMuta; PRNP; -.
+DR   PRIDE; F7VJQ1; -.
+DR   GeneID; 5621; -.
 DR   CTD; 5621; -.
-DR   KO; K05634; -.
-DR   Proteomes; UP000009136; Unplaced.
+DR   DisGeNET; 5621; -.
+DR   GeneCards; PRNP; -.
+DR   GeneReviews; PRNP; -.
+DR   HGNC; HGNC:9449; PRNP.
+DR   MalaCards; PRNP; -.
+DR   neXtProt; NX_F7VJQ1; -.
+DR   OrthoDB; 1403854at2759; -.
+DR   SIGNOR; F7VJQ1; -.
+DR   ChiTaRS; PRNP; human.
+DR   GeneWiki; PRNP; -.
+DR   GenomeRNAi; 5621; -.
+DR   Proteomes; UP000005640; Unplaced.
 DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005741; C:mitochondrial outer membrane; ISS:UniProtKB.
-PE   3: Inferred from homology;
-KW   Complete proteome; Membrane; Mitochondrion;
+DR   GO; GO:0005741; C:mitochondrial outer membrane; IDA:UniProtKB.
+PE   1: Evidence at protein level;
+KW   Alternative initiation; Complete proteome; Membrane; Mitochondrion;
 KW   Mitochondrion outer membrane; Reference proteome; Transmembrane;
 KW   Transmembrane helix.
-FT   CHAIN         1     81       Alternative prion protein.
-FT                                /FTId=PRO_0000420426.
-FT   TRANSMEM     50     66       Helical. {ECO:0000255}.
-FT   COMPBIAS     26     72       Trp-rich.
-SQ   SEQUENCE   81 AA;  9763 MW;  AFD55D00CF7C6057 CRC64;
-     MEHWGEPIPR TGQSWRQPLS TSGRGWLGSA PWRWLGPASW RWLGPASWRW LGSAPWWWLG
-     TATWWWRLGS RWYPRSMEQT Q
+FT   CHAIN         1     73       Alternative prion protein.
+FT                                /FTId=PRO_0000420424.
+FT   TRANSMEM     32     52       Helical. {ECO:0000255}.
+FT   COMPBIAS     25     64       Trp-rich.
+SQ   SEQUENCE   73 AA;  8691 MW;  4360C28341A4CA52 CRC64;
+     MEHWGQPIPG AGQPWRQPLP TSGRWWLGAA SWWWLGAASW WWLGAAPWWW LGTASWWWLG
+     SRRWHPQSVE QAE
 //
-ID   PRIO_MANSP              Reviewed;         241 AA.
-AC   P40255;
-DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
-DT   01-FEB-1995, sequence version 1.
-DT   08-MAY-2019, entry version 100.
+ID   PRIO_PANTR              Reviewed;         253 AA.
+AC   P61768; P40253;
+DT   07-JUN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2004, sequence version 1.
+DT   08-MAY-2019, entry version 112.
 DE   RecName: Full=Major prion protein;
 DE            Short=PrP;
 DE   AltName: Full=PrP27-30;
 DE   AltName: Full=PrP33-35C;
 DE   AltName: CD_antigen=CD230;
-DE   Flags: Precursor; Fragment;
+DE   Flags: Precursor;
 GN   Name=PRNP; Synonyms=PRP;
-OS   Mandrillus sphinx (Mandrill) (Papio sphinx).
+OS   Pan troglodytes (Chimpanzee).
 OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
 OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
-OC   Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
-OX   NCBI_TaxID=9561;
+OC   Catarrhini; Hominidae; Pan.
+OX   NCBI_TaxID=9598;
 RN   [1]
 RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
 RX   PubMed=7837269; DOI=10.1006/jmbi.1994.0030;
 RA   Schaetzl H.M., Da Costa M., Taylor L., Cohen F.E., Prusiner S.B.;
 RT   "Prion protein gene variation among primates.";
 RL   J. Mol. Biol. 245:362-374(1995).
-CC   -!- FUNCTION: Its primary physiological function is unclear. May play
-CC       a role in neuronal development and synaptic plasticity. May be
-CC       required for neuronal myelin sheath maintenance. May promote
-CC       myelin homeostasis through acting as an agonist for ADGRG6
-CC       receptor. May play a role in iron uptake and iron homeostasis.
-CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
-CC       induce apoptosis (in vitro) (By similarity). Association with GPC1
-CC       (via its heparan sulfate chains) targets PRNP to lipid rafts. Also
-CC       provides Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1
-CC       deaminase degradation of its heparan sulfate side chains (By
-CC       similarity). {ECO:0000250|UniProtKB:P04156,
-CC       ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Soluble oligomers may represent
-CC       an intermediate stage on the path to fibril formation. Copper
-CC       binding may promote oligomerization. Interacts with GRB2, APP,
-CC       ERI3/PRNPIP and SYN1 (By similarity). Mislocalized cytosolically
-CC       exposed PrP interacts with MGRN1; this interaction alters MGRN1
-CC       subcellular location and causes lysosomal enlargement (By
-CC       similarity). Interacts with APP. Interacts with KIAA1191 (By
-CC       similarity). Interacts with ADGRG6 (By similarity).
-CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBCELLULAR LOCATION: Cell membrane
-CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
-CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
-CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
-CC       association with the heparan sulfate chains of GPC1. Colocates, in
-CC       the presence of Cu(2+), to vesicles in para- and perinuclear
-CC       regions, where both proteins undergo internalization. Heparin
-CC       displaces PRNP from lipid rafts and promotes endocytosis.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
-CC       structure. The disease-associated, protease-resistant form forms
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Disease mutations may favor
-CC       intermolecular contacts via short beta strands, and may thereby
-CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
-CC       At low copper concentrations, the sidechains of His residues from
-CC       three or four repeats contribute to the binding of a single copper
-CC       ion. Alternatively, a copper ion can be bound by interaction with
-CC       the sidechain and backbone amide nitrogen of a single His residue.
-CC       The observed copper binding stoichiometry suggests that two repeat
-CC       regions cooperate to stabilize the binding of a single copper ion.
-CC       At higher copper concentrations, each octamer can bind one copper
-CC       ion by interactions with the His sidechain and Gly backbone atoms.
-CC       A mixture of binding types may occur, especially in the case of
-CC       octamer repeat expansion. Copper binding may stabilize the
-CC       conformation of this region and may promote oligomerization.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DISEASE: Note=PrP is found in high quantity in the brain of humans
-CC       and animals infected with the degenerative neurological diseases
-CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
-CC       syndrome (GSS), scrapie, bovine spongiform encephalopathy (BSE),
-CC       transmissible mink encephalopathy (TME), etc. {ECO:0000305}.
-CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
-CC   -----------------------------------------------------------------------
-CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
-CC   -----------------------------------------------------------------------
-DR   EMBL; U08303; AAC50091.1; -; Genomic_DNA.
-DR   PIR; S71056; S71056.
-DR   SMR; P40255; -.
-DR   PRIDE; P40255; -.
-DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
-DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
-DR   Gene3D; 1.10.790.10; -; 1.
-DR   InterPro; IPR000817; Prion.
-DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
-DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
-DR   InterPro; IPR025860; Prion_N_dom.
-DR   Pfam; PF00377; Prion; 1.
-DR   Pfam; PF11587; Prion_bPrPp; 1.
-DR   PRINTS; PR00341; PRION.
-DR   SMART; SM00157; PRP; 1.
-DR   SUPFAM; SSF54098; SSF54098; 1.
-DR   PROSITE; PS00291; PRION_1; 1.
-DR   PROSITE; PS00706; PRION_2; 1.
-PE   3: Inferred from homology;
-KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
-KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
-KW   Prion; Repeat; Signal; Zinc.
-FT   SIGNAL       <1     15       {ECO:0000250}.
-FT   CHAIN        16    223       Major prion protein.
-FT                                /FTId=PRO_0000025693.
-FT   PROPEP      224   >241       Removed in mature form. {ECO:0000250}.
-FT                                /FTId=PRO_0000025694.
-FT   REPEAT       44     52       1.
-FT   REPEAT       53     60       2.
-FT   REPEAT       61     68       3.
-FT   REPEAT       69     76       4.
-FT   REPEAT       77     84       5.
-FT   REGION       16    223       Interaction with GRB2, ERI3 and SYN1.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       16     31       Interaction with ADGRG6.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       44     84       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
-FT                                Q.
-FT   METAL        54     54       Copper or zinc 1.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        55     55       Copper or zinc 1; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        56     56       Copper or zinc 1; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        62     62       Copper or zinc 2.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        63     63       Copper or zinc 2; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        64     64       Copper or zinc 2; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        70     70       Copper or zinc 3.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        71     71       Copper or zinc 3; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        72     72       Copper or zinc 3; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        78     78       Copper or zinc 4.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        79     79       Copper or zinc 4; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        80     80       Copper or zinc 4; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       223    223       GPI-anchor amidated serine.
-FT                                {ECO:0000250|UniProtKB:P04273}.
-FT   CARBOHYD    174    174       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    190    190       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   DISULFID    172    207       {ECO:0000250|UniProtKB:P04273}.
-FT   NON_TER       1      1
-FT   NON_TER     241    241
-SQ   SEQUENCE   241 AA;  26398 MW;  E539D84E2E2B59DE CRC64;
-     MLVLFVATWS DLGLCKKRPK PGGWNTGGSR YPGQGSPGGN RYPPQGGGGW GQPHGGGWGQ
-     PHGGGWGQPH GGGWGQPHGG GWGQGGGTHN QWHKPNKPKT SMKHMAGAAA AGAVVGGLGG
-     YMLGSAMSRP LIHFGNDYED RYYRENMYRY PNQVYYRPVD QYSNQNNFVH DCVNITIKQH
-     TVTTTTKGEN FTETDVKMME RVVEQMCITQ YEKESQAYYQ RGSSMVLFSS PPVILLISFL
-     I
-//
-ID   PRIO_MACSY              Reviewed;         238 AA.
-AC   P67991; Q95145; Q95200;
-DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
-DT   11-OCT-2004, sequence version 1.
-DT   08-MAY-2019, entry version 65.
-DE   RecName: Full=Major prion protein;
-DE            Short=PrP;
-DE   AltName: Full=PrP27-30;
-DE   AltName: Full=PrP33-35C;
-DE   AltName: CD_antigen=CD230;
-DE   Flags: Precursor; Fragment;
-GN   Name=PRNP; Synonyms=PRP;
-OS   Macaca sylvanus (Barbary macaque).
-OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
-OC   Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
-OX   NCBI_TaxID=9546;
-RN   [1]
+RN   [2]
 RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
-RA   van der Kuyl A.C., Dekker J.T., Goudsmit J.;
-RT   "Evidence for an increased substitution rate of the hominoid prion
-RT   protein gene during the period of brain expansion.";
-RL   Submitted (NOV-1996) to the EMBL/GenBank/DDBJ databases.
+RC   TISSUE=Brain;
+RX   PubMed=7991600; DOI=10.1073/pnas.91.25.12159;
+RA   Cervenakova L., Brown P., Goldfarb L.G., Nagle J., Pettrone K.,
+RA   Rubenstein R., Dubnick M., Gibbs C.J., Gajdusek D.C.;
+RT   "Infectious amyloid precursor gene sequences in primates used for
+RT   experimental transmission of human spongiform encephalopathy.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:12159-12162(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=15620360; DOI=10.1016/j.cell.2004.11.040;
+RA   Dorus S., Vallender E.J., Evans P.D., Anderson J.R., Gilbert S.L.,
+RA   Mahowald M., Wyckoff G.J., Malcom C.M., Lahn B.T.;
+RT   "Accelerated evolution of nervous system genes in the origin of Homo
+RT   sapiens.";
+RL   Cell 119:1027-1040(2004).
 CC   -!- FUNCTION: Its primary physiological function is unclear. Has
 CC       cytoprotective activity against internal or environmental
 CC       stresses. May play a role in neuronal development and synaptic
@@ -315,8 +213,601 @@ CC   -----------------------------------------------------------------------
 CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
 CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
 CC   -----------------------------------------------------------------------
-DR   EMBL; U75382; AAB50629.1; -; Genomic_DNA.
-DR   SMR; P67991; -.
+DR   EMBL; U08296; AAC50085.1; -; Genomic_DNA.
+DR   EMBL; U15039; AAA68632.1; -; Genomic_DNA.
+DR   EMBL; AY665268; AAV74306.1; -; mRNA.
+DR   PIR; I61847; I61847.
+DR   RefSeq; NP_001009093.1; NM_001009093.4.
+DR   RefSeq; NP_001103676.1; NM_001110206.3.
+DR   RefSeq; XP_009434905.1; XM_009436630.2.
+DR   RefSeq; XP_009434906.1; XM_009436631.2.
+DR   SMR; P61768; -.
+DR   STRING; 9598.ENSPTRP00000022659; -.
+DR   PaxDb; P61768; -.
+DR   Ensembl; ENSPTRT00000080287; ENSPTRP00000075233; ENSPTRG00000046640.
+DR   GeneID; 458076; -.
+DR   KEGG; ptr:458076; -.
+DR   CTD; 5621; -.
+DR   VGNC; VGNC:6248; PRNP.
+DR   eggNOG; ENOG410IJMM; Eukaryota.
+DR   eggNOG; ENOG410YXUU; LUCA.
+DR   GeneTree; ENSGT00510000049083; -.
+DR   HOGENOM; HOG000232077; -.
+DR   InParanoid; P61768; -.
+DR   KO; K05634; -.
+DR   OMA; HNPGYPH; -.
+DR   OrthoDB; 1403854at2759; -.
+DR   TreeFam; TF105188; -.
+DR   Proteomes; UP000002277; Chromosome 20.
+DR   Bgee; ENSPTRG00000013216; Expressed in 6 organ(s), highest expression level in prefrontal cortex.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016234; C:inclusion body; IEA:Ensembl.
+DR   GO; GO:0045121; C:membrane raft; IEA:Ensembl.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0001540; F:amyloid-beta binding; IBA:GO_Central.
+DR   GO; GO:0043008; F:ATP-dependent protein binding; IBA:GO_Central.
+DR   GO; GO:0051087; F:chaperone binding; IBA:GO_Central.
+DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
+DR   GO; GO:1903135; F:cupric ion binding; IBA:GO_Central.
+DR   GO; GO:1903136; F:cuprous ion binding; IBA:GO_Central.
+DR   GO; GO:0005539; F:glycosaminoglycan binding; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IBA:GO_Central.
+DR   GO; GO:0044325; F:ion channel binding; IBA:GO_Central.
+DR   GO; GO:0005521; F:lamin binding; IBA:GO_Central.
+DR   GO; GO:0008017; F:microtubule binding; IBA:GO_Central.
+DR   GO; GO:0002020; F:protease binding; IBA:GO_Central.
+DR   GO; GO:0044877; F:protein-containing complex binding; IBA:GO_Central.
+DR   GO; GO:0038023; F:signaling receptor activity; IBA:GO_Central.
+DR   GO; GO:0031802; F:type 5 metabotropic glutamate receptor binding; IBA:GO_Central.
+DR   GO; GO:0032147; P:activation of protein kinase activity; IBA:GO_Central.
+DR   GO; GO:0035584; P:calcium-mediated signaling using intracellular calcium source; IBA:GO_Central.
+DR   GO; GO:1904646; P:cellular response to amyloid-beta; IBA:GO_Central.
+DR   GO; GO:0071280; P:cellular response to copper ion; IEA:Ensembl.
+DR   GO; GO:0035690; P:cellular response to drug; IEA:Ensembl.
+DR   GO; GO:0007611; P:learning or memory; IBA:GO_Central.
+DR   GO; GO:0090647; P:modulation of age-related behavioral decline; IEA:Ensembl.
+DR   GO; GO:0046007; P:negative regulation of activated T cell proliferation; IEA:Ensembl.
+DR   GO; GO:1902430; P:negative regulation of amyloid-beta formation; IBA:GO_Central.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IBA:GO_Central.
+DR   GO; GO:0070885; P:negative regulation of calcineurin-NFAT signaling cascade; IEA:Ensembl.
+DR   GO; GO:0043086; P:negative regulation of catalytic activity; IBA:GO_Central.
+DR   GO; GO:1902951; P:negative regulation of dendritic spine maintenance; IEA:Ensembl.
+DR   GO; GO:0043433; P:negative regulation of DNA-binding transcription factor activity; IEA:Ensembl.
+DR   GO; GO:0032689; P:negative regulation of interferon-gamma production; IEA:Ensembl.
+DR   GO; GO:0032700; P:negative regulation of interleukin-17 production; IEA:Ensembl.
+DR   GO; GO:0032703; P:negative regulation of interleukin-2 production; IEA:Ensembl.
+DR   GO; GO:0001933; P:negative regulation of protein phosphorylation; IEA:Ensembl.
+DR   GO; GO:0050860; P:negative regulation of T cell receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:1990535; P:neuron projection maintenance; IEA:Ensembl.
+DR   GO; GO:0043525; P:positive regulation of neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:1901216; P:positive regulation of neuron death; IBA:GO_Central.
+DR   GO; GO:0050731; P:positive regulation of peptidyl-tyrosine phosphorylation; IBA:GO_Central.
+DR   GO; GO:1903078; P:positive regulation of protein localization to plasma membrane; IBA:GO_Central.
+DR   GO; GO:0090314; P:positive regulation of protein targeting to membrane; IEA:Ensembl.
+DR   GO; GO:0061098; P:positive regulation of protein tyrosine kinase activity; IBA:GO_Central.
+DR   GO; GO:0031648; P:protein destabilization; IEA:Ensembl.
+DR   GO; GO:0051260; P:protein homooligomerization; IBA:GO_Central.
+DR   GO; GO:1905664; P:regulation of calcium ion import across plasma membrane; IEA:Ensembl.
+DR   GO; GO:1900449; P:regulation of glutamate receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:1902938; P:regulation of intracellular calcium activated chloride channel activity; IEA:Ensembl.
+DR   GO; GO:1901379; P:regulation of potassium ion transmembrane transport; IEA:Ensembl.
+DR   GO; GO:0046686; P:response to cadmium ion; IBA:GO_Central.
+DR   GO; GO:0006979; P:response to oxidative stress; IBA:GO_Central.
+DR   Gene3D; 1.10.790.10; -; 1.
+DR   InterPro; IPR000817; Prion.
+DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
+DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
+DR   InterPro; IPR025860; Prion_N_dom.
+DR   Pfam; PF00377; Prion; 1.
+DR   Pfam; PF11587; Prion_bPrPp; 1.
+DR   PRINTS; PR00341; PRION.
+DR   SMART; SM00157; PRP; 1.
+DR   SUPFAM; SSF54098; SSF54098; 1.
+DR   PROSITE; PS00291; PRION_1; 1.
+DR   PROSITE; PS00706; PRION_2; 1.
+PE   2: Evidence at transcript level;
+KW   Amyloid; Cell membrane; Complete proteome; Copper; Disulfide bond;
+KW   Glycoprotein; Golgi apparatus; GPI-anchor; Lipoprotein; Membrane;
+KW   Metal-binding; Prion; Reference proteome; Repeat; Signal; Zinc.
+FT   SIGNAL        1     22       {ECO:0000250}.
+FT   CHAIN        23    230       Major prion protein.
+FT                                /FTId=PRO_0000025711.
+FT   PROPEP      231    253       Removed in mature form. {ECO:0000250}.
+FT                                /FTId=PRO_0000025712.
+FT   REPEAT       51     59       1.
+FT   REPEAT       60     67       2.
+FT   REPEAT       68     75       3.
+FT   REPEAT       76     83       4.
+FT   REPEAT       84     91       5.
+FT   REGION       23    230       Interaction with GRB2, ERI3 and SYN1.
+FT                                {ECO:0000250|UniProtKB:P04925}.
+FT   REGION       51     91       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
+FT                                Q.
+FT   METAL        61     61       Copper or zinc 1.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        62     62       Copper or zinc 1; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        63     63       Copper or zinc 1; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        69     69       Copper or zinc 2.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        70     70       Copper or zinc 2; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        71     71       Copper or zinc 2; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        77     77       Copper or zinc 3.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        78     78       Copper or zinc 3; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        79     79       Copper or zinc 3; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        85     85       Copper or zinc 4.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        86     86       Copper or zinc 4; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        87     87       Copper or zinc 4; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   LIPID       230    230       GPI-anchor amidated serine.
+FT                                {ECO:0000250|UniProtKB:P04273}.
+FT   CARBOHYD    181    181       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    197    197       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   DISULFID    179    214       {ECO:0000250|UniProtKB:P04273}.
+SQ   SEQUENCE   253 AA;  27633 MW;  CF8F59F040996B74 CRC64;
+     MANLGCWMLV LFVATWSDLG LCKKRPKPGG WNTGGSRYPG QGSPGGNRYP PQGGGGWGQP
+     HGGGWGQPHG GGWGQPHGGG WGQPHGGGWG QGGGTHSQWN KPSKPKTNMK HMAGAAAAGA
+     VVGGLGGYML GSAMSRPIIH FGSDYEDRYY RENMHRYPNQ VYYRPMDQYS SQNNFVHDCV
+     NITIKQHTVT TTTKGENFTE TDVKMMERVV EQMCITQYER ESQAYYQRGS SMVLFSSPPV
+     ILLISFLIFL IVG
+//
+ID   SPRN_HUMAN              Reviewed;         151 AA.
+AC   Q5BIV9;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   12-APR-2005, sequence version 1.
+DT   08-MAY-2019, entry version 92.
+DE   RecName: Full=Shadow of prion protein;
+DE            Short=Protein shadoo;
+DE   Flags: Precursor;
+GN   Name=SPRN; Synonyms=SHO;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   IDENTIFICATION, AND TISSUE SPECIFICITY.
+RX   PubMed=14527721; DOI=10.1016/S0378-1119(03)00707-8;
+RA   Premzl M., Sangiorgio L., Strumbo B., Marshall Graves J.A.,
+RA   Simonic T., Gready J.E.;
+RT   "Shadoo, a new protein highly conserved from fish to mammals and with
+RT   similarity to prion protein.";
+RL   Gene 314:89-102(2003).
+RN   [3]
+RP   PHYLOGENY.
+RX   PubMed=15342797; DOI=10.1093/molbev/msh245;
+RA   Premzl M., Gready J.E., Jermiin L.S., Simonic T.,
+RA   Marshall Graves J.A.;
+RT   "Evolution of vertebrate genes related to prion and Shadoo proteins-
+RT   Clues from comparative genomic analysis.";
+RL   Mol. Biol. Evol. 21:2210-2231(2004).
+RN   [4]
+RP   PHYLOGENY.
+RX   PubMed=17199895; DOI=10.1186/1471-2164-8-1;
+RA   Premzl M., Gamulin V.;
+RT   "Comparative genomic analysis of prion genes.";
+RL   BMC Genomics 8:1-1(2007).
+CC   -!- FUNCTION: Prion-like protein that has PrP(C)-like neuroprotective
+CC       activity. May act as a modulator for the biological actions of
+CC       normal and abnormal PrP (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Lipid-anchor,
+CC       GPI-anchor {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Mainly expressed in brain. In brain, it is
+CC       expressed in hippocampus. {ECO:0000269|PubMed:14527721}.
+CC   -!- PTM: N-glycosylated. {ECO:0000250}.
+CC   -!- MISCELLANEOUS: 'Shadoo' means 'shadow' in Japanese.
+CC   -!- SIMILARITY: Belongs to the SPRN family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BC040198; AAH40198.1; -; mRNA.
+DR   EMBL; BN000518; CAG34288.1; -; Genomic_DNA.
+DR   CCDS; CCDS53589.1; -.
+DR   RefSeq; NP_001012526.2; NM_001012508.3.
+DR   SMR; Q5BIV9; -.
+DR   IntAct; Q5BIV9; 1.
+DR   STRING; 9606.ENSP00000433712; -.
+DR   TCDB; 1.C.48.1.5; the prion peptide (prp) family.
+DR   iPTMnet; Q5BIV9; -.
+DR   PhosphoSitePlus; Q5BIV9; -.
+DR   BioMuta; SPRN; -.
+DR   DMDM; 74722519; -.
+DR   jPOST; Q5BIV9; -.
+DR   PaxDb; Q5BIV9; -.
+DR   PeptideAtlas; Q5BIV9; -.
+DR   PRIDE; Q5BIV9; -.
+DR   ProteomicsDB; 62673; -.
+DR   Ensembl; ENST00000414069; ENSP00000433712; ENSG00000203772.
+DR   GeneID; 503542; -.
+DR   KEGG; hsa:503542; -.
+DR   UCSC; uc001lnf.5; human.
+DR   CTD; 503542; -.
+DR   DisGeNET; 503542; -.
+DR   GeneCards; SPRN; -.
+DR   HGNC; HGNC:16871; SPRN.
+DR   MIM; 610447; gene.
+DR   neXtProt; NX_Q5BIV9; -.
+DR   OpenTargets; ENSG00000203772; -.
+DR   PharmGKB; PA142670876; -.
+DR   eggNOG; ENOG410JEZN; Eukaryota.
+DR   eggNOG; ENOG41114XD; LUCA.
+DR   GeneTree; ENSGT00730000111694; -.
+DR   InParanoid; Q5BIV9; -.
+DR   OMA; YRAWTSG; -.
+DR   PhylomeDB; Q5BIV9; -.
+DR   TreeFam; TF330766; -.
+DR   Reactome; R-HSA-163125; Post-translational modification: synthesis of GPI-anchored proteins.
+DR   GenomeRNAi; 503542; -.
+DR   PRO; PR:Q5BIV9; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   Bgee; ENSG00000203772; Expressed in 118 organ(s), highest expression level in right frontal lobe.
+DR   Genevisible; Q5BIV9; HS.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031982; C:vesicle; IEA:Ensembl.
+DR   GO; GO:0003676; F:nucleic acid binding; IBA:GO_Central.
+DR   GO; GO:0006606; P:protein import into nucleus; IBA:GO_Central.
+DR   InterPro; IPR029238; Shadoo.
+DR   PANTHER; PTHR28552; PTHR28552; 1.
+DR   Pfam; PF14999; Shadoo; 1.
+PE   2: Evidence at transcript level;
+KW   Amyloid; Cell membrane; Complete proteome; Glycoprotein; GPI-anchor;
+KW   Lipoprotein; Membrane; Polymorphism; Prion; Reference proteome;
+KW   Signal.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   CHAIN        25    126       Shadow of prion protein.
+FT                                /FTId=PRO_5000096015.
+FT   PROPEP      127    151       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000320166.
+FT   COMPBIAS      4     93       Ala-rich.
+FT   LIPID       126    126       GPI-anchor amidated glycine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    111    111       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   VARIANT       7      7       T -> M (in dbSNP:rs2492666).
+FT                                /FTId=VAR_039152.
+SQ   SEQUENCE   151 AA;  14522 MW;  AE545DB777F9110E CRC64;
+     MNWAPATCWA LLLAAAFLCD SGAAKGGRGG ARGSARGGVR GGARGASRVR VRPAQRYGAP
+     GSSLRVAAAG AAAGAAAGAA AGLAAGSGWR RAAGPGERGL EDEEDGVPGG NGTGPGIYSY
+     RAWTSGAGPT RGPRLCLVLG GALGALGLLR P
+//
+ID   APRIO_SHEEP             Reviewed;          64 AA.
+AC   F7VJQ3;
+DT   28-NOV-2012, integrated into UniProtKB/Swiss-Prot.
+DT   21-SEP-2011, sequence version 1.
+DT   07-JAN-2015, entry version 8.
+DE   RecName: Full=Alternative prion protein;
+DE   AltName: Full=AltPrP;
+OS   Ovis aries (Sheep).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Caprinae; Ovis.
+OX   NCBI_TaxID=9940;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Roucou X.;
+RL   Submitted (SEP-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   IDENTIFICATION.
+RX   PubMed=21478263; DOI=10.1096/fj.10-173815;
+RA   Vanderperre B., Staskevicius A.B., Tremblay G., McCoy M.,
+RA   O'Neill M.A., Cashman N.R., Roucou X.;
+RT   "An overlapping reading frame in the PRNP gene encodes a novel
+RT   polypeptide distinct from the prion protein.";
+RL   FASEB J. 25:2373-2386(2011).
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion outer membrane {ECO:0000250};
+CC       Single-pass membrane protein {ECO:0000250}.
+CC   -!- MISCELLANEOUS: This protein is produced by a bicistronic gene
+CC       which also produces the major prion protein/PRNP from an
+CC       overlapping reading frame.
+CC   -!- MISCELLANEOUS: The alternative prion protein and PRNP (AC P23907)
+CC       have no apparent direct functional relation since a mutation that
+CC       removes the start codon of the AltPrP has no apparent effect on
+CC       the biology of PRNP (By similarity). In mouse and hamster, the
+CC       alternative initiation AUG codon is absent and is replaced by a
+CC       GUG codon. {ECO:0000250}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE993880; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BK007889; DAA34792.1; -; Genomic_DNA.
+DR   Proteomes; UP000002356; Unplaced.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005741; C:mitochondrial outer membrane; ISS:UniProtKB.
+PE   3: Inferred from homology;
+KW   Complete proteome; Membrane; Mitochondrion;
+KW   Mitochondrion outer membrane; Reference proteome; Transmembrane;
+KW   Transmembrane helix.
+FT   CHAIN         1     64       Alternative prion protein.
+FT                                /FTId=PRO_0000420425.
+FT   TRANSMEM     40     58       Helical. {ECO:0000255}.
+FT   COMPBIAS     26     64       Trp-rich.
+SQ   SEQUENCE   64 AA;  7619 MW;  00B917A13D0DA1E4 CRC64;
+     MEHWGEPIPG TGQSWRQPLS TSGRGWLGSA PWRWLGPTSW RWLGSAPWWW LGTATWWWRL
+     GSRW
+//
+ID   PRIO_OVIMU              Reviewed;         256 AA.
+AC   Q7JK02;
+DT   19-JUL-2004, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   08-MAY-2019, entry version 70.
+DE   RecName: Full=Major prion protein;
+DE            Short=PrP;
+DE   AltName: CD_antigen=CD230;
+DE   Flags: Precursor;
+GN   Name=PRNP; Synonyms=PRP;
+OS   Ovis aries musimon (Mouflon).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Caprinae; Ovis.
+OX   NCBI_TaxID=9938;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=11805443; DOI=10.1159/000050072;
+RA   Seo S.W., Hara K., Kubosaki A., Nasu Y., Nishimura T., Saeki K.,
+RA   Matsumoto Y., Endo H., Onodera T.;
+RT   "Comparative analysis of the prion protein open reading frame
+RT   nucleotide sequences of two wild ruminants, the moufflon and golden
+RT   takin.";
+RL   Intervirology 44:359-363(2001).
+CC   -!- FUNCTION: Its primary physiological function is unclear. Has
+CC       cytoprotective activity against internal or environmental
+CC       stresses. May play a role in neuronal development and synaptic
+CC       plasticity. May be required for neuronal myelin sheath
+CC       maintenance. May play a role in iron uptake and iron homeostasis.
+CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
+CC       induce apoptosis (in vitro). Association with GPC1 (via its
+CC       heparan sulfate chains) targets PRNP to lipid rafts. Also provides
+CC       Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1 deaminase
+CC       degradation of its heparan sulfate side chains (By similarity).
+CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
+CC       amyloid fibrils containing a cross-beta spine, formed by a steric
+CC       zipper of superposed beta-strands. Soluble oligomers may represent
+CC       an intermediate stage on the path to fibril formation. Copper
+CC       binding may promote oligomerization. Interacts with GRB2, APP,
+CC       ERI3/PRNPIP and SYN1. Mislocalized cytosolically exposed PrP
+CC       interacts with MGRN1; this interaction alters MGRN1 subcellular
+CC       location and causes lysosomal enlargement. Interacts with
+CC       KIAA1191. {ECO:0000250|UniProtKB:P04156,
+CC       ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
+CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
+CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
+CC       association with the heparan sulfate chains of GPC1. Colocates, in
+CC       the presence of Cu(2+), to vesicles in para- and perinuclear
+CC       regions, where both proteins undergo internalization. Heparin
+CC       displaces PRNP from lipid rafts and promotes endocytosis.
+CC       {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
+CC       structure. The disease-associated, protease-resistant form forms
+CC       amyloid fibrils containing a cross-beta spine, formed by a steric
+CC       zipper of superposed beta-strands. Disease mutations may favor
+CC       intermolecular contacts via short beta strands, and may thereby
+CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
+CC       At low copper concentrations, the sidechains of His residues from
+CC       three or four repeats contribute to the binding of a single copper
+CC       ion. Alternatively, a copper ion can be bound by interaction with
+CC       the sidechain and backbone amide nitrogen of a single His residue.
+CC       The observed copper binding stoichiometry suggests that two repeat
+CC       regions cooperate to stabilize the binding of a single copper ion.
+CC       At higher copper concentrations, each octamer can bind one copper
+CC       ion by interactions with the His sidechain and Gly backbone atoms.
+CC       A mixture of binding types may occur, especially in the case of
+CC       octamer repeat expansion. Copper binding may stabilize the
+CC       conformation of this region and may promote oligomerization.
+CC       {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DISEASE: Note=Found in high quantity in the brain of humans and
+CC       animals infected with degenerative neurological diseases such as
+CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
+CC       syndrome (GSS), scrapie, bovine spongiform encephalopathy (BSE),
+CC       transmissible mink encephalopathy (TME), etc. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB060288; BAB69955.1; -; mRNA.
+DR   EMBL; AB060289; BAB69956.1; -; mRNA.
+DR   SMR; Q7JK02; -.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
+DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
+DR   Gene3D; 1.10.790.10; -; 1.
+DR   InterPro; IPR000817; Prion.
+DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
+DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
+DR   InterPro; IPR025860; Prion_N_dom.
+DR   Pfam; PF00377; Prion; 1.
+DR   Pfam; PF11587; Prion_bPrPp; 1.
+DR   PRINTS; PR00341; PRION.
+DR   SMART; SM00157; PRP; 1.
+DR   SUPFAM; SSF54098; SSF54098; 1.
+DR   PROSITE; PS00291; PRION_1; 1.
+DR   PROSITE; PS00706; PRION_2; 1.
+PE   2: Evidence at transcript level;
+KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
+KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
+KW   Prion; Repeat; Signal; Zinc.
+FT   SIGNAL        1     24       {ECO:0000250}.
+FT   CHAIN        25    233       Major prion protein.
+FT                                /FTId=PRO_0000025709.
+FT   PROPEP      234    256       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000025710.
+FT   REPEAT       54     62       1.
+FT   REPEAT       63     70       2.
+FT   REPEAT       71     78       3.
+FT   REPEAT       79     86       4.
+FT   REPEAT       87     95       5.
+FT   REGION       25    233       Interaction with GRB2, ERI3 and SYN1.
+FT                                {ECO:0000250|UniProtKB:P04925}.
+FT   REGION       54     95       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
+FT                                Q.
+FT   METAL        64     64       Copper or zinc 1.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        65     65       Copper or zinc 1; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        66     66       Copper or zinc 1; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        72     72       Copper or zinc 2.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        73     73       Copper or zinc 2; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        74     74       Copper or zinc 2; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        80     80       Copper or zinc 3.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        81     81       Copper or zinc 3; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        82     82       Copper or zinc 3; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        88     88       Copper or zinc 4.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        90     90       Copper or zinc 4; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        91     91       Copper or zinc 4; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   LIPID       233    233       GPI-anchor amidated alanine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    184    184       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000305}.
+FT   CARBOHYD    200    200       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000305}.
+FT   DISULFID    182    217       {ECO:0000250|UniProtKB:P04273}.
+SQ   SEQUENCE   256 AA;  27887 MW;  BFC8E95F6FD99746 CRC64;
+     MVKSHIGSWI LVLFVAMWSD VGLCKKRPKP GGGWNTGGSR YPGQGSPGGN RYPPQGGGGW
+     GQPHGGGWGQ PHGGGWGQPH GGGWGQPHGG GGWGQGGSHS QWNKPSKPKT NMKHVAGAAA
+     AGAVVGGLGG YMLGSAMSRP LIHFGNDYED RYYRENMYRY PNQVYYRPVD QYSNQNNFVH
+     DCVNITVKQH TVTTTTKGEN FTETDIKIME RVVEQMCITQ YQRESQAYYQ RGASVILFSS
+     PPVILLISFL IFLIVG
+//
+ID   PRIO_OVIMO              Reviewed;         256 AA.
+AC   Q7JIY2;
+DT   13-SEP-2004, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   08-MAY-2019, entry version 67.
+DE   RecName: Full=Major prion protein;
+DE            Short=PrP;
+DE   AltName: CD_antigen=CD230;
+DE   Flags: Precursor;
+GN   Name=PRNP; Synonyms=PRP;
+OS   Ovibos moschatus (Muskox).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Caprinae; Ovibos.
+OX   NCBI_TaxID=37176;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10373359; DOI=10.1006/jmbi.1999.2831;
+RA   Wopfner F., Weidenhofer G., Schneider R., von Brunn A., Gilch S.,
+RA   Schwarz T.F., Werner T., Schatzl H.M.;
+RT   "Analysis of 27 mammalian and 9 avian PrPs reveals high conservation
+RT   of flexible regions of the prion protein.";
+RL   J. Mol. Biol. 289:1163-1178(1999).
+CC   -!- FUNCTION: Its primary physiological function is unclear. Has
+CC       cytoprotective activity against internal or environmental
+CC       stresses. May play a role in neuronal development and synaptic
+CC       plasticity. May be required for neuronal myelin sheath
+CC       maintenance. May play a role in iron uptake and iron homeostasis.
+CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
+CC       induce apoptosis (in vitro). Association with GPC1 (via its
+CC       heparan sulfate chains) targets PRNP to lipid rafts. Also provides
+CC       Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1 deaminase
+CC       degradation of its heparan sulfate side chains (By similarity).
+CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
+CC       amyloid fibrils containing a cross-beta spine, formed by a steric
+CC       zipper of superposed beta-strands. Soluble oligomers may represent
+CC       an intermediate stage on the path to fibril formation. Copper
+CC       binding may promote oligomerization. Interacts with GRB2, APP,
+CC       ERI3/PRNPIP and SYN1. Mislocalized cytosolically exposed PrP
+CC       interacts with MGRN1; this interaction alters MGRN1 subcellular
+CC       location and causes lysosomal enlargement. Interacts with
+CC       KIAA1191. {ECO:0000250|UniProtKB:P04156,
+CC       ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
+CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
+CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
+CC       association with the heparan sulfate chains of GPC1. Colocates, in
+CC       the presence of Cu(2+), to vesicles in para- and perinuclear
+CC       regions, where both proteins undergo internalization. Heparin
+CC       displaces PRNP from lipid rafts and promotes endocytosis.
+CC       {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
+CC       structure. The disease-associated, protease-resistant form forms
+CC       amyloid fibrils containing a cross-beta spine, formed by a steric
+CC       zipper of superposed beta-strands. Disease mutations may favor
+CC       intermolecular contacts via short beta strands, and may thereby
+CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
+CC       At low copper concentrations, the sidechains of His residues from
+CC       three or four repeats contribute to the binding of a single copper
+CC       ion. Alternatively, a copper ion can be bound by interaction with
+CC       the sidechain and backbone amide nitrogen of a single His residue.
+CC       The observed copper binding stoichiometry suggests that two repeat
+CC       regions cooperate to stabilize the binding of a single copper ion.
+CC       At higher copper concentrations, each octamer can bind one copper
+CC       ion by interactions with the His sidechain and Gly backbone atoms.
+CC       A mixture of binding types may occur, especially in the case of
+CC       octamer repeat expansion. Copper binding may stabilize the
+CC       conformation of this region and may promote oligomerization.
+CC       {ECO:0000250|UniProtKB:P04156}.
+CC   -!- DISEASE: Note=Found in high quantity in the brain of humans and
+CC       animals infected with degenerative neurological diseases such as
+CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
+CC       syndrome (GSS), scrapie, bovine spongiform encephalopathy (BSE),
+CC       transmissible mink encephalopathy (TME), etc. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF117320; AAD19991.1; -; Genomic_DNA.
+DR   SMR; Q7JIY2; -.
 DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
 DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
 DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
@@ -338,58 +829,294 @@ PE   3: Inferred from homology;
 KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
 KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
 KW   Prion; Repeat; Signal; Zinc.
-FT   SIGNAL       <1     15       {ECO:0000250}.
-FT   CHAIN        16    215       Major prion protein.
-FT                                /FTId=PRO_0000025691.
-FT   PROPEP      216    238       Removed in mature form. {ECO:0000250}.
-FT                                /FTId=PRO_0000025692.
-FT   REPEAT       44     52       1.
-FT   REPEAT       53     60       2.
-FT   REPEAT       61     68       3.
-FT   REPEAT       69     76       4.
-FT   REGION       16    215       Interaction with GRB2, ERI3 and SYN1.
+FT   SIGNAL        1     24       {ECO:0000250}.
+FT   CHAIN        25    233       Major prion protein.
+FT                                /FTId=PRO_0000025707.
+FT   PROPEP      234    256       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000025708.
+FT   REPEAT       54     62       1.
+FT   REPEAT       63     70       2.
+FT   REPEAT       71     78       3.
+FT   REPEAT       79     86       4.
+FT   REPEAT       87     95       5.
+FT   REGION       25    233       Interaction with GRB2, ERI3 and SYN1.
 FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       44     76       4 X 8 AA tandem repeats of P-H-G-G-G-W-G-
+FT   REGION       54     95       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
 FT                                Q.
-FT   METAL        47     47       Copper or zinc 1; via amide nitrogen.
+FT   METAL        64     64       Copper or zinc 1.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        48     48       Copper or zinc 1; via amide nitrogen and
+FT   METAL        65     65       Copper or zinc 1; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        66     66       Copper or zinc 1; via amide nitrogen and
 FT                                carbonyl oxygen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        54     54       Copper or zinc 2.
+FT   METAL        72     72       Copper or zinc 2.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        55     55       Copper or zinc 2; via amide nitrogen.
+FT   METAL        73     73       Copper or zinc 2; via amide nitrogen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        56     56       Copper or zinc 2; via amide nitrogen and
+FT   METAL        74     74       Copper or zinc 2; via amide nitrogen and
 FT                                carbonyl oxygen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        62     62       Copper or zinc 3.
+FT   METAL        80     80       Copper or zinc 3.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        63     63       Copper or zinc 3; via amide nitrogen.
+FT   METAL        81     81       Copper or zinc 3; via amide nitrogen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        64     64       Copper or zinc 3; via amide nitrogen and
+FT   METAL        82     82       Copper or zinc 3; via amide nitrogen and
 FT                                carbonyl oxygen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        70     70       Copper or zinc 4.
+FT   METAL        88     88       Copper or zinc 4.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        71     71       Copper or zinc 4; via amide nitrogen.
+FT   METAL        90     90       Copper or zinc 4; via amide nitrogen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        72     72       Copper or zinc 4; via amide nitrogen and
+FT   METAL        91     91       Copper or zinc 4; via amide nitrogen and
 FT                                carbonyl oxygen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       215    215       GPI-anchor amidated serine.
+FT   LIPID       233    233       GPI-anchor amidated alanine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    184    184       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000305}.
+FT   CARBOHYD    200    200       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000305}.
+FT   DISULFID    182    217       {ECO:0000250|UniProtKB:P04273}.
+SQ   SEQUENCE   256 AA;  27887 MW;  BFC8E95F6FD99746 CRC64;
+     MVKSHIGSWI LVLFVAMWSD VGLCKKRPKP GGGWNTGGSR YPGQGSPGGN RYPPQGGGGW
+     GQPHGGGWGQ PHGGGWGQPH GGGWGQPHGG GGWGQGGSHS QWNKPSKPKT NMKHVAGAAA
+     AGAVVGGLGG YMLGSAMSRP LIHFGNDYED RYYRENMYRY PNQVYYRPVD QYSNQNNFVH
+     DCVNITVKQH TVTTTTKGEN FTETDIKIME RVVEQMCITQ YQRESQAYYQ RGASVILFSS
+     PPVILLISFL IFLIVG
+//
+ID   PRIO_CHICK              Reviewed;         273 AA.
+AC   P27177;
+DT   01-AUG-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 2.
+DT   08-MAY-2019, entry version 154.
+DE   RecName: Full=Major prion protein homolog;
+DE   AltName: Full=65-21 protein;
+DE   AltName: Full=Acetylcholine receptor-inducing activity;
+DE            Short=ARIA;
+DE   AltName: Full=PR-LP;
+DE   Flags: Precursor;
+GN   Name=PRNP; Synonyms=PRN-P;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1409608; DOI=10.1073/pnas.89.19.9097;
+RA   Gabriel J.M., Oesch B., Kretzschmar H., Scott M., Prusiner S.B.;
+RT   "Molecular cloning of a candidate chicken prion protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:9097-9101(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PROTEIN SEQUENCE OF 25-51.
+RC   TISSUE=Brain;
+RX   PubMed=1715573; DOI=10.1073/pnas.88.17.7664;
+RA   Harris D.A., Falls D.L., Johnson F.A., Fischbach G.D.;
+RT   "A prion-like protein from chicken brain copurifies with an
+RT   acetylcholine receptor-inducing activity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:7664-7668(1991).
+RN   [3]
+RP   REVIEW.
+RX   PubMed=2132829;
+RA   Falls D.L., Harris D.A., Johnson F.A., Morgan M.M., Corfas G.,
+RA   Fischbach G.D.;
+RT   "Mr 42,000 ARIA: a protein that may regulate the accumulation of
+RT   acetylcholine receptors at developing chick neuromuscular junctions.";
+RL   Cold Spring Harb. Symp. Quant. Biol. 55:397-406(1990).
+RN   [4]
+RP   STRUCTURE BY NMR OF 134-248.
+RX   PubMed=15647366; DOI=10.1073/pnas.0408939102;
+RA   Calzolai L., Lysek D.A., Perez D.R., Guentert P., Wuethrich K.;
+RT   "Prion protein NMR structures of chickens, turtles, and frogs.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:651-655(2005).
+CC   -!- FUNCTION: Its primary physiological function is unclear. Has
+CC       cytoprotective activity against internal or environmental
+CC       stresses. May play a role in neuronal development and synaptic
+CC       plasticity. May be required for neuronal myelin sheath
+CC       maintenance. May play a role in iron uptake and iron homeostasis.
+CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
+CC       induce apoptosis (in vitro). Association with GPC1 (via its
+CC       heparan sulfate chains) targets PRNP to lipid rafts. Also provides
+CC       Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1 deaminase
+CC       degradation of its heparan sulfate side chains (By similarity).
+CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
+CC       amyloid fibrils containing a cross-beta spine, formed by a steric
+CC       zipper of superposed beta-strands. Soluble oligomers may represent
+CC       an intermediate stage on the path to fibril formation. Copper
+CC       binding may promote oligomerization.
+CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Lipid-anchor, GPI-anchor.
+CC   -!- TISSUE SPECIFICITY: Spinal cord and brain.
+CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M95404; AAC28970.1; -; Genomic_DNA.
+DR   EMBL; M61145; AAA49041.1; -; mRNA.
+DR   PIR; A37372; A37372.
+DR   PIR; A41280; UJCH.
+DR   PIR; A46280; A46280.
+DR   RefSeq; NP_990796.2; NM_205465.2.
+DR   RefSeq; XP_015152786.1; XM_015297300.1.
+DR   PDB; 1U3M; NMR; -; A=134-248.
+DR   PDBsum; 1U3M; -.
+DR   SMR; P27177; -.
+DR   STRING; 9031.ENSGALP00000040285; -.
+DR   PaxDb; P27177; -.
+DR   PRIDE; P27177; -.
+DR   Ensembl; ENSGALT00000000277; ENSGALP00000040285; ENSGALG00000000209.
+DR   GeneID; 396452; -.
+DR   KEGG; gga:396452; -.
+DR   CTD; 5621; -.
+DR   eggNOG; ENOG410IJMM; Eukaryota.
+DR   eggNOG; ENOG410YXUU; LUCA.
+DR   GeneTree; ENSGT00510000049083; -.
+DR   HOGENOM; HOG000232077; -.
+DR   InParanoid; P27177; -.
+DR   KO; K05634; -.
+DR   OMA; HNPGYPH; -.
+DR   OrthoDB; 1403854at2759; -.
+DR   PhylomeDB; P27177; -.
+DR   TreeFam; TF105188; -.
+DR   EvolutionaryTrace; P27177; -.
+DR   PRO; PR:P27177; -.
+DR   Proteomes; UP000000539; Chromosome 22.
+DR   Bgee; ENSGALG00000000209; Expressed in 11 organ(s), highest expression level in brain.
+DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005604; C:basement membrane; IDA:AgBase.
+DR   GO; GO:0005623; C:cell; IDA:AgBase.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0016234; C:inclusion body; IEA:Ensembl.
+DR   GO; GO:0045121; C:membrane raft; IEA:Ensembl.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0043083; C:synaptic cleft; IDA:AgBase.
+DR   GO; GO:0001540; F:amyloid-beta binding; IBA:GO_Central.
+DR   GO; GO:0043008; F:ATP-dependent protein binding; IBA:GO_Central.
+DR   GO; GO:0051087; F:chaperone binding; IBA:GO_Central.
+DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
+DR   GO; GO:1903135; F:cupric ion binding; IBA:GO_Central.
+DR   GO; GO:1903136; F:cuprous ion binding; IBA:GO_Central.
+DR   GO; GO:0005539; F:glycosaminoglycan binding; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IBA:GO_Central.
+DR   GO; GO:0044325; F:ion channel binding; IBA:GO_Central.
+DR   GO; GO:0005521; F:lamin binding; IBA:GO_Central.
+DR   GO; GO:0008017; F:microtubule binding; IBA:GO_Central.
+DR   GO; GO:0002020; F:protease binding; IBA:GO_Central.
+DR   GO; GO:0044877; F:protein-containing complex binding; IBA:GO_Central.
+DR   GO; GO:0038023; F:signaling receptor activity; IBA:GO_Central.
+DR   GO; GO:0031802; F:type 5 metabotropic glutamate receptor binding; IBA:GO_Central.
+DR   GO; GO:0032147; P:activation of protein kinase activity; IBA:GO_Central.
+DR   GO; GO:0035584; P:calcium-mediated signaling using intracellular calcium source; IBA:GO_Central.
+DR   GO; GO:1904646; P:cellular response to amyloid-beta; IBA:GO_Central.
+DR   GO; GO:0071280; P:cellular response to copper ion; IEA:Ensembl.
+DR   GO; GO:0035690; P:cellular response to drug; IEA:Ensembl.
+DR   GO; GO:0007611; P:learning or memory; IBA:GO_Central.
+DR   GO; GO:0090647; P:modulation of age-related behavioral decline; IEA:Ensembl.
+DR   GO; GO:0046007; P:negative regulation of activated T cell proliferation; IEA:Ensembl.
+DR   GO; GO:1902430; P:negative regulation of amyloid-beta formation; IBA:GO_Central.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IBA:GO_Central.
+DR   GO; GO:0070885; P:negative regulation of calcineurin-NFAT signaling cascade; IEA:Ensembl.
+DR   GO; GO:0043086; P:negative regulation of catalytic activity; IBA:GO_Central.
+DR   GO; GO:1902951; P:negative regulation of dendritic spine maintenance; IEA:Ensembl.
+DR   GO; GO:0043433; P:negative regulation of DNA-binding transcription factor activity; IEA:Ensembl.
+DR   GO; GO:0032689; P:negative regulation of interferon-gamma production; IEA:Ensembl.
+DR   GO; GO:0032700; P:negative regulation of interleukin-17 production; IEA:Ensembl.
+DR   GO; GO:0032703; P:negative regulation of interleukin-2 production; IEA:Ensembl.
+DR   GO; GO:0001933; P:negative regulation of protein phosphorylation; IEA:Ensembl.
+DR   GO; GO:0050860; P:negative regulation of T cell receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:1990535; P:neuron projection maintenance; IEA:Ensembl.
+DR   GO; GO:0010628; P:positive regulation of gene expression; IDA:AgBase.
+DR   GO; GO:0043525; P:positive regulation of neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:1901216; P:positive regulation of neuron death; IBA:GO_Central.
+DR   GO; GO:0050731; P:positive regulation of peptidyl-tyrosine phosphorylation; IDA:AgBase.
+DR   GO; GO:1903078; P:positive regulation of protein localization to plasma membrane; IBA:GO_Central.
+DR   GO; GO:0090314; P:positive regulation of protein targeting to membrane; IEA:Ensembl.
+DR   GO; GO:0061098; P:positive regulation of protein tyrosine kinase activity; IBA:GO_Central.
+DR   GO; GO:0010870; P:positive regulation of receptor biosynthetic process; IDA:AgBase.
+DR   GO; GO:0031648; P:protein destabilization; IEA:Ensembl.
+DR   GO; GO:0051260; P:protein homooligomerization; IBA:GO_Central.
+DR   GO; GO:0098737; P:protein insertion into plasma membrane; IDA:AgBase.
+DR   GO; GO:1905664; P:regulation of calcium ion import across plasma membrane; IEA:Ensembl.
+DR   GO; GO:1900449; P:regulation of glutamate receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:1902938; P:regulation of intracellular calcium activated chloride channel activity; IEA:Ensembl.
+DR   GO; GO:1901379; P:regulation of potassium ion transmembrane transport; IEA:Ensembl.
+DR   GO; GO:0046686; P:response to cadmium ion; IBA:GO_Central.
+DR   GO; GO:0006979; P:response to oxidative stress; IBA:GO_Central.
+DR   Gene3D; 1.10.790.10; -; 1.
+DR   InterPro; IPR000817; Prion.
+DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
+DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
+DR   InterPro; IPR025860; Prion_N_dom.
+DR   Pfam; PF00377; Prion; 1.
+DR   Pfam; PF11587; Prion_bPrPp; 1.
+DR   SMART; SM00157; PRP; 1.
+DR   SUPFAM; SSF54098; SSF54098; 1.
+DR   PROSITE; PS00291; PRION_1; 1.
+DR   PROSITE; PS00706; PRION_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Amyloid; Cell membrane; Complete proteome; Copper;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; GPI-anchor;
+KW   Lipoprotein; Membrane; Metal-binding; Prion; Reference proteome;
+KW   Repeat; Signal.
+FT   SIGNAL        1     24       {ECO:0000269|PubMed:1715573}.
+FT   CHAIN        25    248       Major prion protein homolog.
+FT                                /FTId=PRO_0000025741.
+FT   PROPEP      249    273       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000025742.
+FT   REPEAT       42     47       1.
+FT   REPEAT       48     53       2.
+FT   REPEAT       54     59       3.
+FT   REPEAT       60     65       4.
+FT   REPEAT       66     71       5.
+FT   REPEAT       72     77       6.
+FT   REPEAT       78     83       7.
+FT   REPEAT       84     89       8.
+FT   REGION       42     89       8 X 6 AA tandem repeats of [HR]-[NQ]-P-G-
+FT                                Y-P.
+FT   METAL        66     66       Copper or zinc 1.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        72     72       Copper or zinc 2.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        78     78       Copper or zinc 3.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        90     90       Copper or zinc 4.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   METAL        93     93       Copper or zinc 4; via amide nitrogen and
+FT                                carbonyl oxygen.
+FT                                {ECO:0000250|UniProtKB:P04156}.
+FT   LIPID       248    248       GPI-anchor amidated serine.
 FT                                {ECO:0000250|UniProtKB:P04273}.
-FT   CARBOHYD    166    166       N-linked (GlcNAc...) asparagine.
+FT   CARBOHYD    194    194       N-linked (GlcNAc...) asparagine.
 FT                                {ECO:0000255}.
-FT   CARBOHYD    182    182       N-linked (GlcNAc...) asparagine.
+FT   CARBOHYD    209    209       N-linked (GlcNAc...) asparagine.
 FT                                {ECO:0000255}.
-FT   DISULFID    164    199       {ECO:0000250|UniProtKB:P04273}.
-FT   NON_TER       1      1
-SQ   SEQUENCE   238 AA;  26123 MW;  5F59A3EBC3E3531B CRC64;
-     MLVLFVATWS DLGLCKKRPK PGGWNTGGSR YPGQGSPGGN RYPPQGGGGW GQPHGGGWGQ
-     PHGGGWGQPH GGGWGQGGGT HNQWHKPSKP KTSMKHMAGA AAAGAVVGGL GGYMLGSAMS
-     RPLIHFGNDY EDRYYRENMY RYPNQVYYRP VDQYSNQNNF VHDCVNITIK QHTVTTTTKG
-     ENFTETDVKM MERVVEQMCI TQYEKESQAY YQRGSSMVLF SSPPVILLIS FLIFLIVG
+FT   CARBOHYD    218    218       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   DISULFID    192    237
+FT   CONFLICT     78     83       Missing (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    156    156       S -> R (in Ref. 2; AAA49041).
+FT                                {ECO:0000305}.
+FT   STRAND      134    136       {ECO:0000244|PDB:1U3M}.
+FT   HELIX       157    167       {ECO:0000244|PDB:1U3M}.
+FT   HELIX       185    200       {ECO:0000244|PDB:1U3M}.
+FT   HELIX       219    246       {ECO:0000244|PDB:1U3M}.
+SQ   SEQUENCE   273 AA;  29909 MW;  32D700918E787DD2 CRC64;
+     MARLLTTCCL LALLLAACTD VALSKKGKGK PSGGGWGAGS HRQPSYPRQP GYPHNPGYPH
+     NPGYPHNPGY PHNPGYPHNP GYPQNPGYPH NPGYPGWGQG YNPSSGGSYH NQKPWKPPKT
+     NFKHVAGAAA AGAVVGGLGG YAMGRVMSGM NYHFDSPDEY RWWSENSARY PNRVYYRDYS
+     SPVPQDVFVA DCFNITVTEY SIGPAAKKNT SEAVAAANQT EVEMENKVVT KVIREMCVQQ
+     YREYRLASGI QLHPADTWLA VLLLLLTTLF AMH
 //
 ID   SPRN_RAT                Reviewed;         147 AA.
 AC   Q5BIV7;
@@ -531,443 +1258,6 @@ SQ   SEQUENCE   147 AA;  14712 MW;  0B792178D75C65A3 CRC64;
      MNWTTATCWA LLLATAFLCD SCSAKGGRGG ARGSARGVRG GARGASRVRV RPAPRYSSSL
      RVAAAGAAAG AAAGVAAGLA TGSGWRRTSG PGELGLEDDE NGAMGGNGTD RGVYSYWAWT
      SGSGSVHSPR ICLLLSGTLG ALELLRP
-//
-ID   SPRN_BOVIN              Reviewed;         143 AA.
-AC   A0RZB4;
-DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
-DT   09-JAN-2007, sequence version 1.
-DT   08-MAY-2019, entry version 74.
-DE   RecName: Full=Shadow of prion protein;
-DE            Short=Protein shadoo;
-DE   Flags: Precursor;
-GN   Name=SPRN;
-OS   Bos taurus (Bovine).
-OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
-OC   Pecora; Bovidae; Bovinae; Bos.
-OX   NCBI_TaxID=9913;
-RN   [1]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA], AND TISSUE SPECIFICITY.
-RX   PubMed=17091316; DOI=10.1007/s00335-006-0078-7;
-RA   Uboldi C., Paulis M., Guidi E., Bertoni A., Di Meo G.P., Perucatti A.,
-RA   Iannuzzi L., Raimondi E., Brunner R.M., Eggen A., Ferretti L.;
-RT   "Cloning of the bovine prion-like Shadoo (SPRN) gene by comparative
-RT   analysis of the predicted genomic locus.";
-RL   Mamm. Genome 17:1130-1139(2006).
-RN   [2]
-RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
-RC   STRAIN=Hereford; TISSUE=Fetal pons;
-RG   NIH - Mammalian Gene Collection (MGC) project;
-RL   Submitted (JUN-2007) to the EMBL/GenBank/DDBJ databases.
-RN   [3]
-RP   IDENTIFICATION.
-RX   PubMed=17199895; DOI=10.1186/1471-2164-8-1;
-RA   Premzl M., Gamulin V.;
-RT   "Comparative genomic analysis of prion genes.";
-RL   BMC Genomics 8:1-1(2007).
-CC   -!- FUNCTION: Prion-like protein that has PrP(C)-like neuroprotective
-CC       activity. May act as a modulator for the biological actions of
-CC       normal and abnormal PrP (By similarity). {ECO:0000250}.
-CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Lipid-anchor,
-CC       GPI-anchor {ECO:0000250}.
-CC   -!- TISSUE SPECIFICITY: Mainly expressed in brain.
-CC       {ECO:0000269|PubMed:17091316}.
-CC   -!- PTM: N-glycosylated. {ECO:0000250}.
-CC   -!- SIMILARITY: Belongs to the SPRN family. {ECO:0000305}.
-CC   -----------------------------------------------------------------------
-CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
-CC   -----------------------------------------------------------------------
-DR   EMBL; DQ531936; ABF85686.1; -; mRNA.
-DR   EMBL; DQ058606; AAY83885.1; -; Genomic_DNA.
-DR   EMBL; BC148119; AAI48120.1; -; mRNA.
-DR   EMBL; BN000839; CAJ43799.1; -; Genomic_DNA.
-DR   RefSeq; NP_001073790.1; NM_001080321.1.
-DR   SMR; A0RZB4; -.
-DR   STRING; 9913.ENSBTAP00000054072; -.
-DR   PaxDb; A0RZB4; -.
-DR   Ensembl; ENSBTAT00000063230; ENSBTAP00000054072; ENSBTAG00000047474.
-DR   GeneID; 616266; -.
-DR   KEGG; bta:616266; -.
-DR   CTD; 503542; -.
-DR   VGNC; VGNC:35239; SPRN.
-DR   eggNOG; ENOG410JEZN; Eukaryota.
-DR   eggNOG; ENOG41114XD; LUCA.
-DR   GeneTree; ENSGT00730000111694; -.
-DR   HOGENOM; HOG000232075; -.
-DR   InParanoid; A0RZB4; -.
-DR   OMA; YRAWTSG; -.
-DR   OrthoDB; 1642118at2759; -.
-DR   TreeFam; TF330766; -.
-DR   Proteomes; UP000009136; Chromosome 26.
-DR   Bgee; ENSBTAG00000047474; Expressed in 4 organ(s), highest expression level in prefrontal cortex.
-DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
-DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
-DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
-DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
-DR   GO; GO:0031982; C:vesicle; IEA:Ensembl.
-DR   GO; GO:0003676; F:nucleic acid binding; IBA:GO_Central.
-DR   GO; GO:0006606; P:protein import into nucleus; IBA:GO_Central.
-DR   InterPro; IPR029238; Shadoo.
-DR   PANTHER; PTHR28552; PTHR28552; 1.
-DR   Pfam; PF14999; Shadoo; 1.
-PE   2: Evidence at transcript level;
-KW   Amyloid; Cell membrane; Complete proteome; Glycoprotein; GPI-anchor;
-KW   Lipoprotein; Membrane; Prion; Reference proteome; Signal.
-FT   SIGNAL        1     24       {ECO:0000255}.
-FT   CHAIN        25    117       Shadow of prion protein.
-FT                                /FTId=PRO_0000320164.
-FT   PROPEP      118    143       Removed in mature form. {ECO:0000255}.
-FT                                /FTId=PRO_0000320165.
-FT   COMPBIAS      4     88       Ala-rich.
-FT   LIPID       117    117       GPI-anchor amidated serine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    103    103       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-SQ   SEQUENCE   143 AA;  13982 MW;  481F0F34D1D3474F CRC64;
-     MNWAAAVCWA LLLAATFLCD GSAAKGGRGG ARGSARGGRG AARVRVRPAP RYAGSSMRVA
-     AGAAAGAAAG AAAGLAAGSS WRRAAGPAEL GPEDAEDGAP GSNGTGRGVY SYWAWTSGTG
-     PTGHRHLCPL LGGALGALRL LRP
-//
-ID   PRIO_ANTCE              Reviewed;         264 AA.
-AC   Q5UJG1;
-DT   26-APR-2005, integrated into UniProtKB/Swiss-Prot.
-DT   07-DEC-2004, sequence version 1.
-DT   08-MAY-2019, entry version 62.
-DE   RecName: Full=Major prion protein;
-DE            Short=PrP;
-DE   AltName: CD_antigen=CD230;
-DE   Flags: Precursor;
-GN   Name=PRNP; Synonyms=PRP;
-OS   Antilope cervicapra (Blackbuck).
-OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
-OC   Pecora; Bovidae; Antilopinae; Antilope.
-OX   NCBI_TaxID=59525;
-RN   [1]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
-RC   STRAIN=Isolate BlackbuckhomoA, and Isolate BlackbuckhomoB;
-RX   PubMed=15477588; DOI=10.1073/pnas.0406403101;
-RA   Seabury C.M., Honeycutt R.L., Rooney A.P., Halbert N.D., Derr J.N.;
-RT   "Prion protein gene (PRNP) variants and evidence for strong purifying
-RT   selection in functionally important regions of bovine exon 3.";
-RL   Proc. Natl. Acad. Sci. U.S.A. 101:15142-15147(2004).
-CC   -!- FUNCTION: Its primary physiological function is unclear. Has
-CC       cytoprotective activity against internal or environmental
-CC       stresses. May play a role in neuronal development and synaptic
-CC       plasticity. May be required for neuronal myelin sheath
-CC       maintenance. May play a role in iron uptake and iron homeostasis.
-CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
-CC       induce apoptosis (in vitro). Association with GPC1 (via its
-CC       heparan sulfate chains) targets PRNP to lipid rafts. Also provides
-CC       Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1 deaminase
-CC       degradation of its heparan sulfate side chains (By similarity).
-CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Soluble oligomers may represent
-CC       an intermediate stage on the path to fibril formation. Copper
-CC       binding may promote oligomerization. Interacts with GRB2, APP,
-CC       ERI3/PRNPIP and SYN1. Mislocalized cytosolically exposed PrP
-CC       interacts with MGRN1; this interaction alters MGRN1 subcellular
-CC       location and causes lysosomal enlargement. Interacts with
-CC       KIAA1191. {ECO:0000250|UniProtKB:P04156,
-CC       ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBCELLULAR LOCATION: Cell membrane
-CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
-CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
-CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
-CC       association with the heparan sulfate chains of GPC1. Colocates, in
-CC       the presence of Cu(2+), to vesicles in para- and perinuclear
-CC       regions, where both proteins undergo internalization. Heparin
-CC       displaces PRNP from lipid rafts and promotes endocytosis.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
-CC       structure. The disease-associated, protease-resistant form forms
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Disease mutations may favor
-CC       intermolecular contacts via short beta strands, and may thereby
-CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
-CC       At low copper concentrations, the sidechains of His residues from
-CC       three or four repeats contribute to the binding of a single copper
-CC       ion. Alternatively, a copper ion can be bound by interaction with
-CC       the sidechain and backbone amide nitrogen of a single His residue.
-CC       The observed copper binding stoichiometry suggests that two repeat
-CC       regions cooperate to stabilize the binding of a single copper ion.
-CC       At higher copper concentrations, each octamer can bind one copper
-CC       ion by interactions with the His sidechain and Gly backbone atoms.
-CC       A mixture of binding types may occur, especially in the case of
-CC       octamer repeat expansion. Copper binding may stabilize the
-CC       conformation of this region and may promote oligomerization.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DISEASE: Note=Found in high quantity in the brain of humans and
-CC       animals infected with degenerative neurological diseases such as
-CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
-CC       syndrome (GSS), scrapie, bovine spongiform encephalopathy (BSE),
-CC       transmissible mink encephalopathy (TME), etc. {ECO:0000305}.
-CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
-CC   -----------------------------------------------------------------------
-CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
-CC   -----------------------------------------------------------------------
-DR   EMBL; AY720705; AAV30512.1; -; Genomic_DNA.
-DR   EMBL; AY720706; AAV30513.1; -; Genomic_DNA.
-DR   SMR; Q5UJG1; -.
-DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
-DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
-DR   Gene3D; 1.10.790.10; -; 1.
-DR   InterPro; IPR000817; Prion.
-DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
-DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
-DR   InterPro; IPR025860; Prion_N_dom.
-DR   Pfam; PF00377; Prion; 1.
-DR   Pfam; PF11587; Prion_bPrPp; 1.
-DR   PRINTS; PR00341; PRION.
-DR   SMART; SM00157; PRP; 1.
-DR   SUPFAM; SSF54098; SSF54098; 1.
-DR   PROSITE; PS00291; PRION_1; 1.
-DR   PROSITE; PS00706; PRION_2; 1.
-PE   3: Inferred from homology;
-KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
-KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
-KW   Prion; Repeat; Signal; Zinc.
-FT   SIGNAL        1     24       {ECO:0000250}.
-FT   CHAIN        25    241       Major prion protein.
-FT                                /FTId=PRO_0000025611.
-FT   PROPEP      242    264       Removed in mature form. {ECO:0000255}.
-FT                                /FTId=PRO_0000025612.
-FT   REPEAT       54     62       1.
-FT   REPEAT       63     70       2.
-FT   REPEAT       71     78       3.
-FT   REPEAT       79     86       4.
-FT   REPEAT       87     94       5.
-FT   REPEAT       95    103       6.
-FT   REGION       25    241       Interaction with GRB2, ERI3 and SYN1.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       54    103       6 X 8 AA tandem repeats of P-H-G-G-G-W-G-
-FT                                Q.
-FT   METAL        72     72       Copper or zinc 1.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        73     73       Copper or zinc 1; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        74     74       Copper or zinc 1; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        80     80       Copper or zinc 2.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        81     81       Copper or zinc 2; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        82     82       Copper or zinc 2; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        88     88       Copper or zinc 3.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        89     89       Copper or zinc 3; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        90     90       Copper or zinc 3; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        96     96       Copper or zinc 4.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        98     98       Copper or zinc 4; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        99     99       Copper or zinc 4; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       241    241       GPI-anchor amidated alanine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    192    192       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    208    208       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   DISULFID    190    225       {ECO:0000250|UniProtKB:P04273}.
-SQ   SEQUENCE   264 AA;  28696 MW;  FFE1C86F9F19A557 CRC64;
-     MVKSHIGSWI LVLFVAMWSD VGLCKKRPKP GGGWNTGGSR YPGQGSPGGN RYPPQGGGGW
-     GQPHGGGWGQ PHGGGWGQPH GGGWGQPHGG GWGQPHGGGG WGQGGTHSQW NKPSKPKTNM
-     KHVAGAAAAG AVVGGLGGYM LGSAMSRPLI HFGNDYEDRY YRENMYRYPN QVYYRPVDQY
-     SNQNNFVHDC VNITVKQHTV TTTTKGENFT ETDIKMMERV VEQMCITQYQ RESQAYYQRG
-     ASVILFSSPP VILLISFLIF LIVG
-//
-ID   PRIO_BISBI              Reviewed;         264 AA.
-AC   Q5UAF1;
-DT   12-APR-2005, integrated into UniProtKB/Swiss-Prot.
-DT   07-DEC-2004, sequence version 1.
-DT   08-MAY-2019, entry version 71.
-DE   RecName: Full=Major prion protein;
-DE            Short=PrP;
-DE   AltName: CD_antigen=CD230;
-DE   Flags: Precursor;
-GN   Name=PRNP; Synonyms=PRP;
-OS   Bison bison (American bison) (Bos bison).
-OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
-OC   Pecora; Bovidae; Bovinae; Bison.
-OX   NCBI_TaxID=9901;
-RN   [1]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
-RC   STRAIN=Isolate WGFD WBb0401; TISSUE=Brain;
-RA   Jewell J.E., Conner M.M., Wolfe L.L., Miller M.W., Williams E.S.;
-RT   "Low chronic wasting disease prevalence among free-ranging mule deer
-RT   (Odocoileus hemionus) with PrP genotype 225SF.";
-RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
-RN   [2]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
-RC   STRAIN=Isolate CR227All1;
-RX   PubMed=15477588; DOI=10.1073/pnas.0406403101;
-RA   Seabury C.M., Honeycutt R.L., Rooney A.P., Halbert N.D., Derr J.N.;
-RT   "Prion protein gene (PRNP) variants and evidence for strong purifying
-RT   selection in functionally important regions of bovine exon 3.";
-RL   Proc. Natl. Acad. Sci. U.S.A. 101:15142-15147(2004).
-CC   -!- FUNCTION: Its primary physiological function is unclear. Has
-CC       cytoprotective activity against internal or environmental
-CC       stresses. May play a role in neuronal development and synaptic
-CC       plasticity. May be required for neuronal myelin sheath
-CC       maintenance. May play a role in iron uptake and iron homeostasis.
-CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
-CC       induce apoptosis (in vitro). Association with GPC1 (via its
-CC       heparan sulfate chains) targets PRNP to lipid rafts. Also provides
-CC       Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1 deaminase
-CC       degradation of its heparan sulfate side chains (By similarity).
-CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Soluble oligomers may represent
-CC       an intermediate stage on the path to fibril formation. Copper
-CC       binding may promote oligomerization. Interacts with GRB2, APP,
-CC       ERI3/PRNPIP and SYN1. Mislocalized cytosolically exposed PrP
-CC       interacts with MGRN1; this interaction alters MGRN1 subcellular
-CC       location and causes lysosomal enlargement. Interacts with
-CC       KIAA1191. {ECO:0000250|UniProtKB:P04156,
-CC       ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBCELLULAR LOCATION: Cell membrane
-CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
-CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
-CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
-CC       association with the heparan sulfate chains of GPC1. Colocates, in
-CC       the presence of Cu(2+), to vesicles in para- and perinuclear
-CC       regions, where both proteins undergo internalization. Heparin
-CC       displaces PRNP from lipid rafts and promotes endocytosis.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
-CC       structure. The disease-associated, protease-resistant form forms
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Disease mutations may favor
-CC       intermolecular contacts via short beta strands, and may thereby
-CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
-CC       At low copper concentrations, the sidechains of His residues from
-CC       three or four repeats contribute to the binding of a single copper
-CC       ion. Alternatively, a copper ion can be bound by interaction with
-CC       the sidechain and backbone amide nitrogen of a single His residue.
-CC       The observed copper binding stoichiometry suggests that two repeat
-CC       regions cooperate to stabilize the binding of a single copper ion.
-CC       At higher copper concentrations, each octamer can bind one copper
-CC       ion by interactions with the His sidechain and Gly backbone atoms.
-CC       A mixture of binding types may occur, especially in the case of
-CC       octamer repeat expansion. Copper binding may stabilize the
-CC       conformation of this region and may promote oligomerization.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DISEASE: Note=Variations in PRNP are responsible of transmissible
-CC       bovine spongiform encephalopathies (BSE), a class of
-CC       neurodegenerative diseases that affect various mammals. These
-CC       diseases are caused by abnormally folded prion proteins. BSE can
-CC       be subdivided into at least three groups: classical, H-type and L-
-CC       type, with the latter 2 collectively referred to as atypical BSE.
-CC       Susceptibility or resistance to a BSE disease can be influenced by
-CC       at least 3 factors related to the host prion protein: protein
-CC       expression levels, number of octapeptide repeats, and specific
-CC       polymorphisms. In cattle, as in humans, BSEs can occur as
-CC       infectious, spontaneous and genetic diseases. {ECO:0000305}.
-CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
-CC   -----------------------------------------------------------------------
-CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
-CC   -----------------------------------------------------------------------
-DR   EMBL; AY769958; AAV51943.1; -; Genomic_DNA.
-DR   EMBL; AY720696; AAV30503.1; -; Genomic_DNA.
-DR   SMR; Q5UAF1; -.
-DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
-DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
-DR   Gene3D; 1.10.790.10; -; 1.
-DR   InterPro; IPR000817; Prion.
-DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
-DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
-DR   InterPro; IPR025860; Prion_N_dom.
-DR   Pfam; PF00377; Prion; 1.
-DR   Pfam; PF11587; Prion_bPrPp; 1.
-DR   PRINTS; PR00341; PRION.
-DR   SMART; SM00157; PRP; 1.
-DR   SUPFAM; SSF54098; SSF54098; 1.
-DR   PROSITE; PS00291; PRION_1; 1.
-DR   PROSITE; PS00706; PRION_2; 1.
-PE   3: Inferred from homology;
-KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
-KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
-KW   Prion; Repeat; Signal; Zinc.
-FT   SIGNAL        1     24       {ECO:0000250}.
-FT   CHAIN        25    241       Major prion protein.
-FT                                /FTId=PRO_0000025619.
-FT   PROPEP      242    264       Removed in mature form. {ECO:0000255}.
-FT                                /FTId=PRO_0000025620.
-FT   REPEAT       54     62       1.
-FT   REPEAT       63     70       2.
-FT   REPEAT       71     78       3.
-FT   REPEAT       79     86       4.
-FT   REPEAT       87     94       5.
-FT   REPEAT       95    103       6.
-FT   REGION       25    241       Interaction with GRB2, ERI3 and SYN1.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       54    103       6 X 8 AA tandem repeats of P-H-G-G-G-W-G-
-FT                                Q.
-FT   METAL        72     72       Copper or zinc 1.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        73     73       Copper or zinc 1; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        74     74       Copper or zinc 1; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        80     80       Copper or zinc 2.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        81     81       Copper or zinc 2; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        82     82       Copper or zinc 2; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        88     88       Copper or zinc 3.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        89     89       Copper or zinc 3; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        90     90       Copper or zinc 3; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        96     96       Copper or zinc 4.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        98     98       Copper or zinc 4; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        99     99       Copper or zinc 4; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       241    241       GPI-anchor amidated alanine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    192    192       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    208    208       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   DISULFID    190    225       {ECO:0000250|UniProtKB:P04273}.
-SQ   SEQUENCE   264 AA;  28614 MW;  D6D214038316A231 CRC64;
-     MVKSHIGSWI LVLFVAMWSD VGLCKKRPKP GGGWNTGGSR YPGQGSPGGN RYPPQGGGGW
-     GQPHGGGWGQ PHGGGWGQPH GGGWGQPHGG GWGQPHGGGG WGQGGTHGQW NKPSKPKTNM
-     KHVAGAAAAG AVVGGLGGYM LGSAMSRPLI HFGSDYEDRY YRENMHRYPN QVYYRPVDQY
-     SNQNNFVHDC VNITVKEHTV TTTTKGENFT ETDIKMMERV VEQMCITQYQ RESQAYYQRG
-     ASVILFSSPP VILLISFLIF LIVG
 //
 ID   PRIO_LOPAT              Reviewed;         238 AA.
 AC   P67990; Q95145; Q95200;
@@ -1128,11 +1418,11 @@ SQ   SEQUENCE   238 AA;  26123 MW;  5F59A3EBC3E3531B CRC64;
      RPLIHFGNDY EDRYYRENMY RYPNQVYYRP VDQYSNQNNF VHDCVNITIK QHTVTTTTKG
      ENFTETDVKM MERVVEQMCI TQYEKESQAY YQRGSSMVLF SSPPVILLIS FLIFLIVG
 //
-ID   PRIO_MUSPF              Reviewed;         257 AA.
-AC   P52114;
-DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
-DT   01-OCT-1996, sequence version 1.
-DT   08-MAY-2019, entry version 94.
+ID   PRIO_CRIMI              Reviewed;         254 AA.
+AC   Q60468;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   08-MAY-2019, entry version 95.
 DE   RecName: Full=Major prion protein;
 DE            Short=PrP;
 DE   AltName: Full=PrP27-30;
@@ -1140,19 +1430,20 @@ DE   AltName: Full=PrP33-35C;
 DE   AltName: CD_antigen=CD230;
 DE   Flags: Precursor;
 GN   Name=PRNP; Synonyms=PRP;
-OS   Mustela putorius furo (European domestic ferret) (Mustela furo).
+OS   Cricetulus migratorius (Gray dwarf hamster).
 OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Mustelidae;
-OC   Mustelinae; Mustela.
-OX   NCBI_TaxID=9669;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Cricetidae; Cricetinae; Cricetulus.
+OX   NCBI_TaxID=10032;
 RN   [1]
 RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
 RC   TISSUE=Brain;
-RX   PubMed=7964604; DOI=10.1099/0022-1317-75-11-2947;
-RA   Bartz J.C., McKenzie D.I., Bessen R.A., Marsh R.F., Aiken J.M.;
-RT   "Transmissible mink encephalopathy species barrier effect between
-RT   ferret and mink: PrP gene and protein analysis.";
-RL   J. Gen. Virol. 75:2947-2953(1994).
+RX   PubMed=2406562; DOI=10.1128/MCB.10.3.1153;
+RA   Lowenstein D.H., Butler D.A., Westaway D., McKinley M.P.,
+RA   DeArmond S.J., Prusiner S.B.;
+RT   "Three hamster species with different scrapie incubation times and
+RT   neuropathological features encode distinct prion proteins.";
+RL   Mol. Cell. Biol. 10:1153-1163(1990).
 CC   -!- FUNCTION: Its primary physiological function is unclear. Has
 CC       cytoprotective activity against internal or environmental
 CC       stresses. May play a role in neuronal development and synaptic
@@ -1202,182 +1493,6 @@ CC       A mixture of binding types may occur, especially in the case of
 CC       octamer repeat expansion. Copper binding may stabilize the
 CC       conformation of this region and may promote oligomerization.
 CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DISEASE: Note=Found in high quantity in the brain of humans and
-CC       animals infected with degenerative neurological diseases such as
-CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
-CC       syndrome (GSS), scrapie, bovine spongiform encephalopathy (BSE),
-CC       transmissible mink encephalopathy (TME), etc. {ECO:0000305}.
-CC   -!- SIMILARITY: Belongs to the prion family. {ECO:0000305}.
-CC   -----------------------------------------------------------------------
-CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
-CC   -----------------------------------------------------------------------
-DR   EMBL; U08952; AAA69022.1; -; Genomic_DNA.
-DR   SMR; P52114; -.
-DR   STRING; 9668.ENSMPUP00000019010; -.
-DR   PRIDE; P52114; -.
-DR   eggNOG; ENOG410IJMM; Eukaryota.
-DR   eggNOG; ENOG410YXUU; LUCA.
-DR   InParanoid; P52114; -.
-DR   Proteomes; UP000000715; Unassembled WGS sequence.
-DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
-DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
-DR   GO; GO:0005507; F:copper ion binding; ISS:UniProtKB.
-DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
-DR   Gene3D; 1.10.790.10; -; 1.
-DR   InterPro; IPR000817; Prion.
-DR   InterPro; IPR036924; Prion/Doppel_b-ribbon_dom_sf.
-DR   InterPro; IPR022416; Prion/Doppel_prot_b-ribbon_dom.
-DR   InterPro; IPR025860; Prion_N_dom.
-DR   Pfam; PF00377; Prion; 1.
-DR   Pfam; PF11587; Prion_bPrPp; 1.
-DR   PRINTS; PR00341; PRION.
-DR   SMART; SM00157; PRP; 1.
-DR   SUPFAM; SSF54098; SSF54098; 1.
-DR   PROSITE; PS00291; PRION_1; 1.
-DR   PROSITE; PS00706; PRION_2; 1.
-PE   3: Inferred from homology;
-KW   Amyloid; Cell membrane; Complete proteome; Copper; Disulfide bond;
-KW   Glycoprotein; Golgi apparatus; GPI-anchor; Lipoprotein; Membrane;
-KW   Metal-binding; Prion; Reference proteome; Repeat; Signal; Zinc.
-FT   SIGNAL        1     24       {ECO:0000255}.
-FT   CHAIN        25    234       Major prion protein.
-FT                                /FTId=PRO_0000025699.
-FT   PROPEP      235    257       Removed in mature form. {ECO:0000255}.
-FT                                /FTId=PRO_0000025700.
-FT   REPEAT       54     62       1.
-FT   REPEAT       63     70       2.
-FT   REPEAT       71     78       3.
-FT   REPEAT       79     86       4.
-FT   REPEAT       87     95       5.
-FT   REGION       25    234       Interaction with GRB2, ERI3 and SYN1.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       54     95       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
-FT                                Q.
-FT   METAL        64     64       Copper or zinc 1.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        65     65       Copper or zinc 1; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        66     66       Copper or zinc 1; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        72     72       Copper or zinc 2.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        73     73       Copper or zinc 2; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        74     74       Copper or zinc 2; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        80     80       Copper or zinc 3.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        81     81       Copper or zinc 3; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        82     82       Copper or zinc 3; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        88     88       Copper or zinc 4.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        90     90       Copper or zinc 4; via amide nitrogen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   METAL        91     91       Copper or zinc 4; via amide nitrogen and
-FT                                carbonyl oxygen.
-FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       234    234       GPI-anchor amidated alanine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    185    185       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   CARBOHYD    201    201       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
-FT   DISULFID    183    218       {ECO:0000250|UniProtKB:P04273}.
-SQ   SEQUENCE   257 AA;  27704 MW;  371CD6AE193EF95B CRC64;
-     MVKSHIGSWL LVLFVATWSD IGFCKKRPKP GGGWNTGGSR YPGQGSPGGN RYPPQGGGGW
-     GQPHGGGWGQ PHGGGWGQPH GGGWGQPHGG GGWGQGGGSH GQWGKPSKPK TNMKHVAGAA
-     AAGAVVGGLG GYMLGSAMSR PLIHFGNDYE DRYYRENMYR YPNQVYYKPV DQYSNQNNLV
-     HDCVNITVKQ HTVTTTTKGE NFTETDMKIM ERVVEQMCVT QYQQESEAYY QRGASAILFS
-     PPPVILLISL LILLIVG
-//
-ID   PRIO_COLGU              Reviewed;         253 AA.
-AC   P40251;
-DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
-DT   01-FEB-1995, sequence version 1.
-DT   08-MAY-2019, entry version 103.
-DE   RecName: Full=Major prion protein;
-DE            Short=PrP;
-DE   AltName: Full=PrP27-30;
-DE   AltName: Full=PrP33-35C;
-DE   AltName: CD_antigen=CD230;
-DE   Flags: Precursor;
-GN   Name=PRNP; Synonyms=PRP;
-OS   Colobus guereza (Mantled guereza) (Eastern black-and-white colobus
-OS   monkey).
-OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
-OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
-OC   Catarrhini; Cercopithecidae; Colobinae; Colobus.
-OX   NCBI_TaxID=33548;
-RN   [1]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
-RX   PubMed=7837269; DOI=10.1006/jmbi.1994.0030;
-RA   Schaetzl H.M., Da Costa M., Taylor L., Cohen F.E., Prusiner S.B.;
-RT   "Prion protein gene variation among primates.";
-RL   J. Mol. Biol. 245:362-374(1995).
-RN   [2]
-RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 8-253.
-RA   van der Kuyl A.C., Dekker J.T., Goudsmit J.;
-RT   "Evidence for an increased substitution rate of the hominoid prion
-RT   protein gene during the period of brain expansion.";
-RL   Submitted (OCT-1996) to the EMBL/GenBank/DDBJ databases.
-CC   -!- FUNCTION: Its primary physiological function is unclear. May play
-CC       a role in neuronal development and synaptic plasticity. May be
-CC       required for neuronal myelin sheath maintenance. May promote
-CC       myelin homeostasis through acting as an agonist for ADGRG6
-CC       receptor. May play a role in iron uptake and iron homeostasis.
-CC       Soluble oligomers are toxic to cultured neuroblastoma cells and
-CC       induce apoptosis (in vitro) (By similarity). Association with GPC1
-CC       (via its heparan sulfate chains) targets PRNP to lipid rafts. Also
-CC       provides Cu(2+) or ZN(2+) for the ascorbate-mediated GPC1
-CC       deaminase degradation of its heparan sulfate side chains (By
-CC       similarity). {ECO:0000250|UniProtKB:P04156,
-CC       ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBUNIT: Monomer and homodimer. Has a tendency to aggregate into
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Soluble oligomers may represent
-CC       an intermediate stage on the path to fibril formation. Copper
-CC       binding may promote oligomerization. Interacts with GRB2, APP,
-CC       ERI3/PRNPIP and SYN1 (By similarity). Mislocalized cytosolically
-CC       exposed PrP interacts with MGRN1; this interaction alters MGRN1
-CC       subcellular location and causes lysosomal enlargement (By
-CC       similarity). Interacts with APP. Interacts with KIAA1191 (By
-CC       similarity). Interacts with ADGRG6 (By similarity).
-CC       {ECO:0000250|UniProtKB:P04156, ECO:0000250|UniProtKB:P04925}.
-CC   -!- SUBCELLULAR LOCATION: Cell membrane
-CC       {ECO:0000250|UniProtKB:P04156}; Lipid-anchor, GPI-anchor
-CC       {ECO:0000250|UniProtKB:P04156}. Golgi apparatus
-CC       {ECO:0000250|UniProtKB:P04925}. Note=Targeted to lipid rafts via
-CC       association with the heparan sulfate chains of GPC1. Colocates, in
-CC       the presence of Cu(2+), to vesicles in para- and perinuclear
-CC       regions, where both proteins undergo internalization. Heparin
-CC       displaces PRNP from lipid rafts and promotes endocytosis.
-CC       {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: The normal, monomeric form has a mainly alpha-helical
-CC       structure. The disease-associated, protease-resistant form forms
-CC       amyloid fibrils containing a cross-beta spine, formed by a steric
-CC       zipper of superposed beta-strands. Disease mutations may favor
-CC       intermolecular contacts via short beta strands, and may thereby
-CC       trigger oligomerization. {ECO:0000250|UniProtKB:P04156}.
-CC   -!- DOMAIN: Contains an N-terminal region composed of octamer repeats.
-CC       At low copper concentrations, the sidechains of His residues from
-CC       three or four repeats contribute to the binding of a single copper
-CC       ion. Alternatively, a copper ion can be bound by interaction with
-CC       the sidechain and backbone amide nitrogen of a single His residue.
-CC       The observed copper binding stoichiometry suggests that two repeat
-CC       regions cooperate to stabilize the binding of a single copper ion.
-CC       At higher copper concentrations, each octamer can bind one copper
-CC       ion by interactions with the His sidechain and Gly backbone atoms.
-CC       A mixture of binding types may occur, especially in the case of
-CC       octamer repeat expansion. Copper binding may stabilize the
-CC       conformation of this region and may promote oligomerization.
-CC       {ECO:0000250|UniProtKB:P04156}.
 CC   -!- DISEASE: Note=PrP is found in high quantity in the brain of humans
 CC       and animals infected with the degenerative neurological diseases
 CC       kuru, Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler
@@ -1388,11 +1503,8 @@ CC   -----------------------------------------------------------------------
 CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
 CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
 CC   -----------------------------------------------------------------------
-DR   EMBL; U08297; AAC50086.1; -; Genomic_DNA.
-DR   EMBL; U75389; AAB50624.1; -; Genomic_DNA.
-DR   PIR; S53618; S53618.
-DR   SMR; P40251; -.
-DR   PRIDE; P40251; -.
+DR   EMBL; M33959; AAA37014.1; -; Genomic_DNA.
+DR   SMR; Q60468; -.
 DR   GO; GO:0031225; C:anchored component of membrane; IEA:UniProtKB-KW.
 DR   GO; GO:0005794; C:Golgi apparatus; IEA:UniProtKB-SubCell.
 DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
@@ -1415,21 +1527,20 @@ KW   Amyloid; Cell membrane; Copper; Disulfide bond; Glycoprotein;
 KW   Golgi apparatus; GPI-anchor; Lipoprotein; Membrane; Metal-binding;
 KW   Prion; Repeat; Signal; Zinc.
 FT   SIGNAL        1     22       {ECO:0000250}.
-FT   CHAIN        23    230       Major prion protein.
-FT                                /FTId=PRO_0000025663.
-FT   PROPEP      231    253       Removed in mature form. {ECO:0000250}.
-FT                                /FTId=PRO_0000025664.
+FT   CHAIN        23    231       Major prion protein.
+FT                                /FTId=PRO_0000025667.
+FT   PROPEP      232    254       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000025668.
 FT   REPEAT       51     59       1.
 FT   REPEAT       60     67       2.
 FT   REPEAT       68     75       3.
 FT   REPEAT       76     83       4.
 FT   REPEAT       84     91       5.
-FT   REGION       23    230       Interaction with GRB2, ERI3 and SYN1.
-FT                                {ECO:0000250|UniProtKB:P04925}.
-FT   REGION       23     38       Interaction with ADGRG6.
+FT   REGION       23    231       Interaction with GRB2, ERI3 and SYN1.
 FT                                {ECO:0000250|UniProtKB:P04925}.
 FT   REGION       51     91       5 X 8 AA tandem repeats of P-H-G-G-G-W-G-
 FT                                Q.
+FT   REGION       90    231       PrP27-30 (protease resistant core).
 FT   METAL        61     61       Copper or zinc 1.
 FT                                {ECO:0000250|UniProtKB:P04156}.
 FT   METAL        62     62       Copper or zinc 1; via amide nitrogen.
@@ -1458,17 +1569,17 @@ FT                                {ECO:0000250|UniProtKB:P04156}.
 FT   METAL        87     87       Copper or zinc 4; via amide nitrogen and
 FT                                carbonyl oxygen.
 FT                                {ECO:0000250|UniProtKB:P04156}.
-FT   LIPID       230    230       GPI-anchor amidated serine.
+FT   LIPID       231    231       GPI-anchor amidated serine.
 FT                                {ECO:0000250|UniProtKB:P04273}.
 FT   CARBOHYD    181    181       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
+FT                                {ECO:0000250}.
 FT   CARBOHYD    197    197       N-linked (GlcNAc...) asparagine.
-FT                                {ECO:0000255}.
+FT                                {ECO:0000250}.
 FT   DISULFID    179    214       {ECO:0000250|UniProtKB:P04273}.
-SQ   SEQUENCE   253 AA;  27626 MW;  14B17477881F5316 CRC64;
-     MANLGCWMLV LFVATWSDLG LCKKRPKPGG WNTGGSRYPG QGSPGGNRYP PQGGGGWGQP
-     HGGGWGQPHG GGWGQPHGGG WGQPHGGGWG QGGGTHSQWN KPSKPKTSMK HMAGAAAAGA
-     VVGGLGGYML GSAMSRPLIH FGNDYEDRYY RENMYRYPNQ VYYRPVDQYS NQNNFVHDCV
-     NITIKQHTVT TTTKGENFTE TDVKMMERVV EQMCITQYEK ESQAYYQRGS SMVLFSSPPV
-     ILLISFLIFL IVG
+SQ   SEQUENCE   254 AA;  27855 MW;  7B963FC6F77F9D0F CRC64;
+     MANLSYWLLA LFVATWTDVG LCKKRPKPGG WNTGGSRYPG QGSPGGNRYP PQGGGTWGQP
+     HGGGWGQPHG GGWGQPHGGG WGQPHGGGWG QGGGTHNQWN KPNKPKTSMK HMAGAAAAGA
+     VVGGLGGYML GSAMSRPMLH FGNDWEDRYY RENMNRYPNQ VYYRPVDQYN NQNNFVHDCV
+     NITIKQHTVT TTTKGENFTE TDVKMMERVV EQMCVTQYQK ESQAYYDGRR SSAVLFSSPP
+     VILLISFLIF LIVG
 //

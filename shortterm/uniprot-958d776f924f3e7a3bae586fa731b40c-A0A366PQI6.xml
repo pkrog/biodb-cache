@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2018-11-07" modified="2019-07-31" version="5">
+<accession>A0A366PQI6</accession>
+<name>A0A366PQI6_VERDA</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ORF" evidence="7">VDGD_05691</name>
+</gene>
+<organism evidence="7 8">
+<name type="scientific">Verticillium dahliae</name>
+<name type="common">Verticillium wilt</name>
+<dbReference type="NCBI Taxonomy" id="27337"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Fungi</taxon>
+<taxon>Dikarya</taxon>
+<taxon>Ascomycota</taxon>
+<taxon>Pezizomycotina</taxon>
+<taxon>Sordariomycetes</taxon>
+<taxon>Hypocreomycetidae</taxon>
+<taxon>Glomerellales</taxon>
+<taxon>Plectosphaerellaceae</taxon>
+<taxon>Verticillium</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="submission" date="2018-05" db="EMBL/GenBank/DDBJ databases">
+<title>Genome of an Australian isolate of Verticillium dahliae pathogenic on cotton.</title>
+<authorList>
+<person name="Gardiner D.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="7 8">Gwydir1A3</strain>
+</source>
+</reference>
+<comment type="caution">
+<text evidence="7">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="QEPA01000290">
+<property type="protein sequence ID" value="RBQ93974.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000252987">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031932">
+<property type="term" value="C:TORC2 complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031929">
+<property type="term" value="P:TOR signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016024">
+<property type="entry name" value="ARM-type_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011072">
+<property type="entry name" value="HR1_rho-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036274">
+<property type="entry name" value="HR1_rpt_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028268">
+<property type="entry name" value="Pianissimo_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028267">
+<property type="entry name" value="Pianissimo_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029453">
+<property type="entry name" value="Rictor_IV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029451">
+<property type="entry name" value="RICTOR_M"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029452">
+<property type="entry name" value="RICTOR_V"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13298">
+<property type="entry name" value="PTHR13298"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02185">
+<property type="entry name" value="HR1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14663">
+<property type="entry name" value="RasGEF_N_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14666">
+<property type="entry name" value="RICTOR_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14664">
+<property type="entry name" value="RICTOR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14668">
+<property type="entry name" value="RICTOR_V"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00742">
+<property type="entry name" value="Hr1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01307">
+<property type="entry name" value="RICTOR_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01308">
+<property type="entry name" value="RICTOR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01310">
+<property type="entry name" value="RICTOR_V"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46585">
+<property type="entry name" value="SSF46585"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48371">
+<property type="entry name" value="SSF48371"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0175" evidence="1">Coiled coil</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<feature type="domain" description="Hr1" evidence="3">
+<location>
+<begin position="111"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="domain" description="RICTOR_N" evidence="5">
+<location>
+<begin position="244"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="domain" description="RICTOR_M" evidence="4">
+<location>
+<begin position="688"/>
+<end position="912"/>
+</location>
+</feature>
+<feature type="domain" description="RICTOR_V" evidence="6">
+<location>
+<begin position="1101"/>
+<end position="1173"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="2">
+<location>
+<begin position="1"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="2">
+<location>
+<begin position="138"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="2">
+<location>
+<begin position="1321"/>
+<end position="1437"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="99"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polar" evidence="2">
+<location>
+<begin position="1"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polyampholyte" evidence="2">
+<location>
+<begin position="140"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polyampholyte" evidence="2">
+<location>
+<begin position="1329"/>
+<end position="1373"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polar" evidence="2">
+<location>
+<begin position="1395"/>
+<end position="1411"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00742"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01307"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01308"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01310"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="RBQ93974.1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000252987"/>
+</source>
+</evidence>
+<sequence length="1437" mass="160610" checksum="8C1F3700488BD302" modified="2018-11-07" version="1">
+MLGVSQTARDKAHPSQQQPSAVNNTRTSIDRDGPSTVNLYPPSGPASSSARSLAASAANF
+APRGSSLNPSVAPGSFSSELRSQMNSSRAGSRADLFNNEKIEENEATMAEQKLNAMREQL
+NRELKIKEGSENMLDALNSKKAKQTKEQRARVENELNASNNKIRELRQRIAEAQAVKLPP
+STPTRSRTAEPGSHPANGLRSPHSVSRSGAGSDFDEPVEQSPTFSLTEILQDLEVEGMGP
+EYYVSRGNALVDLLRRHPSLKYDLVWPVFGLRMQVMLLSDAREVVAAGYRMVRYAISDIS
+SLKKIRNLNTDYLVITSLIKDRKADLEREQALKFVRAFLDVKGGVNEISRAVVRAIAAVA
+AQEDDRLQSMCVETLAEILLRCPPLAIASGALPPLSEALNEGSYKSPDTIANTFLYLFDN
+PQRRKYLRSGYDLEVMFTAFTDPTAGTESLLKQNSKAIAKVLRSWSGFMVLGMHDFRAIR
+SLMRSMVLPQPMIKETVVDLVFILLRIKPPSWATSFLAGRRLTTYGRVANLKSISTSNSS
+GTSSGAPPVMEDEAVEEQSFLDHYTALLLSVLVKCDLLPNLLHVAKNSEAPLTRKTCLLI
+GEVLKLASRLLPQSASTQLPLLPELFAAATQFKDDERFISSGIVYQISQVSKTLYRMSDG
+LPGIASLSHDNLTMLAEEQQKGNPGVVIQDTVFRQLLVESNVLNSSNYLKWDWDTILKMI
+DGPLQNGKRLDETIRVSKFMNRIMSFYRPFKNRFADLSSNKNTQKYVRIGCALMHTLLQS
+NEGIVFLRDSKLLRQLAECLAQCDPSSGLTSADPVFAPYRLQTTLCAGYFPMLGVLSSDP
+KGLELLQRWRMFNMMYHILSHKQRPDLIHLLLLNFDYTVPGHTRVLLEQALTSGTRETRI
+IATKVLRKYATRPFNEANRNHDKVDWKWAIRKLVDQLYDPDVEVCRTAVKILEKSCNKKA
+YLEYVVQCRPAMDHLGEMSAPLLLRFLSSSSGYHYLDGLDYISNEMDDWFLGRNDTYVDL
+IETSLAKAFSDHADEQQQRLSMVDQAQAESMEPESHLPPHFYRELARTEEGCRMLRDKGH
+FAEFASTIRDYGMQSADPELLLKVKGCMWAVGNVGSMELGAPFLESCDVVQDIVKIAQEH
+DMMSLRGTAFFVLGLISRSIHGLEILLECGWDSNLNNRGHSVGFCVPDNLSRFFSYKPWK
+HTIAPLIRLPDTQKTILTPPPPMPARPPLEKEELPPAHDEAATNQRIVDLIVDLSNIILF
+KHAISDLKQLKLRKAPGFRSPKLFKRIIAMLEYNHYRLPIRRMVIELFDKSVLRTIVFEE
+DTDTEEEEDTLKPKDRIIEEDENASVSGDESRTERQRSVSNATDARSEARSSREVAGGRV
+ITNKFGAGGFGARVSQSGVGSNLSRNNMAQDGDSSSEEEESSSDEESQTGGSRGILG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

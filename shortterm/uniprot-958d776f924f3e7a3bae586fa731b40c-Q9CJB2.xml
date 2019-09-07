@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-11-02" modified="2018-12-05" version="74">
+<accession>Q9CJB2</accession>
+<name>YAIH_LACLA</name>
+<protein>
+<recommendedName>
+<fullName>UPF0177 protein YaiH</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">yaiH</name>
+<name type="ordered locus">LL0085</name>
+<name type="ORF">L89118</name>
+</gene>
+<organism>
+<name type="scientific">Lactococcus lactis subsp. lactis (strain IL1403)</name>
+<name type="synonym">Streptococcus lactis</name>
+<dbReference type="NCBI Taxonomy" id="272623"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Lactobacillales</taxon>
+<taxon>Streptococcaceae</taxon>
+<taxon>Lactococcus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Genome Res." volume="11" first="731" last="753">
+<title>The complete genome sequence of the lactic acid bacterium Lactococcus lactis ssp. lactis IL1403.</title>
+<authorList>
+<person name="Bolotin A."/>
+<person name="Wincker P."/>
+<person name="Mauger S."/>
+<person name="Jaillon O."/>
+<person name="Malarme K."/>
+<person name="Weissenbach J."/>
+<person name="Ehrlich S.D."/>
+<person name="Sorokin A."/>
+</authorList>
+<dbReference type="PubMed" id="11337471"/>
+<dbReference type="DOI" id="10.1101/gr.GR-1697R"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>IL1403</strain>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the UPF0177 family.</text>
+</comment>
+<dbReference type="EMBL" id="AE005176">
+<property type="protein sequence ID" value="AAK04183.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="E86635">
+<property type="entry name" value="E86635"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_266241.1">
+<property type="nucleotide sequence ID" value="NC_002662.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_010905101.1">
+<property type="nucleotide sequence ID" value="NC_002662.1"/>
+</dbReference>
+<dbReference type="STRING" id="272623.L89118"/>
+<dbReference type="PaxDb" id="Q9CJB2"/>
+<dbReference type="EnsemblBacteria" id="AAK04183">
+<property type="protein sequence ID" value="AAK04183"/>
+<property type="gene ID" value="L89118"/>
+</dbReference>
+<dbReference type="GeneID" id="1113690"/>
+<dbReference type="KEGG" id="lla:L89118"/>
+<dbReference type="PATRIC" id="fig|272623.7.peg.97"/>
+<dbReference type="eggNOG" id="COG1266">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000116410"/>
+<dbReference type="KO" id="K07052"/>
+<dbReference type="OMA" id="YRFFKND"/>
+<dbReference type="BioCyc" id="LLAC272623:L89118-MONOMER"/>
+<dbReference type="Proteomes" id="UP000002196">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003675">
+<property type="entry name" value="CAAX_protease_2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02517">
+<property type="entry name" value="CPBP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="UPF0177 protein YaiH" id="PRO_0000220576">
+<location>
+<begin position="1"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="16"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="51"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="90"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="131"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="180"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="210"/>
+<end position="230"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="236" mass="27679" checksum="F6D55290796306F5" modified="2001-06-01" version="1">
+MMDDSFKNYWMNKLKYFSLFILLFAIYWFPDVILGYPEIYLKSLVGYDRQATATWIFLGN
+MAISLFLGILICYKLGYYKNTLSIFKIKNILFLLFTTIVLFIIYFFTFTYYNSHFITPGI
+AKEQAAYSRQIVFPFVQFISFAICAPIFEEAAFRTTIYRFFKNDKIAFIVSSISFAWMHT
+GANPILIVYLPMSVVLTLIYHRRRVLGESILVHCLMNALLPTIIVFLQTITGLYYL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

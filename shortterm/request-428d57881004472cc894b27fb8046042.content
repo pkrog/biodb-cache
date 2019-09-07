@@ -165,21 +165,6 @@ md:M00173	Reductive citrate cycle (Arnon-Buchanan cycle)
 md:M00174	Methane oxidation, methanotroph, methane => formaldehyde
 md:M00175	Nitrogen fixation, nitrogen => ammonia
 md:M00176	Assimilatory sulfate reduction, sulfate => H2S
-md:M00177	Ribosome, eukaryotes
-md:M00178	Ribosome, bacteria
-md:M00179	Ribosome, archaea
-md:M00180	RNA polymerase II, eukaryotes
-md:M00181	RNA polymerase III, eukaryotes
-md:M00182	RNA polymerase I, eukaryotes
-md:M00183	RNA polymerase, bacteria
-md:M00184	RNA polymerase, archaea
-md:M00260	DNA polymerase III complex, bacteria
-md:M00261	DNA polymerase alpha / primase complex
-md:M00262	DNA polymerase delta complex
-md:M00263	DNA polymerase epsilon complex
-md:M00264	DNA polymerase II complex, archaea
-md:M00293	DNA polymerase zeta complex
-md:M00294	DNA polymerase gamma complex
 md:M00307	Pyruvate oxidation, pyruvate => acetyl-CoA
 md:M00308	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P
 md:M00309	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate

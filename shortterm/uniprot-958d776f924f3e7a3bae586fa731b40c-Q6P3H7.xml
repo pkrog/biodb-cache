@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-02-07" modified="2019-05-08" version="96">
+<accession>Q6P3H7</accession>
+<accession>Q6TLG5</accession>
+<accession>Q7ZW28</accession>
+<name>RBBP4_DANRE</name>
+<protein>
+<recommendedName>
+<fullName>Histone-binding protein RBBP4</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Retinoblastoma-binding protein 4</fullName>
+<shortName>RBBP-4</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">rbbp4</name>
+<name type="synonym">rbb4</name>
+</gene>
+<organism>
+<name type="scientific">Danio rerio</name>
+<name type="common">Zebrafish</name>
+<name type="synonym">Brachydanio rerio</name>
+<dbReference type="NCBI Taxonomy" id="7955"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Actinopterygii</taxon>
+<taxon>Neopterygii</taxon>
+<taxon>Teleostei</taxon>
+<taxon>Ostariophysi</taxon>
+<taxon>Cypriniformes</taxon>
+<taxon>Cyprinidae</taxon>
+<taxon>Danio</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="16240" last="16245">
+<title>Hematopoietic gene expression profile in zebrafish kidney marrow.</title>
+<authorList>
+<person name="Song H.-D."/>
+<person name="Sun X.-J."/>
+<person name="Deng M."/>
+<person name="Zhang G.-W."/>
+<person name="Zhou Y."/>
+<person name="Wu X.-Y."/>
+<person name="Sheng Y."/>
+<person name="Chen Y."/>
+<person name="Ruan Z."/>
+<person name="Jiang C.-L."/>
+<person name="Fan H.-Y."/>
+<person name="Zon L.I."/>
+<person name="Kanki J.P."/>
+<person name="Liu T.X."/>
+<person name="Look A.T."/>
+<person name="Chen Z."/>
+</authorList>
+<dbReference type="PubMed" id="15520368"/>
+<dbReference type="DOI" id="10.1073/pnas.0407241101"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Kidney marrow</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2003-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIH - Zebrafish Gene Collection (ZGC) project"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Component of the DREAM complex. Binds directly to histone H4, probably via helix 1 of the histone fold, a region that is not accessible when histone H4 is in chromatin.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the WD repeat RBAP46/RBAP48/MSI1 family.</text>
+</comment>
+<dbReference type="EMBL" id="AY394940">
+<property type="protein sequence ID" value="AAQ94567.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC045315">
+<property type="protein sequence ID" value="AAH45315.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC063984">
+<property type="protein sequence ID" value="AAH63984.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_997760.1">
+<property type="nucleotide sequence ID" value="NM_212595.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q6P3H7"/>
+<dbReference type="STRING" id="7955.ENSDARP00000112131"/>
+<dbReference type="PaxDb" id="Q6P3H7"/>
+<dbReference type="PRIDE" id="Q6P3H7"/>
+<dbReference type="GeneID" id="321726"/>
+<dbReference type="KEGG" id="dre:321726"/>
+<dbReference type="CTD" id="5928"/>
+<dbReference type="ZFIN" id="ZDB-GENE-030131-445">
+<property type="gene designation" value="rbbp4"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0264">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNU9">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000160330"/>
+<dbReference type="InParanoid" id="Q6P3H7"/>
+<dbReference type="KO" id="K10752"/>
+<dbReference type="OrthoDB" id="831322at2759"/>
+<dbReference type="PhylomeDB" id="Q6P3H7"/>
+<dbReference type="Reactome" id="R-DRE-1538133">
+<property type="pathway name" value="G0 and Early G1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-212300">
+<property type="pathway name" value="PRC2 methylates histones and DNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-2559580">
+<property type="pathway name" value="Oxidative Stress Induced Senescence"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-3214815">
+<property type="pathway name" value="HDACs deacetylate histones"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-606279">
+<property type="pathway name" value="Deposition of new CENPA-containing nucleosomes at the centromere"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-6804758">
+<property type="pathway name" value="Regulation of TP53 Activity through Acetylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-73762">
+<property type="pathway name" value="RNA Polymerase I Transcription Initiation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-8943724">
+<property type="pathway name" value="Regulation of PTEN gene transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-DRE-8953750">
+<property type="pathway name" value="Transcriptional Regulation by E2F6"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q6P3H7"/>
+<dbReference type="Proteomes" id="UP000000437">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033186">
+<property type="term" value="C:CAF-1 complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035098">
+<property type="term" value="C:ESC/E(Z) complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007049">
+<property type="term" value="P:cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031497">
+<property type="term" value="P:chromatin assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006338">
+<property type="term" value="P:chromatin remodeling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031101">
+<property type="term" value="P:fin regeneration"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ZFIN"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020472">
+<property type="entry name" value="G-protein_beta_WD-40_rep"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022052">
+<property type="entry name" value="Histone-bd_RBBP4_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001680">
+<property type="entry name" value="WD40_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019775">
+<property type="entry name" value="WD40_repeat_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017986">
+<property type="entry name" value="WD40_repeat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036322">
+<property type="entry name" value="WD40_repeat_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12265">
+<property type="entry name" value="CAF1C_H4-bd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00400">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00320">
+<property type="entry name" value="GPROTEINBRPT"/>
+</dbReference>
+<dbReference type="SMART" id="SM00320">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50978">
+<property type="entry name" value="SSF50978"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00678">
+<property type="entry name" value="WD_REPEATS_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50082">
+<property type="entry name" value="WD_REPEATS_2"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50294">
+<property type="entry name" value="WD_REPEATS_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0156">Chromatin regulator</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0853">WD repeat</keyword>
+<feature type="initiator methionine" description="Removed" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Histone-binding protein RBBP4" id="PRO_0000051193">
+<location>
+<begin position="2"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 1">
+<location>
+<begin position="122"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 2">
+<location>
+<begin position="175"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 3">
+<location>
+<begin position="225"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 4">
+<location>
+<begin position="271"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 5">
+<location>
+<begin position="315"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 6">
+<location>
+<begin position="372"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="1">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1." ref="1" evidence="2">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAH45315." ref="2" evidence="2">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAH45315." ref="2" evidence="2">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="424" mass="47651" checksum="A7A5BBD6EC195820" modified="2007-01-23" version="3">
+MADKEAAFDDAVEERVINEEYKIWKKNTPFLYDLVMTHALEWPSLTAQWLPDVTRPEGKD
+FSVHRLVLGTHTSDEQNHLVIASVQLPNDDAQFDASHYDSEKGEFGGFGSVSGKIEIEIK
+INHEGEVNRARYMPQNPCIIATKTPTSDVLVFDYTKHPSKPDPSGECTPDLRLRGHQKEG
+YGLSWNPNLRSCLLSASDDHTICLWDISTVPKEGKIVDAKTIFTGHTAVVEDVSWHLLHE
+SLFGSVADDQKLMIWDTRSNNTSKPSHAVDAHTAEVNCLSFNPYSEFILATGSADKTVAL
+WDLRNLKLKLHSFESHKDEIFQVQWSPHNETILASSGTDRRLNVWDLSKIGEEQSPEDAE
+DGPPELLFIHGGHTAKISDFSWNPNEPWVICSVSEDNIMQVWQMAENIYNDEDPEGAADT
+EVQG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

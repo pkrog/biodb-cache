@@ -23,4 +23,4 @@
   8 10  2  0     0  0
   9 10  1  0     0  0
 M  END
-</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C16592</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>phenylacetaldehydes</chebiName><chebiId>CHEBI:25973</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C16592</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0060671</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>phenylacetaldehydes</chebiName><chebiId>CHEBI:25973</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

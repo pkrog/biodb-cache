@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-01-15" modified="2019-07-03" version="72">
+<accession>Q03F58</accession>
+<name>RS21_PEDPA</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">30S ribosomal protein S21</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">rpsU</name>
+<name type="ordered locus">PEPE_1109</name>
+</gene>
+<organism>
+<name type="scientific">Pediococcus pentosaceus (strain ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w)</name>
+<dbReference type="NCBI Taxonomy" id="278197"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Lactobacillales</taxon>
+<taxon>Lactobacillaceae</taxon>
+<taxon>Pediococcus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="15611" last="15616">
+<title>Comparative genomics of the lactic acid bacteria.</title>
+<authorList>
+<person name="Makarova K.S."/>
+<person name="Slesarev A."/>
+<person name="Wolf Y.I."/>
+<person name="Sorokin A."/>
+<person name="Mirkin B."/>
+<person name="Koonin E.V."/>
+<person name="Pavlov A."/>
+<person name="Pavlova N."/>
+<person name="Karamychev V."/>
+<person name="Polouchine N."/>
+<person name="Shakhova V."/>
+<person name="Grigoriev I."/>
+<person name="Lou Y."/>
+<person name="Rohksar D."/>
+<person name="Lucas S."/>
+<person name="Huang K."/>
+<person name="Goodstein D.M."/>
+<person name="Hawkins T."/>
+<person name="Plengvidhya V."/>
+<person name="Welker D."/>
+<person name="Hughes J."/>
+<person name="Goh Y."/>
+<person name="Benson A."/>
+<person name="Baldwin K."/>
+<person name="Lee J.-H."/>
+<person name="Diaz-Muniz I."/>
+<person name="Dosti B."/>
+<person name="Smeianov V."/>
+<person name="Wechter W."/>
+<person name="Barabote R."/>
+<person name="Lorca G."/>
+<person name="Altermann E."/>
+<person name="Barrangou R."/>
+<person name="Ganesan B."/>
+<person name="Xie Y."/>
+<person name="Rawsthorne H."/>
+<person name="Tamir D."/>
+<person name="Parker C."/>
+<person name="Breidt F."/>
+<person name="Broadbent J.R."/>
+<person name="Hutkins R."/>
+<person name="O'Sullivan D."/>
+<person name="Steele J."/>
+<person name="Unlu G."/>
+<person name="Saier M.H. Jr."/>
+<person name="Klaenhammer T."/>
+<person name="Richardson P."/>
+<person name="Kozyavkin S."/>
+<person name="Weimer B.C."/>
+<person name="Mills D.A."/>
+</authorList>
+<dbReference type="PubMed" id="17030793"/>
+<dbReference type="DOI" id="10.1073/pnas.0607117103"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w</strain>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the bacterial ribosomal protein bS21 family.</text>
+</comment>
+<dbReference type="EMBL" id="CP000422">
+<property type="protein sequence ID" value="ABJ68164.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_002830340.1">
+<property type="nucleotide sequence ID" value="NC_008525.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q03F58"/>
+<dbReference type="STRING" id="278197.PEPE_1109"/>
+<dbReference type="EnsemblBacteria" id="ABJ68164">
+<property type="protein sequence ID" value="ABJ68164"/>
+<property type="gene ID" value="PEPE_1109"/>
+</dbReference>
+<dbReference type="GeneID" id="33062680"/>
+<dbReference type="KEGG" id="ppe:PEPE_1109"/>
+<dbReference type="eggNOG" id="ENOG4105VCC">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0828">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000157460"/>
+<dbReference type="KO" id="K02970"/>
+<dbReference type="OMA" id="FKRSCQK"/>
+<dbReference type="OrthoDB" id="2088764at2"/>
+<dbReference type="BioCyc" id="PPEN278197:G1G70-1085-MONOMER"/>
+<dbReference type="Proteomes" id="UP000000773">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005840">
+<property type="term" value="C:ribosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003735">
+<property type="term" value="F:structural constituent of ribosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.5.1150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00358">
+<property type="entry name" value="Ribosomal_S21"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001911">
+<property type="entry name" value="Ribosomal_S21"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018278">
+<property type="entry name" value="Ribosomal_S21_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038380">
+<property type="entry name" value="S21_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR21109">
+<property type="entry name" value="PTHR21109"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01165">
+<property type="entry name" value="Ribosomal_S21"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00976">
+<property type="entry name" value="RIBOSOMALS21"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00030">
+<property type="entry name" value="S21p"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01181">
+<property type="entry name" value="RIBOSOMAL_S21"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0687">Ribonucleoprotein</keyword>
+<keyword id="KW-0689">Ribosomal protein</keyword>
+<feature type="chain" description="30S ribosomal protein S21" id="PRO_1000005146">
+<location>
+<begin position="1"/>
+<end position="61"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00358"/>
+</source>
+</evidence>
+<sequence length="61" mass="7420" checksum="5800A58FD389408B" modified="2006-11-14" version="1">
+MSKTVVRKNESLDDALRRFKRTVSKSGTLQEYRKREFYEKPSVKRKLKSEAARKRKNKKR
+F
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

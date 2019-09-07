@@ -1,1 +1,0 @@
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["url","header","body"]}},"value":[{"type":"character","attributes":{},"value":["http://rest.kegg.jp/find/compound/89.0476999991095-89.0477000008905/exact_mass"]},{"type":"character","attributes":{},"value":[]},{"type":"character","attributes":{},"value":[]}]}

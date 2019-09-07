@@ -5,15 +5,15 @@
 	<DbName>gene</DbName>
 	<MenuName>Gene</MenuName>
 	<Description>Gene database</Description>
-	<DbBuild>Build190725-2330m.1</DbBuild>
-	<Count>36101676</Count>
-	<LastUpdate>2019/07/26 08:17</LastUpdate>
+	<DbBuild>Build190905-2255m.1</DbBuild>
+	<Count>36840641</Count>
+	<LastUpdate>2019/09/06 10:12</LastUpdate>
 	<FieldList>
 		<Field>
 			<Name>ALL</Name>
 			<FullName>All Fields</FullName>
 			<Description>All terms from all searchable fields</Description>
-			<TermCount>587048037</TermCount>
+			<TermCount>598440699</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>N</SingleToken>
@@ -52,7 +52,7 @@
 			<Name>TITL</Name>
 			<FullName>Gene/Protein Name</FullName>
 			<Description>gene or protein name</Description>
-			<TermCount>37071180</TermCount>
+			<TermCount>37617214</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -65,7 +65,7 @@
 			<Name>WORD</Name>
 			<FullName>Text Word</FullName>
 			<Description>Free text associated with record</Description>
-			<TermCount>328503697</TermCount>
+			<TermCount>334354393</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -78,7 +78,7 @@
 			<Name>ORGN</Name>
 			<FullName>Organism</FullName>
 			<Description>scientific and common names of organism</Description>
-			<TermCount>184041</TermCount>
+			<TermCount>185557</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -91,7 +91,7 @@
 			<Name>MDAT</Name>
 			<FullName>Modification Date</FullName>
 			<Description>The last date on which the record was updated</Description>
-			<TermCount>3352</TermCount>
+			<TermCount>3381</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -104,7 +104,7 @@
 			<Name>CHR</Name>
 			<FullName>Chromosome</FullName>
 			<Description>Chromosome number or numbers; also &apos;mitochondrial&apos;, &apos;unknown&apos; properties</Description>
-			<TermCount>641</TermCount>
+			<TermCount>644</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -117,7 +117,7 @@
 			<Name>MV</Name>
 			<FullName>Default Map Location</FullName>
 			<Description>Chromosomal map location as displayed in MapViewer</Description>
-			<TermCount>38718</TermCount>
+			<TermCount>38719</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -130,7 +130,7 @@
 			<Name>GENE</Name>
 			<FullName>Gene Name</FullName>
 			<Description>Symbol or symbols of the gene</Description>
-			<TermCount>51890166</TermCount>
+			<TermCount>52987601</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -143,7 +143,7 @@
 			<Name>ECNO</Name>
 			<FullName>EC/RN Number</FullName>
 			<Description>EC number for enzyme or CAS registry number</Description>
-			<TermCount>4320</TermCount>
+			<TermCount>4343</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -156,7 +156,7 @@
 			<Name>MIM</Name>
 			<FullName>MIM ID</FullName>
 			<Description>MIM number from OMIM</Description>
-			<TermCount>22856</TermCount>
+			<TermCount>23016</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -169,7 +169,7 @@
 			<Name>DIS</Name>
 			<FullName>Disease/Phenotype</FullName>
 			<Description>Name(s) of diseases associated with this gene. When available, OMIM name will be used</Description>
-			<TermCount>43083</TermCount>
+			<TermCount>43954</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -182,7 +182,7 @@
 			<Name>ACCN</Name>
 			<FullName>Nucleotide/Protein Accession</FullName>
 			<Description>Nucleotide or protein accession(s) associated with this gene</Description>
-			<TermCount>249755760</TermCount>
+			<TermCount>254182527</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -221,7 +221,7 @@
 			<Name>CDAT</Name>
 			<FullName>Creation Date</FullName>
 			<Description>The date on which this record first appeared</Description>
-			<TermCount>7416</TermCount>
+			<TermCount>7453</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -234,7 +234,7 @@
 			<Name>NCAC</Name>
 			<FullName>Nucleotide Accession</FullName>
 			<Description>nucleotide accessions of sequences</Description>
-			<TermCount>97289427</TermCount>
+			<TermCount>98963242</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -247,7 +247,7 @@
 			<Name>NUID</Name>
 			<FullName>Nucleotide UID</FullName>
 			<Description>nucleotide uids of sequences</Description>
-			<TermCount>30170310</TermCount>
+			<TermCount>30222227</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -260,7 +260,7 @@
 			<Name>PACC</Name>
 			<FullName>Protein Accession</FullName>
 			<Description>protein accessions</Description>
-			<TermCount>152465505</TermCount>
+			<TermCount>155218457</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -273,7 +273,7 @@
 			<Name>PUID</Name>
 			<FullName>Protein UID</FullName>
 			<Description>protein uids</Description>
-			<TermCount>53696852</TermCount>
+			<TermCount>54066006</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -286,7 +286,7 @@
 			<Name>PMID</Name>
 			<FullName>PubMed ID</FullName>
 			<Description>PubMed ids of accessions linked to the record</Description>
-			<TermCount>1230051</TermCount>
+			<TermCount>1237002</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -299,7 +299,7 @@
 			<Name>TID</Name>
 			<FullName>Taxonomy ID</FullName>
 			<Description>taxonomy id</Description>
-			<TermCount>30206</TermCount>
+			<TermCount>30447</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -325,7 +325,7 @@
 			<Name>DOM</Name>
 			<FullName>Domain Name</FullName>
 			<Description>Domain Name</Description>
-			<TermCount>321728</TermCount>
+			<TermCount>328403</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -338,7 +338,7 @@
 			<Name>DDAT</Name>
 			<FullName>Date Discontinued</FullName>
 			<Description>The date on which the record was discontinued</Description>
-			<TermCount>4325</TermCount>
+			<TermCount>4363</TermCount>
 			<IsDate>Y</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -351,7 +351,7 @@
 			<Name>CPOS</Name>
 			<FullName>Base Position</FullName>
 			<Description>Chromosome base position</Description>
-			<TermCount>14158715</TermCount>
+			<TermCount>14639234</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -364,7 +364,7 @@
 			<Name>GFN</Name>
 			<FullName>Gene Full Name</FullName>
 			<Description>Gene full name</Description>
-			<TermCount>3956797</TermCount>
+			<TermCount>4056397</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -377,7 +377,7 @@
 			<Name>PFN</Name>
 			<FullName>Protein Full Name</FullName>
 			<Description>Protein full name</Description>
-			<TermCount>2240406</TermCount>
+			<TermCount>2294453</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -390,7 +390,7 @@
 			<Name>GL</Name>
 			<FullName>Gene Length</FullName>
 			<Description>Gene length</Description>
-			<TermCount>345587</TermCount>
+			<TermCount>351017</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -403,7 +403,7 @@
 			<Name>XC</Name>
 			<FullName>Exon Count</FullName>
 			<Description>Exon count</Description>
-			<TermCount>313</TermCount>
+			<TermCount>314</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>Y</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -416,7 +416,7 @@
 			<Name>GRP</Name>
 			<FullName>Group</FullName>
 			<Description>Relationships for this gene</Description>
-			<TermCount>26900</TermCount>
+			<TermCount>26906</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -429,7 +429,7 @@
 			<Name>PREF</Name>
 			<FullName>Preferred Symbol</FullName>
 			<Description>Preferred symbol of the gene</Description>
-			<TermCount>41711282</TermCount>
+			<TermCount>42503734</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -442,7 +442,7 @@
 			<Name>AACC</Name>
 			<FullName>Assembly Accession</FullName>
 			<Description>Assembly accession</Description>
-			<TermCount>3273</TermCount>
+			<TermCount>3379</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>
@@ -455,7 +455,7 @@
 			<Name>ASM</Name>
 			<FullName>Assembly Name</FullName>
 			<Description>Assembly name</Description>
-			<TermCount>785</TermCount>
+			<TermCount>809</TermCount>
 			<IsDate>N</IsDate>
 			<IsNumerical>N</IsNumerical>
 			<SingleToken>Y</SingleToken>

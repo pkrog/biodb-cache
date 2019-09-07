@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
-<eSearchResult><Count>60770</Count><RetMax>3</RetMax><RetStart>0</RetStart><IdList>
-<Id>138437054</Id>
-<Id>138436022</Id>
-<Id>138435819</Id>
+<eSearchResult><Count>60915</Count><RetMax>3</RetMax><RetStart>0</RetStart><IdList>
+<Id>138911159</Id>
+<Id>94936725</Id>
+<Id>138857497</Id>
 </IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>0000204.114000[MonoisotopicMass]</Term>    <Field>MonoisotopicMass</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>0000204.334000[MonoisotopicMass]</Term>    <Field>MonoisotopicMass</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <OP>RANGE</OP>  </TranslationStack><QueryTranslation>0000204.114000[MonoisotopicMass] : 0000204.334000[MonoisotopicMass]</QueryTranslation></eSearchResult>

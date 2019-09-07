@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-02-15" modified="2019-05-08" version="93">
+<accession>Q8F479</accession>
+<name>UVRC_LEPIN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">UvrABC system protein C</fullName>
+<shortName evidence="1">Protein UvrC</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Excinuclease ABC subunit C</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">uvrC</name>
+<name type="ordered locus">LA_2166</name>
+</gene>
+<organism>
+<name type="scientific">Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)</name>
+<dbReference type="NCBI Taxonomy" id="189518"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Spirochaetes</taxon>
+<taxon>Leptospirales</taxon>
+<taxon>Leptospiraceae</taxon>
+<taxon>Leptospira</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2003" name="Nature" volume="422" first="888" last="893">
+<title>Unique physiological and pathogenic features of Leptospira interrogans revealed by whole-genome sequencing.</title>
+<authorList>
+<person name="Ren S.-X."/>
+<person name="Fu G."/>
+<person name="Jiang X.-G."/>
+<person name="Zeng R."/>
+<person name="Miao Y.-G."/>
+<person name="Xu H."/>
+<person name="Zhang Y.-X."/>
+<person name="Xiong H."/>
+<person name="Lu G."/>
+<person name="Lu L.-F."/>
+<person name="Jiang H.-Q."/>
+<person name="Jia J."/>
+<person name="Tu Y.-F."/>
+<person name="Jiang J.-X."/>
+<person name="Gu W.-Y."/>
+<person name="Zhang Y.-Q."/>
+<person name="Cai Z."/>
+<person name="Sheng H.-H."/>
+<person name="Yin H.-F."/>
+<person name="Zhang Y."/>
+<person name="Zhu G.-F."/>
+<person name="Wan M."/>
+<person name="Huang H.-L."/>
+<person name="Qian Z."/>
+<person name="Wang S.-Y."/>
+<person name="Ma W."/>
+<person name="Yao Z.-J."/>
+<person name="Shen Y."/>
+<person name="Qiang B.-Q."/>
+<person name="Xia Q.-C."/>
+<person name="Guo X.-K."/>
+<person name="Danchin A."/>
+<person name="Saint Girons I."/>
+<person name="Somerville R.L."/>
+<person name="Wen Y.-M."/>
+<person name="Shi M.-H."/>
+<person name="Chen Z."/>
+<person name="Xu J.-G."/>
+<person name="Zhao G.-P."/>
+</authorList>
+<dbReference type="PubMed" id="12712204"/>
+<dbReference type="DOI" id="10.1038/nature01597"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>56601</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Interacts with UvrB in an incision complex.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the UvrC family.</text>
+</comment>
+<dbReference type="EMBL" id="AE010300">
+<property type="protein sequence ID" value="AAN49365.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_712347.1">
+<property type="nucleotide sequence ID" value="NC_004342.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001114128.1">
+<property type="nucleotide sequence ID" value="NC_004342.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q8F479"/>
+<dbReference type="PRIDE" id="Q8F479"/>
+<dbReference type="EnsemblBacteria" id="AAN49365">
+<property type="protein sequence ID" value="AAN49365"/>
+<property type="gene ID" value="LA_2166"/>
+</dbReference>
+<dbReference type="GeneID" id="1151509"/>
+<dbReference type="KEGG" id="lil:LA_2166"/>
+<dbReference type="PATRIC" id="fig|189518.3.peg.2157"/>
+<dbReference type="eggNOG" id="ENOG4105CII">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0322">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000279960"/>
+<dbReference type="InParanoid" id="Q8F479"/>
+<dbReference type="KO" id="K03703"/>
+<dbReference type="OMA" id="LFPIRQC"/>
+<dbReference type="BioCyc" id="LINT189518:G1GL4-1751-MONOMER"/>
+<dbReference type="Proteomes" id="UP000001408">
+<property type="component" value="Chromosome I"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009380">
+<property type="term" value="C:excinuclease repair complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009381">
+<property type="term" value="F:excinuclease ABC activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006289">
+<property type="term" value="P:nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009432">
+<property type="term" value="P:SOS response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.340">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1440.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00203">
+<property type="entry name" value="UvrC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041663">
+<property type="entry name" value="DisA/LigA_HHH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000305">
+<property type="entry name" value="GIY-YIG_endonuc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035901">
+<property type="entry name" value="GIY-YIG_endonuc_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003583">
+<property type="entry name" value="Hlx-hairpin-Hlx_DNA-bd_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010994">
+<property type="entry name" value="RuvA_2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001943">
+<property type="entry name" value="UVR_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036876">
+<property type="entry name" value="UVR_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004791">
+<property type="entry name" value="UvrC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001162">
+<property type="entry name" value="UvrC_homol_region"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038476">
+<property type="entry name" value="UvrC_homol_region_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01541">
+<property type="entry name" value="GIY-YIG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12826">
+<property type="entry name" value="HHH_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02151">
+<property type="entry name" value="UVR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08459">
+<property type="entry name" value="UvrC_HhH_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00465">
+<property type="entry name" value="GIYc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00278">
+<property type="entry name" value="HhH1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46600">
+<property type="entry name" value="SSF46600"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47781">
+<property type="entry name" value="SSF47781"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF82771">
+<property type="entry name" value="SSF82771"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00194">
+<property type="entry name" value="uvrC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50164">
+<property type="entry name" value="GIY_YIG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50151">
+<property type="entry name" value="UVR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50165">
+<property type="entry name" value="UVRC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0228">DNA excision</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0267">Excision nuclease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0742">SOS response</keyword>
+<feature type="chain" description="UvrABC system protein C" id="PRO_0000138311">
+<location>
+<begin position="1"/>
+<end position="609"/>
+</location>
+</feature>
+<feature type="domain" description="GIY-YIG" evidence="1">
+<location>
+<begin position="19"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="domain" description="UVR" evidence="1">
+<location>
+<begin position="208"/>
+<end position="243"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00203"/>
+</source>
+</evidence>
+<sequence length="609" mass="69762" checksum="9EA291C31E15FF87" modified="2003-03-01" version="1">
+MPEILNHTLILEKIKNLGASPGCYLWKSKKGEVLYVGKAKNLDKRVRSYLKENHPDVKTK
+VLQREIFDLDWIATGTEKEALILEATLIKKHNPRFNVRLKDDKKYPYICVSLSEPYPMVY
+VTRKLKDNGDRYFGPYSDVKSTRETLDIILRIFPVRKTRQVLPLPRPRRPCLNFDMGRCL
+GPCQGNIPVEDYKVIIDQVIQFLEGRKESLVSDLNIKMSNASERLDFEKAARYRDMLQRI
+QNFREKQTVVSLEGGDEDVIGFARKQDEGQVILLEIRGGRLETKKSFPIQGVLDAENSEI
+LGAFFRDYYLNASLVPPCIFIPADIQDEVIPVIDVLQEKTGFRPKIKFPKGGDKRSLLKI
+AEKNAELGLSERLLATHYRDQTASLKEIQEMFSLERLPHIIECYDISHFQGSQPVASGVM
+FVEGKPFKQGYRKYNIQGYEGINDPGMIHEVISRRLQRIINEEGVFPDLIVIDGGLTQLT
+KACEAAVEAGAEGIPMVGLAKKREEIFFPGENEPFIFDMNSPGMKLLRHLRDEAHRFGVS
+HHRSRRNKETMRSLIQEVPDIGFKRSKLLLQHFSGEKKIEEATKEELLLVPGIGENLAEK
+ILKQLQKKE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

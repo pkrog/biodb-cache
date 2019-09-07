@@ -36,7 +36,6 @@ bta:530855	GALK1; galactokinase
 bom:102265003	GALK1; galactokinase 1
 biu:109573352	GALK1; galactokinase
 bbub:102399384	GALK1; LOW QUALITY PROTEIN: galactokinase
-phd:102324940	GALK1; galactokinase 1
 chx:102172661	GALK1; galactokinase 1
 oas:101119657	GALK1; galactokinase
 ssc:100521514	GALK1; galactokinase
@@ -54,7 +53,6 @@ myb:102263089	GALK1; galactokinase 1
 myd:102761109	GALK1; galactokinase 1
 mna:107536640	GALK1; galactokinase
 hai:109383737	GALK1; galactokinase 1
-rss:109454714	GALK1; galactokinase isoform X1
 dro:112298655	GALK1; galactokinase
 pale:102898006	GALK1; galactokinase
 ray:107501541	GALK1; galactokinase
@@ -70,7 +68,7 @@ cjo:107321975	GALK1; galactokinase 1
 nmel:110407297	GALK1; galactokinase
 apla:101799347	GALK1; galactokinase
 acyg:106034624	GALK1; galactokinase
-tgu:100218858	GALK1; galactokinase 1
+tgu:100218858	GALK1; galactokinase isoform X1
 lsr:110476565	GALK1; galactokinase
 scan:103819854	GALK1; galactokinase
 gfr:102031505	GALK1; galactokinase 1
@@ -97,6 +95,7 @@ acs:100555910	galk1; galactokinase 1
 pvt:110085197	GALK1; galactokinase
 pbi:103047995	GALK1; galactokinase
 pmur:107290291	GALK1; galactokinase
+tsr:106537456	GALK1; galactokinase
 pmua:114590624	GALK1; galactokinase
 gja:107113188	GALK1; galactokinase 1
 xla:444349	galk1.L, galk1; galactokinase 1 L homeolog
@@ -114,10 +113,12 @@ eee:113577643	galk1; galactokinase
 tru:101062137	galk1; galactokinase isoform X2
 lco:104929289	galk1; galactokinase
 mze:101467773	galk1; galactokinase
+onl:100702496	galk1; galactokinase isoform X1
 ola:101168444	galk1; galactokinase
 xma:102225949	galk1; galactokinase isoform X1
 xco:114150808	galk1; galactokinase
 pret:103482147	galk1; galactokinase isoform X1
+cvg:107098463	galk1; galactokinase
 kmr:108248855	galk1; galactokinase
 alim:106518998	galk1; galactokinase
 aoce:111581098	galk1; galactokinase isoform X1
