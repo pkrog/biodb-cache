@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:74699</chebiId><chebiAsciiName>Met-Asp</chebiAsciiName><definition>A dipeptide formed from L-methionine and L-aspartic acid residues.</definition><status>CHECKED</status><smiles>CSCC[C@H](N)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C9H16N2O5S/c1-17-3-2-5(10)8(14)11-6(9(15)16)4-7(12)13/h5-6H,2-4,10H2,1H3,(H,11,14)(H,12,13)(H,15,16)/t5-,6-/m0/s1</inchi><inchiKey>QTZXSYBVOSXBEJ-WDSKDSINSA-N</inchiKey><charge>0</charge><mass>264.29900</mass><monoisotopicMass>264.07799</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>L-Met-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>MD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Methionyl-Aspartate</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>methionylaspartic acid</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-methionyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H16N2O5S</data><source>ChEBI</source></Formulae><RegistryNumbers><data>7030634</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  07151310372D          
+
+ 17 16  0  0  1  0            999 V2000
+    6.5205   -4.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5205   -5.4901    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8061   -4.2527    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2350   -4.2527    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0916   -4.6652    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8061   -3.4277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6639   -4.2527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6639   -3.4277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9494   -4.6652    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.3783   -4.6652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9494   -5.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0899   -2.2035    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0910   -3.0223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3731   -1.7949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6639   -5.9026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6639   -6.7277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3783   -5.4901    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+ 11  9  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>HMDB0028969</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>dipeptide</chebiName><chebiId>CHEBI:46761</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

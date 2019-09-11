@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:29958</chebiId><chebiAsciiName>L-aspartic acid residue</chebiAsciiName><definition></definition><status>CHECKED</status><charge>0</charge><mass>115.08744</mass><monoisotopicMass>115.02694</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>-Asp-</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>Asp</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>D</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>L-aspartic acid</data><type>SYNONYM</type><source>RESID</source></Synonyms><Synonyms><data>L-aspartic acid residue</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>L-aspartic residue</data><type>SYNONYM</type><source>JCBN</source></Synonyms><Synonyms><data>L-aspartyl</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Formulae><data>C4H5NO3</data><source>RESID</source></Formulae><ChemicalStructures><structure>ChEBI
+  Marvin  10200512282D          
+
+ 10  9  0  0  1  0            999 V2000
+   18.3431  -17.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3431  -16.7614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6286  -17.9989    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.6286  -18.8239    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9141  -17.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1997  -17.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4852  -17.5864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1997  -18.8239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9141  -19.2364    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0576  -17.9989    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  1  0  0  0
+  5  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  4  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>AA0004</data><type>RESID accession</type></DatabaseLinks><OntologyParents><chebiName>L-alpha-amino acid residue</chebiName><chebiId>CHEBI:83228</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>proteinogenic amino-acid residue</chebiName><chebiId>CHEBI:33700</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartate residue</chebiName><chebiId>CHEBI:29961</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>aspartic acid residue</chebiName><chebiId>CHEBI:32470</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>D-aspartic acid residue</chebiName><chebiId>CHEBI:48094</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>hemediol-L-aspartate ester-L-glutamate ester-L-methionine sulfonium</chebiName><chebiId>CHEBI:24490</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>hemediol-L-aspartate ester-L-glutamate ester</chebiName><chebiId>CHEBI:24489</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-aspartyl 9-O-10-oxo-(12Z)-octadecenoic acid residue</chebiName><chebiId>CHEBI:143211</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>L-aspartate residue</chebiName><chebiId>CHEBI:29961</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>D-aspartic acid residue</chebiName><chebiId>CHEBI:48094</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

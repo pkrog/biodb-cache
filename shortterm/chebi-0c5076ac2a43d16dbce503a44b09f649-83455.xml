@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:83455</chebiId><chebiAsciiName>5-methyl-1H-benzotriazole</chebiAsciiName><definition>A member of the class of  benzotriazoles that is 1H-benzotriazole substituted by a methyl group at position 5.</definition><status>CHECKED</status><smiles>Cc1ccc2[nH]nnc2c1</smiles><inchi>InChI=1S/C7H7N3/c1-5-2-3-6-7(4-5)9-10-8-6/h2-4H,1H3,(H,8,9,10)</inchi><inchiKey>LRUDIIUSNGCQKF-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>133.15060</mass><monoisotopicMass>133.06400</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>5-Tolyltriazole</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>Tolutriazole</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><IupacNames><data>5-methyl-1H-benzotriazole</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C7H7N3</data><source>ChEBI</source></Formulae><RegistryNumbers><data>116658</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>136-85-6</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><Citations><data>24621328</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24746525</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 11071408462D          
+
+ 10 11  0  0  0  0            999 V2000
+    8.8766   -4.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8766   -3.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1622   -3.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4477   -3.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7333   -3.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4477   -4.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1622   -4.7780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6612   -3.2857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1461   -3.9530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6612   -4.6205    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 10  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Mrv0541 11071408462D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 10  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>benzotriazoles</chebiName><chebiId>CHEBI:48912</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>environmental contaminant</chebiName><chebiId>CHEBI:78298</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>xenobiotic</chebiName><chebiId>CHEBI:35703</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><GeneralComments><text>Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag</text><date>2014-10-29</date></GeneralComments></return></getCompleteEntityResponse></S:Body></S:Envelope>

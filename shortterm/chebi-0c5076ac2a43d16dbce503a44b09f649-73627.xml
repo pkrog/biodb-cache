@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73627</chebiId><chebiAsciiName>Phe-Ala-Asp</chebiAsciiName><definition>A tripeptide composed of L-phenylalanine, L-alanine, and L-aspartic acid joined by peptide linkages.</definition><status>CHECKED</status><smiles>C[C@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)N[C@@H](CC(O)=O)C(O)=O</smiles><inchi>InChI=1S/C16H21N3O6/c1-9(14(22)19-12(16(24)25)8-13(20)21)18-15(23)11(17)7-10-5-3-2-4-6-10/h2-6,9,11-12H,7-8,17H2,1H3,(H,18,23)(H,19,22)(H,20,21)(H,24,25)/t9-,11-,12-/m0/s1</inchi><inchiKey>LSXGADJXBDFXQU-DLOVCJGASA-N</inchiKey><charge>0</charge><mass>351.35440</mass><monoisotopicMass>351.14304</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>F-A-D</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>FAD</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>L-Phe-L-Ala-L-Asp</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>L-phenylalanyl-L-alanyl-L-aspartic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H21N3O6</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  05131315112D          
+
+ 25 25  0  0  1  0            999 V2000
+    9.6173   -8.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6173   -9.7857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9028   -8.5482    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.3317   -8.5482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1883   -8.9607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9028   -7.7232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7607   -8.5482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7607   -7.7232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0462   -8.9607    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.4751   -8.9607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0462   -9.7857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9041   -8.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9041   -9.7857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1896   -8.5482    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.6185   -8.5482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1896   -7.7232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9041   -7.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9041   -6.4857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6186   -7.7232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1883   -7.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1883   -6.4857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4738   -7.7232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7594   -7.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4738   -6.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7594   -6.4857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  5  1  1  0  0  0
+  6  3  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+  9  4  1  6  0  0  0
+ 11  9  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 14 10  1  1  0  0  0
+ 16 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 20  6  1  0  0  0  0
+ 21 20  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 24 21  1  0  0  0  0
+ 23 22  2  0  0  0  0
+ 25 23  1  0  0  0  0
+ 25 24  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>tripeptide</chebiName><chebiId>CHEBI:47923</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-phenylalanine</chebiName><chebiId>CHEBI:17295</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-alanine</chebiName><chebiId>CHEBI:16977</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-aspartic acid</chebiName><chebiId>CHEBI:17053</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>
