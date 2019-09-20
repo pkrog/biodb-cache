@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:106048</chebiId><chebiAsciiName>4-(4-chlorophenoxy)-1-(4-morpholinyl)-1-butanone</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1COCCN1C(=O)CCCOC2=CC=C(C=C2)Cl</smiles><inchi>InChI=1S/C14H18ClNO3/c15-12-3-5-13(6-4-12)19-9-1-2-14(17)16-7-10-18-11-8-16/h3-6H,1-2,7-11H2</inchi><inchiKey>HSRRXYCDUUXMNY-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>283.751</mass><monoisotopicMass>283.09752</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C14H18ClNO3</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162330
+null
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -5.3625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  1  1  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  7  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 18 13  1  0  0  0  0 
+ 16 19  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-17409</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>aromatic ether</chebiName><chebiId>CHEBI:35618</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

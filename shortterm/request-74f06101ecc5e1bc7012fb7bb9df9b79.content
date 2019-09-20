@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:65780</chebiId><chebiAsciiName>7,4'-dihydroxy-3'-methoxyisoflavone</chebiAsciiName><definition>A member of the class of 7-hydroxyisoflavones that is 7,4'-dihydroxyisoflavone substituted by a methoxy group at position 3'. It is isolated from the heart woods of Maackia amurensis subsp buergeri and Dalbergia louveli and exhibits antiplasmodial ativity.</definition><status>CHECKED</status><smiles>COc1cc(ccc1O)-c1coc2cc(O)ccc2c1=O</smiles><inchi>InChI=1S/C16H12O5/c1-20-15-6-9(2-5-13(15)18)12-8-21-14-7-10(17)3-4-11(14)16(12)19/h2-8,17-18H,1H3</inchi><inchiKey>MUYAUELJBWQNDH-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>3'-methoxydaidzein</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>7-hydroxy-3-(4-hydroxy-3-methoxyphenyl)-4H-chromen-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1257927</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>21913-98-4</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>14640516</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  01091310552D          
+
+ 21 23  0  0  0  0            999 V2000
+   -4.2407   -6.3423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2419   -7.1692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5275   -7.5818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5293   -5.9297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8143   -6.3387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8109   -7.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0961   -7.5755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3800   -7.1608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3834   -6.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1029   -5.9194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0939   -8.4000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6677   -7.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6668   -8.3964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0475   -8.8067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7615   -8.3924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7566   -7.5636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0417   -7.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4772   -8.8018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4681   -7.1469    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1847   -7.5547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9550   -5.9302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  9 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  3  6  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 14 15  2  0  0  0  0
+  5  4  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  4  1  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 16 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>4477721</data><type>Chemspider accession</type></DatabaseLinks><OntologyParents><chebiName>methoxyisoflavone</chebiName><chebiId>CHEBI:38756</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antiplasmodial drug</chebiName><chebiId>CHEBI:64915</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>7-hydroxyisoflavones</chebiName><chebiId>CHEBI:55465</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Dalbergia louveli</speciesText><speciesAccession>IPNI:490305-1</speciesAccession><componentText>heartwood</componentText><componentAccession>PO:0004512</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>14640516</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Maackia amurensissubsp.buergeri</speciesText><speciesAccession>IPNI:885548-1</speciesAccession><componentText>heartwood</componentText><componentAccession>PO:0004512</componentAccession><SourceType>DOI</SourceType><SourceAccession>10.1248/cpb.20.2488</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

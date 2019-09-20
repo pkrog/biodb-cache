@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:34778</chebiId><chebiAsciiName>glycitein</chebiAsciiName><definition>A  methoxyisoflavone that is isoflavone substituted by a methoxy group at position 6 and hydroxy groups at positions 7 and 4'. It has been isolated from the mycelia of the fungus Cordyceps sinensis.</definition><status>CHECKED</status><smiles>COc1cc2c(cc1O)occ(-c1ccc(O)cc1)c2=O</smiles><inchi>InChI=1S/C16H12O5/c1-20-15-6-11-14(7-13(15)18)21-8-12(16(11)19)9-2-4-10(17)5-3-9/h2-8,17-18H,1H3</inchi><inchiKey>DXYUAIFZCFRPTH-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:69442</SecondaryChEBIIds><Synonyms><data>7,4'-Dihydroxy-6-methoxyisoflavone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>7-Hydroxy-3-(4-hydroxyphenyl)-6-methoxy-4H-1-benzopyran-4-one</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>7-hydroxy-3-(4-hydroxyphenyl)-6-methoxychromen-4H-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1351032</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>40957-83-3</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>21848266</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24499298</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24950423</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 10281411372D          
+
+ 21 23  0  0  0  0            999 V2000
+    1.5901   -0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5889    0.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030    0.9703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -0.6809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0157   -0.2722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0192    0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7375    0.9708    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4571    0.5541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4537   -0.2781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7307   -0.6936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7262   -1.5176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1651   -0.6920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8804   -0.2804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5923   -0.6940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5902   -1.5190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8702   -1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1613   -1.5128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3020   -1.9342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8763    0.9694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8832   -0.6805    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8834   -1.5046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  3  6  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 14 15  2  0  0  0  0
+  5  4  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  4  1  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  1 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Mrv0541 10281411372D          
+
+ 21 23  0  0  0  0            999 V2000
+   -3.7140   -0.3122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7152   -1.1386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0011   -1.5510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0029    0.1002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2884   -0.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2849   -1.1407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5666   -1.5515    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8470   -1.1348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8504   -0.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5734    0.1129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5779    0.9369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1390    0.1113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5763   -0.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2882    0.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2861    0.9383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5661    1.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1428    0.9321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979    1.3535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4278   -1.5501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4209    0.0998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4207    0.9239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  3  6  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 14 15  2  0  0  0  0
+  5  4  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  4  1  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  1 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00009392</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C14536</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CPD-7027</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>Glycitein</data><type>Wikipedia accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0005781</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>LMPK12050104</data><type>LIPID MAPS instance accession</type></DatabaseLinks><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>phytoestrogen</chebiName><chebiId>CHEBI:76989</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>methoxyisoflavone</chebiName><chebiId>CHEBI:38756</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>7-hydroxyisoflavone</chebiName><chebiId>CHEBI:12256</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>fungal metabolite</chebiName><chebiId>CHEBI:76946</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>isoflavone</chebiName><chebiId>CHEBI:18220</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>glycitein 4'-O-glucuronide</chebiName><chebiId>CHEBI:133667</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:txid9606</speciesAccession><componentText>urine</componentText><componentAccession>BTO:0001419</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>11410004</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:txid9606</speciesAccession><componentText>blood</componentText><componentAccession>UBERON:0000178</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>17449595</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Cordyceps sinensis</speciesText><speciesAccession>NCBI:txid72228</speciesAccession><componentText>mycelium</componentText><componentAccession>BTO:0001436</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21848266</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

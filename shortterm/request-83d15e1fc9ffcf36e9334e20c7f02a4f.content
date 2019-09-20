@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:92333</chebiId><chebiAsciiName>5-[(2-chloroanilino)methyl]-8-quinolinol</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1=CC=C(C(=C1)NCC2=C3C=CC=NC3=C(C=C2)O)Cl</smiles><inchi>InChI=1S/C16H13ClN2O/c17-13-5-1-2-6-14(13)19-10-11-7-8-15(20)16-12(11)4-3-9-18-16/h1-9,19-20H,10H2</inchi><inchiKey>SIQPSBPDNFPNKG-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.741</mass><monoisotopicMass>284.07164</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C16H13ClN2O</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162153
+null
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  6  1  1  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  2  0  0  0  0 
+ 12 13  1  0  0  0  0 
+ 13 14  2  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 10  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 18  9  1  0  0  0  0 
+ 16 19  1  0  0  0  0 
+  4 20  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-2407</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>hydroxyquinoline</chebiName><chebiId>CHEBI:38774</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

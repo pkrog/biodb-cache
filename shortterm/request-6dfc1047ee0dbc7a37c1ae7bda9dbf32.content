@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:49575</chebiId><chebiAsciiName>diazepam</chebiAsciiName><definition>A 1,4-benzodiazepinone that is 1,3-dihydro-2H-1,4-benzodiazepin-2-one substituted by a chloro group at position 7, a methyl group at position 1 and a phenyl group at position 5.</definition><status>CHECKED</status><smiles>CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc12</smiles><inchi>InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3</inchi><inchiKey>AAOVKJBEBIDNHE-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.74000</mass><monoisotopicMass>284.07164</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:49574</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:4494</SecondaryChEBIIds><Synonyms><data>7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one</data><type>SYNONYM</type><source>NIST Chemistry WebBook</source></Synonyms><Synonyms><data>Diazepam</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>methyl diazepinone</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Valium</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Formulae><data>C16H13ClN2O</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>124061</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><RegistryNumbers><data>439-14-5</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>439-14-5</data><type>CAS Registry Number</type><source>NIST Chemistry WebBook</source></RegistryNumbers><RegistryNumbers><data>754371</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>754371</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>11925051</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>16365514</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>16780966</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure> 
+  Marvin  04250622072D          
+
+ 20 22  0  0  0  0            999 V2000
+    0.4621   -0.2810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1829    0.2334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2785   -1.0853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2664   -0.0974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1829    1.0584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8974   -0.1791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8833   -1.6464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5098   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6244    0.6459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4621    1.5728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8974    1.4709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6118    0.2334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6997   -2.4507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6934   -2.1328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2664    1.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2785    2.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6118    1.0584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3263   -0.1791    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0886   -2.6939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7808    2.0342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 15 20  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 14 19  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>2972</data><type>VSDB accession</type></DatabaseLinks><DatabaseLinks><data>852</data><type>Drug Central accession</type></DatabaseLinks><DatabaseLinks><data>C06948</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>D00293</data><type>KEGG DRUG accession</type></DatabaseLinks><DatabaseLinks><data>DB00829</data><type>DrugBank accession</type></DatabaseLinks><DatabaseLinks><data>Diazepam</data><type>Wikipedia accession</type></DatabaseLinks><DatabaseLinks><data>DZP</data><type>PDBeChem accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0014967</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>LSM-2359</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>xenobiotic</chebiName><chebiId>CHEBI:35703</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>environmental contaminant</chebiName><chebiId>CHEBI:78298</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>1,4-benzodiazepinone</chebiName><chebiId>CHEBI:35500</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anxiolytic drug</chebiName><chebiId>CHEBI:35474</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anticonvulsant</chebiName><chebiId>CHEBI:35623</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>sedative</chebiName><chebiId>CHEBI:35717</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>organochlorine compound</chebiName><chebiId>CHEBI:36683</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>fludiazepam</chebiName><chebiId>CHEBI:31618</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><GeneralComments><text>Stravs M, Schymanski E, Singer H, Department of Environmental Chemistry, Eawag</text><date>2014-10-29</date></GeneralComments><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:txid9606</speciesAccession><SourceType>DOI</SourceType><SourceAccession>10.1038/nbt.2488</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

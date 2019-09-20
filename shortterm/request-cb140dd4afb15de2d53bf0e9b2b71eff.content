@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:2285</chebiId><chebiAsciiName>7-(5-phospho-alpha-D-ribosyl)adenine</chebiAsciiName><definition>A purine ribonucleoside 5'-monophosphate compound having 6-aminopurine as the nucleobase.</definition><status>CHECKED</status><smiles>Nc1ncnc2ncn([C@@H]3O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]3O)c12</smiles><inchi>InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)14-3-15(5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1</inchi><inchiKey>NVOIXARBSSLBAS-KQYNXXCUSA-N</inchiKey><charge>0</charge><mass>347.22120</mass><monoisotopicMass>347.06308</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>7-alpha-D-Ribosyladenine 5'-phosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>7-(5-O-phosphono-beta-D-ribofuranosyl)-7H-purin-6-amine</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H14N5O7P</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>6772810</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  08270910412D          
+
+ 23 25  0  0  1  0            999 V2000
+    0.9373   -3.5270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9373   -2.7020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2228   -2.2895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2227   -1.4645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9372   -1.0520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6517   -1.4645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6517   -2.2895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4363   -2.5444    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9213   -1.8769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4363   -1.2095    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6912   -3.3290    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2062   -3.9963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6911   -4.6639    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4361   -5.4485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4757   -4.4089    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1432   -4.8939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4758   -3.5839    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1432   -3.0990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7216   -5.8610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0072   -5.4485    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2927   -5.8610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0072   -4.6235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7936   -6.2454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  6  0  0  0
+ 11  8  1  1  0  0  0
+ 14 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C04378</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>purine ribonucleoside 5'-monophosphate</chebiName><chebiId>CHEBI:37021</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

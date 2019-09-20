@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:15335</chebiId><chebiAsciiName>5,7-dihydroxy-4'-methoxyflavone</chebiAsciiName><definition>A monomethoxyflavone that is the 4'-methyl ether derivative of apigenin.</definition><status>CHECKED</status><smiles>COc1ccc(cc1)-c1cc(=O)c2c(O)cc(O)cc2o1</smiles><inchi>InChI=1S/C16H12O5/c1-20-11-4-2-9(3-5-11)14-8-13(19)16-12(18)6-10(17)7-15(16)21-14/h2-8,17-18H,1H3</inchi><inchiKey>DANYIYRPLHHOCZ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:20520</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:11915</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:2371</SecondaryChEBIIds><Synonyms><data>4'-Methoxy-5,7-dihydroxyflavone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>5,7-Dihydroxy-2-(4-methoxyphenyl)-4-benzopyrone</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>5,7-Dihydroxy-4'-methoxyflavone</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>5,7-dihydroxy-4'-methoxyflavone</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Acacetin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Linarigenin</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>5,7-dihydroxy-2-(4-methoxyphenyl)-4H-chromen-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>277879</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>480-44-4</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><RegistryNumbers><data>480-44-4</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>19693651</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21993665</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22360797</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23325489</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>ChEBI
+  Marvin  09251212202D          
+
+ 21 23  0  0  0  0            999 V2000
+    3.1069   -8.7490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8214   -9.1616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8214   -9.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1069  -10.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3925   -9.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3925   -9.1616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5359   -8.7490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5359  -10.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2503   -9.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2503   -9.1616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5359  -11.2241    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1069  -11.2241    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6780   -8.7491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9648   -8.7491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6793   -7.5115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9648   -7.9240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6793   -9.1616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3937   -8.7491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3937   -7.9240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1082   -7.5115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8227   -7.9240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  3  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  7  2  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>Acacetin</data><type>Wikipedia accession</type></DatabaseLinks><DatabaseLinks><data>C00003820</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C01470</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CPD-1095</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>LMPK12110468</data><type>LIPID MAPS instance accession</type></DatabaseLinks><DatabaseLinks><data>LSM-6662</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>anticonvulsant</chebiName><chebiId>CHEBI:35623</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dihydroxyflavone</chebiName><chebiId>CHEBI:38686</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>apigenin</chebiName><chebiId>CHEBI:18388</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>5-hydroxy-2-(4-methoxyphenyl)-4-oxo-4H-chromen-7-olate</chebiName><chebiId>CHEBI:57284</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>monomethoxyflavone</chebiName><chebiId>CHEBI:25401</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>acacetin-7-O-beta-D-galactopyranoside</chebiName><chebiId>CHEBI:65361</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>acacetin-8-C-neohesperidoside</chebiName><chebiId>CHEBI:70626</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>isoginkgetin</chebiName><chebiId>CHEBI:79087</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>5-hydroxy-2-(4-methoxyphenyl)-4-oxo-4H-chromen-7-olate</chebiName><chebiId>CHEBI:57284</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

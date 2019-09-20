@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:108372</chebiId><chebiAsciiName>N-(1,1-dioxo-2,3-dihydrothiophen-3-yl)-N-(2-ethylphenyl)-2-thiophenecarboxamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CCC1=CC=CC=C1N(C2CS(=O)(=O)C=C2)C(=O)C3=CC=CS3</smiles><inchi>InChI=1S/C17H17NO3S2/c1-2-13-6-3-4-7-15(13)18(14-9-11-23(20,21)12-14)17(19)16-8-5-10-22-16/h3-11,14H,2,12H2,1H3</inchi><inchiKey>YQLDWBIGLBQWAP-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>347.455</mass><monoisotopicMass>347.06499</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C17H17NO3S2</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162332
+null
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    3.7074   -3.4332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8870   -3.3470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4020   -4.0144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7376   -4.7681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2527   -5.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4322   -5.3493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0966   -4.5956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5815   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2460   -3.1745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4760   -1.7224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5914   -0.6244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954   -0.6244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8109   -1.7224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4255   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0900   -2.3346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0594   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1955   -4.5403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4719   -5.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1394   -4.5403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8844   -3.7557    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  6  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  3  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+ 12 14  2  0  0  0  0 
+ 12 15  1  0  0  0  0 
+ 15 16  2  0  0  0  0 
+ 16 10  1  0  0  0  0 
+  9 17  1  0  0  0  0 
+ 17 18  2  0  0  0  0 
+ 17 19  1  0  0  0  0 
+ 19 20  2  0  0  0  0 
+ 20 21  1  0  0  0  0 
+ 21 22  2  0  0  0  0 
+ 22 23  1  0  0  0  0 
+ 23 19  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-19748</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>aromatic amide</chebiName><chebiId>CHEBI:62733</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:5326</chebiId><chebiAsciiName>geraldone</chebiAsciiName><definition>A dihydroxyflavone that is the 5-deoxy-derivative of 4',5,7-trihydroxy-3'-methoxyflavone (chrysoeriol).</definition><status>CHECKED</status><smiles>COc1cc(ccc1O)-c1cc(=O)c2ccc(O)cc2o1</smiles><inchi>InChI=1S/C16H12O5/c1-20-16-6-9(2-5-12(16)18)14-8-13(19)11-4-3-10(17)7-15(11)21-14/h2-8,17-18H,1H3</inchi><inchiKey>OUMMPAFEQHTYIZ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>5-Deoxychrysoeriol</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>7,4'-dihydroxy-3'-methoxyflavone</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>7-hydroxy-2-(4-hydroxy-3-methoxyphenyl)-4H-1-benzopyran-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1256759</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>21583-32-4</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><Citations><data>15283458</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24886138</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 06041515222D 1   1.00000     0.00000     0
+
+ 21 23  0     0  0            999 V2000
+   15.8234  -11.3953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8192  -12.3977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6928  -10.9045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9581  -10.9003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6845  -12.9052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9581  -12.9012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5539  -11.4036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0929  -11.3953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5497  -12.4061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6803  -13.9036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0929  -12.3977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4233  -10.9087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2235  -10.9003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4233   -9.9144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2844  -11.4160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2926   -9.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1537  -10.9211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1579   -9.9186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2968   -8.4127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0273   -9.4194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1663   -7.9177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0     0  0
+  1  3  1  0     0  0
+  1  4  1  0     0  0
+  2  5  1  0     0  0
+  2  6  1  0     0  0
+  3  7  1  0     0  0
+  4  8  2  0     0  0
+  5  9  1  0     0  0
+  5 10  2  0     0  0
+  6 11  2  0     0  0
+  7 12  1  0     0  0
+  8 13  1  0     0  0
+ 12 14  1  0     0  0
+ 12 15  2  0     0  0
+ 14 16  2  0     0  0
+ 15 17  1  0     0  0
+ 16 18  1  0     0  0
+ 16 19  1  0     0  0
+ 18 20  1  0     0  0
+ 19 21  1  0     0  0
+  7  9  2  0     0  0
+  8 11  1  0     0  0
+ 17 18  2  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00003826</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C10047</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>LMPK12110043</data><type>LIPID MAPS instance accession</type></DatabaseLinks><OntologyParents><chebiName>dihydroxyflavone</chebiName><chebiId>CHEBI:38686</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>monomethoxyflavone</chebiName><chebiId>CHEBI:25401</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>4',5,7-trihydroxy-3'-methoxyflavone</chebiName><chebiId>CHEBI:16514</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Albizia julibrissin</speciesText><speciesAccession>NCBI:txid3813</speciesAccession><componentText>bark</componentText><componentAccession>BTO:0001301</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>15283458</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

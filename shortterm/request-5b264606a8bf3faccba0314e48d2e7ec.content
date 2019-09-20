@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:16200</chebiId><chebiAsciiName>questin</chebiAsciiName><definition>A dihydroxyanthraquinone that is 1,6-dihyroxy-9,10-anthraquinone which is substituted by a methyl group at position 3 and a methoxy group at position 8.</definition><status>CHECKED</status><smiles>COc1cc(O)cc2C(=O)c3cc(C)cc(O)c3C(=O)c12</smiles><inchi>InChI=1S/C16H12O5/c1-7-3-9-13(11(18)4-7)16(20)14-10(15(9)19)5-8(17)6-12(14)21-2/h3-6,17-18H,1-2H3</inchi><inchiKey>UUNPIWCQMVNINR-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26348</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:8706</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:14997</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:26486</SecondaryChEBIIds><Synonyms><data>1,6-dihydroxy-3-methyl-8-(methyloxy)anthracene-9,10-dione</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>1,6-dihydroxy-8-methoxy-3-methyl-9,10-anthraquinone</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>3,8-dihydroxy-1-methoxy-6-methylanthracene-9,10-dione</data><type>SYNONYM</type><source>IUBMB</source></Synonyms><Synonyms><data>emodin-8-methyl ether</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Questin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>1,6-dihydroxy-8-methoxy-3-methylanthracene-9,10-dione</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>2061188</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>3774-64-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  03280812262D          
+
+ 21 23  0  0  0  0            999 V2000
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433   -0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288    1.6499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578   -0.8249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  1  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  1  1  0  0  0  0
+  7  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 16  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  2  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 12  2  0  0  0  0
+ 15  7  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 15 11  2  0  0  0  0
+ 16 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00000570</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C01448</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>dihydroxyanthraquinone</chebiName><chebiId>CHEBI:37484</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>questin-2-olate</chebiName><chebiId>CHEBI:57676</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>emodin</chebiName><chebiId>CHEBI:42223</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>questin-2-olate</chebiName><chebiId>CHEBI:57676</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

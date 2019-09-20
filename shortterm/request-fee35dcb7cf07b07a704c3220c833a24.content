@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:8600</chebiId><chebiAsciiName>prunetin</chebiAsciiName><definition>A hydroxyisoflavone that is  genistein  in which the hydroxy group at position 7 is replaced by a methoxy group.</definition><status>CHECKED</status><smiles>COc1cc(O)c2c(c1)occ(-c1ccc(O)cc1)c2=O</smiles><inchi>InChI=1S/C16H12O5/c1-20-11-6-13(18)15-14(7-11)21-8-12(16(15)19)9-2-4-10(17)5-3-9/h2-8,17-18H,1H3</inchi><inchiKey>KQMVAGISDHMXJJ-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26348</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>4',5-dihydroxy-7-methoxygenistein</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>4',5-dihydroxy-7-methoxyisoflavone</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>5-Hydroxy-3-(4-hydroxyphenyl)-7-methoxy-4-benzopyrone</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>5-Hydroxy-3-(4-hydroxyphenyl)-7-methoxy-4H-1-benzopyran-4-one</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>7-O-methyl-genistein</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Padmakastein</data><type>SYNONYM</type><source>HMDB</source></Synonyms><Synonyms><data>Prunetin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Prunusetin</data><type>SYNONYM</type><source>HMDB</source></Synonyms><IupacNames><data>5-hydroxy-3-(4-hydroxyphenyl)-7-methoxy-4H-chromen-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>292155</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>552-59-0</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><RegistryNumbers><data>552-59-0</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>15408466</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21305630</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22010824</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22148193</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23265084</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23438470</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23597450</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>9105397</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>ChEBI
+  Marvin  05010816322D          
+
+ 21 23  0  0  0  0            999 V2000
+   10.7820   -6.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7820   -6.9344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0675   -5.6969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4965   -5.6969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4965   -7.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0675   -7.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3531   -6.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2109   -6.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2109   -6.9344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4965   -8.1719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3531   -6.9344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0675   -8.1719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9254   -7.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6398   -6.9344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9254   -8.1719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3543   -7.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6398   -8.5844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3543   -8.1719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0688   -8.5844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6386   -5.6969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9241   -6.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 20  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00002564</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C10521</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CN101669935</data><type>Patent accession</type></DatabaseLinks><DatabaseLinks><data>CPD-3521</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0034127</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>LMPK12050353</data><type>LIPID MAPS instance accession</type></DatabaseLinks><DatabaseLinks><data>LSM-3283</data><type>LINCS accession</type></DatabaseLinks><DatabaseLinks><data>Prunetin</data><type>Wikipedia accession</type></DatabaseLinks><OntologyParents><chebiName>hydroxyisoflavone</chebiName><chebiId>CHEBI:38755</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 1.2.1.3 [aldehyde dehydrogenase (NAD(+))] inhibitor</chebiName><chebiId>CHEBI:35487</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>7-methoxyisoflavones</chebiName><chebiId>CHEBI:140356</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 1.3.1.22 [3-oxo-5alpha-steroid 4-dehydrogenase (NADP(+))] inhibitor</chebiName><chebiId>CHEBI:50781</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anti-inflammatory agent</chebiName><chebiId>CHEBI:67079</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>genistein</chebiName><chebiId>CHEBI:28088</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>prunetin 4'-O-glucoside</chebiName><chebiId>CHEBI:78742</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Neolitsea daibuensis</speciesText><speciesAccession>IPNI:466954-1</speciesAccession><componentText>root</componentText><componentAccession>BTO:0001188</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>22148193</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Crotalaria lachnophora</speciesText><speciesAccession>IPNI:488342-1</speciesAccession><componentText>whole plant</componentText><componentAccession>BTO:0001461</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21265557</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

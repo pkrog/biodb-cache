@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:73030</chebiId><chebiAsciiName>(+)-maackiain</chebiAsciiName><definition>The (+)-enantiomer of maackiain.</definition><status>CHECKED</status><smiles>[H][C@]12COc3cc(O)ccc3[C@@]1([H])Oc1cc3OCOc3cc21</smiles><inchi>InChI=1S/C16H12O5/c17-8-1-2-9-12(3-8)18-6-11-10-4-14-15(20-7-19-14)5-13(10)21-16(9)11/h1-5,11,16-17H,6-7H2/t11-,16-/m1/s1</inchi><inchiKey>HUKSJTUUSUGIDC-BDJLRTHQSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>demethylpterocarpin</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>(6aS,12aS)-6a,12a-dihydro-6H-[1,3]dioxolo[5,6][1]benzofuro[3,2-c]chromen-3-ol</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1595378</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><ChemicalStructures><structure>
+  Marvin  03271314222D          
+
+ 23 27  0  0  0  0            999 V2000
+   -1.3159   -0.8762    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5941   -0.4688    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0204   -0.4619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1467   -1.6878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0171   -1.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5907    0.3531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0169    0.3601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7248   -0.8729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3282   -1.7776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8389   -0.9487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3020    0.7676    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7248    0.7709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4396   -0.4619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1518   -2.4509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3156   -1.6222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4396    0.3601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9736   -2.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1409   -1.7188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1510    0.7709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5814   -2.9379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -2.5303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1611   -0.1367    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9862   -1.3571    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 23  1  1  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 22  1  1  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>C00019173</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C16229</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>CPD-4462</data><type>MetaCyc accession</type></DatabaseLinks><OntologyParents><chebiName>maackiain</chebiName><chebiId>CHEBI:73029</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>(-)-maackiain</chebiName><chebiId>CHEBI:99</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>(-)-maackiain</chebiName><chebiId>CHEBI:99</chebiId><type>is enantiomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>(+)-6a-hydroxymaackiain</chebiName><chebiId>CHEBI:43129</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

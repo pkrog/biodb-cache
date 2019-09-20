@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:28931</chebiId><chebiAsciiName>3'-AMP</chebiAsciiName><definition>An adenosine 3'-phosphate with a monophosphate group at the 3'-position.</definition><status>CHECKED</status><smiles>Nc1ncnc2n(cnc12)[C@@H]1O[C@H](CO)[C@@H](OP(O)(O)=O)[C@H]1O</smiles><inchi>InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(17)7(4(1-16)21-10)22-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1</inchi><inchiKey>LNQVTSROQXJCDD-KQYNXXCUSA-N</inchiKey><charge>0</charge><mass>347.22142</mass><monoisotopicMass>347.06308</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:40872</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:1333</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:22241</SecondaryChEBIIds><Synonyms><data>3'-Adenosine monophosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>3'-Adenylic acid</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>3'-AMP</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>adenosine 3'-monophosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Adenosine 3'-phosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Adenosine-3'-monophosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>AMP 3'-phosphate</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>synadenylic acid</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><IupacNames><data>3'-adenylic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H14N5O7P</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>54478</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>54478</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>84-21-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>905125</data><type>Gmelin Registry Number</type><source>Gmelin</source></RegistryNumbers><Citations><data>18544912</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21622827</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23759508</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  04250611182D          
+
+ 23 25  0  0  1  0            999 V2000
+    0.1069    0.0916    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1069   -1.2433    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3780   -0.5759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8916   -0.9884    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8916   -0.1634    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5590    0.3216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1480    0.8762    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9326    1.1311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9326    1.9561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1480    2.2111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3369    1.5436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6471    2.3686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6471    0.7186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3616    1.9561    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3616    1.1311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6471    3.1936    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1480   -2.0279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4354   -2.6113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5590   -1.4733    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3840   -0.6483    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3840   -2.2983    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3840   -1.4733    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2090   -1.4733    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  1  0  0  0
+  3  1  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  2 17  1  1  0  0  0
+  5  4  1  0  0  0  0
+  4 19  1  6  0  0  0
+  5  6  1  6  0  0  0
+  8  7  1  0  0  0  0
+ 11  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 13  8  2  0  0  0  0
+ 12  9  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 20  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 22 23  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  08020613483D          
+
+ 37 39  0  0  0  0            999 V2000
+    4.8879   -5.5817    1.9020 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4309   -5.7955    2.2726 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7435   -4.7312    1.4306 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3936   -4.3438    2.0382 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1496   -3.8156    3.1282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8411   -3.3223    3.0791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9666   -2.4776    4.1376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1936   -2.2698    4.7314 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8886   -2.4834    3.5408 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9563   -4.0741    1.6100 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.2844   -2.9518    4.2101 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9070   -4.0116    2.5429 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3524   -1.3969    5.8294 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7648   -1.9565    4.4263 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5556   -3.3183    2.7216 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6211   -3.6133    1.4053 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1062   -6.2611    0.6751 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0024   -7.0801    1.8421 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8612   -3.2299    1.3357 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0062   -9.2996    2.6683 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7953   -8.2359    4.0499 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3939   -7.2014    4.0350 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5011   -8.0008    3.1141 P   0  0  1  0  0  0  0  0  0  0  0  0
+    5.6304   -5.9715    2.6307 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2052   -5.7914    3.3605 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5846   -5.0564    0.3801 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5066   -4.0537    3.1046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -5.1797    1.9561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0379   -4.3512    2.7299 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8001   -2.2662    3.4939 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5630   -3.8548    0.7055 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3047   -1.2589    6.2595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5186   -0.8830    6.2190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8391   -6.9554    0.6045 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0378   -3.3036    0.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7955   -7.9037    5.0058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6115   -6.9623    4.9940 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 22 23  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 15  1  0  0  0  0
+  9 15  4  0  0  0  0
+  9 14  4  0  0  0  0
+  8 13  1  0  0  0  0
+  8 11  4  0  0  0  0
+  7 14  4  0  0  0  0
+  7  8  4  0  0  0  0
+  6 15  4  0  0  0  0
+  6 12  4  0  0  0  0
+  6  7  4  0  0  0  0
+  5 12  4  0  0  0  0
+  5 11  4  0  0  0  0
+  4 19  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 24  1  1  0  0  0  0
+ 25  2  1  0  0  0  0
+ 26  3  1  0  0  0  0
+ 27  4  1  0  0  0  0
+ 28  4  1  0  0  0  0
+ 29  5  1  0  0  0  0
+ 30  9  1  0  0  0  0
+ 31 10  1  0  0  0  0
+ 32 13  1  0  0  0  0
+ 33 13  1  0  0  0  0
+ 34 17  1  0  0  0  0
+ 35 19  1  0  0  0  0
+ 36 21  1  0  0  0  0
+ 37 22  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>3D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>3AM</data><type>PDBeChem accession</type></DatabaseLinks><DatabaseLinks><data>C00019350</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C01367</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>Escherichia coli metabolite</chebiName><chebiId>CHEBI:76971</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>mouse metabolite</chebiName><chebiId>CHEBI:75771</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>3'-AMP(2-)</chebiName><chebiId>CHEBI:60880</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>purine ribonucleoside 3'-monophosphate</chebiName><chebiId>CHEBI:37020</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>adenosine 3'-phosphate</chebiName><chebiId>CHEBI:37097</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>human metabolite</chebiName><chebiId>CHEBI:77746</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>3'-AMP(2-)</chebiName><chebiId>CHEBI:60880</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Mus musculus</speciesText><speciesAccession>NCBI:txid10090</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>18544912</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Arabidopsis thaliana</speciesText><speciesAccession>NCBI:txid3702</speciesAccession><componentText>cell suspension culture</componentText><componentAccession>BTO:0000221</componentAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS311</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Brassica napus</speciesText><speciesAccession>NCBI:txid3708</speciesAccession><componentText>leaf lamina</componentText><componentAccession>BTO:0000719</componentAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS309</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Brassica napus</speciesText><speciesAccession>NCBI:txid3708</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS309</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Brassica napus</speciesText><speciesAccession>NCBI:txid3708</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS312</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Oryza sativa</speciesText><speciesAccession>NCBI:txid4530</speciesAccession><SourceType>MetaboLights</SourceType><SourceAccession>MTBLS287</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Escherichia coli</speciesText><speciesAccession>NCBI:txid562</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>21988831</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Homo sapiens</speciesText><speciesAccession>NCBI:txid9606</speciesAccession><componentText>saliva</componentText><componentAccession>UBERON:0001836</componentAccession><SourceType>Article</SourceType><SourceAccession>Sugimoto et al. (2013) Physiological and environmental parameters associated with mass spectrometry-based salivary metabolomic profiles. </SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

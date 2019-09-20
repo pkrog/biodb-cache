@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:71365</chebiId><chebiAsciiName>rifampicin zwitterion</chebiAsciiName><definition>A zwitterion obtained by transfer of a proton from the 5-hydroxy group to the tertiary amino group of rifampicin.</definition><status>CHECKED</status><smiles>CO[C@H]1\C=C\O[C@@]2(C)Oc3c(C)c([O-])c4c(O)c(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)c(\C=N\N1CC[NH+](C)CC1)c(O)c4c3C2=O</smiles><inchi>InChI=1S/C43H58N4O12/c1-21-12-11-13-22(2)42(55)45-33-28(20-44-47-17-15-46(9)16-18-47)37(52)30-31(38(33)53)36(51)26(6)40-32(30)41(54)43(8,59-40)57-19-14-29(56-10)23(3)39(58-27(7)48)25(5)35(50)24(4)34(21)49/h11-14,19-21,23-25,29,34-35,39,49-53H,15-18H2,1-10H3,(H,45,55)/b12-11+,19-14+,22-13-,44-20+/t21-,23+,24+,25+,29-,34-,35+,39+,43-/m0/s1</inchi><inchiKey>JQXXHWHPUNPDRT-WLSIYKJHSA-N</inchiKey><charge>0</charge><mass>822.94020</mass><monoisotopicMass>822.40512</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>rifampicin</data><type>SYNONYM</type><source>UniProt</source></Synonyms><IupacNames><data>(2S,12Z,14E,16S,17S,18R,19R,20R,21S,22R,23S,24E)-21-acetoxy-6,9,17,19-tetrahydroxy-23-methoxy-2,4,12,16,18,20,22-heptamethyl-8-{(E)-[(4-methylpiperazin-4-ium-1-yl)imino]methyl}-1,11-dioxo-1,2-dihydro-2,7-(epoxypentadeca[1,11,13]trienoimino)naphtho[2,1-b]furan-5-olate</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C43H58N4O12</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  12071214202D          
+
+ 59 63  0  0  0  0            999 V2000
+    1.0895   -0.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0895   -1.3813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3395   -1.3813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3750   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5184   -1.3813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2329   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9473   -1.3813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3763   -1.3812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6618   -2.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3763   -3.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0907   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6618   -1.7938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0907   -2.6188    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.8052   -3.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5184   -0.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2329   -0.1437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9473    1.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2329    2.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5184    1.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7684   -1.3812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4829   -1.7937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4829   -2.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2329    0.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5184    1.0938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039   -0.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039    0.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3750   -0.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3750    0.6813    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3395   -0.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5530    0.2406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0539   -1.7938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3750   -2.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9583   -3.2021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0539   -2.6188    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0539   -3.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0540   -0.1437    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7684    0.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7684   -0.5562    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4829   -0.1437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1974   -0.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0540    0.6813    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7684    1.0938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3079    0.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5934    1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8070    1.8906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3395    1.0938    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0540    1.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3395    1.9188    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0540    2.3313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3750    2.3313    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3750    3.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0895    1.9188    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0895    1.0938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039    2.3313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8039    3.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9473    1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6618    0.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039   -1.7938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039   -2.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 27 29  2  0  0  0  0
+ 27  1  1  0  0  0  0
+ 29  3  1  0  0  0  0
+  4  2  1  0  0  0  0
+ 25  1  2  0  0  0  0
+  2  1  1  0  0  0  0
+  2 58  2  0  0  0  0
+ 25 15  1  0  0  0  0
+ 58  5  1  0  0  0  0
+  5 15  2  0  0  0  0
+  3 31  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 32  1  0  0  0  0
+ 32 34  1  0  0  0  0
+ 34 31  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 23 56  1  0  0  0  0
+ 56 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 54  1  0  0  0  0
+ 54 52  1  0  0  0  0
+ 52 50  1  0  0  0  0
+ 50 48  1  0  0  0  0
+ 48 46  1  0  0  0  0
+ 46 41  1  0  0  0  0
+ 41 36  1  0  0  0  0
+ 36 38  1  0  0  0  0
+ 38 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 34 22  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 32 33  2  0  0  0  0
+ 34 35  1  6  0  0  0
+ 36 37  1  6  0  0  0
+ 38 39  1  6  0  0  0
+ 39 40  1  0  0  0  0
+ 41 42  1  1  0  0  0
+ 42 44  1  0  0  0  0
+ 44 43  1  0  0  0  0
+ 44 45  2  0  0  0  0
+ 46 47  1  1  0  0  0
+ 48 49  1  6  0  0  0
+ 50 51  1  6  0  0  0
+ 52 53  1  6  0  0  0
+ 54 55  1  1  0  0  0
+ 56 57  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  CHG  2  13   1  28  -1
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>zwitterion</chebiName><chebiId>CHEBI:27369</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>rifampicin</chebiName><chebiId>CHEBI:28077</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>rifampicin</chebiName><chebiId>CHEBI:28077</chebiId><type>is tautomer of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>21-phosphorifampicin(2-)</chebiName><chebiId>CHEBI:140195</chebiId><type>has functional parent</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>O-(ADP-D-ribosyl)-rifampicin(2-)</chebiName><chebiId>CHEBI:142707</chebiId><type>has functional parent</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>rifampicin hemiaminal(2-)</chebiName><chebiId>CHEBI:142729</chebiId><type>has functional parent</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>rifampicin para-naphthoquinone carboxamide(2-)</chebiName><chebiId>CHEBI:142731</chebiId><type>has functional parent</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>rifampicin ortho-naphthoquinone carboxamide(2-)</chebiName><chebiId>CHEBI:142730</chebiId><type>has functional parent</type><status>SUBMITTED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:38167</chebiId><chebiAsciiName>physcion</chebiAsciiName><definition>A dihydroxyanthraquinone that is 9,10-anthraquinone bearing hydroxy substituents at positions 1 and 8, a methoxy group at position 3, and a methyl group at position 6. It has been widely isolated and characterised from both terrestrial and marine sources.</definition><status>CHECKED</status><smiles>C12=C(C=C(C=C2C(C=3C=C(C=C(C3C1=O)O)OC)=O)C)O</smiles><inchi>InChI=1S/C16H12O5/c1-7-3-9-13(11(17)4-7)16(20)14-10(15(9)19)5-8(21-2)6-12(14)18/h3-6,17-18H,1-2H3</inchi><inchiKey>FFWOKTFYGVYKIR-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.264</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:68791</SecondaryChEBIIds><Synonyms><data>1,8-dihydroxy-3-methoxy-6-methyl-9,10-anthracenedione</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>1,8-Dihydroxy-3-methoxy-6-methylanthraquinone</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>1,8-dihydroxy-3-methyl-6-methoxyanthraquinone</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Emodin monomethyl ether</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Parienin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>parietin</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>Physcione</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Rheochrysidin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>1,8-dihydroxy-3-methoxy-6-methylanthracene-9,10-dione</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1915778</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>1915778</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>521-61-9</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><Citations><data>16272711</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17091434</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17125234</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17397111</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17917292</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17949858</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17978503</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17978527</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>18556196</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>18612943</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19402184</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19463000</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>19505563</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20024894</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20205209</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20392467</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>20532365</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21106380</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21117944</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21253951</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21273951</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21725807</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21765390</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21840387</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>22850859</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23993502</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24071573</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25574462</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25860944</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26144377</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26707141</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26836455</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27231648</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27352350</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27490539</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27548142</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27657824</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27694907</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>27904770</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 12051611232D 1   1.00000     0.00000     0
+
+ 21 23  0     0  0            999 V2000
+    5.2646   -0.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2646   -1.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3985   -0.1255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3985   -2.1254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5326   -0.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5326   -1.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1306   -0.1255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1306   -2.1254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9967   -0.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9967   -1.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7288   -0.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7288   -1.6254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8627   -0.1255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8627   -2.1254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1306    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1306   -3.1254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3985    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8626    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5947   -2.1256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5947   -3.1256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -2.1254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0     0  0
+  4  2  2  0     0  0
+  5  3  1  0     0  0
+  6  4  1  0     0  0
+  6  5  2  0     0  0
+  1  7  1  0     0  0
+  2  8  1  0     0  0
+  2  1  1  0     0  0
+ 12 11  1  0     0  0
+ 13 11  2  0     0  0
+ 14 12  2  0     0  0
+  9 13  1  0     0  0
+ 10 14  1  0     0  0
+ 10  9  2  0     0  0
+  7  9  1  0     0  0
+  8 10  1  0     0  0
+  7 15  2  0     0  0
+  8 16  2  0     0  0
+  3 17  1  0     0  0
+ 13 18  1  0     0  0
+ 12 19  1  0     0  0
+ 19 20  1  0     0  0
+  6 21  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Ketcher 12051611232D 1   1.00000     0.00000     0
+
+ 21 23  0     0  0            999 V2000
+   16.2933    0.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1593    2.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0254    0.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0254    1.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7574    0.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7574    1.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6235    2.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4894    0.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8913    0.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8913   -0.7844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8913    2.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8913    3.2156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6235    0.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6235   -0.7844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2933    1.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1593    0.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4894    1.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3555    2.2156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1593   -0.7844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4273    2.2156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5613    1.7156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16  1  2  0     0  0
+  1 15  1  0     0  0
+ 15  2  2  0     0  0
+  2  4  1  0     0  0
+ 16  3  1  0     0  0
+  9  3  1  0     0  0
+  3  4  2  0     0  0
+  4 11  1  0     0  0
+  9  5  1  0     0  0
+ 13  5  1  0     0  0
+  5  6  2  0     0  0
+ 11  6  1  0     0  0
+  6  7  1  0     0  0
+  7 17  2  0     0  0
+ 13  8  2  0     0  0
+ 17  8  1  0     0  0
+  9 10  2  0     0  0
+ 11 12  2  0     0  0
+ 13 14  1  0     0  0
+ 15 20  1  0     0  0
+ 16 19  1  0     0  0
+ 17 18  1  0     0  0
+ 20 21  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><DatabaseLinks><data>C17045</data><type>KEGG COMPOUND accession</type></DatabaseLinks><OntologyParents><chebiName>dihydroxyanthraquinone</chebiName><chebiId>CHEBI:37484</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>apoptosis inducer</chebiName><chebiId>CHEBI:68495</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antineoplastic agent</chebiName><chebiId>CHEBI:35610</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>hepatoprotective agent</chebiName><chebiId>CHEBI:62868</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anti-inflammatory agent</chebiName><chebiId>CHEBI:67079</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antibacterial agent</chebiName><chebiId>CHEBI:33282</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antifungal agent</chebiName><chebiId>CHEBI:35718</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2-methylanthraquinone</chebiName><chebiId>CHEBI:9427</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>metabolite</chebiName><chebiId>CHEBI:25212</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>torososide B</chebiName><chebiId>CHEBI:66257</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><OntologyChildren><chebiName>physcion 8-gentiobioside</chebiName><chebiId>CHEBI:27598</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Xanthoria parietina</speciesText><speciesAccession>NCBI:txid107463</speciesAccession><SourceType>CiteXplore Id</SourceType><SourceAccession>c6158</SourceAccession></CompoundOrigins><CompoundOrigins><speciesText>Chaetomium globosum</speciesText><speciesAccession>NCBI:txid38033</speciesAccession><SourceType>PubMed Id</SourceType><SourceAccession>17125234</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

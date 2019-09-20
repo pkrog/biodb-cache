@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:93065</chebiId><chebiAsciiName>6-bromo-N-(3,4-dimethylphenyl)-3-oxo-4H-1,4-benzoxazine-7-sulfonamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>CC1=C(C=C(C=C1)NS(=O)(=O)C2=C(C=C3C(=C2)OCC(=O)N3)Br)C</smiles><inchi>InChI=1S/C16H15BrN2O4S/c1-9-3-4-11(5-10(9)2)19-24(21,22)15-7-14-13(6-12(15)17)18-16(20)8-23-14/h3-7,19H,8H2,1-2H3,(H,18,20)</inchi><inchiKey>UKDWCJDLGFLUDX-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>411.272</mass><monoisotopicMass>409.99359</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C16H15BrN2O4S</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0224162155
+null
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+   -5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+  2  3  2  0  0  0  0 
+  3  4  1  0  0  0  0 
+  4  5  2  0  0  0  0 
+  5  6  1  0  0  0  0 
+  6  7  2  0  0  0  0 
+  7  2  1  0  0  0  0 
+  5  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+  9 11  2  0  0  0  0 
+  9 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 12  1  0  0  0  0 
+ 16 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  1  0  0  0  0 
+ 20 21  2  0  0  0  0 
+ 20 22  1  0  0  0  0 
+ 22 15  1  0  0  0  0 
+ 13 23  1  0  0  0  0 
+  3 24  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-3356</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>benzoxazine</chebiName><chebiId>CHEBI:46969</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:69196</chebiId><chebiAsciiName>brazilein</chebiAsciiName><definition>A organic heterotetracyclic compound that is a red pigment obtained from the wood of Caesalpinia echinata (Brazil-wood) or Caesalpinia sappan (sappan-wood).</definition><status>CHECKED</status><smiles>C=12C(=CC(O)=CC1)OC[C@]3(C2=C4C(C3)=CC(=O)C(=C4)O)O</smiles><inchi>InChI=1S/C16H12O5/c17-9-1-2-10-14(4-9)21-7-16(20)6-8-3-12(18)13(19)5-11(8)15(10)16/h1-5,17,19-20H,6-7H2/t16-/m1/s1</inchi><inchiKey>MLWIYODOURBGPI-MRXNPFEDSA-N</inchiKey><charge>0</charge><mass>284.264</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>(6aS)-3,6a,10-trihydroxy-6a,7-dihydrobenzo[b]indeno[1,2-d]pyran-9(6H)-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>8071909</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>16319518</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>16428078</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>17504570</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23554834</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23657435</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23707804</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>23948132</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24050687</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24703330</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25233024</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25275506</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>25893688</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>26254246</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Ketcher 09241517002D 1   1.00000     0.00000     0
+
+ 21 24  0     1  0            999 V2000
+   12.5108   -5.8802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3733   -6.3781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3733   -7.3739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5108   -7.8718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6484   -7.3739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6484   -6.3781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7014   -7.6816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5108   -4.8844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2356   -5.8802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3733   -4.3865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2356   -4.8844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0980   -4.3865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6140   -6.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1161   -6.8760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1161   -5.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1203   -6.8760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1203   -5.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6224   -6.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6224   -4.2889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6266   -6.0136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6484   -8.3697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  9  2  0     0  0
+  1  2  1  0     0  0
+  1  8  2  0     0  0
+  6  1  1  0     0  0
+  6 13  2  0     0  0
+  6  5  1  0     0  0
+  5  7  1  0     0  0
+  5 21  1  1     0  0
+  5  4  1  0     0  0
+  4  3  1  0     0  0
+  2  3  1  0     0  0
+  8 10  1  0     0  0
+  9 11  1  0     0  0
+ 11 12  1  0     0  0
+ 14  7  1  0     0  0
+ 10 11  2  0     0  0
+ 13 14  1  0     0  0
+ 13 15  1  0     0  0
+ 14 16  2  0     0  0
+ 15 17  2  0     0  0
+ 16 18  1  0     0  0
+ 17 19  1  0     0  0
+ 18 20  2  0     0  0
+ 17 18  1  0     0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>organic heterotetracyclic compound</chebiName><chebiId>CHEBI:38163</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tertiary alcohol</chebiName><chebiId>CHEBI:26878</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>phenols</chebiName><chebiId>CHEBI:33853</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>enol</chebiName><chebiId>CHEBI:33823</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>quinomethanes</chebiName><chebiId>CHEBI:52404</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>histological dye</chebiName><chebiId>CHEBI:77178</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>biological pigment</chebiName><chebiId>CHEBI:26130</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>immunosuppressive agent</chebiName><chebiId>CHEBI:35705</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anti-inflammatory agent</chebiName><chebiId>CHEBI:67079</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antibacterial agent</chebiName><chebiId>CHEBI:33282</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antineoplastic agent</chebiName><chebiId>CHEBI:35610</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>antioxidant</chebiName><chebiId>CHEBI:22586</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 1.14.18.1 (tyrosinase) inhibitor</chebiName><chebiId>CHEBI:59997</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 3.4.24.24 (gelatinase A) inhibitor</chebiName><chebiId>CHEBI:84036</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor</chebiName><chebiId>CHEBI:63510</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><GeneralComments><text>Suggested Classification:  ISA:aromatic ether(CHEBI:35618); ISA:phenols(CHEBI:33853); ISA:enol ether(CHEBI:47985); ISA:enone(CHEBI:51689); ISA:tertiary alcohol(CHEBI:26878); ISA:polyol(CHEBI:26191); ISA:cyclic ketone(CHEBI:3992); ISA:enol(CHEBI:33823); ISA:aromatic alcohol(CHEBI:33854);</text><date>2014-10-17</date></GeneralComments><CompoundOrigins><speciesText>Caesalpinia sappan</speciesText><speciesAccession>NCBI:txid483143</speciesAccession><componentText>heartwood</componentText><componentAccession>PO:0004512</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21800859</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

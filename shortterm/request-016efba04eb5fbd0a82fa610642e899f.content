@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:6702</chebiId><chebiAsciiName>Mazindol</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1=CC=C2C(=C1)C=3N(C2(C=4C=CC(=CC4)Cl)O)CCN3</smiles><inchi>InChI=1S/C16H13ClN2O/c17-12-7-5-11(6-8-12)16(20)14-4-2-1-3-13(14)15-18-9-10-19(15)16/h1-8,20H,9-10H2</inchi><inchiKey>ZPXSCAKFGYXMGA-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.741</mass><monoisotopicMass>284.07164</monoisotopicMass><entityStar>2</entityStar><Synonyms><data>mazanor</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>mazildene</data><type>SYNONYM</type><source>DrugCentral</source></Synonyms><Synonyms><data>Mazindol</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>SANOREX (TN)</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Formulae><data>C16H13ClN2O</data><source>KEGG COMPOUND</source></Formulae><Formulae><data>C16H13ClN2O</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>22232-71-9</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><ChemicalStructures><structure>mazindol
+  CDK     0222171954
+
+ 20 23  0  0  0  0  0  0  0  0999 V2000
+   -1.1491    0.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9741    0.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3866   -0.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9741   -1.0975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1491   -1.0975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7366   -0.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2290   -1.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5616   -2.3670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8942   -1.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3067   -3.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4817   -3.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2268   -2.3671    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0137   -2.1370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6268   -1.5850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4114   -1.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5830   -2.6469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9699   -3.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1852   -2.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3676   -2.9018    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8124   -1.2987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  1  6  1  0  0  0  0 
+  7  8  1  0  0  0  0 
+  8  9  1  0  0  0  0 
+  7  4  1  0  0  0  0 
+  5  9  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+  8 10  1  0  0  0  0 
+  9 12  2  0  0  0  0 
+  7 13  1  0  0  0  0 
+ 14 15  2  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 17 18  1  0  0  0  0 
+ 13 14  1  0  0  0  0 
+ 13 18  2  0  0  0  0 
+ 16 19  1  0  0  0  0 
+  7 20  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>1640</data><type>Drug Central accession</type></DatabaseLinks><DatabaseLinks><data>D00367</data><type>KEGG DRUG accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0014718</data><type>HMDB accession</type></DatabaseLinks><OntologyParents><chebiName>organic molecular entity</chebiName><chebiId>CHEBI:50860</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

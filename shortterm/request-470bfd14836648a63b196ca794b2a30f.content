@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:69531</chebiId><chebiAsciiName>rubianthraquinone</chebiAsciiName><definition>A member of the class of hydroxyanthraquinones that is anthracene-9,10-dione substituted by hydroxy groups at positions 3 and 6, a methoxy group at position 1 and a methyl group at position 2. It has been isolated from the roots of Rubia yunnanensis.</definition><status>CHECKED</status><smiles>COc1c(C)c(O)cc2C(=O)c3cc(O)ccc3C(=O)c12</smiles><inchi>InChI=1S/C16H12O5/c1-7-12(18)6-11-13(16(7)21-2)15(20)9-4-3-8(17)5-10(9)14(11)19/h3-6,17-18H,1-2H3</inchi><inchiKey>FDRWSVGPMGRFGX-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><IupacNames><data>3,6-dihydroxy-1-methoxy-2-methylanthracene-9,10-dione</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>9422642</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>12808242</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>21973054</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Mrv0541 01091415352D          
+
+ 21 23  0  0  0  0            999 V2000
+    6.2236    0.8584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2224    0.0310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9372   -0.3819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9354    1.2711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6508    0.8620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6496    0.0335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3626   -0.3794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3649    1.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0824    0.8600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0808    0.0352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7931   -0.3769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5076    0.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5053    0.8627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7924    1.2710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3649    2.1025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3620   -1.2044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5076   -0.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2225   -0.3771    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9330    2.0961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6462    2.5108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5090    1.2707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  3  6  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14  9  1  0  0  0  0
+  1  2  2  0  0  0  0
+  8 15  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 16  2  0  0  0  0
+  6  7  1  0  0  0  0
+  2 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 12 18  1  0  0  0  0
+  9  8  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  4  2  0  0  0  0
+ 19 20  1  0  0  0  0
+  4  1  1  0  0  0  0
+  1 21  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>aromatic ether</chebiName><chebiId>CHEBI:35618</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>dihydroxyanthraquinone</chebiName><chebiId>CHEBI:37484</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><CompoundOrigins><speciesText>Rubia yunnanensis</speciesText><speciesAccession>IPNI:765385-1</speciesAccession><componentText>root</componentText><componentAccession>BTO:0001188</componentAccession><SourceType>PubMed Id</SourceType><SourceAccession>21973054</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

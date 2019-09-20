@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:64679</chebiId><chebiAsciiName>O-(alpha-D-mannose-1-phosphoryl)-L-serine</chebiAsciiName><definition>A mannose phosphate in which in which the phosphate group of alpha-D-mannose 1-phosphate is esterified by the alcoholic hydroxy group of L-serine.</definition><status>CHECKED</status><smiles>N[C@@H](COP(O)(=O)O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O)C(O)=O</smiles><inchi>InChI=1S/C9H18NO11P/c10-3(8(15)16)2-19-22(17,18)21-9-7(14)6(13)5(12)4(1-11)20-9/h3-7,9,11-14H,1-2,10H2,(H,15,16)(H,17,18)/t3-,4+,5+,6-,7-,9+/m0/s1</inchi><inchiKey>JTBRVTASGISCGJ-RHNOWPELSA-N</inchiKey><charge>0</charge><mass>347.21310</mass><monoisotopicMass>347.06175</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>O-(alpha-D-mannosyl-1-phosphoryl)-L-serine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>O(3)-(D-mannose-1-phosphoryl)-L-serine</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>O(3)-L-serine alpha-D-mannopyranose 1-phosphodiester</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>1-O-{[(2S)-2-amino-2-carboxyethoxy](hydroxy)phosphoryl}-D-mannopyranose</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C9H18NO11P</data><source>ChEBI</source></Formulae><ChemicalStructures><structure>
+  Marvin  05241214112D          
+
+ 22 22  0  0  1  0            999 V2000
+   10.3784   -5.6183    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.6640   -5.2059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3784   -6.4432    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.6640   -6.8559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.9496   -6.4432    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.9496   -5.6183    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.0930   -6.8559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6640   -7.6809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2352   -6.8559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2352   -5.2059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5205   -5.6183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0928   -5.2059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0928   -3.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8074   -3.9684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0928   -4.3809    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3784   -3.9684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9550   -4.3879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2349   -3.9723    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.9571   -5.2105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2282   -3.1472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6676   -3.9723    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5215   -4.3816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  6  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  7  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  6  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 13  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 17  2  0  0  0  0
+ 21 17  1  0  0  0  0
+ 18 20  1  6  0  0  0
+ 22 18  1  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><OntologyParents><chebiName>O-phosphoamino acid</chebiName><chebiId>CHEBI:21968</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>mannose phosphate</chebiName><chebiId>CHEBI:21060</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>L-serine derivative</chebiName><chebiId>CHEBI:84135</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>O-(alpha-D-mannose-1-phosphoryl)-L-serine residue</chebiName><chebiId>CHEBI:64639</chebiId><type>is substituent group from</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

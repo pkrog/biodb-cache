@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:15939</chebiId><chebiAsciiName>glycyrrhizinic acid</chebiAsciiName><definition>A  triterpenoid saponin that is the  glucosiduronide derivative of 3beta-hydroxy-11-oxoolean-12-en-30-oic acid.</definition><status>CHECKED</status><smiles>[H][C@@]12C[C@](C)(CC[C@]1(C)CC[C@]1(C)C2=CC(=O)[C@]2([H])[C@@]3(C)CC[C@H](O[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O)C(O)=O)C(O)=O)C(C)(C)[C@]3([H])CC[C@@]12C)C(O)=O</smiles><inchi>InChI=1S/C42H62O16/c1-37(2)21-8-11-42(7)31(20(43)16-18-19-17-39(4,36(53)54)13-12-38(19,3)14-15-41(18,42)6)40(21,5)10-9-22(37)55-35-30(26(47)25(46)29(57-35)33(51)52)58-34-27(48)23(44)24(45)28(56-34)32(49)50/h16,19,21-31,34-35,44-48H,8-15,17H2,1-7H3,(H,49,50)(H,51,52)(H,53,54)/t19-,21-,22-,23-,24-,25-,26-,27+,28-,29-,30+,31+,34-,35-,38+,39-,40-,41+,42+/m0/s1</inchi><inchiKey>LPLVUJXQOOQHMX-QWBHMCJMSA-N</inchiKey><charge>0</charge><mass>822.93210</mass><monoisotopicMass>822.40379</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:5508</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:24418</SecondaryChEBIIds><Synonyms><data>(3beta,20beta)-20-carboxy-11-oxo-30-norolean-12-en-3-yl-2-O-beta-D-glucopyranuronosyl-alpha-D-glucopyranosiduronic acid</data><type>SYNONYM</type><source>ChemIDplus</source></Synonyms><Synonyms><data>Glycyrrhizic acid</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>glycyrrhizic acid</data><type>SYNONYM</type><source>UniProt</source></Synonyms><Synonyms><data>Glycyrrhizin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><IupacNames><data>30-hydroxy-11,30-dioxoolean-12-en-3beta-yl (2-O-beta-D-glucopyranosyluronic acid)-alpha-D-glucopyranosiduronic acid</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C42H62O16</data><source>KEGG COMPOUND</source></Formulae><RegistryNumbers><data>1405-86-3</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><RegistryNumbers><data>1405-86-3</data><type>CAS Registry Number</type><source>ChemIDplus</source></RegistryNumbers><RegistryNumbers><data>77922</data><type>Beilstein Registry Number</type><source>Beilstein</source></RegistryNumbers><RegistryNumbers><data>77922</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><Citations><data>11282481</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>15013279</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>24497916</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>ChEBI
+
+
+ 61 67  0  0  1  0  0  0  0  0 31 V2000
+   15.4395  -23.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2895  -24.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2895  -25.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4395  -26.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5895  -25.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8132  -26.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9631  -25.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9631  -24.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8132  -23.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5895  -24.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8132  -22.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9631  -21.5597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1868  -22.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1868  -23.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3368  -24.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4868  -23.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4868  -22.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3368  -21.5597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3368  -20.2328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4868  -19.5694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7105  -20.2328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7105  -21.5597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5991  -27.3096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1767  -27.2948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5895  -22.8866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9767  -22.9603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2004  -24.9359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5015  -20.8963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7054  -18.4931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2682  -18.5079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5895  -26.6166    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8132  -24.6263    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3368  -22.6360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6480  -17.2267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4340  -18.3667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6693  -21.6220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1100  -26.2073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9582  -26.8724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8064  -26.2074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9582  -28.2024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6545  -26.8725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8064  -28.8674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6546  -28.2024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8063  -24.8774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5027  -26.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5028  -28.8675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8064  -30.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6546  -30.8624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8063  -23.5474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6544  -22.8824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9581  -22.8823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6544  -21.5524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9580  -21.5523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8062  -20.8874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5026  -23.5474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5026  -20.8874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8062  -19.5574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1098  -20.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1098  -19.5573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9643  -30.6113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0494  -21.6793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 25  1  1  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  0  0  0  0
+  5 31  1  6  0  0  0
+  2  1  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 23  1  6  0  0  0
+  4 24  1  1  0  0  0
+  3  2  1  0  0  0  0
+ 11  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 32  1  6  0  0  0
+  7  8  1  0  0  0  0
+ 14  8  1  0  0  0  0
+  8 26  1  1  0  0  0
+  7  6  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 27  1  6  0  0  0
+ 18 13  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 33  1  1  0  0  0
+ 22 17  1  0  0  0  0
+ 17 28  1  1  0  0  0
+ 20 19  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 20 30  1  1  0  0  0
+ 20 29  1  6  0  0  0
+ 21 22  1  0  0  0  0
+ 34 30  2  0  0  0  0
+ 35 30  1  0  0  0  0
+ 36 11  2  0  0  0  0
+  3 37  1  1  0  0  0
+ 38 39  1  0  0  0  0
+ 38 40  1  0  0  0  0
+ 39 41  1  0  0  0  0
+ 40 42  1  0  0  0  0
+ 41 43  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 38 37  1  1  0  0  0
+ 39 44  1  1  0  0  0
+ 41 45  1  6  0  0  0
+ 43 46  1  1  0  0  0
+ 42 47  1  6  0  0  0
+ 48 47  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 49 51  1  0  0  0  0
+ 50 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 52 54  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 49 44  1  1  0  0  0
+ 50 55  1  6  0  0  0
+ 52 56  1  1  0  0  0
+ 54 57  1  6  0  0  0
+ 53 58  1  1  0  0  0
+ 59 58  1  0  0  0  0
+ 60 47  2  0  0  0  0
+ 61 58  2  0  0  0  0
+M  ZZC   1 1
+M  ZZC   2 2
+M  ZZC   3 3
+M  ZZC   4 4
+M  ZZC   5 5
+M  ZZC   6 6
+M  ZZC   7 7
+M  ZZC   8 8
+M  ZZC   9 9
+M  ZZC  10 10
+M  ZZC  11 11
+M  ZZC  12 12
+M  ZZC  13 13
+M  ZZC  14 14
+M  ZZC  15 15
+M  ZZC  16 16
+M  ZZC  17 17
+M  ZZC  18 18
+M  ZZC  19 19
+M  ZZC  20 20
+M  ZZC  21 21
+M  ZZC  22 22
+M  ZZC  23 23
+M  ZZC  24 24
+M  ZZC  25 25
+M  ZZC  26 26
+M  ZZC  27 27
+M  ZZC  28 28
+M  ZZC  29 29
+M  ZZC  30 30
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>1325</data><type>Drug Central accession</type></DatabaseLinks><DatabaseLinks><data>C02284</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>Glycyrrhizin</data><type>Wikipedia accession</type></DatabaseLinks><DatabaseLinks><data>GLYCYRRHIZINATE</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0029843</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>LMPR0106150013</data><type>LIPID MAPS instance accession</type></DatabaseLinks><OntologyParents><chebiName>pentacyclic triterpenoid</chebiName><chebiId>CHEBI:25872</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>triterpenoid saponin</chebiName><chebiId>CHEBI:61778</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>EC 3.4.21.5 (thrombin) inhibitor</chebiName><chebiId>CHEBI:65232</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>plant metabolite</chebiName><chebiId>CHEBI:76924</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>enone</chebiName><chebiId>CHEBI:51689</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>tricarboxylic acid</chebiName><chebiId>CHEBI:27093</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>glucosiduronic acid</chebiName><chebiId>CHEBI:24302</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>glycyrrhizinate(3-)</chebiName><chebiId>CHEBI:29807</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>glycyrrhizinate(3-)</chebiName><chebiId>CHEBI:29807</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren><CompoundOrigins><speciesText>Glycyrrhiza</speciesText><speciesAccession>NCBI:txid46347</speciesAccession><SourceType>DOI</SourceType><SourceAccession>10.1021/np100371k</SourceAccession></CompoundOrigins></return></getCompleteEntityResponse></S:Body></S:Envelope>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:17678</chebiId><chebiAsciiName>2'-hydroxyformononetin</chebiAsciiName><definition>A member of the class of 4'-methoxyisoflavones that is formononetin with a hydroxy group at the 2'position.</definition><status>CHECKED</status><smiles>COc1ccc(c(O)c1)-c1coc2cc(O)ccc2c1=O</smiles><inchi>InChI=1S/C16H12O5/c1-20-10-3-5-11(14(18)7-10)13-8-21-15-6-9(17)2-4-12(15)16(13)19/h2-8,17-18H,1H3</inchi><inchiKey>XKHHKXCBFHUOHM-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>284.26350</mass><monoisotopicMass>284.06847</monoisotopicMass><entityStar>3</entityStar><SecondaryChEBIIds>CHEBI:19268</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:11401</SecondaryChEBIIds><SecondaryChEBIIds>CHEBI:843</SecondaryChEBIIds><Synonyms><data>2'-Hydroformononetin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>2'-Hydroxyformononetin</data><type>SYNONYM</type><source>KEGG COMPOUND</source></Synonyms><Synonyms><data>Xenognosin B</data><type>SYNONYM</type><source>LIPID MAPS</source></Synonyms><IupacNames><data>7-hydroxy-3-(2-hydroxy-4-methoxyphenyl)-4H-chromen-4-one</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C16H12O5</data><source>ChEBI</source></Formulae><RegistryNumbers><data>1292487</data><type>Reaxys Registry Number</type><source>Reaxys</source></RegistryNumbers><RegistryNumbers><data>1890-99-9</data><type>CAS Registry Number</type><source>KEGG COMPOUND</source></RegistryNumbers><Citations><data>1912490</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>1915347</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>2306102</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>9525107</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>9790908</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>IND93034681</data><type>Agricola citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>ChEBI
+  Marvin  09251214582D          
+
+ 21 23  0  0  0  0            999 V2000
+    4.6483   -2.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3579   -1.8584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6533   -3.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3781   -3.5482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0977   -3.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0826   -2.2525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8798   -1.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9677   -3.5778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2430   -3.1837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2040   -2.3659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3832   -4.3760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4573   -1.9599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8444   -3.5203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8494   -4.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5520   -3.1084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5740   -4.7423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2767   -3.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2818   -4.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1298   -4.7821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0064   -4.7245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7261   -4.2906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  7  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  8  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+ 11  4  2  0  0  0  0
+  6  5  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 13  1  0  0  0  0
+ 16 14  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 17 15  2  0  0  0  0
+ 18 16  2  0  0  0  0
+ 18 17  1  0  0  0  0
+ 20 18  1  0  0  0  0
+ 21 20  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>2-HYDROXYFORMONONETIN</data><type>MetaCyc accession</type></DatabaseLinks><DatabaseLinks><data>C00000257</data><type>KNApSAcK accession</type></DatabaseLinks><DatabaseLinks><data>C02920</data><type>KEGG COMPOUND accession</type></DatabaseLinks><DatabaseLinks><data>HMDB0031720</data><type>HMDB accession</type></DatabaseLinks><DatabaseLinks><data>LMPK12050081</data><type>LIPID MAPS instance accession</type></DatabaseLinks><OntologyParents><chebiName>2'-hydroxyformononetin(1-)</chebiName><chebiId>CHEBI:77687</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyParents><chebiName>4'-methoxyisoflavones</chebiName><chebiId>CHEBI:133959</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>formononetin</chebiName><chebiId>CHEBI:18088</chebiId><type>has functional parent</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>anti-inflammatory agent</chebiName><chebiId>CHEBI:67079</chebiId><type>has role</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>7-hydroxyisoflavones</chebiName><chebiId>CHEBI:55465</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2'-hydroxyformononetin(1-)</chebiName><chebiId>CHEBI:77687</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>

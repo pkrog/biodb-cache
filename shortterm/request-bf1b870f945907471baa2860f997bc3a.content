@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:120570</chebiId><chebiAsciiName>2-(2,5-dioxo-4-imidazolidinyl)-N-(1-naphthalenyl)acetamide</chebiAsciiName><definition></definition><status>OK - Preliminary</status><smiles>C1=CC=C2C(=C1)C=CC=C2NC(=O)CC3C(=O)NC(=O)N3</smiles><inchi>InChI=1S/C15H13N3O3/c19-13(8-12-14(20)18-15(21)17-12)16-11-7-3-5-9-4-1-2-6-10(9)11/h1-7,12H,8H2,(H,16,19)(H2,17,18,20,21)</inchi><inchiKey>TYLHRPBDFWODNS-UHFFFAOYSA-N</inchiKey><charge>0</charge><mass>283.283</mass><monoisotopicMass>283.09569</monoisotopicMass><entityStar>2</entityStar><Formulae><data>C15H13N3O3</data><source>LINCS</source></Formulae><ChemicalStructures><structure>null
+  CDK     0225161908
+null
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6116   -3.7894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7831   -2.9825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1636   -4.4025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7511   -5.1170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0866   -5.8707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9441   -4.9455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0 
+  2  3  1  0  0  0  0 
+  3  4  2  0  0  0  0 
+  4  5  1  0  0  0  0 
+  5  6  2  0  0  0  0 
+  6  1  1  0  0  0  0 
+  5  7  1  0  0  0  0 
+  7  8  2  0  0  0  0 
+  8  9  1  0  0  0  0 
+  9 10  2  0  0  0  0 
+ 10  4  1  0  0  0  0 
+ 10 11  1  0  0  0  0 
+ 11 12  1  0  0  0  0 
+ 12 13  2  0  0  0  0 
+ 12 14  1  0  0  0  0 
+ 14 15  1  0  0  0  0 
+ 15 16  1  0  0  0  0 
+ 16 17  2  0  0  0  0 
+ 16 18  1  0  0  0  0 
+ 18 19  1  0  0  0  0 
+ 19 20  2  0  0  0  0 
+ 19 21  1  0  0  0  0 
+ 21 15  1  0  0  0  0 
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><DatabaseLinks><data>LSM-32013</data><type>LINCS accession</type></DatabaseLinks><OntologyParents><chebiName>imidazolidine-2,4-dione</chebiName><chebiId>CHEBI:24628</chebiId><type>is a</type><status>OK</status><cyclicRelationship>false</cyclicRelationship></OntologyParents></return></getCompleteEntityResponse></S:Body></S:Envelope>

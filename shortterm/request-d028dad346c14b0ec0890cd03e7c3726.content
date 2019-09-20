@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><getCompleteEntityResponse xmlns="https://www.ebi.ac.uk/webservices/chebi"><return><chebiId>CHEBI:63211</chebiId><chebiAsciiName>2-hydroxy-dAMP</chebiAsciiName><definition>A purine 2'-deoxyribonucleoside 5'-monophosphate in which the purine moiety is 2-hydroxyadenine.</definition><status>CHECKED</status><smiles>Nc1nc(=O)[nH]c2n(cnc12)[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1</smiles><inchi>InChI=1S/C10H14N5O7P/c11-8-7-9(14-10(17)13-8)15(3-12-7)6-1-4(16)5(22-6)2-21-23(18,19)20/h3-6,16H,1-2H2,(H2,18,19,20)(H3,11,13,14,17)/t4-,5+,6+/m0/s1</inchi><inchiKey>GEQDRKVFKBSPSW-KVQBGUIXSA-N</inchiKey><charge>0</charge><mass>347.22120</mass><monoisotopicMass>347.06308</monoisotopicMass><entityStar>3</entityStar><Synonyms><data>2'-deoxy-2-hydroxyadenosine 5'-(dihydrogen phosphate)</data><type>SYNONYM</type><source>IUPAC</source></Synonyms><Synonyms><data>2'-deoxyisoguanosine monophosphate</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>2-HO-dAMP</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><Synonyms><data>2-OH-dAMP</data><type>SYNONYM</type><source>ChEBI</source></Synonyms><IupacNames><data>2'-deoxy-2-oxo-3-hydroadenosine 5'-(dihydrogen phosphate)</data><type>IUPAC NAME</type><source>IUPAC</source></IupacNames><Formulae><data>C10H14N5O7P</data><source>ChEBI</source></Formulae><Citations><data>10373420</data><type>PubMed citation</type><source>Europe PMC</source></Citations><Citations><data>11756418</data><type>PubMed citation</type><source>Europe PMC</source></Citations><ChemicalStructures><structure>
+  Marvin  11171116052D          
+
+ 23 25  0  0  1  0            999 V2000
+   18.3902   -3.8136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3902   -4.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6757   -5.0511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6756   -5.8761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3901   -6.2886    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1046   -5.8761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1046   -5.0511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8892   -4.7962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3742   -5.4637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8892   -6.1311    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1442   -6.9159    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   19.6592   -7.5832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1441   -8.2508    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   20.9287   -7.9958    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   21.5962   -8.4808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9288   -7.1708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0641   -9.0354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3496  -10.2729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3496   -9.4479    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3496   -8.6229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6352   -9.0354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8891   -9.0354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9611   -6.2886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 22  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 14 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 22 17  1  0  0  0  0
+  4 23  2  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>true</defaultStructure></ChemicalStructures><ChemicalStructures><structure>
+  Marvin  11171116042D          
+
+ 23 25  0  0  1  0            999 V2000
+    6.8600   -4.5988    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8600   -5.4238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1456   -5.8363    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1454   -6.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8600   -7.0738    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5744   -6.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5744   -5.8363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3590   -5.5815    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8441   -6.2490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3590   -6.9164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6141   -7.7012    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.1290   -8.3685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6139   -9.0360    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.3985   -8.7810    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.0661   -9.2661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3987   -7.9560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5340   -9.8207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8195  -11.0582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8195  -10.2332    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8195   -9.4082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1051   -9.8207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3590   -9.8207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4310   -7.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 22  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 14 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 22 17  1  0  0  0  0
+  4 23  1  0  0  0  0
+M  END
+</structure><type>mol</type><dimension>2D</dimension><defaultStructure>false</defaultStructure></ChemicalStructures><OntologyParents><chebiName>purine 2'-deoxyribonucleoside 5'-monophosphate</chebiName><chebiId>CHEBI:36993</chebiId><type>is a</type><status>CHECKED</status><cyclicRelationship>false</cyclicRelationship></OntologyParents><OntologyParents><chebiName>2-hydroxy-dAMP(2-)</chebiName><chebiId>CHEBI:63212</chebiId><type>is conjugate acid of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyParents><OntologyChildren><chebiName>2-hydroxy-dAMP(2-)</chebiName><chebiId>CHEBI:63212</chebiId><type>is conjugate base of</type><status>CHECKED</status><cyclicRelationship>true</cyclicRelationship></OntologyChildren></return></getCompleteEntityResponse></S:Body></S:Envelope>
